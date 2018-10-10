@@ -1,0 +1,62 @@
+host开始发快照 m_dwSnapFrame = 102769 m_dwCurHostTurn=25735 m_szMD5=2afc321a4fc1dc6039566411a73edf43 time=10-07 22:20:45
+已经收到快照m_dwSnapDataSize=10232 dwStartPos=0 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=20464 dwStartPos=10232 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=30696 dwStartPos=20464 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=40928 dwStartPos=30696 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=51160 dwStartPos=40928 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=61392 dwStartPos=51160 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=71624 dwStartPos=61392 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=81856 dwStartPos=71624 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=92088 dwStartPos=81856 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=102320 dwStartPos=92088 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=112552 dwStartPos=102320 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=122784 dwStartPos=112552 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=133016 dwStartPos=122784 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=143248 dwStartPos=133016 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=153480 dwStartPos=143248 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=163712 dwStartPos=153480 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=173944 dwStartPos=163712 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=184176 dwStartPos=173944 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=194408 dwStartPos=184176 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=204640 dwStartPos=194408 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=214872 dwStartPos=204640 time=10-07 22:20:46
+已经收到快照m_dwSnapDataSize=225104 dwStartPos=214872 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=235336 dwStartPos=225104 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=245568 dwStartPos=235336 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=255800 dwStartPos=245568 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=266032 dwStartPos=255800 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=276264 dwStartPos=266032 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=286496 dwStartPos=276264 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=296728 dwStartPos=286496 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=306960 dwStartPos=296728 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=317192 dwStartPos=306960 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=327424 dwStartPos=317192 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=337656 dwStartPos=327424 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=347888 dwStartPos=337656 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=358120 dwStartPos=347888 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=368352 dwStartPos=358120 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=378584 dwStartPos=368352 time=10-07 22:20:49
+已经收到快照m_dwSnapDataSize=380043 dwStartPos=378584 time=10-07 22:20:49
+收到CMD_H2C_SEND_SNAP_OK time=10-07 22:20:49
+从ReadyGame 调用 LoadSnap 
+md5相同=2afc321a4fc1dc6039566411a73edf43  tim=10-07 22:20:55
+
+ m_Snap.m_dwSnapDataSize =380043 leftlen=380043 dwLoadFrame=102769
+ 快照源usid=121521743 ctrid=16积分长度2
+player info 长度3514， 剩余长度=2816,dwUserID=109175625
+player info ex 长度2816
+
+解压 前 SnapDataSize=373703, cmdcnt=175, leftlen=373703  ime=10-07 22:20:55
+
+解压前 SnapDataSize=373703, 解压后size=2903593 snap,time=10-07 22:20:55
+ 0
+1 
+2
+3 
+客户端收到的recvturn=25884 大于等于当前快照turn=25692 time=10-07 22:20:55
+4 
+recv ok  LoadSnapOK OK, setrecvturn=25692, setfram=102769, CmdCnt=175, time=10-07 22:20:55
+从ReadyGame 调用 LoadSnap 结束 3015
+恢复快照时，追赶前信息：25735/25884/25692
+收到 _READY_ACK time=10-07 22:20:58
+恢复快照时，追赶后信息：25735/26001/25989，耗时 4672

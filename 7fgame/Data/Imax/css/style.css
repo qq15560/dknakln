@@ -1,0 +1,19 @@
+@charset "utf-8";
+html{overflow:hidden;}
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,a,code,em,img,q,small,strong,dd,dl,dt,li,ol,ul,fieldset,form,label,table,tbody,tr,th,td,input{margin:0;padding:0;}
+li{list-style-type:none;}
+a,a:link,a:visited,a:active{text-decoration:none;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.pagewrap{ width:502px; height:225px; padding:3px 3px 0 3px; overflow:hidden;}
+.showbox{ height:218px; width:500px; overflow:hidden; padding-bottom:2px; background:url(../images/showbg.jpg) 0 0 no-repeat; font-family:"\5B8B\4F53"; font-size:12px;}
+.tle{ height:48px;}
+.tle .btn-in{ float:left; width:142px; height:100%; background:url(../images/btn_in.gif) 0 0 no-repeat;}
+.cont{ width:367px; height:103px; margin:55px auto 0; background:url(../images/boxbg2.jpg) 0 0 no-repeat;}
+.rollBox{width:367px;height:103px; position:relative;}
+.rollBox .leftBotton{background:url(../images/bt_10.png) no-repeat;	position:absolute;width:9px;height:15px;top:45px;left:7px;cursor:pointer;z-index:9999;zoom:1; background-color:red;}
+.rollBox .rightBotton{background:url(../images/bt_12.png) no-repeat;position:absolute;width:9px;height:15px;top:45px;right:7px;cursor:pointer;z-index:9999;}
+.rollBox .Cont{width:367px;overflow:hidden;float:left; position:absolute; z-index:1;}
+.rollBox .ScrCont{width:10000000px;}
+.rollBox .Cont .pic{width:367px;float:left;text-align:center;}
+.rollBox .Cont .pic img{display:block; border:0;}
+.rollBox #List1,.rollBox #List2{float:left;}

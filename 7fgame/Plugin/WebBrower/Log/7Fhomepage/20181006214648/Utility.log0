@@ -1,0 +1,5 @@
+10/06/18 21:46:48:087 [13464] UNKNOWN Utility - Log4cplusWrapper.h(6996) LOG4CPLUS_MAKE_VERSION_STR:1.1.3 
+10/06/18 21:46:48:087 [13464] UNKNOWN Utility - Log4cplusWrapper.h(6997) log4cplus PropertyConfigurator::doConfigure...., Log Config File:D:\起凡\7fgame\plugin\WebBrower\Log\7Fhomepage\20181006214648\Utility.log4cplus0 
+10/06/18 21:46:48:087 [13464] UNKNOWN Utility - dllmain.cpp(160) 初始化日志模块 
+10/06/18 21:46:48:088 [13464] UNKNOWN Utility - dllmain.cpp(165) 版本号:1.0.0.9, 版本创建时间:2018/9/11 20:22:2, 编译日期:Apr 26 2018, 编译时间:16:14:22 
+10/06/18 22:27:47:152 [13464] UNKNOWN Utility - dllmain.cpp(173) 关闭日志模块 

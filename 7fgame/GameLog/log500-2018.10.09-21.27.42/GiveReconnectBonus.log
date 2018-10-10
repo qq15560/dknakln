@@ -1,0 +1,20 @@
+33113, ================================================================
+33113,  p_control_id = 4
+33113,  gold_bonus = 7993 Gold_Give_Rate = 100
+33113,  reconnect_chest_bonus = 3997 Reconnect_Chest_Value_Factor = 50
+33113,  G_Tab.PLAYER[4].resource.gold = 9024
+37170, ================================================================
+37170,  p_control_id = 4
+37170,  gold_bonus = 2152 Gold_Give_Rate = 100
+37170,  reconnect_chest_bonus = 1076 Reconnect_Chest_Value_Factor = 50
+37170,  G_Tab.PLAYER[4].resource.gold = 11178
+97677, ================================================================
+97677,  p_control_id = 12
+97677,  gold_bonus = 41487 Gold_Give_Rate = 100
+97677,  reconnect_chest_bonus = 20744 Reconnect_Chest_Value_Factor = 50
+97677,  G_Tab.PLAYER[12].resource.gold = 42463
+97704, ================================================================
+97704,  p_control_id = 12
+97704,  gold_bonus = 154 Gold_Give_Rate = 100
+97704,  reconnect_chest_bonus = 77 Reconnect_Chest_Value_Factor = 50
+97704,  G_Tab.PLAYER[12].resource.gold = 42617

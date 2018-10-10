@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeroList>
+  <Hero id="0">
+  	<HeroName>default</HeroName> 
+  	<FileName>default_16x16.bmp</FileName>
+  </Hero>
+  <Hero id="7">
+  	<HeroName>吕布</HeroName> 
+  	<FileName>lvbu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="8">
+  	<HeroName>貂蝉</HeroName> 
+  	<FileName>diaochan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="10">
+  	<HeroName>张飞</HeroName> 
+  	<FileName>zhangfei_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="11">
+	<HeroName>诸葛亮</HeroName> 
+  	<FileName>zhugeliang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="13">
+  	<HeroName>司马懿</HeroName> 
+  	<FileName>simayi_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="23">
+  	<HeroName>刘备</HeroName> 
+  	<FileName>liubei_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="26">
+  	<HeroName>华佗</HeroName> 
+  	<FileName>huatuo_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="28">
+	<HeroName>张辽</HeroName> 
+  	<FileName>zhangliao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="29">
+  	<HeroName>关羽</HeroName> 
+  	<FileName>guanyu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="32">
+  	<HeroName>小乔</HeroName> 
+  	<FileName>xiaoqiao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="50">
+  	<HeroName>魏延</HeroName> 
+  	<FileName>weiyan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="51">
+	<HeroName>典韦</HeroName> 
+  	<FileName>dianwei_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="56">
+  	<HeroName>孟获</HeroName> 
+  	<FileName>menghuo_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="57">
+  	<HeroName>曹操</HeroName> 
+  	<FileName>caocao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="60">
+  	<HeroName>赵云</HeroName> 
+  	<FileName>zhaoyun_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="61">
+	<HeroName>周瑜</HeroName> 
+  	<FileName>zhouyu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="81">
+  	<HeroName>夏侯渊</HeroName> 
+  	<FileName>xiahouyuan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="82">
+  	<HeroName>张郃</HeroName> 
+  	<FileName>zhanghe_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="85">
+  	<HeroName>祝融夫人</HeroName> 
+  	<FileName>zhurongfuren_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="87">
+	<HeroName>黄忠</HeroName> 
+  	<FileName>huangzhong_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="88">
+  	<HeroName>郭嘉</HeroName> 
+  	<FileName>guojia_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="134">
+  	<HeroName>荀攸</HeroName> 
+  	<FileName>xunyou_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="135">
+  	<HeroName>于禁</HeroName> 
+  	<FileName>yujin_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="141">
+	<HeroName>马岱</HeroName> 
+  	<FileName>madai_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="142">
+  	<HeroName>姜维</HeroName> 
+  	<FileName>jiangwei_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="143">
+  	<HeroName>马良</HeroName> 
+  	<FileName>maliang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="144">
+  	<HeroName>曹洪</HeroName> 
+  	<FileName>caohong_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="145">
+	<HeroName>太史慈</HeroName> 
+  	<FileName>taishici_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="146">
+  	<HeroName>贾诩</HeroName> 
+  	<FileName>jiaxu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="147">
+  	<HeroName>程昱</HeroName> 
+  	<FileName>chengyu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="148">
+  	<HeroName>徐晃</HeroName> 
+  	<FileName>xuhuang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="149">
+	<HeroName>马超</HeroName> 
+  	<FileName>machao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="150">
+  	<HeroName>李典</HeroName> 
+  	<FileName>lidian_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="151">
+  	<HeroName>庞德</HeroName> 
+  	<FileName>pangde_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="154">
+  	<HeroName>庞统</HeroName> 
+  	<FileName>pangtong_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="175">
+	<HeroName>孙策</HeroName> 
+  	<FileName>sunce_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="179">
+  	<HeroName>大乔</HeroName> 
+  	<FileName>daqiao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="180">
+  	<HeroName>甄姬</HeroName> 
+  	<FileName>zhenji_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="184">
+  	<HeroName>黄月英</HeroName> 
+  	<FileName>huangyueying_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="186">
+	<HeroName>陆逊</HeroName> 
+  	<FileName>luxun_16x16.bmp</FileName> 
+  </Hero>  
+  <Hero id="188">
+  	<HeroName>孙权</HeroName> 
+  	<FileName>sunquan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="193">
+  	<HeroName>许褚</HeroName> 
+  	<FileName>xuchu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="203">
+  	<HeroName>徐庶</HeroName> 
+  	<FileName>xushu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="204">
+	<HeroName>鲁肃</HeroName> 
+  	<FileName>lusu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="218">
+  	<HeroName>甘宁</HeroName> 
+  	<FileName>ganning_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="221">
+  	<HeroName>法正</HeroName> 
+  	<FileName>fazheng_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="223">
+  	<HeroName>曹丕</HeroName> 
+  	<FileName>caopi_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="230">
+	<HeroName>董卓</HeroName> 
+  	<FileName>dongzhuo_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="231">
+  	<HeroName>颜良</HeroName> 
+  	<FileName>yanliang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="232">
+  	<HeroName>袁术</HeroName> 
+  	<FileName>yuanshu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="254">
+  	<HeroName>关平</HeroName> 
+  	<FileName>guanping_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="255">
+	<HeroName>邓艾</HeroName> 
+  	<FileName>dengai_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="256">
+  	<HeroName>夏侯惇</HeroName> 
+  	<FileName>xiahoudun_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="257">
+  	<HeroName>周仓</HeroName> 
+  	<FileName>zhoucang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="259">
+  	<HeroName>黄盖</HeroName> 
+  	<FileName>huanggai_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="260">
+	<HeroName>邓芝</HeroName> 
+  	<FileName>dengzhi_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="261">
+  	<HeroName>荀彧</HeroName> 
+  	<FileName>xunyu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="262">
+  	<HeroName>蒋钦</HeroName> 
+  	<FileName>jiangqin_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="263">
+  	<HeroName>孙尚香</HeroName> 
+  	<FileName>sunshangxiang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="268">
+	<HeroName>诸葛瑾</HeroName> 
+  	<FileName>zhugejin_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="269">
+  	<HeroName>曹仁</HeroName> 
+  	<FileName>caoren_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="270">
+  	<HeroName>糜竺</HeroName> 
+  	<FileName>mizhu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="271">
+  	<HeroName>凌统</HeroName> 
+  	<FileName>lingtong_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="272">
+	<HeroName>周泰</HeroName> 
+  	<FileName>zhoutai_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="274">
+  	<HeroName>徐盛</HeroName> 
+  	<FileName>xusheng_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="275">
+	<HeroName>吕蒙</HeroName> 
+  	<FileName>lvmeng_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="276">
+	<HeroName>曹休</HeroName> 
+  	<FileName>caoxiu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="277">
+	<HeroName>蒋琬</HeroName> 
+  	<FileName>jiangwan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="287">
+	<HeroName>乐进</HeroName> 
+  	<FileName>yuejin_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="288">
+	<HeroName>马谡</HeroName> 
+  	<FileName>masu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="298">
+	<HeroName>陈宫</HeroName> 
+  	<FileName>chengong_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="299">
+	<HeroName>高顺</HeroName> 
+  	<FileName>gaoshun_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="316">
+	<HeroName>李严</HeroName> 
+  	<FileName>liyan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="317">
+	<HeroName>夏侯恩</HeroName> 
+  	<FileName>xiahouen_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="328">
+	<HeroName>马云禄</HeroName> 
+  	<FileName>mayunlu_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="330">
+	<HeroName>蔡文姬</HeroName> 
+  	<FileName>caiwenji_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="337">
+	<HeroName>张鸳鸳</HeroName> 
+  	<FileName>zhangyuanyuan_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="336">
+	<HeroName>曹植</HeroName> 
+  	<FileName>caozhi_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="338">
+	<HeroName>左慈</HeroName> 
+  	<FileName>zuoci_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="339">
+	<HeroName>关凤</HeroName> 
+  	<FileName>guanfeng_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="341">
+	<HeroName>夏侯尚</HeroName> 
+  	<FileName>xiahoushang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="342">
+	<HeroName>文丑</HeroName> 
+  	<FileName>wenchou_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="343">
+	<HeroName>袁绍</HeroName> 
+  	<FileName>yuanshao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="344">
+	<HeroName>张角</HeroName> 
+  	<FileName>zhangjiao_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="345">
+	<HeroName>张梁</HeroName> 
+  	<FileName>zhangliang_16x16.bmp</FileName> 
+  </Hero>
+  <Hero id="346">
+	<HeroName>张宝</HeroName> 
+  	<FileName>zhangbao_16x16.bmp</FileName> 
+  </Hero>
+</HeroList>

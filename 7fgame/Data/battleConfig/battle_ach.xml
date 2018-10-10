@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content ver="13">
+<achitem  achid="0"    achname="新兵" achtip="新兵,参与当前武勋赛季获得" achpicindex="0" />
+<achitem  achid="501"  achname="兵卒" achtip="兵卒,参与当前武勋赛季获得" achpicindex="1" />
+<achitem  achid="751"  achname="伍长" achtip="伍长,参与当前武勋赛季获得" achpicindex="2" />
+<achitem  achid="1001" achname="什长" achtip="什长,参与当前武勋赛季获得" achpicindex="3" />
+<achitem  achid="1251" achname="百夫长" achtip="百夫长,参与当前武勋赛季获得" achpicindex="4" />
+<achitem  achid="1501" achname="千夫长" achtip="千夫长,参与当前武勋赛季获得" achpicindex="5" />
+<achitem  achid="1751" achname="万夫长" achtip="万夫长,参与当前武勋赛季获得" achpicindex="6" />
+<achitem  achid="2001" achname="大将军" achtip="大将军,参与当前武勋赛季获得" achpicindex="7" />
+<achitem  achid="2251" achname="绝世名将" achtip="绝世名将,参与当前武勋赛季获得" achpicindex="8" />
+<achitem  achid="2501" achname="绝世神将" achtip="绝世神将,参与当前武勋赛季获得" achpicindex="9" />
+<achitem  achid="2751" achname="绝世战神" achtip="绝世战神,参与当前武勋赛季获得" achpicindex="10" />
+
+<achitem  indexFlag="1" achid="0"    achname="列兵" achtip="列兵,参与当前武勋赛季获得" achpicindex="0" />
+<achitem  indexFlag="1" achid="501"  achname="下士" achtip="下士,参与当前武勋赛季获得" achpicindex="1" />
+<achitem  indexFlag="1" achid="751"  achname="上士" achtip="上士,参与当前武勋赛季获得" achpicindex="2" />
+<achitem  indexFlag="1" achid="1001" achname="千军少尉" achtip="千军少尉,参与当前武勋赛季获得" achpicindex="3" />
+<achitem  indexFlag="1" achid="1251" achname="千军上尉" achtip="千军上尉,参与当前武勋赛季获得" achpicindex="4" />
+<achitem  indexFlag="1" achid="1501" achname="千军少校" achtip="千军少校,参与当前武勋赛季获得" achpicindex="5" />
+<achitem  indexFlag="1" achid="1751" achname="千军上校" achtip="千军上校,参与当前武勋赛季获得" achpicindex="6" />
+<achitem  indexFlag="1" achid="2001" achname="千军少将" achtip="千军少将,参与当前武勋赛季获得" achpicindex="7" />
+<achitem  indexFlag="1" achid="2251" achname="千军上将" achtip="千军上将,参与当前武勋赛季获得" achpicindex="8" />
+<achitem  indexFlag="1" achid="2501" achname="千军统帅" achtip="千军统帅,参与当前武勋赛季获得" achpicindex="9" />
+
+<achitem  indexFlag="2" achid="0"    achname="狼牙新兵" achtip="狼牙新兵,参与当前逐鹿战场获得" achpicindex="0" />
+<achitem  indexFlag="2" achid="501"  achname="狼牙将士" achtip="狼牙将士,参与当前逐鹿战场获得" achpicindex="1" />
+<achitem  indexFlag="2" achid="751"  achname="驰狼都尉" achtip="驰狼都尉,参与当前逐鹿战场获得" achpicindex="2" />
+<achitem  indexFlag="2" achid="1001" achname="苍狼校尉" achtip="苍狼校尉,参与当前逐鹿战场获得" achpicindex="3" />
+<achitem  indexFlag="2" achid="1251" achname="虎胆偏将" achtip="虎胆偏将,参与当前逐鹿战场获得" achpicindex="4" />
+<achitem  indexFlag="2" achid="1501" achname="虎啸少将" achtip="虎啸少将,参与当前逐鹿战场获得" achpicindex="5" />
+<achitem  indexFlag="2" achid="1751" achname="虎威将军" achtip="虎威将军,参与当前逐鹿战场获得" achpicindex="6" />
+<achitem  indexFlag="2" achid="2001" achname="龙鳞少帅" achtip="龙鳞少帅,参与当前逐鹿战场获得" achpicindex="7" />
+<achitem  indexFlag="2" achid="2251" achname="龙吟元帅" achtip="龙吟元帅,参与当前逐鹿战场获得" achpicindex="8" />
+<achitem  indexFlag="2" achid="2501" achname="龙魂大元帅 " achtip="龙魂大元帅,参与当前逐鹿战场获得" achpicindex="9" />
+</content>
+

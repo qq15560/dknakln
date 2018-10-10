@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pricelist ver="2">
+  <!-- 喇叭 -->
+  <!-- 喇叭道具价格 -->
+  <laba ver="1" type="basic" price="30" daren="30">
+  </laba>
+  <!-- 超级喇叭附加价格 -->
+  <laba ver="1" type="platform" price="470" daren="470">
+  </laba>
+  <!-- 地图喇叭附加价格 -->
+  <laba ver="1" type="map" price="240" daren="240">
+  </laba>
+  <!-- 专区喇叭附加价格 -->
+  <laba ver="1" type="area" price="200" daren="200">
+  </laba>
+  
+    <!-- 万服喇叭附加价格 -->
+  <laba ver="1" type="VirtualRoom" price="200" daren="200">
+  </laba>
+  
+  <!-- 房间喇叭附加价格 -->
+  <laba ver="1" type="room" price="0" daren="0">
+  </laba>
+  <!-- 喇叭字体名称附加价格 -->
+  <laba ver="1" type="fontname" price="5" daren="0">
+  </laba>
+  <!-- 喇叭字体颜色附加价格 -->
+  <laba ver="1" type="fontcolor" price="5" daren="0">
+  </laba>
+  <!-- 喇叭小号字体附加价格 -->
+  <laba ver="1" type="fontsize_s" price="0" daren="0">
+  </laba>
+  <!-- 喇叭中号字体附加价格 -->
+  <laba ver="1" type="fontsize_m" price="30" daren="30">
+  </laba>
+  <!-- 喇叭大号字体附加价格 -->
+  <laba ver="1" type="fontsize_l" price="60" daren="60">
+  </laba>
+  <!-- 喇叭字体粗体附加价格 -->
+  <laba ver="1" type="fontbold" price="5" daren="0">
+  </laba>
+  <!-- 喇叭字体斜体附加价格 -->
+  <laba ver="1" type="fontitalic" price="2" daren="0">
+  </laba>
+  <!-- 喇叭字体下划线附加价格 -->
+  <laba ver="1" type="fontunline" price="2" daren="0">
+  </laba>
+  <!-- 喇叭邀请游戏附加价格 -->
+  <laba ver="1" type="invategame" price="10" daren="0">
+  </laba>
+  <!-- 喇叭邀请公会附加价格 -->
+  <laba ver="1" type="invateunion" price="10" daren="0">
+  </laba>
+  <!-- 喇叭好友邀请附加价格 -->
+  <laba ver="1" type="invatefriend" price="10" daren="0">
+  </laba>
+  <!-- 喇叭直播观看邀请附加价格 -->
+  <laba ver="1" type="invatewatchlive" price="10" daren="0">
+  </laba>
+  <!-- 走马灯 -->
+  <!-- 走马灯道具价格 -->
+  <zmd ver="1" type="basic" price="400" daren="400">
+  </zmd>
+  <!-- 超级走马灯附加价格 -->
+  <zmd ver="1" type="platform" price="1100" daren="1100">
+  </zmd>
+  <!-- 地图走马灯附加价格 -->
+  <zmd ver="1" type="map" price="600" daren="600">
+  </zmd>
+  <!-- 专区走马灯附加价格 -->
+  <zmd ver="1" type="area" price="400" daren="400">
+  </zmd>
+  <!-- 房间走马灯附加价格 -->
+  <zmd ver="1" type="room" price="0" daren="0">
+  </zmd>
+  
+  <!-- 万服走马灯附加价格 -->
+  <zmd ver="1" type="VirtualRoom" price="400" daren="400">
+  </zmd>
+  <!-- 走马灯字体名称附加价格 -->
+  <zmd ver="1" type="fontname" price="20" daren="0">
+  </zmd>
+  <!-- 走马灯字体颜色附加价格 -->
+  <zmd ver="1" type="fontcolor" price="20" daren="0">
+  </zmd>
+  <!-- 走马灯字体特效附加价格 -->
+  <zmd ver="1" type="fonteffect" price="50" daren="0">
+  </zmd>
+  <!-- 走马灯字体粗体附加价格 -->
+  <zmd ver="1" type="fontbold" price="50" daren="0">
+  </zmd>
+  <!-- 走马灯字体斜体附加价格 -->
+  <zmd ver="1" type="fontitalic" price="20" daren="0">
+  </zmd>
+  <!-- 走马灯字体下划线附加价格 -->
+  <zmd ver="1" type="fontunline" price="20" daren="0">
+  </zmd>
+  <!-- 走马灯邀请游戏附加价格 -->
+  <zmd ver="1" type="invategame" price="10" daren="0">
+  </zmd>
+  <!-- 走马灯邀请公会附加价格 -->
+  <zmd ver="1" type="invateunion" price="10" daren="0">
+  </zmd>
+  <!-- 走马灯好友邀请附加价格 -->
+  <zmd ver="1" type="invatefriend" price="10" daren="0">
+  </zmd>
+  <!-- 走马灯直播观看邀请附加价格 -->
+  <zmd ver="1" type="invatewatchlive" price="10" daren="0">
+  </zmd>
+  <!-- 直播相关 -->
+  <!-- 直播喇叭价格 -->
+  <gamelive ver="1" type="laba" price="5" daren="5">
+  </gamelive>
+  <!-- 直播走马灯价格 -->
+  <gamelive ver="1" type="zmd" price="80" daren="80">
+  </gamelive>
+  <!-- 新直播喇叭价格 -->
+  <gamelive ver="1" type="newlaba" price="500" daren="500">
+  </gamelive>
+  <!-- 新直播走马灯价格 -->
+  <gamelive ver="1" type="newzmd" price="500" daren="500">
+  </gamelive>
+  <!-- 直播投票价格 -->
+  <gamelive ver="1" type="poll" price="5" daren="5">
+  </gamelive>
+  <!-- 直播投票喇叭价格 -->
+  <gamelive ver="1" type="polllaba" price="0" daren="0">
+  </gamelive>
+  <!-- 直播超级喇叭价格 -->
+  <gamelive ver="1" type="superlaba" price="0" daren="0">
+  </gamelive>
+  <!-- 表情图标 -->
+  <!-- 闭嘴表情价格 -->
+  <smiley ver="1" type="/bz" price="10" daren="0">
+  </smiley>
+  <!-- 不高兴表情价格 -->
+  <smiley ver="1" type="/bgx" price="10" daren="0">
+  </smiley>
+  <!-- 大哭表情价格 -->
+  <smiley ver="1" type="/dk" price="10" daren="0">
+  </smiley>
+  <!-- 大笑表情价格 -->
+  <smiley ver="1" type="/dx" price="10" daren="0">
+  </smiley>
+  <!-- 发呆表情价格 -->
+  <smiley ver="1" type="/fdai" price="10" daren="0">
+  </smiley>
+  <!-- 发抖表情价格 -->
+  <smiley ver="1" type="/fdou" price="10" daren="0">
+  </smiley>
+  <!-- 讽刺表情价格 -->
+  <smiley ver="1" type="/fc" price="10" daren="0">
+  </smiley>
+  <!-- 愤怒表情价格 -->
+  <smiley ver="1" type="/fn" price="10" daren="0">
+  </smiley>
+  <!-- 尴尬表情价格 -->
+  <smiley ver="1" type="/gg" price="10" daren="0">
+  </smiley>
+  <!-- 害羞表情价格 -->
+  <smiley ver="1" type="/hx" price="10" daren="0">
+  </smiley>
+  <!-- 怀疑表情价格 -->
+  <smiley ver="1" type="/hy" price="10" daren="0">
+  </smiley>
+  <!-- 惊讶表情价格 -->
+  <smiley ver="1" type="/jy" price="10" daren="0">
+  </smiley>
+  <!-- 恐惧表情价格 -->
+  <smiley ver="1" type="/kj" price="10" daren="0">
+  </smiley>
+  <!-- 困表情价格 -->
+  <smiley ver="1" type="/kun" price="10" daren="0">
+  </smiley>
+  <!-- 流汗表情价格 -->
+  <smiley ver="1" type="/lh" price="10" daren="0">
+  </smiley>
+  <!-- 流泪表情价格 -->
+  <smiley ver="1" type="/ll" price="10" daren="0">
+  </smiley>
+  <!-- 亲亲表情价格 -->
+  <smiley ver="1" type="/qq" price="10" daren="0">
+  </smiley>
+  <!-- 亲嘴表情价格 -->
+  <smiley ver="1" type="/qz" price="10" daren="0">
+  </smiley>
+  <!-- 色眯眯表情价格 -->
+  <smiley ver="1" type="/semm" price="10" daren="0">
+  </smiley>
+  <!-- 闪人表情价格 -->
+  <smiley ver="1" type="/sr" price="10" daren="0">
+  </smiley>
+  <!-- 生病表情价格 -->
+  <smiley ver="1" type="/shb" price="10" daren="0">
+  </smiley>
+  <!-- 失望表情价格 -->
+  <smiley ver="1" type="/sw" price="10" daren="0">
+  </smiley>
+  <!-- 思考表情价格 -->
+  <smiley ver="1" type="/sk" price="10" daren="0">
+  </smiley>
+  <!-- 偷笑表情价格 -->
+  <smiley ver="1" type="/tx" price="10" daren="0">
+  </smiley>
+  <!-- 吐表情价格 -->
+  <smiley ver="1" type="/otu" price="10" daren="0">
+  </smiley>
+  <!-- 吐舌表情价格 -->
+  <smiley ver="1" type="/ts" price="10" daren="0">
+  </smiley>
+  <!-- 微笑表情价格 -->
+  <smiley ver="1" type="/wx" price="10" daren="0">
+  </smiley>
+  <!-- 咬牙切齿表情价格 -->
+  <smiley ver="1" type="/yyqc" price="10" daren="0">
+  </smiley>
+  <!-- 疑问表情价格 -->
+  <smiley ver="1" type="/yw" price="10" daren="0">
+  </smiley>
+  <!-- 拥抱表情价格 -->
+  <smiley ver="1" type="/yb" price="10" daren="0">
+  </smiley>
+  <!-- 吐血表情价格 -->
+  <smiley ver="1" type="/tux" price="10" daren="0">
+  </smiley>
+  <!-- 晕表情价格 -->
+  <smiley ver="1" type="/yun" price="10" daren="0">
+  </smiley>
+  <!-- 可爱表情价格 -->
+  <smiley ver="1" type="/keai" price="10" daren="0">
+  </smiley>
+  <!-- 牛表情价格 -->
+  <smiley ver="1" type="/niu" price="10" daren="0">
+  </smiley>
+  <!-- 郁闷表情价格 -->
+  <smiley ver="1" type="/ym" price="10" daren="0">
+  </smiley>
+  <!-- 打耳光表情价格 -->
+  <smiley ver="1" type="/eg" price="10" daren="0">
+  </smiley>
+  <!-- 咬手指表情价格 -->
+  <smiley ver="1" type="/ysz" price="10" daren="0">
+  </smiley>
+  <!-- 耍帅表情价格 -->
+  <smiley ver="1" type="/ss" price="10" daren="0">
+  </smiley>
+  <!-- 无语表情价格 -->
+  <smiley ver="1" type="/wy" price="10" daren="0">
+  </smiley>
+  <!-- 威胁表情价格 -->
+  <smiley ver="1" type="/weix" price="10" daren="0">
+  </smiley>
+  <!-- 贼笑表情价格 -->
+  <smiley ver="1" type="/zx" price="10" daren="0">
+  </smiley>
+  <!-- 安抚表情价格 -->
+  <smiley ver="1" type="/anf" price="10" daren="0">
+  </smiley>
+  <!-- 告辞表情价格 -->
+  <smiley ver="1" type="/gc" price="10" daren="0">
+  </smiley>
+  <!-- 大包表情价格 -->
+  <smiley ver="1" type="/db" price="10" daren="0">
+  </smiley>
+  <!-- 胜利表情价格 -->
+  <smiley ver="1" type="/shl" price="10" daren="0">
+  </smiley>
+</pricelist>

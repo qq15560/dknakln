@@ -1,0 +1,692 @@
+104367, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=11
+104367, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+104367, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+104367, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+104850, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=1
+104850, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+104850, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+104850, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+105454, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=18
+105454, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+105454, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+105454, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+105699, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=20
+105699, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=20
+105699, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+105699, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106060, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=1
+106060, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+106060, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106060, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106085, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=18
+106085, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+106085, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106085, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106203, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=15
+106203, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+106203, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106203, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106418, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=1
+106418, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+106418, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+106418, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+106745, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 4 , cha_control_id=11
+106745, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+106745, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=2
+106745, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=2
+106866, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=15
+106866, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+106866, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+106866, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+107061, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=12
+107061, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+107061, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+107061, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=1,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+107614, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=6
+107614, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=6
+107614, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+107614, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+108006, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 5 , cha_control_id=11
+108006, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+108006, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=3
+108006, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=3
+108280, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=6
+108280, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=6
+108280, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+108280, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+108839, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=7
+108839, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=7
+108839, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+108839, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+109203, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=6
+109203, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=6
+109203, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+109203, CheckMissionGrowItem cha_control_id= 6 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+109683, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=20
+109683, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=20
+109683, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+109683, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110162, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=18
+110162, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+110162, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110162, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110218, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=12
+110218, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+110218, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110218, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=1,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110406, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=16
+110406, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=16
+110406, CheckMissionGrowItem con_tie= 16 , cha_control_id=16,item_lv=4
+110406, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110406, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110600, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=5
+110600, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=5
+110600, CheckMissionGrowItem cha_control_id= 5 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+110600, CheckMissionGrowItem cha_control_id= 5 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+111767, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=15
+111767, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+111767, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+111767, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113162, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=4
+113162, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=4
+113162, CheckMissionGrowItem cha_control_id= 4 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113162, CheckMissionGrowItem cha_control_id= 4 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113182, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=18
+113182, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+113182, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113182, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113309, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=15
+113309, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+113309, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113309, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113431, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=18
+113431, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+113431, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113431, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113569, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=15
+113569, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+113569, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113569, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+113736, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=16
+113736, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=16
+113736, CheckMissionGrowItem con_tie= 16 , cha_control_id=16,item_lv=5
+113736, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+113736, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+114363, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=10
+114363, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=10
+114363, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+114363, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+114475, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=18
+114475, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+114475, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+114475, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+114908, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=7
+114908, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=7
+114908, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+114908, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+115225, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=13
+115225, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=13
+115225, CheckMissionGrowItem cha_control_id= 13 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+115225, CheckMissionGrowItem cha_control_id= 13 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116146, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=3
+116146, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=3
+116146, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116146, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116488, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=12
+116488, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+116488, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116488, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116717, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=11
+116717, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+116717, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+116717, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117274, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=11
+117274, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+117274, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117274, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117828, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=8
+117828, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=8
+117828, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117828, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117844, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=17
+117844, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=17
+117844, CheckMissionGrowItem cha_control_id= 17 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+117844, CheckMissionGrowItem cha_control_id= 17 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+118530, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=11
+118530, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+118530, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+118530, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119646, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=1
+119646, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+119646, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119646, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119806, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=15
+119806, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+119806, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119806, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119855, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=7
+119855, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=7
+119855, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119855, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119929, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=15
+119929, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+119929, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+119929, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120136, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=13
+120136, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=13
+120136, CheckMissionGrowItem cha_control_id= 13 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120136, CheckMissionGrowItem cha_control_id= 13 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120205, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=15
+120205, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+120205, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120205, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120398, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=16
+120398, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=16
+120398, CheckMissionGrowItem con_tie= 16 , cha_control_id=16,item_lv=3
+120398, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120398, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120633, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=4
+120633, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=4
+120633, CheckMissionGrowItem cha_control_id= 4 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120633, CheckMissionGrowItem cha_control_id= 4 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120770, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 4 , cha_control_id=18
+120770, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=18
+120770, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=2
+120770, CheckMissionGrowItem cha_control_id= 18 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=2
+120781, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=2
+120781, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=2
+120781, CheckMissionGrowItem cha_control_id= 2 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+120781, CheckMissionGrowItem cha_control_id= 2 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121038, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=16
+121038, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=16
+121038, CheckMissionGrowItem con_tie= 16 , cha_control_id=16,item_lv=4
+121038, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121038, CheckMissionGrowItem cha_control_id= 16 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121189, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=8
+121189, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=8
+121189, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(1,control_id)=1 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121189, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121202, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=8
+121202, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=8
+121202, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(1,control_id)=1 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121202, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121639, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=7
+121639, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=7
+121639, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+121639, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+122579, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=7
+122579, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=7
+122579, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+122579, CheckMissionGrowItem cha_control_id= 7 , CheckGodWeapon(2,control_id)=1,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+122971, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=3
+122971, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=3
+122971, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+122971, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+123334, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=12
+123334, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+123334, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+123334, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+123391, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=10
+123391, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=10
+123391, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+123391, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124282, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=12
+124282, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+124282, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124282, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124880, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=12
+124880, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+124880, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124880, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124896, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=1
+124896, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+124896, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124896, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+124954, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=12
+124954, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=12
+124954, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+124954, CheckMissionGrowItem cha_control_id= 12 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+125661, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=14
+125661, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=14
+125661, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=14,item_lv=1
+125661, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=14,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+125661, CheckMissionGrowItem cha_control_id= 14 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+125661, CheckMissionGrowItem cha_control_id= 14 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+125989, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=5
+125989, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=5
+125989, CheckMissionGrowItem cha_control_id= 5 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+125989, CheckMissionGrowItem cha_control_id= 5 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126012, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=3
+126012, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=3
+126012, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126012, CheckMissionGrowItem cha_control_id= 3 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126124, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=15
+126124, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+126124, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126124, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126446, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=15
+126446, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+126446, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126446, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126683, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 2 , cha_control_id=15
+126683, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+126683, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+126683, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127008, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=11
+127008, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+127008, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127008, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127525, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=8
+127525, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=8
+127525, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(1,control_id)=1 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127525, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127778, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=11
+127778, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=11
+127778, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+127778, CheckMissionGrowItem cha_control_id= 11 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128572, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=19
+128572, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=19
+128572, CheckMissionGrowItem cha_control_id= 19 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128572, CheckMissionGrowItem cha_control_id= 19 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128651, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=10
+128651, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=10
+128651, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128651, CheckMissionGrowItem cha_control_id= 10 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128673, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 3 , cha_control_id=15
+128673, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=15
+128673, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+128673, CheckMissionGrowItem cha_control_id= 15 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=1
+128866, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=1
+128866, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=1
+128866, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+128866, CheckMissionGrowItem cha_control_id= 1 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+129116, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 0 , cha_control_id=20
+129116, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=20
+129116, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(1,control_id)=0 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+129116, CheckMissionGrowItem cha_control_id= 20 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+129116, Before_Show_End_Game_Sce_Event i= 1
+129116, Before_Show_End_Game_Sce_Event missionstart i= 1
+129116, Mission_end_event missionstart control_id= 1 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 1 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 1 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 1 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 1 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 1 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 1 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 1 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 1 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 1 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 1 , kill_ass_num=29 , G_Tab.Player_InfoCount[control].CountHeroKill =17 , G_Tab.HeroEventStatistics[control].assist_kill[1]=12
+129116, Before_Show_End_Game_Sce_Event missionstart i= 1 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 1 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 1 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 2
+129116, Before_Show_End_Game_Sce_Event missionstart i= 2
+129116, Mission_end_event missionstart control_id= 2 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 2 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 2 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 2 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 2 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 2 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 2 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 2 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 2 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 2 , result=2 , Mvp_value =1
+129116, Mission_end_event missionstart control_id= 2 , kill_ass_num=19 , G_Tab.Player_InfoCount[control].CountHeroKill =6 , G_Tab.HeroEventStatistics[control].assist_kill[1]=13
+129116, Before_Show_End_Game_Sce_Event missionstart i= 2 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 2 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 2 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 3
+129116, Before_Show_End_Game_Sce_Event missionstart i= 3
+129116, Mission_end_event missionstart control_id= 3 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 3 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 3 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 3 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 3 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 3 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 3 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 3 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 3 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 3 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 3 , kill_ass_num=33 , G_Tab.Player_InfoCount[control].CountHeroKill =21 , G_Tab.HeroEventStatistics[control].assist_kill[1]=12
+129116, Before_Show_End_Game_Sce_Event missionstart i= 3 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 3 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 3 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 4
+129116, Before_Show_End_Game_Sce_Event missionstart i= 4
+129116, Mission_end_event missionstart control_id= 4 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 4 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 4 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 4 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 4 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 4 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 4 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 4 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 4 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 4 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 4 , kill_ass_num=18 , G_Tab.Player_InfoCount[control].CountHeroKill =8 , G_Tab.HeroEventStatistics[control].assist_kill[1]=10
+129116, Before_Show_End_Game_Sce_Event missionstart i= 4 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 4 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 4 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 5
+129116, Before_Show_End_Game_Sce_Event missionstart i= 5
+129116, Mission_end_event missionstart control_id= 5 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 5 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 5 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 5 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 5 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 5 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 5 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 5 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 5 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 5 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 5 , kill_ass_num=16 , G_Tab.Player_InfoCount[control].CountHeroKill =5 , G_Tab.HeroEventStatistics[control].assist_kill[1]=11
+129116, Before_Show_End_Game_Sce_Event missionstart i= 5 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 5 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 5 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 6
+129116, Before_Show_End_Game_Sce_Event missionstart i= 6
+129116, Mission_end_event missionstart control_id= 6 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 6 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 6 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 6 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 6 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 6 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 6 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 6 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 6 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 6 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 6 , kill_ass_num=28 , G_Tab.Player_InfoCount[control].CountHeroKill =13 , G_Tab.HeroEventStatistics[control].assist_kill[1]=15
+129116, Before_Show_End_Game_Sce_Event missionstart i= 6 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 6 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 6 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 7
+129116, Before_Show_End_Game_Sce_Event missionstart i= 7
+129116, Mission_end_event missionstart control_id= 7 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 7 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 7 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 7 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 7 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 7 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 7 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 7 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 7 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 7 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 7 , kill_ass_num=32 , G_Tab.Player_InfoCount[control].CountHeroKill =22 , G_Tab.HeroEventStatistics[control].assist_kill[1]=10
+129116, Before_Show_End_Game_Sce_Event missionstart i= 7 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 7 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 7 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 8
+129116, Before_Show_End_Game_Sce_Event missionstart i= 8
+129116, Mission_end_event missionstart control_id= 8 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 8 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 8 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 8 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 8 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 8 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 8 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 8 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 8 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 8 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 8 , kill_ass_num=24 , G_Tab.Player_InfoCount[control].CountHeroKill =16 , G_Tab.HeroEventStatistics[control].assist_kill[1]=8
+129116, Before_Show_End_Game_Sce_Event missionstart i= 8 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 8 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 8 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 9
+129116, Before_Show_End_Game_Sce_Event missionstart i= 9
+129116, Mission_end_event missionstart control_id= 9 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 9 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 9 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 9 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 9 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 9 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 9 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 9 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 9 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 9 , result=2 , Mvp_value =3
+129116, Mission_end_event missionstart control_id= 9 , kill_ass_num=32 , G_Tab.Player_InfoCount[control].CountHeroKill =4 , G_Tab.HeroEventStatistics[control].assist_kill[1]=28
+129116, Before_Show_End_Game_Sce_Event missionstart i= 9 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 9 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 9 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 10
+129116, Before_Show_End_Game_Sce_Event missionstart i= 10
+129116, Mission_end_event missionstart control_id= 10 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 10 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 10 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 10 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 10 , result=2 , GetMVP_Player_Id() =0
+129116, Mission_end_event missionstart control_id= 10 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 10 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 10 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 10 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 10 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 10 , kill_ass_num=24 , G_Tab.Player_InfoCount[control].CountHeroKill =13 , G_Tab.HeroEventStatistics[control].assist_kill[1]=11
+129116, Before_Show_End_Game_Sce_Event missionstart i= 10 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 10 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 10 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 11
+129116, Before_Show_End_Game_Sce_Event missionstart i= 11
+129116, Mission_end_event missionstart control_id= 11 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 11 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 11 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 11 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 11 , result=2 , GetMVP_Player_Id() =11
+129116, Mission_end_event missionstart control_id= 11 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 11 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 11 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 11 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 11 , result=2 , Mvp_value =6
+129116, Mission_end_event missionstart control_id= 11 , kill_ass_num=57 , G_Tab.Player_InfoCount[control].CountHeroKill =26 , G_Tab.HeroEventStatistics[control].assist_kill[1]=31
+129116, Before_Show_End_Game_Sce_Event missionstart i= 11 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 11 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 11 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 12
+129116, Before_Show_End_Game_Sce_Event missionstart i= 12
+129116, Mission_end_event missionstart control_id= 12 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 12 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 12 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 12 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 12 , result=2 , GetMVP_Player_Id() =11
+129116, Mission_end_event missionstart control_id= 12 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 12 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 12 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 12 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 12 , result=2 , Mvp_value =3
+129116, Mission_end_event missionstart control_id= 12 , kill_ass_num=19 , G_Tab.Player_InfoCount[control].CountHeroKill =12 , G_Tab.HeroEventStatistics[control].assist_kill[1]=7
+129116, Before_Show_End_Game_Sce_Event missionstart i= 12 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 12 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 12 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 13
+129116, Before_Show_End_Game_Sce_Event missionstart i= 13
+129116, Mission_end_event missionstart control_id= 13 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 13 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 13 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 13 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 13 , result=2 , GetMVP_Player_Id() =11
+129116, Mission_end_event missionstart control_id= 13 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 13 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 13 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 13 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 13 , result=2 , Mvp_value =1
+129116, Mission_end_event missionstart control_id= 13 , kill_ass_num=48 , G_Tab.Player_InfoCount[control].CountHeroKill =7 , G_Tab.HeroEventStatistics[control].assist_kill[1]=41
+129116, Before_Show_End_Game_Sce_Event missionstart i= 13 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 13 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 13 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 14
+129116, Before_Show_End_Game_Sce_Event missionstart i= 14
+129116, Mission_end_event missionstart control_id= 14 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 14 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 14 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 14 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 14 , result=2 , GetMVP_Player_Id() =11
+129116, Mission_end_event missionstart control_id= 14 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 14 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 14 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 14 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 14 , result=2 , Mvp_value =3
+129116, Mission_end_event missionstart control_id= 14 , kill_ass_num=48 , G_Tab.Player_InfoCount[control].CountHeroKill =15 , G_Tab.HeroEventStatistics[control].assist_kill[1]=33
+129116, Before_Show_End_Game_Sce_Event missionstart i= 14 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 14 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 14 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 15
+129116, Before_Show_End_Game_Sce_Event missionstart i= 15
+129116, Mission_end_event missionstart control_id= 15 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 15 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 15 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 15 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 15 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 15 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 15 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 15 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 15 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 15 , result=2 , Mvp_value =7
+129116, Mission_end_event missionstart control_id= 15 , kill_ass_num=64 , G_Tab.Player_InfoCount[control].CountHeroKill =39 , G_Tab.HeroEventStatistics[control].assist_kill[1]=25
+129116, Before_Show_End_Game_Sce_Event missionstart i= 15 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 15 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 15 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 16
+129116, Before_Show_End_Game_Sce_Event missionstart i= 16
+129116, Mission_end_event missionstart control_id= 16 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 16 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 16 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 16 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 16 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 16 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 16 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 16 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 16 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 16 , result=2 , Mvp_value =2
+129116, Mission_end_event missionstart control_id= 16 , kill_ass_num=62 , G_Tab.Player_InfoCount[control].CountHeroKill =11 , G_Tab.HeroEventStatistics[control].assist_kill[1]=51
+129116, Before_Show_End_Game_Sce_Event missionstart i= 16 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 16 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 16 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 17
+129116, Before_Show_End_Game_Sce_Event missionstart i= 17
+129116, Mission_end_event missionstart control_id= 17 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 17 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 17 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 17 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 17 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 17 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 17 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 17 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 17 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 17 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 17 , kill_ass_num=33 , G_Tab.Player_InfoCount[control].CountHeroKill =8 , G_Tab.HeroEventStatistics[control].assist_kill[1]=25
+129116, Before_Show_End_Game_Sce_Event missionstart i= 17 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 17 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 17 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 18
+129116, Before_Show_End_Game_Sce_Event missionstart i= 18
+129116, Mission_end_event missionstart control_id= 18 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 18 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 18 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 18 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 18 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 18 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 18 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 18 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 18 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 18 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 18 , kill_ass_num=56 , G_Tab.Player_InfoCount[control].CountHeroKill =27 , G_Tab.HeroEventStatistics[control].assist_kill[1]=29
+129116, Before_Show_End_Game_Sce_Event missionstart i= 18 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 18 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 18 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 19
+129116, Before_Show_End_Game_Sce_Event missionstart i= 19
+129116, Mission_end_event missionstart control_id= 19 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 19 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 19 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 19 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 19 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 19 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 19 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 19 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 19 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 19 , result=2 , Mvp_value =0
+129116, Mission_end_event missionstart control_id= 19 , kill_ass_num=28 , G_Tab.Player_InfoCount[control].CountHeroKill =8 , G_Tab.HeroEventStatistics[control].assist_kill[1]=20
+129116, Before_Show_End_Game_Sce_Event missionstart i= 19 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 19 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 19 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 20
+129116, Before_Show_End_Game_Sce_Event missionstart i= 20
+129116, Mission_end_event missionstart control_id= 20 , result=2 ,getGamePlayLv(control)=0
+129116, Mission_end_event missionstart control_id= 20 , result=2 ,Get_Hero_Award_Id(result) =9
+129116, Mission_end_event missionstart control_id= 20 , result=2 ,Get_Bear_dmg_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 20 , result=2 , Get_Break_camp_Award_Id() =20
+129116, Mission_end_event missionstart control_id= 20 , result=2 , GetMVP_Player_Id() =15
+129116, Mission_end_event missionstart control_id= 20 , result=2 , Get_Assist_Kill_Award_Id()=16
+129116, Mission_end_event missionstart control_id= 20 , result=2 , Get_Treatment_Award_Id() =9
+129116, Mission_end_event missionstart control_id= 20 , result=2 , GetRankInDeng_Id() =2
+129116, Mission_end_event missionstart control_id= 20 , result=2 , Get_Rich_Award_Id() =15
+129116, Mission_end_event missionstart control_id= 20 , result=2 , Mvp_value =1
+129116, Mission_end_event missionstart control_id= 20 , kill_ass_num=31 , G_Tab.Player_InfoCount[control].CountHeroKill =18 , G_Tab.HeroEventStatistics[control].assist_kill[1]=13
+129116, Before_Show_End_Game_Sce_Event missionstart i= 20 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 20 , mid=0
+129116, Before_Show_End_Game_Sce_Event missionstart i= 20 , mid=0
+129116, Before_Show_End_Game_Sce_Event i= 21
+129116, Before_Show_End_Game_Sce_Event i= 22
+129326, Check_Dead_Mission_SysEvent G_Tab.HeroEventStatistics[cha_control_id].multi_kill[1]= 1 , cha_control_id=8
+129326, CheckMissionGrowItem con_tie= 16 , con_shu=14 , cha_control_id=8
+129326, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(1,control_id)=1 , G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+129326, CheckMissionGrowItem cha_control_id= 8 , CheckGodWeapon(2,control_id)=0,G_Tab.HeroEventStatistics[cha_control_id].multi_kill[2]=0
+129411, 积分结算 missionstart p_control_id= 1 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 1 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 1 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 2 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 2 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 2 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 3 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 3 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 3 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 4 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 4 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 4 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 5 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 5 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 5 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 6 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 6 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 6 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 7 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 7 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 7 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 8 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 8 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 8 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 9 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 9 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 9 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 10 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 10 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 10 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 11 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 11 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 11 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 12 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 12 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 12 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 13 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 13 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 13 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 14 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 14 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 14 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 15 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 15 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 15 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 16 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 16 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 16 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 17 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 17 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 17 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 18 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 18 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 18 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 19 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 19 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 19 , mission[3].id=0 , mission[3].Fstate=0
+129411, 积分结算 missionstart p_control_id= 20 , mission[1].id=0 , mission[1].Fstate=0
+129411, 积分结算 missionstart p_control_id= 20 , mission[2].id=0 , mission[2].Fstate=0
+129411, 积分结算 missionstart p_control_id= 20 , mission[3].id=0 , mission[3].Fstate=0

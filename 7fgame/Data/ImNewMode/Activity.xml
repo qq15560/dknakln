@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="55">
+<!-- 三国2首次提示 --> 
+<MapItemTipInfo tipSectionName="sg2sss" FrameNums="12" showType="2" LinkerBtn="1"  beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+		borderG="0" borderB="37" textR="100" textG="2" textB="26" TipW="228" TipH="30" closeimg="pptooltip_btn.bmp" offSetX="-30" offSetY="30" starttimeEx="2/7/2012 14:00:00" endtimeEx="7/10/2013 23:59:59" 
+		IsMapTip="1" MapId="81" BtnId="0" Flag="1" showborder="0" isforsango2="1" showpostype="55">
+		&lt;li&gt;恭喜您获得三国争霸2首次封测体验&lt;/li&gt;&lt;li&gt;资格，赶快去体验争霸天下的激情吧！&lt;/li&gt;
+		</MapItemTipInfo> 
+<!-- 三国2每日提示 --> 
+<MapItemTipInfo tipSectionName="sg2qqq" FrameNums="12" showType="3" LinkerBtn="1"  beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+		borderG="0" borderB="37" textR="100" textG="2" textB="26" TipW="228" TipH="45" closeimg="pptooltip_btn.bmp" offSetX="-30" offSetY="30" starttimeEx="2/7/2012 14:00:00" endtimeEx="7/10/2013 23:59:59" 
+		IsMapTip="1" MapId="81" BtnId="0" Flag="1" showborder="0" isforsango2="1" showpostype="55">
+		&lt;li&gt;完成三国争霸2内测任务即有机会获得&lt;/li&gt;&lt;li&gt;限量精美周边、下次测试资格等贴心大&lt;/li&gt;礼，赶快去争霸三国吧！ &lt;a href="http://pv.7fgame.com/PVCount.aspx?id=4413"&gt;>>点击查看&lt;/a&gt;
+		</MapItemTipInfo> 	
+		
+		<!--顶部活动--> 
+		<ActiveItem BtnId="0" MapId="7654" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="更多" 
+		BtnImg="22_45.jpg" BmpWidth="22" BmpHeight="45" OffSetX="45" OffSetY="-5" Login="1" showType="6" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6465" >
+		</ActiveItem>
+
+		<!--军团按钮-->
+		<ActiveItem BtnId="0" MapId="7655" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="大战役II" 
+		BtnImg="dzy.gif" BmpWidth="48" BmpHeight="48" OffSetX="-10" OffSetY="-7" Login="1" showType="7" TipW="0" 
+		TipH="0">
+		</ActiveItem>
+		
+		<!--福利领取-->
+		<ActiveItem BtnId="0" MapId="7656" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="福利领取" 
+		BtnImg="Gift.gif" BmpWidth="49" BmpHeight="49" OffSetX="-10" OffSetY="-7" Login="1" showType="0" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6891">
+		</ActiveItem>
+		
+		<!-- 群雄 --> 
+		<ActiveItem BtnId="0" MapId="47" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="时间锦囊" 
+		BtnImg="546.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+
+		<PopTipItem QiPaoId="0" MapId="47" TszFlag="hunyu" PopFlag="0" 
+		starttimeEx="2/16/2015 10:00:00" endtimeEx="9/17/2015 23:59:59" 
+		OffSetX="18" OffSetY="10" ImTip="0" PopTime="0" 
+		beginR="255" beginG="242" beginB="184" 
+		endR="255" endG="255" endB="254" 
+		borderR="150" borderG="0" borderB="37" 
+		textR="100" textG="2" textB="26" TipW="60" TipH="30" 
+		closeimg="pptooltip_btn.bmp" LoginType="1" LinkShowType="1" LinkWidth="100" LinkHeight="100">
+&lt;font size=12px color=#960025&gt;&lt;li&gt;&lt;b&gt;魂玉系统&lt;/b&gt;&lt;/li&gt;&lt;li&gt;点击配置&lt;/li&gt;&lt;/font&gt;
+		</PopTipItem>
+
+		<ActiveItem BtnId="0" MapId="47" starttimeEx="12/12/2014 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="魂玉系统" 
+		BtnImg="hunyu.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="5" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		<ActiveItem BtnId="0" MapId="61" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="魂玉系统" 
+		BtnImg="hunyu.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="5" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		<ActiveItem BtnId="0" MapId="81" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2013 23:59:59" szBtnTip="三国争霸2" 
+		BtnImg="sg2.gif" BmpWidth="48" BmpHeight="48" OffSetX="-10" OffSetY="-7" Login="1" showType="4" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		<!-- 登录提示 --> 
+		<ActiveItem BtnId="1" MapId="47" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2017 23:59:59" szBtnTip="武勋虎符" 
+		BtnImg="47_dafuweng.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="1" TipW="840" 
+		TipH="620" toolbar="1"  ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6442">
+		</ActiveItem>
+		
+		<PopTipItem QiPaoId="0" MapId="7656" TszFlag="juntuanqipao" PopFlag="0" 
+		starttimeEx="9/30/2016 23:00:00" endtimeEx="11/7/2016 23:59:59" 
+		OffSetX="49" OffSetY="22" ImTip="0" PopTime="0" 
+		beginR="255" beginG="242" beginB="184" 
+		endR="255" endG="255" endB="254" 
+		borderR="150" borderG="0" borderB="37" 
+		textR="100" textG="2" textB="26" TipW="160" TipH="20" 
+		closeimg="pptooltip_btn.bmp" LoginType="1" LinkShowType="1" LinkWidth="100" LinkHeight="100">
+&lt;font size=12px color=#960025&gt;新一波『虎符』免费领取啦  &lt;/font&gt;
+		</PopTipItem>
+		
+		<!-- 三国争霸 --> 
+		<ActiveItem BtnId="1" MapId="15" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2012 23:59:59" szBtnTip="时间锦囊" 
+		BtnImg="546.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		<!-- 金戈铁马 --> 
+		<ActiveItem BtnId="1" MapId="15" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="金币商城" 
+		BtnImg="47_activepv.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5754" >
+		</ActiveItem>
+		<ActiveItem BtnId="0" MapId="76" starttimeEx="1/24/2014 00:00:01" endtimeEx="3/17/2014 23:59:59" szBtnTip="金戈王者榜" 
+		BtnImg="wangzhebang.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6005" >
+		</ActiveItem>
+		<ActiveItem BtnId="1" MapId="76" starttimeEx="1/24/2014 00:00:01" endtimeEx="12/31/2025 23:59:59" szBtnTip="金戈虎符达人" 
+		BtnImg="hufudaren.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6006" >
+		</ActiveItem>
+		<!-- 登录提示 --> 
+		<ActiveItem BtnId="2" MapId="47" starttimeEx="10/10/2012 23:59:59" endtimeEx="5/17/2013 23:59:59" szBtnTip="大师赛" 
+		BtnImg="47_dashi.gif" BmpWidth="20" BmpHeight="41" OffSetX="-22" OffSetY="0" Login="1" showType="1" TipW="585" 
+		TipH="615" ActivePv="http://act.7fgame.com/tcode/apply.html" >
+		</ActiveItem>
+		<!-- 登录提示 --> 
+		<ActiveItem BtnId="0" MapId="81" starttimeEx="10/10/2012 23:59:59" endtimeEx="12/19/2013 23:59:59" szBtnTip="激活码" 
+		BtnImg="47_jihuo.gif" BmpWidth="20" BmpHeight="38" OffSetX="45" OffSetY="0" Login="3" showType="1" TipW="585" 
+		TipH="615" ActivePv="http://websso.5211game.com:8010/login/?returnurl=http://act.5211game.com/tcode/apply.html" >
+		</ActiveItem>
+		<!-- 登录提示 --> 
+		<MapItemTipInfo tipSectionName="weqweqw" FrameNums="12" showType="2" LinkerBtn="1"  beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+		borderG="0" borderB="37" textR="100" textG="2" textB="26" TipW="262" TipH="15" closeimg="pptooltip_btn.bmp" offSetX="-2" offSetY="24" starttimeEx="7/9/2013 14:00:00" endtimeEx="7/16/2014 23:59:59" 
+		IsMapTip="2" MapId="7656" BtnId="1" Flag="1" showpostype="34">
+		&lt;li&gt;&lt;font color=red&gt;免费领取限定皮肤,app双倍领取II&lt;/font&gt;！&lt;/li&gt;
+		</MapItemTipInfo> 
+		<MapItemTipInfo tipSectionName="sjjngg1" FrameNums="12" showType="2" LinkerBtn="1"  beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+		borderG="0" borderB="37" textR="100" textG="2" textB="26" TipW="212" TipH="15" closeimg="pptooltip_btn.bmp" offSetX="-2" offSetY="0" starttimeEx="7/9/2013 14:00:00" endtimeEx="8/14/2013 23:59:59" 
+		IsMapTip="2" MapId="15" BtnId="0" Flag="1" showpostype="34">
+		&lt;li&gt;许愿有机会获得三国争霸2测试资格&lt;/li&gt;
+		</MapItemTipInfo> 
+        <AnimationInfo starttimeEx="12/9/2013 10:00:00" endtimeEx="12/22/2013 23:59:59" PicName="waiting.gif"></AnimationInfo>
+
+		<BubbleInfo nType="0" MapId="81" Width="300" height="300" Frame="4" OffSetx="60" offSety="100" InSetWidth="163" InSetHeight="135" InsetOffSetX="100" InsetOffSetY="30" CloseX="139"  CloseY="0" ImgName="flashTipWnd1.png"
+		FontSize="12" BgRedColor="255" BgGreenColor="255" BgBlueColor="255" FontRedColor="255" FontGreenColor="0" FontBlueColor="0" LinkRedColor="0" LinkGreenColor="0" LinkBlueColor="255"></BubbleInfo>
+		<BubbleInfo nType="1" MapId="81" Width="300" height="300" Frame="3" OffSetx="60" offSety="100" InSetWidth="190" InSetHeight="106" InsetOffSetX="60" InsetOffSetY="22" CloseX="166"  CloseY="0" ImgName="flashTipWnd2.png"
+		FontSize="12" BgRedColor="255" BgGreenColor="255" BgBlueColor="255" FontRedColor="255" FontGreenColor="0" FontBlueColor="0" LinkRedColor="0" LinkGreenColor="0" LinkBlueColor="255"></BubbleInfo>
+
+
+</content>
+

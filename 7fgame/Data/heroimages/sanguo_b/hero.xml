@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeroList>
+  <Hero id="0">
+  	<HeroName>default</HeroName> 
+  	<icon16x16>default_16x16.bmp</icon16x16>
+  </Hero>
+  <Hero id="7">
+  	<HeroName>吕布</HeroName> 
+  	<icon16x16>lvbu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="8">
+  	<HeroName>貂蝉</HeroName> 
+  	<icon16x16>diaochan_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="10">
+  	<HeroName>张飞</HeroName> 
+  	<icon16x16>zhangfei_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="11">
+	<HeroName>诸葛亮</HeroName> 
+  	<icon16x16>zhugeliang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="13">
+  	<HeroName>司马懿</HeroName> 
+  	<icon16x16>simayi_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="23">
+  	<HeroName>刘备</HeroName> 
+  	<icon16x16>liubei_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="26">
+  	<HeroName>华佗</HeroName> 
+  	<icon16x16>huatuo_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="28">
+	<HeroName>张辽</HeroName> 
+  	<icon16x16>zhangliao_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="29">
+  	<HeroName>关羽</HeroName> 
+  	<icon16x16>guanyu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="32">
+  	<HeroName>小乔</HeroName> 
+  	<icon16x16>xiaoqiao_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="50">
+  	<HeroName>魏延</HeroName> 
+  	<icon16x16>weiyan_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="51">
+	<HeroName>典韦</HeroName> 
+  	<icon16x16>dianwei_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="56">
+  	<HeroName>孟获</HeroName> 
+  	<icon16x16>menghuo_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="57">
+  	<HeroName>曹操</HeroName> 
+  	<icon16x16>caocao_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="60">
+  	<HeroName>赵云</HeroName> 
+  	<icon16x16>zhaoyun_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="61">
+	<HeroName>周瑜</HeroName> 
+  	<icon16x16>zhouyu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="81">
+  	<HeroName>夏侯渊</HeroName> 
+  	<icon16x16>xiahouyuan_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="82">
+  	<HeroName>张郃</HeroName> 
+  	<icon16x16>zhanghe_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="85">
+  	<HeroName>祝融夫人</HeroName> 
+  	<icon16x16>zhurongfuren_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="87">
+	<HeroName>黄忠</HeroName> 
+  	<icon16x16>huangzhong_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="88">
+  	<HeroName>郭嘉</HeroName> 
+  	<icon16x16>guojia_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="134">
+  	<HeroName>荀攸</HeroName> 
+  	<icon16x16>xunyou_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="135">
+  	<HeroName>于禁</HeroName> 
+  	<icon16x16>yujin_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="141">
+	<HeroName>马岱</HeroName> 
+  	<icon16x16>madai_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="142">
+  	<HeroName>姜维</HeroName> 
+  	<icon16x16>jiangwei_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="143">
+  	<HeroName>马良</HeroName> 
+  	<icon16x16>maliang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="144">
+  	<HeroName>曹洪</HeroName> 
+  	<icon16x16>caohong_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="145">
+	<HeroName>太史慈</HeroName> 
+  	<icon16x16>taishici_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="146">
+  	<HeroName>贾诩</HeroName> 
+  	<icon16x16>jiaxu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="147">
+  	<HeroName>程昱</HeroName> 
+  	<icon16x16>chengyu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="148">
+  	<HeroName>徐晃</HeroName> 
+  	<icon16x16>xuhuang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="149">
+	<HeroName>马超</HeroName> 
+  	<icon16x16>machao_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="150">
+  	<HeroName>李典</HeroName> 
+  	<icon16x16>lidian_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="151">
+  	<HeroName>庞德</HeroName> 
+  	<icon16x16>pangde_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="154">
+  	<HeroName>庞统</HeroName> 
+  	<icon16x16>pangtong_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="175">
+	<HeroName>孙策</HeroName> 
+  	<icon16x16>sunce_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="179">
+  	<HeroName>大乔</HeroName> 
+  	<icon16x16>daqiao_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="180">
+  	<HeroName>甄姬</HeroName> 
+  	<icon16x16>zhenji_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="184">
+  	<HeroName>黄月英</HeroName> 
+  	<icon16x16>huangyueying_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="186">
+	<HeroName>陆逊</HeroName> 
+  	<icon16x16>luxun_16x16.bmp</icon16x16> 
+  </Hero>  
+  <Hero id="188">
+  	<HeroName>孙权</HeroName> 
+  	<icon16x16>sunquan_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="193">
+  	<HeroName>许褚</HeroName> 
+  	<icon16x16>xuchu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="203">
+  	<HeroName>徐庶</HeroName> 
+  	<icon16x16>xushu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="204">
+	<HeroName>鲁肃</HeroName> 
+  	<icon16x16>lusu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="218">
+  	<HeroName>甘宁</HeroName> 
+  	<icon16x16>ganning_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="221">
+  	<HeroName>法正</HeroName> 
+  	<icon16x16>fazheng_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="223">
+  	<HeroName>曹丕</HeroName> 
+  	<icon16x16>caopi_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="230">
+	<HeroName>董卓</HeroName> 
+  	<icon16x16>dongzhuo_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="231">
+  	<HeroName>颜良</HeroName> 
+  	<icon16x16>yanliang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="232">
+  	<HeroName>袁术</HeroName> 
+  	<icon16x16>yuanshu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="254">
+  	<HeroName>关平</HeroName> 
+  	<icon16x16>guanping_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="255">
+	<HeroName>邓艾</HeroName> 
+  	<icon16x16>dengai_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="256">
+  	<HeroName>夏侯惇</HeroName> 
+  	<icon16x16>xiahoudun_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="257">
+  	<HeroName>周仓</HeroName> 
+  	<icon16x16>zhoucang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="259">
+  	<HeroName>黄盖</HeroName> 
+  	<icon16x16>huanggai_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="260">
+	<HeroName>邓芝</HeroName> 
+  	<icon16x16>dengzhi_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="261">
+  	<HeroName>荀彧</HeroName> 
+  	<icon16x16>xunyu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="262">
+  	<HeroName>蒋钦</HeroName> 
+  	<icon16x16>jiangqin_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="263">
+  	<HeroName>孙尚香</HeroName> 
+  	<icon16x16>sunshangxiang_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="268">
+	<HeroName>诸葛瑾</HeroName> 
+  	<icon16x16>zhugejin_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="269">
+  	<HeroName>曹仁</HeroName> 
+  	<icon16x16>caoren_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="270">
+  	<HeroName>糜竺</HeroName> 
+  	<icon16x16>mizhu_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="271">
+  	<HeroName>凌统</HeroName> 
+  	<icon16x16>lingtong_16x16.bmp</icon16x16> 
+  </Hero>
+  <Hero id="272">
+	<HeroName>周泰</HeroName> 
+  	<icon16x16>zhoutai_16x16.bmp</icon16x16> 
+  </Hero>
+</HeroList>

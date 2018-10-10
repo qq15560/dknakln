@@ -1,0 +1,1112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringList>
+  <!--GateSvr-->
+  <String id="gs_auto" value="自动选择服务器" />
+  <String id="gs_public_dx" value="电信服务器" />
+  <String id="gs_public_lt" value="联通服务器" />
+  <!--User Status-->
+  <String id="user_status_online" value="在线" />
+  <String id="user_status_idle" value="空闲" />
+  <String id="user_status_away" value="离开" />
+  <String id="user_status_busy" value="忙碌" />
+  <String id="user_status_donotdisturb" value="请勿打扰" />
+  <String id="user_status_invisible" value="隐身" />
+  <String id="user_status_offline" value="离线" />
+  <!--Msg Type-->
+  <String id="msg_type_unknown" value="消息" />
+  <String id="msg_type_friend_add_req_notify" value="添加好友请求" />
+  <String id="msg_type_friend_add_rsp" value="添加好友结果" />
+  <String id="msg_type_friend_del_notify" value="删除好友通知" />
+  <String id="msg_type_friend_online" value="好友上线" />
+  <String id="msg_type_team_create_rsp" value="创建群结果" />
+  <String id="msg_type_team_disband_rsp" value="解散群结果" />
+  <String id="msg_type_team_disband_notify" value="解散群通知" />
+  <String id="msg_type_team_join_req_notify" value="申请加群请求" />
+  <String id="msg_type_team_join_rsp" value="申请加群结果" />
+  <String id="msg_type_team_invite_notify" value="邀请加群请求" />
+  <String id="msg_type_team_invite_rsp" value="邀请加群结果" />
+  <String id="msg_type_team_invite_rsp_ack" value="加群结果通知" />
+  <String id="msg_type_team_member_join_notify" value="群成员加入通知" />
+  <String id="msg_type_team_menber_quit_rsp" value="群成员退出结果" />
+  <String id="msg_type_team_menber_quit_notify" value="群成员退出通知" />
+  <String id="msg_type_team_change_info_rsp" value="更改群信息结果" />
+  <String id="msg_type_team_change_info_notify" value="更改群信息通知" />
+  <String id="msg_type_team_manage_rsp" value="群管理结果" />
+  <String id="msg_type_team_manage_notify" value="群管理通知" />
+  <String id="msg_type_guild_disband_notify" value="解散公会通知" />
+  <String id="msg_type_guild_member_join_notify" value="公会成员加入通知" />
+  <String id="msg_type_guild_menber_quit_notify" value="公会成员退出通知" />
+  <String id="msg_type_guild_manage_notify" value="公会管理通知" />
+  <String id="msg_type_guild_change_info_notify" value="更改公会信息通知" />
+  <String id="msg_type_corps_disband_notify" value="解散军团通知" />
+  <String id="msg_type_corps_member_join_notify" value="军团成员加入通知" />
+  <String id="msg_type_corps_menber_quit_notify" value="军团成员退出通知" />
+  <String id="msg_type_corps_manage_notify" value="军团管理通知" />
+  <String id="msg_type_corps_change_info_notify" value="更改军团信息通知" />
+  <String id="msg_type_chat_friend" value="好友聊天消息" />
+  <String id="msg_type_chat_team" value="群聊天消息" />
+  <String id="msg_type_chat_guild" value="公会聊天消息" />
+  <String id="msg_type_chat_corps" value="军团聊天消息" />
+  <String id="msg_type_chat_discussion" value="讨论组聊天消息" />
+  <String id="msg_type_chat_radio_req" value="语音聊天请求" />
+  <String id="msg_type_chat_radio_rsp" value="语音聊天回复" />
+  <String id="msg_type_chat_radio_notify" value="语音聊天通知" />
+  <String id="msg_type_system_msg" value="系统消息" />
+  <String id="msg_type_discussion_create_rsp" value="创建讨论组结果" />
+  <String id="msg_type_discussion_invite_rsp" value="邀请加讨论组结果" />
+  <String id="msg_type_discussion_member_join_notify" value="讨论组成员加入通知" />
+  <String id="msg_type_discussion_menber_quit_rsp" value="讨论组成员退出结果" />
+  <String id="msg_type_discussion_menber_quit_notify" value="讨论组成员退出通知" />
+  <String id="msg_type_discussion_change_info_rsp" value="更改讨论组信息结果" />
+  <String id="msg_type_discussion_disband_notify" value="讨论组解散通知" />
+  <!--DlgMainFrame-->
+  <String id="dlg_main_frame_btn_menu" value="菜单" />
+  <String id="dlg_main_frame_btn_settings" value="设置" />
+  <String id="dlg_main_frame_btn_find" value="查找" />
+  <!--DlgLogin / WndLoginAndPrompt-->
+  <String id="dlg_login_caption" value="登录" />
+  <String id="dlg_login_static_account" value="帐号:" />
+  <String id="dlg_login_static_pswd" value="密码:" />
+  <String id="dlg_login_checkbox_remember_pswd" value="记住密码" />
+  <String id="dlg_login_static_gate_svr" value="登录到:" />
+  <String id="dlg_login_btn_retry" value="重试" />
+  <String id="dlg_login_btn_login" value="登录" />
+  <String id="dlg_login_static_login_in_process" value="正在登录, 请稍候..." />
+  <String id="dlg_login_static_getfriendlist_in_progress" value="正在同步好友列表, 请稍候..." />
+  <String id="dlg_login_static_getfriendlist_fail" value="同步好友列表失败[%d]" />
+  <!--WndSearch-->
+  <String id="wnd_search_edit_search_index_title" value="搜索: 联系人、群、语音房间" />
+  <String id="wnd_search_edit_search_index_tooltip" value="输入对方ID, 昵称、语音房间等查找" />
+  <String id="wnd_search_btn_search_tooltip" value="查找" />
+  <!--WndMainPanelTabCtrl-->
+  <String id="wnd_mainpanel_tabitem_contact_text" value="联系人" />
+  <String id="wnd_mainpanel_tabitem_contact_tooltip" value="联系人" />
+  <String id="wnd_mainpanel_tabitem_recent_players_text" value="最近玩友" />
+  <String id="wnd_mainpanel_tabitem_recent_players_tooltip" value="最近在一起玩过游戏的人" />
+  <String id="wnd_mainpanel_tabitem_team_and_discussion_text" value="群/讨论组" />
+  <String id="wnd_mainpanel_tabitem_team_and_discussion_tooltip" value="群/讨论组" />
+  <String id="wnd_mainpanel_tabitem_guild_text" value="公会" />
+  <String id="wnd_mainpanel_tabitem_guild_tooltip" value="公会" />
+  <String id="wnd_mainpanel_tabitem_campus_text" value="校园" />
+  <String id="wnd_mainpanel_tabitem_campus_tooltip" value="校园" />
+  <String id="wnd_mainpanel_tabitem_invitefriend_text" value="邀请好友" />
+  <String id="wnd_mainpanel_tabitem_invitefriend_tooltip" value="批量邀请好友" />
+  <String id="wnd_mainpanel_tabitem_guild_audio_text" value="11语音" />
+  <String id="wnd_mainpanel_tabitem_guild_audio_tooltip" value="11语音" />
+  <String id="wnd_mainpanel_tabitem_across_plat_contact" value="跨平台好友" />
+  <String id="wnd_mainpanel_tabitem_across_plat_contact_tooltip" value="跨平台游戏好友" />
+  <!--WndContactTabCtrl-->
+  <String id="wnd_contact_tabitem_friend_text" value="我的好友" />
+  <String id="wnd_contact_tabitem_friend_tooltip" value="我的好友" />
+  <String id="wnd_contact_tabitem_guild_text" value="我的公会" />
+  <String id="wnd_contact_tabitem_guild_tooltip" value="我的公会" />
+  <!--WndTeamPaneTabCtrl-->
+  <String id="wnd_team_pane_tabitem_team_text" value="群" />
+  <String id="wnd_team_pane_tabitem_team_tooltip" value="群" />
+  <String id="wnd_team_pane_tabitem_discussion_text" value="讨论组" />
+  <String id="wnd_team_pane_tabitem_discussion_tooltip" value="讨论组" />
+  <!-- dlg invite to game -->
+  <String id="dlg_invite_to_game_txt_prompt" value="提示: 仅显示在线且无游戏状态的好友" />
+  <!--WndFriend-->
+  <String id="wnd_friend_group_ungrouped" value="我的好友" />
+  <String id="wnd_friend_group_stranger" value="陌生人" />
+  <String id="wnd_friend_group_blacklist" value="黑名单" />
+  <String id="wnd_friend_del_group_msgbox_caption" value="提示" />
+  <String id="wnd_friend_del_group_msgbox_text" value="删除分组后，组内联系人将被移至默认分组[我的好友]. 您确定删除分组[%s]吗?" />
+  <String id="wnd_friend_blocked_tooltip" value="您已阻止该好友" />
+  <!--create or rename group dlg -->
+  <String id="dlg_group_create_or_rename_caption" value="创建分组" />
+  <String id="dlg_group_create_or_rename_caption2" value="重名名分组" />
+  <String id="dlg_group_create_or_rename_sta_text" value="请输入分组名称(最多%d个字符):" />
+  <!--WndTeam-->
+  <String id="wnd_team_group_created_group" value="我创建的群" />
+  <String id="wnd_team_group_joined_group" value="我加入的群" />
+  <String id="wnd_team_quit_team_msgbox_text" value="确定退出群%s吗?" />
+  <String id="wnd_team_quit_team_msgbox_caption" value="退出群" />
+  <String id="wnd_team_disband_team_msgbox_text" value="确定解散群%s吗?" />
+  <String id="wnd_team_disband_team_msgbox_caption" value="解散群" />
+  <String id="wnd_guild_group_ungrouped" value="我的公会" />
+  <String id="wnd_team_my_discussion" value="我的讨论组" />
+  <String id="wnd_team_quit_discussion_msgbox_caption" value="退出讨论组" />
+  <!--WndRecent-->
+  <String id="wnd_recent_head_tooltip_format" value="英雄称号: %s&#x000D;&#x000A;杀/死/助: %d/%d/%d" />
+  <String id="wnd_recent_tooltip_myself" value="这是您自己" />
+  <String id="wnd_recent_tooltip_friend" value="这是您的好友" />
+  <String id="wnd_recent_tooltip_add_friend" value="点击添加好友" />
+  <String id="wnd_recent_discussion" value="讨论" />
+  <!-- UserTreeCtrl4GuildWnd -->
+  <String id="user_treectrl_for_guildwnd_text_guildaduio" value="公会语音" />
+  <String id="user_treectrl_for_guildwnd_tooltip_guildaduio" value="点击进入公会语音" />
+  <!-- DlgModifyAlias -->
+  <String id="dlg_modify_alias_text_caption" value="修改备注名" />
+  <String id="dlg_modify_alias_sta_prompt" value="请输入备注名: " />
+  <!-- DlgModifyTeamName -->
+  <String id="dlg_modify_team_name_text_caption" value="修改群名称" />
+  <String id="dlg_modify_team_name_sta_prompt" value="请输入新的群名称: " />
+  <String id="dlg_modify_discussion_name_text_caption" value="修改讨论组名称" />
+  <String id="dlg_modify_discussion_name_sta_prompt" value="请输入新的讨论组名称: " />
+  <!--Right Button Menu-->
+  <String id="right_button_menu_show_avator" value="显示头像" />
+  <String id="right_button_menu_friend_add" value="加为好友" />
+  <String id="right_button_menu_friend_chat" value="发送即时信息" />
+  <String id="right_button_menu_friend_audio" value="开始语音通话" />
+  <String id="right_button_menu_friend_delete" value="删除好友" />
+  <String id="right_button_menu_friend_copyname" value="复制玩家名" />
+  <String id="right_button_menu_modify_alias" value="修改备注名" />
+  <String id="right_button_menu_friend_set_group" value="移动联系人至" />
+  <String id="right_button_menu_friend_follow_to_game" value="跟进游戏" />
+  <String id="right_button_menu_friend_invite_to_game" value="邀请游戏" />
+  <String id="right_button_menu_friend_settings" value="打开设置中心" />
+  <String id="right_button_menu_friend_block" value="阻止好友" />
+  <String id="right_button_menu_friend_unblock" value="解除阻止" />
+  <String id="right_button_menu_friend_compare_score" value="对比战绩" />
+  <String id="right_button_menu_friend_score_center" value="查看战绩中心" />
+  <String id="right_button_menu_friend_personal_homepage" value="查看个人主页" />
+  <String id="right_button_menu_friend_follow_ta" value="关注TA" />
+  <String id="right_button_menu_friend_guild_invitation" value="公会邀请" />
+  <String id="right_button_menu_friend_invite_join_team" value="邀请加入群" />
+  <String id="right_button_menu_team_chat" value="发送群信息" />
+  <String id="right_button_menu_team_quit" value="退出群" />
+  <String id="right_button_menu_team_disband" value="解散群" />
+  <String id="right_button_menu_team_create" value="创建群" />
+  <String id="right_button_menu_team_rename" value="修改群名称" />
+  <String id="right_button_menu_team_setting_teaminfo" value="查看群资料" />
+  <String id="right_button_menu_team_setting_teammember" value="群成员管理" />
+  <String id="right_button_menu_team_setting_teamsetting" value="群消息设置" />
+  <String id="right_button_menu_guild_chat" value="发送公会信息" />
+  <String id="right_button_menu_guild_homepage" value="公会主页" />
+  <String id="right_button_menu_guild_setting_guildsetting" value="公会消息设置" />
+  <String id="right_button_menu_group_create" value="创建分组" />
+  <String id="right_button_menu_group_del" value="删除分组" />
+  <String id="right_button_menu_group_rename" value="重命名分组" />
+  <String id="right_button_menu_group_move_up" value="向上移动分组" />
+  <String id="right_button_menu_group_move_down" value="向下移动分组" />
+  <String id="right_button_menu_member_add_friend" value="加为好友" />
+  <String id="right_button_menu_member_remove" value="移除成员" />
+  <String id="right_button_menu_member_copy_name" value="复制玩家名" />
+  <String id="right_button_menu_member_chat" value="发送即时信息" />
+  <String id="right_button_menu_discussion_create" value="创建讨论组" />
+  <String id="right_button_menu_discussion_chat" value="发送即时信息" />
+  <String id="right_button_menu_discussion_rename" value="修改讨论组名称" />
+  <String id="right_button_menu_discussion_quit" value="退出讨论组" />
+  <String id="right_button_menu_undo" value="恢复" />
+  <String id="right_button_menu_redo" value="重做" />
+  <String id="right_button_menu_paste" value="粘贴(CTRL+V)" />
+  <String id="right_button_menu_cut" value="剪切(CTRL+X)" />
+  <String id="right_button_menu_copy" value="拷贝(CTRL+C)" />
+  <String id="right_button_menu_delete" value="删除" />
+  <String id="right_button_menu_selectall" value="全选(CTRL+A)" />
+  <String id="right_button_menu_clear" value="清屏" />
+  <!--Main Menu-->
+  <String id="main_menu_settings" value="设置" />
+  <String id="main_menu_update" value="检查更新" />
+  <String id="main_menu_about" value="关于" />
+  <String id="main_menu_change_user" value="更改用户" />
+  <String id="main_menu_exit" value="退出" />
+  <!-- Popup Menu For Personal Profile Wnd -->
+  <String id="popupmenu_for_personalprofilewnd_home" value="主页" />
+  <String id="popupmenu_for_personalprofilewnd_task" value="任务" />
+  <String id="popupmenu_for_personalprofilewnd_standings" value="战绩" />
+  <String id="popupmenu_for_personalprofilewnd_ladder" value="天梯" />
+  <String id="popupmenu_for_personalprofilewnd_guild" value="公会" />
+  <String id="popupmenu_for_personalprofilewnd_campus" value="校园" />
+  <!-- sanguo2 profile wnd -->
+  <String id="sanguo2_profile_wnd_txt_select_hero" value="使用英雄" />
+  <String id="sanguo2_profile_wnd_txt_level" value="等级" />
+  <String id="sanguo2_profile_wnd_txt_level_name" value="称号" />
+  <String id="sanguo2_profile_wnd_txt_match_count" value="总场次" />
+  <String id="sanguo2_profile_wnd_txt_winning_percentage" value="胜率" />
+  <String id="sanguo2_profile_wnd_txt_kda" value="KDA" />
+  <String id="sanguo2_profile_wnd_txt_uninstall_sanguo2_game_hint" value="您还未安装三国争霸2客户端" />
+  <String id="sanguo2_profile_wnd_txt_install" value="立即安装" />
+  <String id="sanguo2_profile_wnd_tooltip_install" value="点击立即安装三国争霸2客户端" />
+  <String id="sanguo2_profile_wnd_tooltip_live_video" value="点击观看直播" />
+  <String id="sanguo2_profile_wnd_tooltip_wonderful_video" value="点击观看精彩视频" />
+  <!-- Popup Menu For Contact TabCtrl -->
+  <String id="popupmenu_for_contacttabctrl_bigview" value="小头像" />
+  <String id="popupmenu_for_contacttabctrl_smallview" value="大头像" />
+  <!--DlgMsgBoxMini-->
+  <String id="dlg_msgboxmini_caption" value="消息盒子" />
+  <String id="dlg_msgboxmini_static_irgnore_all" value="忽略全部" />
+  <String id="dlg_msgboxmini_static_view_all" value="查看全部" />
+  <!--DlgCommInfoBox-->
+  <String id="dlg_comminfobox_caption_info" value="提示信息" />
+  <String id="dlg_comminfobox_caption_team" value="群信息" />
+  <String id="dlg_comminfobox_caption_sysmsg" value="系统消息" />
+  <!--DlgAboutKIT-->
+  <String id="dlg_about_caption" value="关于KIT" />
+  <String id="dlg_about_linkctrl_websites" value="&lt;a&gt;点击这里&lt;/a&gt;查看更改列表, 已知问题和待办事项, 或者访问&lt;a&gt;项目Wiki&lt;/a&gt;以了解更多信息." />
+  <!--DlgSettings-->
+  <String id="dlg_settings_caption" value="系统设置" />
+  <String id="dlg_settings_display_self_in_friend_list" value="在好友列表中显示自己的头像" />
+  <String id="dlg_settings_direct_open_on_new_msg" value="收到新消息时直接打开对应窗口" />
+  <String id="dlg_settings_popup_wnd_on_new_msg" value="收到新消息时弹出提示框" />
+  <String id="dlg_settings_friend_online_notify" value="显示好友上线通知" />
+  <String id="dlg_settings_accept_invite_from_friend" value="接受好友游戏邀请" />
+  <String id="dlg_settings_accept_invite_from_stranger" value="接受陌生人游戏邀请" />
+  <String id="dlg_settings_allow_follow_from_friend" value="允许好友跟进游戏" />
+  <String id="dlg_settings_allow_follow_from_stranger" value="允许陌生人跟进游戏" />
+  <String id="dlg_settings_recv_msg_from_stranger" value="接受陌生人聊天消息" />
+  <String id="dlg_settings_static_add_friend_auth" value="加好友验证方式" />
+  <String id="dlg_settings_add_friend_auth_allow_all" value="允许任何人" />
+  <String id="dlg_settings_add_friend_auth_need_verify" value="需要验证信息" />
+  <String id="dlg_settings_add_friend_auth_reject_all" value="不允许任何人" />
+  <!--DlgFind-->
+  <String id="dlg_find_caption" value="查找" />
+  <String id="dlg_find_tabitem_finduser" value="找好友" />
+  <String id="dlg_find_tabitem_finduser_tooltip" value="查找好友" />
+  <String id="dlg_find_tabitem_findteam" value="找群" />
+  <String id="dlg_find_tabitem_findteam_tooltip" value="查找群" />
+  <String id="dlg_find_tabitem_findaudioroom" value="找语音房间" />
+  <String id="dlg_find_tabitem_findaudioroom_tooltip" value="查找语音房间" />
+  <!--DlgFind: People Tab-->
+  <String id="dlg_find_people_static_input_prompt" value="请输入要查找的用户名(最多%d个字符):" />
+  <String id="dlg_find_people_btn_search" value="查找" />
+  <String id="dlg_find_people_static_search_result" value="查找结果(可双击加为好友):" />
+  <String id="dlg_find_people_listctrl_userid" value="用户ID" />
+  <String id="dlg_find_people_listctrl_status" value="状态" />
+  <String id="dlg_find_people_listctrl_nickname" value="昵称" />
+  <String id="dlg_find_people_listctrl_signature" value="签名" />
+  <String id="dlg_find_people_msgbox_no_searchkey" value="请输入要查找的用户名." />
+  <String id="dlg_find_people_btn_add_friend" value="添加好友" />
+  <String id="dlg_find_people_static_found_nothing" value="没有找到您要查找的用户哦, 试试别的名字吧." />
+  <String id="dlg_find_people_static_found_failed" value="查找好友失败, 错误码(%d)." />
+  <!--DlgFind: Team Tab-->
+  <String id="dlg_find_team_static_input_prompt" value="请输入要查找的群名或群号(最多%d个字符):" />
+  <String id="dlg_find_team_btn_search" value="查找" />
+  <String id="dlg_find_team_static_search_result" value="查找结果(可双击加入群):" />
+  <String id="dlg_find_team_listctrl_teamid" value="群ID" />
+  <String id="dlg_find_team_listctrl_teamname" value="群名称" />
+  <String id="dlg_find_team_listctrl_creator" value="创建者" />
+  <String id="dlg_find_team_listctrl_category" value="类别" />
+  <String id="dlg_find_team_listctrl_sub_category" value="子类别" />
+  <String id="dlg_find_team_msgbox_no_searchkey" value="请输入要查找的群名或群号." />
+  <String id="dlg_find_team_btn_apply_add_team" value="申请加群" />
+  <String id="dlg_find_team_static_found_nothing" value="没有找到您要查找的群哦, 试试别的名字或号码吧." />
+  <String id="dlg_find_team_static_found_failed" value="查找群失败, 错误码(%d)." />
+  <!--DlgAddFriend-->
+  <String id="dlg_add_friend_caption" value="添加好友" />
+  <String id="dlg_add_friend_btn_next" value="下一步" />
+  <String id="dlg_add_friend_btn_finish" value="完成" />
+  <String id="dlg_add_friend_btn_ignore" value="忽略" />
+  <String id="dlg_add_friend_btn_chat" value="开始聊天" />
+  <String id="dlg_add_friend_sender_input_static_identity_info" value="请输入验证信息(最多%d个字符):" />
+  <String id="dlg_add_friend_receiver_input_static_identity_info" value="验证信息:" />
+  <String id="dlg_add_friend_identity_default" value="" />
+  <String id="dlg_add_friend_receiver_input_radio_accept_and_add" value="同意并加为好友" />
+  <String id="dlg_add_friend_receiver_input_radio_reject" value="拒绝, 原因:" />
+  <!--DlgDelFriend-->
+  <String id="dlg_del_friend_caption" value="删除好友" />
+  <String id="dlg_del_friend_static_are_you_sure_to_del" value="您确定要删除以下好友吗?" />
+  <String id="dlg_del_friend_check_del_me_from_his_list" value="将我从对方的列表中删除" />
+  <!--dlg chat base-->
+  <String id="dlg_chat_base_text_send" value="发送" />
+  <String id="dlg_chat_base_tooltip_send" value="发送" />
+  <String id="dlg_chat_base_text_press_enter_to_send" value="按Enter发送消息" />
+  <String id="dlg_chat_base_text_press_ctrlandenter_to_send" value="按Ctrl+Enter发送消息" />
+  <String id="dlg_chat_base_tooltip_show_records" value="显示聊天记录" />
+  <String id="dlg_chat_base_tooltip_hide_records" value="不显示聊天记录" />
+  <String id="dlg_chat_base_tooltip_font" value="字体" />
+  <String id="dlg_chat_base_tooltip_emotion" value="表情" />
+  <String id="dlg_chat_base_tooltip_screen_lock" value="锁屏" />
+  <String id="dlg_chat_base_tooltip_screen_unlock" value="滚屏" />
+  <String id="dlg_chat_base_tooltip_audio" value="语音" />
+  <String id="dlg_chat_base_wait_for_friend_to_response_req" value="等待对方接受邀请..." />
+  <String id="dlg_chat_base_frend_request_to_audio" value="对方语音邀请中..." />
+  <!-- chat dlg tabctrl -->
+  <String id="chat_dlg_tabctrl_audio" value="语音" />
+  <String id="chat_dlg_tabctrl_tooltip_audio" value="语音" />
+  <String id="chat_dlg_tabctrl_video" value="视频" />
+  <String id="chat_dlg_tabctrl_tooltip_video" value="视频" />
+  <String id="chat_dlg_tabctrl_records" value="聊天记录" />
+  <String id="chat_dlg_tabctrl_tooltip_records" value="聊天记录" />
+  <String id="chat_dlg_tabctrl_transfile" value="文件传输" />
+  <String id="chat_dlg_tabctrl_tooltip_transfile" value="文件传输" />
+  <!-- dlg chat friend -->
+  <String id="dlg_chat_friend_tooltip_enter_game" value="跟随进入游戏" />
+  <String id="dlg_chat_friend_tooltip_invite_friend" value="邀请进入游戏" />
+  <String id="dlg_chat_friend_tooltip_forbid_friend" value="阻止好友" />
+  <String id="dlg_chat_friend_tooltip_unforbid_friend" value="解除阻止" />
+  <String id="dlg_chat_friend_tooltip_add_friend" value="添加好友" />
+  <String id="dlg_chat_friend_tooltip_homepage" value="个人主页" />
+  <String id="dlg_chat_friend_tooltip_create_discussion" value="创建讨论组" />
+  <!-- dlg chat team-->
+  <String id="dlg_chat_team_tooltip_setting" value="群设置" />
+  <!-- dlg chat guild-->
+  <String id="dlg_chat_guild_tooltip_homepage" value="公会主页" />
+  <String id="dlg_chat_guild_tooltip_setting" value="公会设置" />
+  <!-- dlg chat corps-->
+  <String id="dlg_chat_corps_tooltip_homepage" value="军团主页" />
+  <String id="dlg_chat_corps_tooltip_setting" value="军团设置" />
+  <!-- dlg chat discussion-->
+  <String id="dlg_chat_discussion_tooltip_setting" value="讨论组设置" />
+  <String id="dlg_chat_discussion_tooltip_invite" value="邀请好友加入讨论组" />
+  <String id="dlg_chat_discussion_tooltip_quit" value="退出讨论组" />
+  <String id="dlg_chat_discussion_tooltip_msg_setting" value="消息设置" />
+  <!--prompt box base wnd-->
+  <String id="prompt_box_base_caption" value="为您找到了多位金戈好友" />
+  <String id="prompt_box_base_wnd_onekey_addfriend" value="[一键添加]" />
+  <String id="prompt_box_base_wnd_tooltip_onekey_addfriend" value="一键添加" />
+  <!--Misc-->
+  <String id="msgbox_are_you_sure_to_quit" value="您确定要退出KIT吗?" />
+  <String id="msgbox_are_you_sure_to_change_user" value="您确定要退出, 更换其他帐号登录吗?" />
+  <!--From Platform-->
+  <String id="from_platform_from" value="来自" />
+  <String id="from_platform_11" value="11平台" />
+  <String id="from_platform_7f" value="起凡平台" />
+  <!--Games-->
+  <String id="game_11audio" value="11语音" />
+  <String id="game_qinxianlu" value="秦仙录" />
+  <String id="game_pve" value="三国群雄传" />
+  <String id="game_war3" value="魔兽争霸" />
+  <String id="game_war3_DotA" value="DotA" />
+  <String id="game_war3_IMBA" value="IMBA" />
+  <String id="game_war3_IMCA" value="IMCA" />
+  <String id="game_war3_OMG" value="OMG" />
+  <String id="game_war3_ZhenSan" value="真三" />
+  <String id="game_war3_XinChang" value="信长" />
+  <String id="game_war3_War3RPG" value="魔兽RPG" />
+  <String id="game_war3_ChenHai" value="澄海" />
+  <String id="game_war3_RenZheCun" value="忍者村" />
+  <String id="game_war3_SanGuo" value="魔兽三国" />
+  <String id="game_sanguo_JinGeTieMa" value="金戈铁马" />
+  <String id="game_sanguo_QunXiongZhuLu" value="群雄逐鹿" />
+  <String id="game_sanguo_SanGuoZhengBa" value="三国争霸" />
+  <String id="game_sanguo2_SanGuoZhengBa2" value="三国争霸2" />
+  <String id="game_ef_EF" value="终极火力(EF)" />
+  <String id="game_casual_LieYan" value="烈焰" />
+  <String id="game_casual_JieJiSanGuo" value="街机三国" />
+  <String id="game_casual_DaXiaZhuan" value="大侠传" />
+  <String id="game_casual_LongWenZhanyu" value="龙纹战域" />
+  <String id="game_casual_YuTian" value="御天" />
+  <String id="game_casual_DaGuanLan" value="空中大灌篮" />
+  <String id="game_casual_QianXian" value="英雄前线" />
+  <String id="game_casual_GongChengLveDi" value="攻城掠地" />
+  <String id="game_casual_QiangHun" value="枪魂" />
+  <String id="game_casual_YingXiongShenDian" value="英雄神殿" />
+  <String id="game_casual_LongZhiWenZhang" value="龙之纹章" />
+  <String id="game_casual_AnHeiShiJie" value="暗黑世界" />
+  <String id="game_casual_AoJian" value="傲剑" />
+  <String id="game_casual_DanDanTang" value="弹弹堂" />
+  <String id="game_casual_FengYunWuShuang" value="风云无双" />
+  <String id="game_casual_ZhengZhanSiFang" value="征战四方" />
+  <String id="game_casual_ReLiSaiChe" value="热力赛车" />
+  <String id="game_casual_HengSaoTianXia" value="横扫天下" />
+  <String id="game_casual_XiaoAoJiuTian" value="笑傲九天" />
+  <String id="game_casual_AoShiJiuChongTian" value="傲世九重天" />
+  <String id="game_casual_KuaiDaXiYou" value="快打西游" />
+  <String id="game_casual_DaTianShiZhiJian" value="大天使之剑" />
+  <!--Game Status-->
+  <String id="game_status_ready" value="准备中" />
+  <!--<String id="game_status_game" value="游戏中" />-->
+  <String id="game_status_game" value="中" />
+  <String id="game_status_gameassist" value="助战中" />
+  <String id="game_status_record" value="录像中" />
+  <String id="game_status_watch" value="观战中" />
+  <String id="game_status_readyformatch" value="组队匹配准备中" />
+  <String id="game_status_free" value="空闲中" />
+  <String id="game_status_in_audiolobby" value="在语音大厅中" />
+  <String id="game_status_in_audioroom" value="中" />
+  <!--金戈头衔-->
+  <String id="JinGe_Title_PoDi" value="破敌" />
+  <String id="JinGe_Title_MVP1" value="MVP1" />
+  <String id="JinGe_Title_JunYi" value="军医" />
+  <String id="JinGe_Title_PianJiang" value="偏将" />
+  <!--War3头衔-->
+  <String id="War3_Title_ShaLu" value="杀戮" />
+  <String id="War3_Title_FuHao" value="富豪" />
+  <String id="War3_Title_PoDi" value="破敌" />
+  <String id="War3_Title_PoJun" value="破军" />
+  <String id="War3_Title_PianJiang" value="偏将" />
+  <String id="War3_Title_BuWang" value="补王" />
+  <String id="War3_Title_YingHun" value="英魂" />
+  <String id="War3_Title_MVP1" value="MVP1" />
+  <String id="War3_Title_MVP2" value="MVP2" />
+  <String id="War3_Title_MVP3" value="MVP3" />
+  <!--DlgInviteToGame-->
+  <String id="dlg_itg_btn_btn_invite" value="发送邀请" />
+  <String id="dlg_itg_static_invite_progress" value="正在发送邀请...(%d/%d)" />
+  <!--WndStatusBar-->
+  <String id="wnd_statusbar_unread_msg_short" value="(%d)" />
+  <String id="wnd_statusbar_unread_msg_long" value="%d条未读消息" />
+  <String id="wnd_statusbar_for_jingelobby_text_msg" value="消息" />
+  <String id="wnd_statusbar_for_jingelobby_text_setting" value="设置" />
+  <!--Misc-->
+  <String id="msgbox_follow_to_game_friend_offline" value="您的好友目前不在线." />
+  <String id="msgbox_follow_to_game_friend_not_in_game_status" value="您的好友目前不在游戏中." />
+  <String id="msgbox_follow_to_game_friend_not_allow" value="对方设置了不允许跟进游戏." />
+  <String id="msgbox_invite_to_game_self_not_in_game_status" value="请先进入游戏, 再发送邀请." />
+  <String id="msgbox_invite_to_game_friend_offline" value="您的好友目前不在线." />
+  <String id="msgbox_invite_to_game_rejected" value="%s拒绝了您的游戏邀请." />
+  <String id="msgbox_invite_to_game_notactivated" value="%s还没有激活该游戏的权限." />
+  <String id="msgbox_invite_to_game_notinstalled" value="%s还没有安装该游戏." />
+  <String id="msgbox_invite_to_team_func_unavailable" value="%s正在使用的平台版本不支持群功能." />
+  <!--show userstatus wnd-->
+  <String id="wnd_show_userstatus_isnot_friend" value="对方不是您的好友, 请求" />
+  <String id="wnd_show_userstatus_add_friend" value="加为好友" />
+  <String id="wnd_show_userstatus_or" value="或" />
+  <String id="wnd_show_userstatus_refuse_msg" value="设置拒绝陌生人消息" />
+  <String id="wnd_show_userstatus_user_status" value="状态:" />
+  <String id="wnd_show_userstatus_user_location" value="位置:" />
+  <String id="wnd_show_userstatus_tooltip" value="点击可进入游戏" />
+  <String id="wnd_show_userstatus_gamestarttime_lessthan1min" value="少于1分钟" />
+  <String id="wnd_show_userstatus_gamestarttime" value="已进行%d分钟" />
+  <!--prompt box base wnd -->
+  <!--chat record title wnd-->
+  <String id="wnd_chat_record_caption" value="消息记录" />
+  <!--chat record wnd-->
+  <String id="wnd_chat_record_data" value="日期:" />
+  <!--chat record toolbar-->
+  <String id="dlg_chat_record_toolbar_tooltip_first" value="第一条" />
+  <String id="dlg_chat_record_toolbar_tooltip_lastest" value="最后一条" />
+  <String id="dlg_chat_record_toolbar_tooltip_pre" value="上一条" />
+  <String id="dlg_chat_record_toolbar_tooltip_next" value="下一条" />
+  <String id="dlg_chat_record_toolbar_title1" value="第" />
+  <String id="dlg_chat_record_toolbar_title2" value="页/%d页" />
+  <String id="dlg_chat_record_toolbar_error" value="请输入正确的页码" />
+  <!--chat record view-->
+  <String id="chat_record_view_menu_del_selected" value="删除选中记录" />
+  <String id="chat_record_view_menu_del_more" value="删除更多记录" />
+  <!-- del msgrecord more dlg-->
+  <String id="del_msgrecord_more_dlg_caption" value="删除消息记录" />
+  <String id="del_msgrecord_more_dlg_title1" value="请选择如何删除消息记录" />
+  <String id="del_msgrecord_more_dlg_title2" value="的消息记录" />
+  <String id="del_msgrecord_more_dlg_del_all" value="全部删除" />
+  <String id="del_msgrecord_more_dlg_del_only" value="只删除" />
+  <String id="del_msgrecord_more_dlg_combo_text0" value="今天之前" />
+  <String id="del_msgrecord_more_dlg_combo_text1" value="一周之前" />
+  <String id="del_msgrecord_more_dlg_combo_text2" value="一个月之前" />
+  <String id="del_msgrecord_more_dlg_combo_text3" value="三个月之前" />
+  <String id="del_msgrecord_more_dlg_combo_text4" value="半年之前" />
+  <String id="del_msgrecord_more_dlg_combo_text5" value="一年之前" />
+  <!-- dlg del msgrecord confirm box-->
+  <String id="dlg_del_msgrecord_confirm_box_caption" value="删除消息记录" />
+  <String id="dlg_del_msgrecord_confirm_box_hint" value="您确定删除选定的消息记录吗？" />
+  <!-- dlg find chatrecord-->
+  <String id="dlg_find_chatrecord_sta_text1" value="关键字：" />
+  <String id="dlg_find_chatrecord_hite_text" value="请输入查找内容" />
+  <String id="dlg_find_chatrecord_combo_text0" value="最近一周" />
+  <String id="dlg_find_chatrecord_combo_text1" value="最近三个月" />
+  <String id="dlg_find_chatrecord_combo_text2" value="最近一年" />
+  <String id="dlg_find_chatrecord_combo_text3" value="全部" />
+  <!-- dlg find chatrecord result hint-->
+  <String id="dlg_find_chatrecord_result_hint_sta_text" value="搜索不到结果" />
+  <!-- personal profile base wnd-->
+  <String id="wnd_personal_profile_base_normal_userid" value="" />
+  <String id="wnd_personal_profile_base_normal_userid_tooltip" value="" />
+  <String id="wnd_personal_profile_base_360_userid" value="[未认证]" />
+  <String id="wnd_personal_profile_base_360_userid_tooltip" value="请点击完成防沉迷认证与账号保护" />
+  <String id="wnd_personal_profile_base_temp_userid" value="[游客]" />
+  <String id="wnd_personal_profile_base_temp_userid_tooltip" value="点击升级为11正式玩家, 11欢迎您" />
+  <String id="wnd_personal_profile_base_no_passport" value="[未绑定]" />
+  <String id="wnd_personal_profile_base_no_passport_tooltip" value="为确保您的账号安全, 建议您创建通行证" />
+  <String id="wnd_personal_profile_base_no_guild" value="暂无公会" />
+  <String id="wnd_personal_profile_base_myself_no_guild_tooltip" value="您还没有加入任何公会, 赶紧加入一个吧" />
+  <String id="wnd_personal_profile_base_friend_no_guild_tooltip" value="您的好友还没有加入任何公会" />
+  <String id="wnd_personal_profile_base_community" value="社区" />
+  <String id="wnd_personal_profile_base_community_tooltip" value="我的社区" />
+  <String id="wnd_personal_profile_base_honor_tooltip" value="荣誉等级%d级(%d荣誉值), 点击了解荣誉系统" />
+  <String id="wnd_personal_profile_base_credit_tooltip" value="声望值, 点击可兑换道具" />
+  <String id="wnd_personal_profile_base_knapsack_tooltip" value="道具商城" />
+  <String id="wnd_personal_profile_base_record_tooltip" value="录像" />
+  <String id="wnd_personal_profile_base_recharge_tooltip" value="我的钱包" />
+  <String id="wnd_personal_profile_base_no_signature" value="编辑个性签名" />
+  <String id="wnd_personal_profile_base_no_signature_tooltip" value="编辑个性签名" />
+  <String id="wnd_personal_profile_base_edit_name" value="编辑昵称" />
+  <String id="wnd_personal_profile_base_edit_signature" value="编辑个性签名" />
+  <!-- WndPersonalProfileForStdAloneMode -->
+  <String id="wnd_personal_profile_for_stdalone_mode_msgcount_tooltip" value="打开消息盒子" />
+  <!-- WndStatusBarForJingeLobbyMode -->
+  <String id="wnd_statusbar_for_jingelobby_mode_text_no_msg" value="没有可读消息" />
+  <String id="wnd_statusbar_for_jingelobby_mode_text_no_msg_title" value="提示" />
+  <!-- dlg create team-->
+  <String id="dlg_create_team_caption" value="创建群" />
+  <String id="dlg_create_team_text_team_name" value="群 名 称:" />
+  <String id="dlg_create_team_text_team_category" value="群 类 别:" />
+  <String id="dlg_create_team_text_team_desc" value="群 描 述:" />
+  <String id="dlg_create_team_radio_text_anybody" value="允许任何人加入该群" />
+  <String id="dlg_create_team_radio_text_auth" value="需要身份验证才能加入该群" />
+  <String id="dlg_create_team_radio_text_disallow" value="不允许任何人加入该群" />
+  <String id="dlg_create_team_radio_text_pwd" value="需要密码加入该群" />
+  <String id="dlg_create_team_text_auth_type" value="验证方式:" />
+  <String id="dlg_create_team_text_pwd" value="密码:" />
+  <String id="dlg_create_team_text_hint_input_team_name" value="请输入要创建的群名称" />
+  <String id="dlg_create_team_text_hint_choose_category" value="请选择群类型" />
+  <String id="dlg_create_team_text_hint_input_team_pwd" value="请输入群密码" />
+  <String id="dlg_create_team_btn_create" value="创 建" />
+  <String id="dlg_create_team_btn_cancel" value="取 消" />
+  <!-- team category-->
+  <String id="select_team_category" value="请选择群类别" />
+  <String id="select_team_sub_category" value="请选择群子类别" />
+  <String id="team_category_war3" value="War3游戏" />
+  <String id="team_category_sanguo" value="三国游戏" />
+  <String id="team_category_ef" value="终极火力" />
+  <String id="team_category_casual" value="休闲游戏" />
+  <String id="team_category_others" value="其他" />
+  <String id="team_sub_category_others_Other" value="其他" />
+  <!-- dlg team setting -->
+  <String id="dlg_team_setting_caption" value="群设置" />
+  <String id="dlg_team_setting_btn_change_teamavator" value="更换图标" />
+  <!-- dlg guild setting -->
+  <String id="dlg_guild_setting_caption" value="公会设置" />
+  <!-- dlg team setting tabctrl -->
+  <String id="dlg_team_setting_tabitem_teaminfo" value="群信息" />
+  <String id="dlg_team_setting_tabitem_teaminfo_tooltip" value="群信息" />
+  <String id="dlg_team_setting_tabitem_teammember" value="群成员" />
+  <String id="dlg_team_setting_tabitem_teammember_tooltip" value="群成员" />
+  <String id="dlg_team_setting_tabitem_teamprofile" value="群名片" />
+  <String id="dlg_team_setting_tabitem_teamprofile_tooltip" value="群名片" />
+  <String id="dlg_team_setting_tabitem_setting" value="群设置" />
+  <String id="dlg_team_setting_tabitem_setting_tooltip" value="群设置" />
+  <!-- dlg guild setting tabctrl -->
+  <String id="dlg_guild_setting_tabitem_setting" value="公会设置" />
+  <String id="dlg_guild_setting_tabitem_setting_tooltip" value="公会设置" />
+   <!-- dlg team setting tab team info -->
+  <String id="dlg_team_setting_tab_teaminfo_text_teamid" value="群号码:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_creatorid" value="创建者:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_teamname" value="群名称:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_teamalias" value="备注:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_teamcategory" value="类别:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_createtime" value="创建时间:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_teamdesc" value="群描述:" />
+  <String id="dlg_team_setting_tab_teaminfo_text_teamnotice" value="群公告:" />
+  <!-- dlg team setting tab team member -->
+  <String id="dlg_team_setting_tab_teammember_btn_add_member" value="添加成员" />
+  <String id="dlg_team_setting_tab_teammember_btn_del_member" value="移除成员" />
+  <String id="dlg_team_setting_tab_teammember_btn_promote_mgr" value="设置管理员" />
+  <String id="dlg_team_setting_tab_teammember_btn_del_mgr" value="取消管理员" />
+  <String id="dlg_team_setting_tab_teammember_listctrl_col_role" value="" />
+  <String id="dlg_team_setting_tab_teammember_listctrl_col_account" value="账号" />
+  <String id="dlg_team_setting_tab_teammember_listctrl_col_alias" value="昵称" />
+  <String id="dlg_team_setting_tab_teammember_listctrl_col_gender" value="性别" />
+  <String id="dlg_team_setting_tab_teammember_listctrl_col_lasttm" value="最后发言" />
+  <!-- dlg team setting tab setting -->
+  <String id="dlg_team_setting_tab_setting_team_auth" value="身份验证:" />
+  <String id="dlg_team_setting_tab_setting_radio_auth_type_anybody" value="允许任何人加入该群" />
+  <String id="dlg_team_setting_tab_setting_radio_auth_type_auth" value="需要身份验证才能加入该群" />
+  <String id="dlg_team_setting_tab_setting_radio_auth_type_disallow" value="不允许任何人加入该群" />
+  <String id="dlg_team_setting_tab_setting_radio_auth_type_pwd" value="需要密码加入该群" />
+  <String id="dlg_team_setting_tab_setting_text_pwd" value="密码:" />
+  <String id="dlg_team_setting_tab_setting_team_msg_setting" value="群信息设置:" />
+  <String id="dlg_team_setting_tab_setting_radio_msg_auto_popup" value="自动弹出消息" />
+  <String id="dlg_team_setting_tab_setting_radio_msg_prompt" value="接受并提示消息" />
+  <String id="dlg_team_setting_tab_setting_radio_msg_no_prompt" value="接受但不提示消息" />
+  <String id="dlg_team_setting_tab_setting_radio_msg_msg_count_only" value="不提示信息只显示数目" />
+  <String id="dlg_team_setting_tab_setting_radio_msg_shield_all_msg" value="完全屏蔽群内信息" />
+  <!-- dlg guild setting tab setting -->
+  <String id="dlg_guild_setting_tab_setting_guild_msg_setting" value="公会信息设置:" />
+  <String id="dlg_guild_setting_tab_setting_radio_msg_auto_popup" value="自动弹出消息" />
+  <String id="dlg_guild_setting_tab_setting_radio_msg_prompt" value="接受并提示消息" />
+  <String id="dlg_guild_setting_tab_setting_radio_msg_no_prompt" value="接受但不提示消息" />
+  <String id="dlg_guild_setting_tab_setting_radio_msg_msg_count_only" value="不提示信息只显示数目" />
+  <String id="dlg_guild_setting_tab_setting_radio_msg_shield_all_msg" value="完全屏蔽公会信息" />
+  <!-- dlg invite join discussion -->
+  <String id="dlg_invite_create_discussion" value="创建讨论组" />
+  <!-- wnd popup personal profile -->
+  <String id="wnd_popup_personal_profile_no_guild" value="暂无公会" />
+  <String id="wnd_popup_personal_profile_userlevel" value="平台等级: %u &#x000D;&#x000A;当前平台活跃点数: %I64u &#x000D;&#x000A;升级所需活跃点数: %I64u"/>
+  <String id="wnd_popup_personal_profile_gamestatus_title" value="当前状态" />
+  <String id="wnd_popup_personal_profile_playedgame_title" value="玩过的游戏" />
+  <!-- wnd userlist title-->
+  <String id="wnd_userlist_title_text_team_member" value="群成员" />
+  <String id="wnd_userlist_title_text_guild_member" value="公会成员" />
+  <String id="wnd_userlist_title_text_discussion_member" value="讨论组成员" />  
+  <String id="wnd_userlist_title_text_corps_member" value="军团成员" />
+  <String id="wnd_userlist_tooltip_sanguo2bk_1" value="好友列表底纹(土豪金), 下载三国争霸2最新客户端, 并访问专题页面获取." />
+  <String id="wnd_userlist_tooltip_sanguo2bk_2" value="好友列表底纹(中国红), 参加三国争霸2游戏抽奖活动获取." />
+  <!-- dlg team sysmsg-->
+  <String id="dlg_team_sysmsg_caption" value="系统消息" />
+  <String id="dlg_team_sysmsg_radio_agree" value="同意" />
+  <String id="dlg_team_sysmsg_radio_refuse" value="拒绝, 理由:" />
+  <!-- dlg apply join team-->
+  <String id="dlg_apply_join_team_caption" value="申请加入群" />
+  <String id="dlg_apply_join_team_sta_input_indentity" value="请输入认证消息(最多%d个字符):" />
+  <String id="dlg_apply_join_team_sta_input_pwd" value="请输入群密码:" />
+  <!-- dlg msgbox -->
+  <String id="dlg_msgbox_caption" value="消息盒子" />
+  <String id="dlg_msgbox_tabitem_unreadmsg_text" value="未读消息" />
+  <String id="dlg_msgbox_tabitem_unreadmsg_tooltip" value="未读消息" />
+  <String id="dlg_msgbox_tabitem_history_text" value="历史记录" />
+  <String id="dlg_msgbox_tabitem_history_tooltip" value="历史记录" />
+  <!-- common string -->
+  <String id="common_string_ok" value="确定" />
+  <String id="common_string_cancel" value="取消" />
+  <String id="common_string_apply" value="应用" />
+  <String id="common_string_close" value="关闭" />
+  <String id="common_string_create_team" value="创建群" />
+  <String id="common_string_create_discussion" value="创建讨论组" />
+  <String id="common_string_create_guild" value="创建/加入公会" />
+  <String id="common_string_guild_audio" value="公会语音" />
+  <String id="common_string_guild_chat" value="公会聊天" />
+  <String id="common_string_sending" value="(已发送)" />
+  <String id="common_string_accept" value="(已接受)" />
+  <String id="common_string_refuse" value="(已拒绝)" />
+  <String id="common_string_notactivated" value="(未激活)" />
+  <String id="common_string_notinstalled" value="(未安装)" />
+  <String id="common_string_accept2" value="接受" />
+  <String id="common_string_refuse2" value="拒绝" />
+  <String id="common_string_handup" value="挂断" />
+  <String id="common_string_audio_emotion" value="语言表情" />
+  <String id="common_string_listen" value="听听看" />
+  <String id="common_string_reply" value="回一个" />
+  <String id="common_string_prompt" value="提示" />
+  <String id="common_string_day" value="天" />
+  <String id="common_string_hour" value="时" />
+  <String id="common_string_minute" value="分" />
+  <String id="common_string_second" value="秒" />
+  <String id="common_string_feedback" value="反馈问题" />
+  <String id="common_string_guild_icon_huangguan" value="皇冠公会微章" />
+  <String id="common_string_guild_icon_xuehua" value="雪花公会微章" />
+  <String id="common_string_guild_icon_jiuhulu" value="酒葫芦公会微章" />
+  <String id="common_string_guild_level" value="公会等级" />
+  <String id="common_string_audioing" value="正在使用语音聊天" />
+  <String id="common_string_audio_speaking" value="正在语音发言中..." />
+  <String id="common_string_click_participate" value="点击参与" />
+  <String id="common_string_server_connecting" value="正在建立语音连接" />
+  <String id="common_string_open_audio" value="打开语音" />
+  <String id="common_string_close_audio" value="关闭语音" />
+  <String id="common_string_undefine" value="未定义" />
+  <String id="common_string_guild" value="我的公会" />
+  <String id="common_string_lobby" value="大厅" />
+  <String id="common_string_room" value="房间" />
+  <String id="common_string_level" value="等级" />
+  <String id="common_string_platform_level_caption" value="平台等级" />
+  <String id="common_string_auth_guild" value="认证公会" />
+  <String id="common_string_select_user" value="选择联系人" />
+  <String id="common_string_contacts" value="联系人:" />
+  <String id="common_string_selected_contacts" value="已选联系人:" />
+  <String id="common_string_add" value="添加&gt;&gt;" />
+  <String id="common_string_del" value="&lt;&lt;删除" />
+  <String id="common_string_quit_discussion_query_text" value="确定退出讨论组%s吗?" />
+  <String id="common_string_notice" value="公告" />
+  <String id="common_string_edit_notice_prompt" value="点击编辑公告" />
+  <String id="common_string_text_game" value="游戏" />
+  <String id="common_string_11_vip" value="VIP会员" />
+  <String id="common_string_no_11_vip" value="VIP会员未激活" />
+  <!-- audio mode -->
+  <String id="audio_mode" value="语音模式" />
+  <String id="audio_mode_free_speaking" value="自由发言" />
+  <String id="audio_mode_press_key" value="按键模式" />
+  <String id="audio_mode_press_mouse" value="按鼠标模式" />
+  <!-- team role -->
+  <String id="team_role_owner" value="群主" />
+  <String id="team_role_mgr" value="群管理员" />
+  <!-- guild role -->
+  <String id="guild_role_owner" value="会长" />
+  <String id="guild_role_mgr" value="人事管理" />
+  <!-- error string -->
+  <String id="error_string_unknow" value="未知错误" />
+  <String id="error_string_fail" value="操作失败" />
+  <String id="error_string_success" value="操作成功" />
+  <String id="error_string_wrong_pwd" value="帐号或密码错误" />
+  <String id="error_string_wrong_account" value="帐号或密码错误" />
+  <String id="error_string_wrong_svr" value="服务器错误" />
+  <String id="error_string_accept" value="接受" />
+  <String id="error_string_refuse" value="拒绝" />
+  <String id="error_string_err_arg" value="参数错误" />
+  <String id="error_string_err_privilege" value="权限错误" />
+  <String id="error_string_err_protobuf" value="服务器解析错误" />
+  <String id="error_string_user_offline" value="用户不在线" />
+  <String id="error_string_err_serialise_protobuf" value="服务器错误" />
+  <String id="error_string_err_svrmemory_allocate" value="服务器错误" />
+  <String id="error_string_err_svr_timeout" value="服务器超时" />
+  <String id="error_string_err_max_friends" value="好友人数达到上限" />
+  <String id="error_string_err_login_auth" value="认证失败" />
+  <String id="error_string_err_login_auth_pwdcrc" value="密码认证错误" />
+  <String id="error_string_err_has_logout" value="已经登出" />
+  <String id="error_string_err_max_groups" value="分组数达到上限" />
+  <String id="error_string_err_max_teams" value="群个数达到上限" />
+  <String id="error_string_err_max_discussion" value="讨论组个数达到上限" />
+  <String id="error_string_err_max_teammembers" value="群成员个数达到上限" />
+  <String id="error_string_err_max_discussionmembers" value="讨论组成员个数达到上限" />
+  <String id="error_string_err_need_auth" value="需要认证" />
+  <String id="error_string_err_frequently" value="操作过于频繁" />
+  <String id="error_string_err_daily_max" value="操作次数达到每天上限" />
+  <String id="error_string_connecting" value="登录中" />
+  <String id="error_string_connected" value="登录成功" />
+  <String id="error_string_connect_timeout" value="登录超时" />
+  <String id="error_string_connect_interrupt" value="登录连接中断" />
+  <String id="error_string_connect_err" value="登录失败" />
+  <String id="error_string_disconnected" value="网络连接断开" />
+  <String id="error_string_cennect_closed" value="网络连接关闭" />
+  <String id="error_string_logout" value="登出状态" />
+  <String id="error_string_login_cancel" value="取消登录" />
+  <String id="error_string_connect_redirection" value="登录中" />
+  <String id="error_string_keepalive_timeout" value="网络连接超时" />
+  <String id="error_string_connect_delay" value="登录中" />
+  <String id="error_string_network_err" value="网络连接异常" />
+  <String id="error_string_keepalive_timeout_for_dormancy" value="网络连接异常" />
+  <!-- result template string-->
+  <!-- about login -->
+  <String id="result_template_string_input_ap" value="请输入帐号和密码." />
+  <String id="result_template_string_already_logined" value="您已经登录%s, 不能重复登录." />
+  <String id="result_template_string_invalid_account" value="不正确的帐号格式." />
+  <String id="result_template_string_invalid_login_info" value="不正确的登录信息." />
+  <String id="result_template_string_login_fail" value="登录失败[%d]" />
+  <String id="result_template_string_connection" value="网络连接异常[%d]" />
+  <!-- about chat -->
+  <String id="result_template_string_chat_text" value="$[$%s$]$说:%s" />
+  <String id="result_template_string_cannot_chat_with_myself" value="您不能和自己聊天." />
+  <String id="result_template_string_send_msg_failed" value="消息&quot;%s&quot;发送失败. 原因:%s, 错误码[%d]." />
+  <String id="result_template_string_send_team_msg_failed" value="群消息&quot;%s&quot;发送失败. 原因:%s, 错误码[%d]." />
+  <String id="result_template_string_speak_slowly" value="您发送消息的速度过快, 请休息一下." />
+  <String id="result_template_string_offline_cannot_send_msg" value="您已经处于离线状态, 无法发送消息, 请上线后再尝试." />
+  <String id="result_template_string_msg_too_long" value="发送消息内容超长，请分条发送." />
+  <String id="result_template_string_cannot_send_audioreq" value="您已经处于离线状态, 无法发送语音聊天请求, 请上线后再尝试." />
+  <String id="result_template_string_cannot_friend_offline" value="对方不在线, 收不到您的语音通话请求." />
+  <String id="result_template_string_close_prompt_when_audio" value="如果关闭窗口, 将会中止语音会话, 是否关闭窗口." />
+  <String id="result_template_string_req_audio_chat_by_friend" value="对方请求与您进行语音聊天..." />
+  <String id="result_template_string_accept_audio_req_by_friend" value="对方接受您的语音聊天请求" />
+  <String id="result_template_string_refuse_audio_req_by_friend" value="对方拒绝您的语音聊天请求" />
+  <String id="result_template_string_cancel_audio_req_by_friend" value="对方取消了语音聊天请求" />
+  <String id="result_template_string_stop_audio_by_friend" value="对方中止了语音聊天, 通话时长" />
+  <String id="result_template_string_req_audio_chat_by_self" value="您请求与对方进行语音聊天..." />
+  <String id="result_template_string_accept_audio_req_by_self" value="您接受对方的语音聊天请求" />
+  <String id="result_template_string_refuse_audio_req_by_self" value="您拒绝对方的语音聊天请求" />
+  <String id="result_template_string_cancel_audio_req_by_self" value="您取消了语音聊天请求" />
+  <String id="result_template_string_stop_audio_by_self" value="您中止了语音聊天, 通话时长" />
+  <String id="result_template_string_vesion_of_friend_donot_support_audio" value="对不起, 对方版本不支持语音聊天功能" />
+  <String id="result_template_string_audio_stop_because_friend_offline" value="由于对方离线, 语音聊天中止" />
+  <String id="result_template_string_audio_stop_because_self_offline" value="由于您离线, 语音聊天中止" />
+  <String id="result_template_string_close_cru_audio_then_start_next" value="对不起, 您正在语音聊天中, 请先退出当前语音通话." />
+  <String id="result_template_string_friend_is_audioing" value="对方正在语音聊天中, 请求失败." />
+  <String id="result_template_string_block_friend_prompt_when_audio" value="您们正在语音聊天中, 如果阻止好友的话, 则会中断语音聊天, 确定阻止好友吗?" />
+  <String id="result_template_string_be_sure_stop_audio" value="您确定要关闭语音聊天聊天吗?" />
+  <String id="result_template_string_audio_req_timeout" value="对方目前无法接听, 语音请求自动取消, 请稍后重试." />
+  <String id="result_template_string_friend_auto_stop_audioreq" value="对方向您发起语音会话, 由于您长时间未接听, 该请求自动取消." />
+  <String id="result_template_string_audio_feedback" value="语音功能还处于测试阶段, 欢迎您向我们" />
+  <String id="result_template_string_use_teamaudio_by_self" value="您开始使用群语音" />
+  <String id="result_template_string_use_teamaudio_by_friend" value="%s开始使用群语音" />
+  <String id="result_template_string_use_guildaudio_by_self" value="您开始使用公会语音" />
+  <String id="result_template_string_use_corpsaudio_by_self" value="您开始使用军团语音" />
+  <String id="result_template_string_use_guildaudio_by_friend" value="%s开始使用公会语音" />
+  <String id="result_template_string_use_corpsaudio_by_friend" value="%s开始使用军团语音" />
+  <String id="result_template_string_open_team_audio" value="您已经参与了该群语音" />
+  <String id="result_template_string_close_team_audio" value="您已经退出了该群语音" />
+  <String id="result_template_string_open_guild_audio" value="您已经参与了该公会语音" />
+  <String id="result_template_string_open_corps_audio" value="您已经参与了该军团语音" />
+  <String id="result_template_string_close_guild_audio" value="您已经退出了该公会语音" />
+  <String id="result_template_string_close_corps_audio" value="您已经退出了该军团语音" />
+  <String id="result_template_string_connect_audio_server" value="正在建立语音连接, 请稍等" />
+  <String id="result_template_string_participate_team_audio_failed" value="对不起, 您已经使用了语音功能, 参与群语音失败. 请先关闭当前语音功能，再尝试." />
+  <String id="result_template_string_participate_guild_audio_failed" value="对不起, 您已经使用了语音功能, 参与公会语音失败. 请先关闭当前语音功能，再尝试." />
+  <String id="result_template_string_open_discussion_audio" value="您已经参与了该讨论组语音" />
+  <String id="result_template_string_close_discussion_audio" value="您已经退出了该讨论组语音" />
+  <String id="result_template_string_use_discussionaudio_by_self" value="您开始使用讨论组语音" />
+  <String id="result_template_string_use_discussionaudio_by_friend" value="%s开始使用讨论组语音" />
+  <String id="result_template_string_participate_discussion_audio_failed" value="对不起, 您已经使用了语音功能, 参与讨论组语音失败. 请先关闭当前语音功能，再尝试." />
+  <String id="result_template_string_participate_corps_audio_failed" value="对不起, 您已经使用了语音功能, 参与军团语音失败. 请先关闭当前语音功能，再尝试." />
+  <String id="result_template_string_user_join_discussion" value="%s加入讨论组." />
+  <String id="result_template_string_user_quit_discussion" value="%s退出讨论组." />
+  <String id="result_template_string_please_select_discussion_member" value="请选择讨论组成员." />
+  <!-- about friend -->
+  <String id="result_template_string_addfiend_req_sent" value="添加好友请求已发送. 请等待对方确认." />  
+  <String id="result_template_string_has_added_you" value="$[$%s$]$已将您加为好友." />
+  <String id="result_template_string_add_friend_req_notify" value="$[$%s$]$请求加您为好友, 验证信息:%s" />
+  <String id="result_template_string_accept_addfiend" value="$[$%s$]$同意了您的加好友请求" />
+  <String id="result_template_string_reject_addfiend" value="对方拒绝了您的加好友请求, 理由: %s" />
+  <String id="result_template_string_reject_addfiend_2" value="$[$%s$]$拒绝了您的加好友请求, 理由: %s" />
+  <String id="result_template_string_over_max_friends" value="对方好友人数已达上限, 不能添加新的好友了." />
+  <String id="result_template_string_add_friend_success" value="添加好友成功. 你们可以开始聊天了." />
+  <String id="result_template_string_add_friend_failed" value="添加好友失败. 原因:%s, 错误码[%d]." />
+  <String id="result_template_string_cannot_addfiend_with_myfiend" value="您不能添加自己为好友." />
+  <String id="result_template_string_is_already_friend" value="%s已经是您的好友, 不能重复添加." />
+  <String id="result_template_string_self_over_max_friends" value="您的好友已达人数上限, 不能添加新的好友了." />
+  <String id="result_template_string_add_friend_daily_max" value="您今日申请加好友数量已达到上限50个." />
+  <String id="result_template_string_add_friend_frequently" value="您短时间内加好友过于频繁，请休息片刻！" />
+  <String id="result_template_string_reject_any_addfriend_req" value="对方设置了不允许任何人加为好友." />
+  <String id="result_template_string_del_friend_notify" value="$[$%s$]$已将您从好友列表中删除." />
+  <String id="result_template_string_del_friend_failed" value="删除好友失败. 原因:%s, 错误码[%d]." />
+  <String id="result_template_string_modify_alias_failed" value="修改好友备注名失败." />
+  <!-- about group -->
+  <String id="result_template_string_group_name_invalid" value="分组名称要求不能为空且不超过%d个字符" />
+  <String id="result_template_string_create_group_failed" value="创建分组失败" />
+  <String id="result_template_string_rename_group_failed" value="重命名分组失败" />
+  <String id="result_template_string_create_group_failed_more_than_max" value="已达到分组数目限制, 创建分组失败." />
+  <String id="result_template_string_set_group_failed" value="设置好友分组失败" />
+  <String id="result_template_string_del_group_failed" value="删除分组失败" />
+  <String id="result_template_string_move_group_failed" value="移动分组失败" />
+  <!-- about team -->
+  <String id="result_template_string_join_team_success" value="加入群$[$%s$]$成功" />
+  <String id="result_template_string_join_team_failed" value="加入群$[$%s$]$失败, 原因:%s, 错误码[%d]"/>
+  <String id="result_template_string_join_team_refuse" value="群管理员拒绝您加入群$[$%s$]$, 理由:%s" />
+  <String id="result_template_string_join_team_has_been" value="加入群$[$%s$]$失败, 原因:您已经是该群成员, 错误码[%d]" />
+  <String id="result_template_string_team_max" value="加入群失败, 原因:群数量达到上限" />
+  <String id="result_template_string_invite_join_team_has_been" value="邀请好友$[$%s$]$加入群$[$%s$]$失败, 原因:TA已经是该群成员, 错误码[%d]" />
+  <String id="result_template_string_has_been_team_member" value="您已经是群$[$%s$]$的成员, 不能重复添加."/>
+  <String id="result_template_string_join_team_need_auth" value="请等待群$[$%s$]$的管理员审核." />
+  <String id="result_template_string_join_team_refuse_private" value="群$[$%s$]$为私有群, 管理员拒绝任何人加入" />
+  <String id="result_template_string_quit_team_failed" value="退出群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_quit_team_success" value="退出群$[$%s$]$成功" />
+  <String id="result_template_string_disband_team_success" value="解散群$[$%s$]$成功" />
+  <String id="result_template_string_disband_team_failed" value="解散群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_create_team_failed" value="创建群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_create_team_sys_success" value="创建群$[$%s$]$成功" />
+  <String id="result_template_string_disband_team_success_notify" value="管理员$[$%s$]$解散了群$[$%s$]$" />
+  <String id="result_template_string_change_teaminfo_success" value="设置群$[$%s$]$信息成功" />
+  <String id="result_template_string_change_teaminfo_failed" value="设置群$[$%s$]$信息失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_transfer_team_success" value="转让群$[$%s$]$成功" />
+  <String id="result_template_string_transfer_team_failed" value="转让群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_promote_mgr_success" value="设置群$[$%s$]$管理员成功" />
+  <String id="result_template_string_promote_mgr_failed" value="设置群$[$%s$]$管理员失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_fire_mgr_success" value="取消群$[$%s$]$管理员成功" />
+  <String id="result_template_string_fire_mgr_failed" value="取消群$[$%s$]$信息失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_disable_speak_success" value="设置群$[$%s$]$禁言成功" />
+  <String id="result_template_string_disable_speak_failed" value="设置群$[$%s$]$禁言失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_kickout_success" value="移除群$[$%s$]$成员成功" />
+  <String id="result_template_string_kickout_failed" value="移除群$[$%s$]$成员失败, 原因%s, 错误码[%d]" />
+  <String id="result_template_string_enable_speak_success" value="设置群$[$%s$]$允许发言成功" />
+  <String id="result_template_string_enable_speak_failed" value="设置群$[$%s$]$允许发言失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_transfer_team_success_notify" value="群主成功转让群$[$%s$]$给您" />
+  <String id="result_template_string_promote_mgr_success_notify" value="您已经成为群$[$%s$]$的管理员" />
+  <String id="result_template_string_fire_mgr_success_notify" value="您已被取消群$[$%s$]$的管理员身份" />
+  <String id="result_template_string_disable_speak_success_notify" value="管理员禁止您在群$[$%s$]$发言" />
+  <String id="result_template_string_enable_speak_success_notify" value="管理员取消禁止您在群$[$%s$]$的发言" />
+  <String id="result_template_string_kickout_myself_success_notify" value="管理员$[$%s$]$将您移出群$[$%s$]$" />
+  <String id="result_template_string_kickout_success_notify" value="管理员$[$%s$]$已将$[$%s$]$移出群$[$%s$]$" />
+  <String id="result_template_string_apply_join_team_notify" value="$[$%s$]$请求加入群$[$%s$]$验证信息:%s" />
+  <String id="result_template_string_apply_join_team_rsp_accept" value="群管理员$[$%s$]$同意您加入群$[$%s$]$的请求" />
+  <String id="result_template_string_apply_join_team_rsp_refuse" value="群管理员$[$%s$]$拒绝您加入群$[$%s$]$的请求.理由:%s" />
+  <String id="result_template_string_invite_join_team_rsp_accept" value="您的好友$[$%s$]$同意您邀请加入群$[$%s$]$的请求" />
+  <String id="result_template_string_invite_join_team_rsp_refuse" value="您的好友$[$%s$]$拒绝您邀请加入群$[$%s$]$的请求.理由:%s" />
+  <String id="result_template_string_invite_join_team_rsp_needauth" value="请等待您的好友$[$%s$]$同意加入群$[$%s$]$的邀请." />
+  <String id="result_template_string_invite_join_team_rsp_error" value="邀请好友$[$%s$]$加入群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_invite_join_team_rsp_ack_success" value="加入群$[$%s$]$成功" />
+  <String id="result_template_string_invite_join_team_rsp_ack_failed" value="加入群$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_invite_join_team_notify" value="您的好友$[$%s$]$邀请您加入群$[$%s$]$" />
+  <String id="result_template_string_invite_join_team_req" value="您的好友$[$%s$]$邀请您加入群$[$%s$]$" />
+  <String id="result_template_string_join_team_notify" value="欢迎$[$%s$]$加入群$[$%s$]$" />
+  <String id="result_template_string_quit_team_notify" value="群成员$[$%s$]$退出群$[$%s$]$" />
+  <String id="result_template_string_send_join_team_prompt" value="申请加入群$[$%s$]$请求已发送" />
+  <String id="result_template_string_apply_join_team_prompt" value="申请加入群$[$%s$]$, 群主为$[$%s$]$" />
+  <String id="result_template_string_team_auth_pwd_disallow_empty" value="群认证密码不能为空." />
+  <String id="result_template_string_team_name_disallow_empty" value="群名称不能为空." />
+  <String id="result_template_string_please_select_team_category" value="请选择群类别." />
+  <String id="result_template_string_apply_join_team_req_notify" value="$[$%s$]$申请加入群$[$%s$]$" />
+  <String id="result_template_string_disband_guild_success_notify" value="会长$[$%s$]$解散了公会$[$%s$]$" />
+  <String id="result_template_string_join_guild_notify" value="欢迎成员$[$%s$]$加入公会$[$%s$]$" />
+  <String id="result_template_string_quit_guild_notify" value="公会成员$[$%s$]$退出公会$[$%s$]$" />
+  <String id="result_template_string_guild_kickout_myself_success_notify" value="管理员$[$%s$]$将您移出公会$[$%s$]$" />
+  <String id="result_template_string_guild_kickout_success_notify" value="管理员$[$%s$]$已将成员$[$%s$]$移出公会$[$%s$]$" />
+  <String id="result_template_string_guild_promote_mgr_success_notify" value="您已经成为公会$[$%s$]$的人事管理" />
+  <String id="result_template_string_guild_fire_mgr_success_notify" value="您已被取消公会$[$%s$]$的人事管理身份" />
+  <String id="result_template_string_change_guildinfo_success" value="设置公会$[$%s$]$信息成功" />
+  <String id="result_template_string_change_guildinfo_failed" value="设置公会$[$%s$]$信息失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_disband_corps_success_notify" value="团长$[$%s$]$解散了军团$[$%s$]$" />
+  <String id="result_template_string_join_corps_notify" value="欢迎成员$[$%s$]$加入军团$[$%s$]$" />
+  <String id="result_template_string_quit_corps_notify" value="军团成员$[$%s$]$退出军团$[$%s$]$" />
+  <String id="result_template_string_corps_kickout_myself_success_notify" value="管理员$[$%s$]$将您移出军团$[$%s$]$" />
+  <String id="result_template_string_corps_kickout_success_notify" value="管理员$[$%s$]$已将成员$[$%s$]$移出军团$[$%s$]$" />
+  <String id="result_template_string_corps_promote_mgr_success_notify" value="您已经成为军团$[$%s$]$的人事管理" />
+  <String id="result_template_string_corps_fire_mgr_success_notify" value="您已被取消军团$[$%s$]$的人事管理身份" />
+  <String id="result_template_string_change_corpsinfo_success" value="设置军团$[$%s$]$信息成功" />
+  <String id="result_template_string_change_corpsinfo_failed" value="设置军团$[$%s$]$信息失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_req_audio_by_friend" value="您的好友$[$%s$]$请求语音聊天" />
+  <String id="result_template_string_stop_audio_by_friend2" value="您的好友$[$%s$]$终止了语音聊天" />
+  <String id="result_template_string_create_discussion_sys_success" value="创建讨论组$[$%s$]$成功" />
+  <String id="result_template_string_create_discussion_failed" value="创建讨论组$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_invite_join_discussion_rsp_error" value="邀请好友$[$%s$]$加入讨论组$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_join_discussion_notify" value="欢迎成员$[$%s$]$加入讨论组$[$%s$]$" />
+  <String id="result_template_string_quit_discussion_failed" value="退出讨论组$[$%s$]$失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_quit_discussion_notify" value="讨论组成员$[$%s$]$退出讨论组$[$%s$]$" />
+  <String id="result_template_string_change_discussioninfo_success" value="设置讨论组$[$%s$]$信息成功" />
+  <String id="result_template_string_change_discussioninfo_failed" value="设置讨论组$[$%s$]$信息失败, 原因:%s, 错误码[%d]" />
+  <String id="result_template_string_team_name_invalid" value="群名称要求不能为空且不超过%d个字符" />
+  <String id="result_template_string_discussion_name_invalid" value="讨论组名称要求不能为空且不超过%d个字符" />
+  <String id="result_template_string_disband_discussion_notify" value="由于讨论组$[$%s$]$已经过期, 该讨论组自动解散" />
+  <!-- about other-->
+  <String id="result_template_string_friend_online" value="$[$%s$]$(来自%s)&#x000A;上线了!" />  
+  <String id="result_template_string_prompt_official_account" value="很抱歉, 您不是11平台正式玩家, 无法使用此功能。$[$升级为正式玩家$]$." />
+  <String id="result_template_string_start_updater_fail" value="无法启动更新程序. 错误码=%d" />
+  <!-- about LobbyChat-->
+  <!-- wnd input panel -->
+  <String id="wnd_input_panel_text_btn_send" value="发送" />
+  <String id="wnd_input_panel_tooltip_btn_send" value="发送(Ctrl+Enter 或 Alt+S)" />
+  <String id="wnd_input_panel_msg_too_long" value="对不起, 您发送的内容太长了." />
+  <String id="wnd_input_panel_chat_too_frequnt" value="您说话太快了, 请坐下来休息会." />
+  <!-- <String id="wnd_public_chat_title_text_caption" value="直播聊天室" /> -->
+  <String id="wnd_public_chat_title_text_caption" value="" />
+  <!-- wnd input tool -->
+  <String id="wnd_input_tool_tooltip_btn_font" value="字体" />
+  <String id="wnd_input_tool_tooltip_btn_emotion" value="表情" />
+  <String id="wnd_input_tool_tooltip_btn_screen_lock" value="锁屏" />
+  <String id="wnd_input_tool_tooltip_btn_screen_unlock" value="滚屏" />
+  <String id="wnd_input_tool_tooltip_btn_bold" value="加粗" />
+  <String id="wnd_input_tool_tooltip_btn_italic" value="倾斜" />
+  <String id="wnd_input_tool_tooltip_btn_underline" value="下划线" />
+  <String id="wnd_input_tool_tooltip_btn_color" value="字体颜色" />
+  <!-- common str -->
+  <String id="common_str_enter_room" value="欢迎进入%s房间" />
+  <String id="common_str_exit_room" value="您已经退出%s房间" />
+  <String id="common_str_login_room_failed" value="进入%s房间失败" />
+  <String id="common_str_welcome_user" value="欢迎%s" />
+  <String id="common_str_all_users" value="所有人" />
+   <!-- font name -->
+  <String id="font_name_0" value="仿宋" />
+  <String id="font_name_1" value="黑体" />
+  <String id="font_name_2" value="楷体" />
+  <String id="font_name_3" value="宋体" />
+  <String id="font_name_4" value="微软雅黑" />
+  <String id="font_name_5" value="新宋体" />
+  <!--emotions-->
+  <String id="emotion_group_name_0" value="默认" />
+  <String id="emotion_group_name_1" value="三国" />
+  <String id="emotion_item_name_0" value="安抚" />
+  <String id="emotion_item_tooltip_0" value="安抚(音:宝贝不哭,站起来撸)" />
+  <String id="emotion_item_name_1" value="闭嘴" />
+  <String id="emotion_item_tooltip_1" value="闭嘴(音:菜鸟给我闭嘴)" />
+  <String id="emotion_item_name_2" value="不高兴" />
+  <String id="emotion_item_tooltip_2" value="不高兴(音:伦家不高兴了嘛)" />
+  <String id="emotion_item_name_3" value="打包" />
+  <String id="emotion_item_tooltip_3" value="打包(音:人家被欺负了, 人家不干嘛)" />
+  <String id="emotion_item_name_4" value="大哭" />
+  <String id="emotion_item_tooltip_4" value="大哭(音:呜呜呜呜, 膝盖中箭了)" />
+  <String id="emotion_item_name_5" value="大笑" />
+  <String id="emotion_item_tooltip_5" value="大笑(音:哈哈哈哈, 笑翻了)" />
+  <String id="emotion_item_name_6" value="打耳光" />
+  <String id="emotion_item_tooltip_6" value="打耳光(音:你丫找抽, 啪)" />
+  <String id="emotion_item_name_7" value="发呆" />
+  <String id="emotion_item_tooltip_7" value="发呆(音:额, 发呆中)" />
+  <String id="emotion_item_name_8" value="发抖" />
+  <String id="emotion_item_tooltip_8" value="发抖(音:我投降!我投降!)" />
+  <String id="emotion_item_name_9" value="讽刺" />
+  <String id="emotion_item_tooltip_9" value="讽刺(音:哼!你丫算老几啊)" />
+  <String id="emotion_item_name_10" value="愤怒" />
+  <String id="emotion_item_tooltip_10" value="愤怒(音:气死我了!气死我了!)" />
+  <String id="emotion_item_name_11" value="尴尬" />
+  <String id="emotion_item_tooltip_11" value="尴尬(音:嘿嘿!让大家见笑了!)" />
+  <String id="emotion_item_name_12" value="告辞" />
+  <String id="emotion_item_tooltip_12" value="告辞(音:告辞, 先走一步)" />
+  <String id="emotion_item_name_13" value="害羞" />
+  <String id="emotion_item_tooltip_13" value="害羞(音:矮油, 伦家害羞了啦)" />
+  <String id="emotion_item_name_14" value="怀疑" />
+  <String id="emotion_item_tooltip_14" value="怀疑(音:这是真的吗~)" />
+  <String id="emotion_item_name_15" value="惊讶" />
+  <String id="emotion_item_tooltip_15" value="惊讶(音:哇~靠~)" />
+  <String id="emotion_item_name_16" value="可爱" />
+  <String id="emotion_item_tooltip_16" value="可爱(音:你看我可爱嘛~)" />
+  <String id="emotion_item_name_17" value="恐惧" />
+  <String id="emotion_item_tooltip_17" value="恐惧(音:我好怕怕哦~)" />
+  <String id="emotion_item_name_18" value="困" />
+  <String id="emotion_item_tooltip_18" value="困(音:我好困啊~)" />
+  <String id="emotion_item_name_19" value="流汗" />
+  <String id="emotion_item_tooltip_19" value="流汗(音:哎, 这...)" />
+  <String id="emotion_item_name_20" value="流泪" />
+  <String id="emotion_item_tooltip_20" value="流泪(音:呜呜呜呜, 我好可怜)" />
+  <String id="emotion_item_name_21" value="你牛" />
+  <String id="emotion_item_tooltip_21" value="你牛(音:算你狠)" />
+  <String id="emotion_item_name_22" value="亲亲" />
+  <String id="emotion_item_tooltip_22" value="亲亲(音:MUA, MUA)" />
+  <String id="emotion_item_name_23" value="亲嘴" />
+  <String id="emotion_item_tooltip_23" value="亲嘴(音:亲爱的, 啵一个!)" />
+  <String id="emotion_item_name_24" value="色咪咪" />
+  <String id="emotion_item_tooltip_24" value="色咪咪(音:诶嘿嘿!我喜欢)" />
+  <String id="emotion_item_name_25" value="闪人" />
+  <String id="emotion_item_tooltip_25" value="闪人(音:我闪, 嘣~!)" />
+  <String id="emotion_item_name_26" value="生病" />
+  <String id="emotion_item_tooltip_26" value="生病(音:好难受, 求关怀!)" />
+  <String id="emotion_item_name_27" value="胜利" />
+  <String id="emotion_item_tooltip_27" value="胜利(音:耶, 太棒了)" />
+  <String id="emotion_item_name_28" value="失望" />
+  <String id="emotion_item_tooltip_28" value="失望(音:唉, 太失望了!)" />
+  <String id="emotion_item_name_29" value="耍帅" />
+  <String id="emotion_item_tooltip_29" value="耍帅(音:嘿嘿嘿!还是我帅吧)" />
+  <String id="emotion_item_name_30" value="思考" />
+  <String id="emotion_item_tooltip_30" value="思考(音:让老夫想想!)" />
+  <String id="emotion_item_name_31" value="偷笑" />
+  <String id="emotion_item_tooltip_31" value="偷笑(音:咦嘻嘻, 老夫自有妙计!)" />
+  <String id="emotion_item_name_32" value="吐舌" />
+  <String id="emotion_item_tooltip_32" value="吐舌(音:你打我啊!你打我啊!)" />
+  <String id="emotion_item_name_33" value="吐血" />
+  <String id="emotion_item_tooltip_33" value="吐血(音:受不了了，噗~!)" />
+  <String id="emotion_item_name_34" value="吐" />
+  <String id="emotion_item_tooltip_34" value="吐(音:我勒个去)" />
+  <String id="emotion_item_name_35" value="微笑" />
+  <String id="emotion_item_tooltip_35" value="微笑(音:生命是多么的辉煌, 生命是多么的美好!)" />
+  <String id="emotion_item_name_36" value="威胁" />
+  <String id="emotion_item_tooltip_36" value="威胁(音:你知道该怎么做了吧!)" />
+  <String id="emotion_item_name_37" value="无语" />
+  <String id="emotion_item_tooltip_37" value="无语(音:你让我说什么好呢!)" />
+  <String id="emotion_item_name_38" value="咬手指" />
+  <String id="emotion_item_tooltip_38" value="咬手指(音:这个姐姐好可爱哦!)" />
+  <String id="emotion_item_name_39" value="咬牙切齿" />
+  <String id="emotion_item_tooltip_39" value="咬牙切齿(音:呀!气死我了!)" />
+  <String id="emotion_item_name_40" value="疑问" />
+  <String id="emotion_item_tooltip_40" value="疑问(音:哦?不太明白)" />
+  <String id="emotion_item_name_41" value="拥抱" />
+  <String id="emotion_item_tooltip_41" value="拥抱(音:求抱抱, 求抱抱)" />
+  <String id="emotion_item_name_42" value="郁闷" />
+  <String id="emotion_item_tooltip_42" value="郁闷(音:唉, 真郁闷啊)" />
+  <String id="emotion_item_name_43" value="晕" />
+  <String id="emotion_item_tooltip_43" value="晕(音:好多星星啊, 我晕了!)" />
+  <String id="emotion_item_name_44" value="贼笑" />
+  <String id="emotion_item_tooltip_44" value="贼笑(音:咦嘻嘻嘻嘻嘻)" />
+  <String id="emotion_item_name_45" value="闭嘴" />
+  <String id="emotion_item_tooltip_45" value="闭嘴" />
+  <String id="emotion_item_name_46" value="呲牙" />
+  <String id="emotion_item_tooltip_46" value="呲牙" />
+  <String id="emotion_item_name_47" value="奋斗" />
+  <String id="emotion_item_tooltip_47" value="奋斗" />
+  <String id="emotion_item_name_48" value="愤怒" />
+  <String id="emotion_item_tooltip_48" value="愤怒" />
+  <String id="emotion_item_name_49" value="害羞" />
+  <String id="emotion_item_tooltip_49" value="害羞" />
+  <String id="emotion_item_name_50" value="惊恐" />
+  <String id="emotion_item_tooltip_50" value="惊恐" />
+  <String id="emotion_item_name_51" value="困" />
+  <String id="emotion_item_tooltip_51" value="困" />
+  <String id="emotion_item_name_52" value="流汗" />
+  <String id="emotion_item_tooltip_52" value="流汗" />
+  <String id="emotion_item_name_53" value="流泪" />
+  <String id="emotion_item_tooltip_53" value="流泪" />
+  <String id="emotion_item_name_54" value="卖萌" />
+  <String id="emotion_item_tooltip_54" value="卖萌" />
+  <String id="emotion_item_name_55" value="难过" />
+  <String id="emotion_item_tooltip_55" value="难过" />
+  <String id="emotion_item_name_56" value="亲亲" />
+  <String id="emotion_item_tooltip_56" value="亲亲" />
+  <String id="emotion_item_name_57" value="色眯眯" />
+  <String id="emotion_item_tooltip_57" value="色眯眯" />
+  <String id="emotion_item_name_58" value="衰" />
+  <String id="emotion_item_tooltip_58" value="衰" />
+  <String id="emotion_item_name_59" value="耍帅" />
+  <String id="emotion_item_tooltip_59" value="耍帅" />
+  <String id="emotion_item_name_61" value="调皮" />
+  <String id="emotion_item_tooltip_61" value="调皮" />
+  <String id="emotion_item_name_62" value="偷笑" />
+  <String id="emotion_item_tooltip_62" value="偷笑" />
+  <String id="emotion_item_name_63" value="吐血" />
+  <String id="emotion_item_tooltip_63" value="吐血" />
+  <String id="emotion_item_name_64" value="微笑" />
+  <String id="emotion_item_tooltip_64" value="微笑" />
+  <String id="emotion_item_name_65" value="吐" />
+  <String id="emotion_item_tooltip_65" value="吐" />
+  <String id="emotion_item_name_66" value="疑问" />
+  <String id="emotion_item_tooltip_66" value="疑问" />
+  <String id="emotion_item_name_67" value="晕" />
+  <String id="emotion_item_tooltip_67" value="晕" />
+  <String id="emotion_item_name_68" value="再见" />
+  <String id="emotion_item_tooltip_68" value="再见" />
+  <String id="emotion_item_name_69" value="咒骂" />
+  <String id="emotion_item_tooltip_69" value="咒骂" />
+  <String id="emotion_item_name_70" value="爱心" />
+  <String id="emotion_item_tooltip_70" value="爱心" />
+  <String id="emotion_item_name_71" value="安抚" />
+  <String id="emotion_item_tooltip_71" value="安抚" />
+  <String id="emotion_item_name_72" value="大包" />
+  <String id="emotion_item_tooltip_72" value="大包" />
+  <String id="emotion_item_name_73" value="你牛" />
+  <String id="emotion_item_tooltip_73" value="你牛" />
+  <String id="emotion_item_name_74" value="伤心" />
+  <String id="emotion_item_tooltip_74" value="伤心" />
+  <String id="emotion_item_name_75" value="闪人" />
+  <String id="emotion_item_tooltip_75" value="闪人" />
+  <String id="emotion_item_name_76" value="胜利" />
+  <String id="emotion_item_tooltip_76" value="胜利" />
+  <String id="emotion_item_name_77" value="生病" />
+  <String id="emotion_item_tooltip_77" value="生病" />
+  <String id="emotion_item_name_78" value="思考" />
+  <String id="emotion_item_tooltip_78" value="思考" />
+  <String id="emotion_item_name_79" value="猪头" />
+  <String id="emotion_item_tooltip_79" value="猪头" />
+</StringList>

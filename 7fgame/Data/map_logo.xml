@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="134">
+	<!--id:地图ID号,根据id区分不同地图 -->
+	<!--current_ver:当前显示的已安装logo的版本号,可配置-->
+	<!--default_ver:指定版本的logo不存在时，显示替代的版本logo-->
+	<!--logoname:该地图的未安装的logo文件名,名和地图ID一样,不同版本的未安装logo唯一,和unready_type组合成一个完整的文件名-->
+	<!--current_type default_type unready_type指明logo图片的格式-->
+	<!--如:id="47",logoname="47", current_ver="1", default_ver="0",default_type=".png"，current_type=".bmp" unready_type=".png"表示地图id为47的地图在未安装时显示的logo图标为:47.png,安装后显示的logo为:47_1.bmp, 如果47_1.bmp不存在，则显示默认的47_0.png，如果都不存在，则显示skin里面的未安装图标-->
+	<!--ShowReadyLogoOnly:1,只显示安装图标  其他值表示都显示-->
+       <mapitemEx id="47" logoname="47" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="76" logoname="76" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="81" logoname="81" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/>
+       <mapitemEx id="15" logoname="15" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="7657" logoname="7657" current_ver="1" current_type=".jpg" default_ver="0" default_type=".jpg" unready_type=".jpg" ShowReadyLogoOnly="0"/> 
+
+<ActiveInfo id = "1" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2099 15:00:00" Mapid="7654" toolbar="193" MapImage="icon1.png" MapLogoName="起凡天猫店"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6763" showType="1" Width="1000" Height="750" LoginType="0"/>
+
+<ActiveInfo id = "2" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2099 15:00:00" Mapid="7654" toolbar="193" MapImage="hdrk.jpg" MapLogoName="活动中心"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=1681" showType="1" Width="1000" Height="750" LoginType="0"/>
+
+<ActiveInfo id = "3" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="193" MapImage="wuxun3.jpg" MapLogoName="武勋第3赛季"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6692" showType="1" Width="1000" Height="750" LoginType="0"/>
+
+<ActiveInfo id = "4" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="193" MapImage="qftmd.jpg" MapLogoName="起凡天猫店"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6705" showType="1" Width="1000" Height="750" LoginType="0"/>
+
+<ActiveInfo id = "5" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="193" MapImage="zhongqiuguoqin.jpg" MapLogoName="活动专题"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6700" showType="1" Width="1000" Height="750" LoginType="1"/>
+
+<ActiveInfo id = "6" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="193" MapImage="jqhd.jpg" MapLogoName="金秋活动"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6717" showType="1" Width="1000" Height="750" LoginType="1"/>
+
+<ActiveInfo id = "7" starttimeEx="5/12/2013 22:00:00" endtimeEx="5/30/2000 19:59:59" Mapid="7654" MapImage="hd0.png" MapLogoName="精彩活动"  default="1" bNewActive="0"/>
+
+<ActiveInfo id = "8" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="193" MapImage="zsj.png" MapLogoName="起凡大富翁"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=5256" showType="1" Width="1000" Height="750" LoginType="1"/>
+
+<ActiveInfo id = "9" starttimeEx="3/3/2014 15:00:00" endtimeEx="1/5/2011 14:00:00" Mapid="7654" toolbar="1" MapImage="gjls.png" MapLogoName="冠军联赛"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6261" showType="2" Width="1000" Height="750" LoginType="1" />
+
+<ActiveInfo id = "10" starttimeEx="3/3/2014 15:00:00" endtimeEx="12/31/2014 15:00:00" Mapid="7654" toolbar="1" MapImage="czyl.png" MapLogoName="充值有礼"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6382" showType="2" Width="1000" Height="750" LoginType="1" />
+
+<ActiveInfo id = "11" starttimeEx="7/31/2013 15:00:00" endtimeEx="11/23/2014 15:00:00" Mapid="7654" toolbar="0" MapImage="dzy.png" MapLogoName="大战役" ActivePV = "http://pv.7fgame.com/?id=5806" showType="3" battleid="3" bNewActive="1"/>
+
+<ActiveInfo id = "12" starttimeEx="2/4/2015 15:00:00" endtimeEx="3/5/2014 23:59:59" Mapid="7654" toolbar="1" MapImage="wxdss.png" MapLogoName="武勋大师赛" ActivePV="http://pv.7fgame.com/PVCount.aspx?id=6392" showType="1" Width="1000" Height="760" LoginType="1" />
+
+<ActiveInfo id = "13" starttimeEx="6/28/2015 00:00:00" endtimeEx="12/31/2014 23:59:59" Mapid="7654" toolbar="0" MapImage="yyyhl.jpg" MapLogoName="月月有好礼" ActivePV="http://pv.7fgame.com/PVCount.aspx?id=6454" showType="1" Width="1000" Height="760" LoginType="1" />
+
+
+</content>
+

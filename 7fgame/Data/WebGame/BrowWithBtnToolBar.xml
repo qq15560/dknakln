@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 可配置的web窗口工具栏
+GameChannelWebWnd节点中：
+	appid:页游id
+	width:内嵌平台窗体宽度
+	height:内嵌平台窗体高度
+	caption:标题
+	icon:图标
+	
+	BtnToolBar节点中：
+		height,toolBar的高度；
+		left,第一个按钮离左边的距离；
+		top,顶排按钮离顶部的距离；
+		btwn,两个按钮之间的间隔；
+    
+   Item节点中：
+      cmdId, 索引id；(1为刷新按钮；2为停止按钮；3为向前按钮；4为向后按钮)
+      btn_File, 按钮文件名；
+      btn_width, 按钮长度；
+      btn_Height,按钮高度；
+      url, 对应页面的地址；
+      atlogin， 页面是否自动登录；
+-->
+<WebWnd ver="1">
+	<GameChannelWebWnd icon="webgame_16.ico" iocnhegiht="16" iconwidth="16" caption="街机三国 | 出品人:上海江游信息科技有限公司" appid="1000004" width="400" height="400">
+		<BtnToolBar  height="18" space="2">
+			<Item cmdId="1" btn_File="webgame_btn_refresh.bmp" btn_caption="刷新" btn_width="54" btn_Height="18" url="" atlogin="0"></Item>
+			<Item cmdId="5" btn_File="webgame_btn_bbs.bmp" btn_caption="论坛" btn_width="54" btn_Height="18" url="http://pv.7fgame.com/PVCount.aspx?id=5275" atlogin="0"></Item>
+<!--			<Item cmdId="6" btn_File="webgame_btn_kf.bmp" btn_caption="客服" btn_width="54" btn_Height="29" url="http://pvcount.7fgame.com/PVCount.aspx?id=5250" atlogin="0"></Item>
+			
+-->
+		</BtnToolBar>
+	</GameChannelWebWnd>
+
+</WebWnd>
+

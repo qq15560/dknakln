@@ -1,0 +1,492 @@
+compilation time: Sep 19 2018 23:13:18
+pid 7872
+/pipe=GAME_XQYFZ_CHS_123456 /mapfile=152807484 /mode=1 /replay="D:\起凡\7fgame\replay\MyGame\AutoSave\my_replays0126.7fr" /replaypath="D:\起凡\7fgame\replay\MyGame\" /partner=0 /vfs= /enc=(1881ac865674,ec51ba8d3a4893afc313ee3a459fb9f8c64b42c6f72d5f29abaa23e6c215e7e875208281970346967e4ab8c40245962f),(54df6e13ee38,e3055c2029010253e1702f42900fbe6f2e0aca1d1b2800d5a9485e2e9452bd22189717eed72a5f7f817dc0965421fdbc),(6e35e0f09c8d,9bd4309123723a53a7e71221a837c028db9c91346f44b6edfb47f788635ae3409c018f8a25b27bc1883bf0f4ce71f8fc)
+/pipe=GAME_XQYFZ_CHS_123456
+/mapfile=152807484
+/mode=1
+2018-10-07 12:10:40:070 PID:7872 FM:     0  自动保存的平台路径：/replay="D:\起凡\7fgame\replay\MyGame\AutoSave\my_replays0126.7fr"  
+2018-10-07 12:10:40:070 PID:7872 FM:     0  玩家保存的平台路径：/replaypath="D:\起凡\7fgame\replay\MyGame\"  
+vertxt:D:\起凡\7fgame\game
+
+
+-----------------------------------------------------------------
+游戏开始启动, 首先获取机器配置信息
+-----------------------------------------------------------------
+
+一。操作系统:
+Windows  Vista以上版本
+版本号: 6,2, Build 9200
+运行模式:normal mode.
+系统语言: 中文简体
+
+三。CPU:
+8 个 CPU:
+CPU:
+  Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+VendorIdentifier:
+  GenuineIntel
+Identifier:
+  Intel64 Family 6 Model 142 Stepping 10
+
+四。内存:
+MemoryLoad:30,
+  TotalPhys:2047M, AvailPhys:2047M,
+  AvailPageFile:4095M, TotalPageFile:4095M,
+  AvailVirtual:1869M,TotalVirtual:2047M
+
+五。显卡:
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce MX150
+Version: 23.21.13.8873
+
+六。显示模式:
+Enum displaymode: 640 x 400, 32
+Enum displaymode: 640 x 480, 32
+Enum displaymode: 800 x 600, 32
+Enum displaymode: 1024 x 768, 32
+Enum displaymode: 1152 x 864, 32
+Enum displaymode: 1280 x 600, 32
+Enum displaymode: 1280 x 720, 32
+Enum displaymode: 1280 x 768, 32
+Enum displaymode: 1280 x 800, 32
+Enum displaymode: 1280 x 960, 32
+Enum displaymode: 1280 x 1024, 32
+Enum displaymode: 1360 x 768, 32
+Enum displaymode: 1366 x 768, 32
+Enum displaymode: 1400 x 1050, 32
+Enum displaymode: 1440 x 900, 32
+Enum displaymode: 1600 x 900, 32
+Enum displaymode: 1680 x 1050, 32
+Enum displaymode: 1920 x 1080, 32
+Receive displaymode: 800 x 600
+Receive displaymode: 1024 x 768
+Receive displaymode: 1152 x 864
+Receive displaymode: 1280 x 600
+Receive displaymode: 1280 x 720
+Receive displaymode: 1280 x 768
+Receive displaymode: 1280 x 800
+Receive displaymode: 1280 x 960
+Receive displaymode: 1280 x 1024
+Receive displaymode: 1360 x 768
+Receive displaymode: 1366 x 768
+Receive displaymode: 1400 x 1050
+Receive displaymode: 1440 x 900
+Receive displaymode: 1600 x 900
+Receive displaymode: 1680 x 1050
+Receive displaymode: 1920 x 1080
+
+七。显存:
+未知的显存!
+
+
+八。当前路径:
+D:\起凡\7fgame\game
+启动时分辨率为(1920 X 1080)，对应窗口调整为(1920 X 1080)
+启动时为全屏模式!
+设置完窗口位置和大小之后, 客户区尺寸取出来为[1920 1080]
+传入给D3D设备的窗口尺寸为[1920 1080], fullscreen = 0
+启动脚本游戏平台!
+
+
+// 游戏设置:
+Game Screen:
+  1920 X 1080
+VS_1.0 Support:
+  true
+dot3 Support:
+ true
+
+2018-10-07 12:10:46:995 PID:7872 FM:     0  声卡驱动： 
+2018-10-07 12:10:46:995 PID:7872 FM:     0  1  主声音驱动程序  
+2018-10-07 12:10:46:995 PID:7872 FM:     0  2  扬声器 (Realtek High Definition Audio)  
+2018-10-07 12:10:47:005 PID:7872 FM:     0  使用 主声音驱动程序  
+2018-10-07 12:10:47:008 PID:7872 FM:     0  音效系统 初始化成功! 
+2018-10-07 12:10:47:088 PID:7872 FM:     0  音乐系统 初始化成功! 
+2018-10-07 12:10:47:110 PID:7872 FM:     0  pipe data init Success。 
+设置读取地图名[sanguo_b]
+
+
+调用GameInit, game logic frame 清0
+启动脚本游戏平台!
+do [core/gpi.o] ok!
+读取地图表格, 加载地图相关脚本!
+do [map/sanguo_b/sanguo_b.o] ok!
+D:\起凡\7fgame\game\core\..\..\7fChatMsgFilter.dll
+版本 980502003-001945-090090-sanguo:000001
+[MPRender::BeginRender()]!
+GameEventJoinGame[sanguo_b, 群雄逐鹿]
+
+加载.\core\hct.o!
+SetSessionInfo // 通知客户端服务器端脚本信息
+LoadMap[0] = 0 
+[0] begin load map[sanguo_b]
+Scene : LoadMap, CreateUICha, CreateShadeArray! OK!
+LoadMap[1] = 43 
+LoadMap[2] = 0 
+设置角色光[0.67 0.67 1.00]
+[0] 成功执行map_init
+[0] 下一步:生成动态障碍信息
+LoadMap [3]= 752 (map_init)  
+LoadMap[4] = 369 
+enableb 0
+
+roleinit_after_loadmap函数定义不存在, map=[sanguo_b]
+
+[0] GameEvent_MapInit() ok!
+LoadMap[5] = 5556 
+[0] load snap ok!
+LoadMap[6] = 44 
+7fxp path: core\7fxp.dll
+7fxp.dll Not Found
+LoadMap[7] = 16 
+Loading end。  24647 
+Begin RunGameLogic, RenderCount = 12
+5, *,2,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 2,88
+5, *,14,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 14,41
+5, *,18,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, *,7,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 7,191
+5, *,4,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 4,180
+5, *,12,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 12,127
+5, *,17,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 17,133
+5, *,19,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 19,247
+5, *,3,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 3,202
+5, *,13,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 13,126
+5, *,20,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 20,125
+5, *,11,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 11,125
+5, *,10,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 10,89
+5, *,5,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 5,211
+5, *,6,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 6,1
+5, *,9,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 9,42
+5, *,15,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 15,204
+5, *,16,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 16,1
+5, *,1,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 1,1
+5, *,8,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 8,44
+20013, *,3,0
+20013, HUS,1
+20013, HNSC_OPEN,1
+20013, HTS_OPEN,0
+20013, HPS_OPEN,1
+20013, HSS_OPEN,1
+20013, HES_OPEN,1
+20013, 982010
+20013, 991755
+20013, 982010
+20013, 985745
+20013, 982010
+20013, 51002
+20013, 3,125
+32693, *,9,1
+32693, HUS,1
+32693, HNSC_OPEN,1
+32693, HTS_OPEN,0
+32693, HPS_OPEN,1
+32693, HSS_OPEN,1
+32693, HES_OPEN,1
+32693, 982010
+32693, 991755
+32693, 982010
+32693, 985745
+32693, 982010
+32693, 51002
+32693, 9,1
+38245, *,14,0
+38245, HUS,1
+38245, HNSC_OPEN,1
+38245, HTS_OPEN,0
+38245, HPS_OPEN,1
+38245, HSS_OPEN,1
+38245, HES_OPEN,1
+38245, 982010
+38245, 991755
+38245, 982010
+38245, 985745
+38245, 982010
+38245, 51002
+38245, 14,48
+42985, *,3,0
+42985, HUS,1
+42985, HNSC_OPEN,1
+42985, HTS_OPEN,0
+42985, HPS_OPEN,1
+42985, HSS_OPEN,1
+42985, HES_OPEN,1
+42985, 982010
+42985, 991755
+42985, 982010
+42985, 985745
+42985, 982010
+42985, 51002
+56597, *,15,0
+56597, HUS,1
+56597, HNSC_OPEN,1
+56597, HTS_OPEN,0
+56597, HPS_OPEN,1
+56597, HSS_OPEN,1
+56597, HES_OPEN,1
+56597, 982010
+56597, 991755
+56597, 982010
+56597, 985745
+56597, 982010
+56597, 51002
+56597, 15,219
+Render Average Time = 0ms

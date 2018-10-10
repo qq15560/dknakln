@@ -1,0 +1,362 @@
+37613, userid = 101423835
+37613, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+37613, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+37613, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+37613, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+37613, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+37613, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+37613, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+37613, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+37613, is_old_player = 0
+38763, userid = 101423835
+38763, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+38763, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+38763, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+38763, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+38763, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+38763, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+38763, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+38763, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+38763, is_old_player = 0
+40905, userid = 40035793
+40905, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+40905, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+40905, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+40905, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+40905, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+40905, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+40905, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+40905, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+40905, is_old_player = 0
+44250, userid = 40035793
+44250, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+44250, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+44250, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+44250, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+44250, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+44250, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+44250, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+44250, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+44250, is_old_player = 0
+46181, userid = 9723909
+46181, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+46181, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+46181, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+46181, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+46181, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+46181, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+46181, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+46181, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+46181, is_old_player = 0
+46197, userid = 9723909
+46197, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+46197, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+46197, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+46197, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+46197, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 14 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+46197, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+46197, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+46197, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+46197, is_old_player = 0
+74229, userid = 68932035
+74229, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+74229, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+74229, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+74229, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+74229, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+74229, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+74229, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+74229, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+74229, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+74229, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+74229, is_old_player = 0
+74281, userid = 68932035
+74281, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+74281, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+74281, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+74281, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+74281, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+74281, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+74281, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 16 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 19 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+74281, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+74281, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+74281, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+74281, is_old_player = 0
+103189, userid = 97545504
+103189, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+103189, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+103189, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+103189, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 16 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[16][1].user_id = 12274393
+103189, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 19 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[19][1].user_id = 124679462
+103189, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+103189, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+103189, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+103189, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+103189, is_old_player = 0
+103191, userid = 97545504
+103191, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+103191, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+103191, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+103191, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 16 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[16][1].user_id = 12274393
+103191, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 19 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[19][1].user_id = 124679462
+103191, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+103191, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+103191, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+103191, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+103191, is_old_player = 0
+107689, userid = 88822641
+107689, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+107689, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+107689, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+107689, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 16 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[16][1].user_id = 12274393
+107689, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 19 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[19][1].user_id = 124679462
+107689, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+107689, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+107689, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+107689, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+107689, is_old_player = 0
+107734, userid = 88822641
+107734, MaxPlayerNum = 24 i = 1 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 2 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 3 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[3][1].user_id = 51368846
+107734, MaxPlayerNum = 24 i = 4 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[4][1].user_id = 69346548
+107734, MaxPlayerNum = 24 i = 5 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 6 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 7 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 8 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 9 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 10 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 11 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 12 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 13 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 14 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[14][1].user_id = 122815342
+107734, MaxPlayerNum = 24 i = 15 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 16 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[16][1].user_id = 12274393
+107734, MaxPlayerNum = 24 i = 17 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 18 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 19 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[19][1].user_id = 124679462
+107734, MaxPlayerNum = 24 i = 20 leave_queue_pos = 1
+107734, G_Tab.CONTROL_PLAYER_joined[20][1].user_id = 6231995
+107734, MaxPlayerNum = 24 i = 21 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 22 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 23 leave_queue_pos = 0
+107734, MaxPlayerNum = 24 i = 24 leave_queue_pos = 0
+107734, is_old_player = 0

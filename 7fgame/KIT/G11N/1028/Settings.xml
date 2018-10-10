@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- read only global settings -->
+<!-- alterable global/user settings are stored in "Settings" folder in data path -->
+<Settings version="4">
+	<GateSvrList>
+	</GateSvrList>
+	<!--ref: Settings.h::enum E_ISP_TYPE-->
+	<LogSvrList>
+		<LogSvr isp="0" ip="202.181.163.83" port="20134" />
+	</LogSvrList>
+	<!--ref: Settings.h::enum E_RETRY_EVENT, Settings.h::struct S_RETRY_STRATEGY-->
+	<RetryStrategy>
+		<Strategy event="1" count="10" interval="10" changestep="20" />
+		<Strategy event="2" count="5" interval="30" changestep="30" />
+		<Strategy event="3" count="2" interval="0" changestep="0" />
+		<Strategy event="4" count="2" interval="0" changestep="0" />
+	</RetryStrategy>
+	<!--ref: Settings.h::enum E_KIT_FUNCTION, Settings.h::struct S_KIT_FUNCTION-->
+	<Functions>
+		<Function func="5" available="0" />
+		<Function func="18" available="0" />
+	</Functions>
+	<misc>
+		<pair key="embed_url_chat_wnd_avatar_area_11" value="http://go.5211.tw/?id=117" />
+		<pair key="embed_url_chat_wnd_avatar_area_7f" value="" />
+		<pair key="embed_url_import_friend" value="" />
+		<pair key="url_personalprofile_base_360_userid" value="" />
+		<pair key="url_personalprofile_base_temp_userid" value="" />
+		<pair key="url_personalprofile_base_no_passport_userid" value="" />
+		<pair key="url_promote_official_account" value="" />
+		<pair key="url_friend_audio_feedback" value="" />
+		<pair key="url_team_audio_feedback" value="" />
+		<pair key="embed_url_campus" value="" />
+		<pair key="embed_url_sns_popstar" value="" />
+		<pair key="embed_url_guild_audio" value="" />
+		<pair key="embed_url_find_audioroom" value="" />
+		<pair key="platform_url_level" value="" />
+		<pair key="platform_url_live_room" value="" />
+		<pair key="platform_url_wonderful_video" value="" />
+		<pair key="platform_url_11_vip" value="" />
+	</misc>
+</Settings>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="5">
+	<!--  
+	loginType:1代表强制登录， 0代表不登录
+	showpos:0左上角；1代表底部 mapid 代表地图
+	-->
+<adsWebEx loginType="1" mapId="47" showpos="1" url="http://pv.7fgame.com/PVCount.aspx?id=5662"/>
+
+</content>

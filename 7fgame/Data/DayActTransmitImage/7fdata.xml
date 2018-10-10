@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content ver="1150">
+  <!-- 最上方的图片 -->
+  <imagedata type="top">
+    <zip filename="290X63_080515.jpg" ver="19" zipflag="0" size="12098" md5="6a8994bd4e8951e288868742275a4dbd">http://pt.7fgame.com/platformmanage/platforminterface/img/290X63_080515.jpg</zip>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=780</url>
+  </imagedata>
+  <imagedata type="main_topleft">
+    <zip filename="396_69.html" size="990" md5="1fafcff9e8aef7e56cbbe460cf1ff3f2" ver="38" zipflag="0">http://pt.7fgame.com/platformmanage/platforminterface/396_69.html</zip>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1542</url>
+  </imagedata>
+  <imagedata type="main_topright">
+    <zip filename="179_69_100524.gif" ver="106" zipflag="0" size="10949" md5="0d3975c38156dcd095a4675c82fdff8a">http://pt.7fgame.com/platformmanage/platforminterface/img/179_69_100524.gif</zip>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1543</url>
+  </imagedata>
+  <imagedata type="chat_top">
+    <zip filename="128_51_080814.jpg" ver="22" zipflag="0" size="29515" md5="9f09802a8b62bbb4f2d5bd2dd4ecac09">http://pt.7fgame.com/platformmanage/platforminterface/img/128_51_080814.jpg</zip>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1544</url>
+  </imagedata>
+  <!-- 左边的图片 -->
+  <imagedata type="left">
+    <zip filename="126x256.jpg" ver="22" zipflag="0" size="43908" md5="8829FA77546041497CACBFD3D5E73BEA">http://pt.7fgame.com/platformmanage/platforminterface/img/126x256.jpg</zip>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=4158</url>
+  </imagedata>
+  <!--  房间内滚动信息 -->
+  <textdata type="room" textcolor="#FF0000">
+    <text>起凡游戏诚意提醒广大玩家朋友们，警惕虚假的中奖信息，勿因贪小而受骗，《三国争霸》唯一官方网站域名为http://www.7fgame.com</text>
+    <url autologin="0">http://www.7fgame.com/news/NewsDetail.aspx?nid=208</url>
+  </textdata>
+  <!--  聊天室提示信息 -->
+  <textdata type="gamechat" textcolor="#FF6600" param="">
+    <text>智囊团火热招募中</text>
+    <url autologin="1">http://www.7fgame.com/news/NewsDetail.aspx?nid=2698</url>
+  </textdata>
+  <textdata type="gamechat" textcolor="#FF0000 " param="">
+    <text>警惕虚假抽奖信息</text>
+    <url autologin="0">http://www.7fgame.com/News/NewsDetail.aspx?nid=2085</url>
+  </textdata>
+  <textdata type="gamechat" textcolor="#333399" param="">
+    <text>群雄新英雄揭秘</text>
+    <url autologin="0">http://www.7fgame.com/news/NewsDetail.aspx?nid=2693</url>
+  </textdata>
+  <textdata type="gamechat" textcolor="#333399" param="">
+    <text>进阶练兵场</text>
+    <url autologin="0">http://www.7fgame.com/news/NewsDetail.aspx?nid=2300</url>
+  </textdata>
+  <!--   活动赠送的内容 -->
+  <imagedata type="giftflag">
+    <zip filename="icon.bmp" ver="10" zipflag="0" size="474" md5="FA26B454EA19F8F2B2A2E6278FC135AE">http://pt.7fgame.com/platformmanage/platforminterface/img/icon.bmp</zip>
+  </imagedata>
+  <!-- 活动赠送玩家颜色 -->
+  <textdata type="giftcolor" textcolor="#BE9C00">
+    <text>活动赠送</text>
+  </textdata>
+  <!-- 活动赠送玩家标志 -->
+  <textdata type="giftflag" textcolor="">
+    <text>活动赠送</text>
+  </textdata>
+  <!-- 活动赠送玩家头像 -->
+  <textdata type="giftheadimage" textcolor="">
+    <text>特殊活动</text>
+  </textdata>
+  <!-- 购买头像的提示 -->
+  <textdata type="tipbuyheadimage">
+    <text>需要声望50点/次</text>
+  </textdata>
+  <!-- 主界面右上按钮配置 -->
+  <!-- Main_TopBtn_2目前给老版本过渡， -->
+  <textdata type="Main_TopBtn_2" param="3" textcolor="#004890">
+    <text>地图编辑</text>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1874</url>
+  </textdata>
+  <textdata type="Main_TopBtn_3" param="2" textcolor="#004890">
+    <text>充值中心</text>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1560</url>
+  </textdata>
+  <textdata type="Main_TopBtn_4" param="4" textcolor="#004890">
+    <text>公会</text>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1561</url>
+  </textdata>
+  <textdata type="Main_TopBtn_5" param="37" textcolor="#781a01">
+    <text>起凡会员</text>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1559</url>
+  </textdata>
+  <!-- 喇叭显示清除时间 -->
+  <textdata type="labaClearTime" param="1800000">
+    <text>喇叭显示清除时间</text>
+  </textdata>
+  <!--  人满后倒计时前等待秒数 -->
+  <textdata type="AutoKickTime1" param="10">
+    <text>人满后倒计时前等待秒数</text>
+  </textdata>
+  <!--  自动踢人倒计时秒数 -->
+  <textdata type="AutoKickTime2" param="10">
+    <text>自动踢人倒计时秒数</text>
+  </textdata>
+  <textdata type="Breakrate_NotifyRange" param="6553650" textcolor="">
+    <text>显示逃跑信息的逃跑率范围</text>
+  </textdata>
+  <!--  23,4,12,16,12,3,25,20,24,4,25,11,1 -->
+  <!--  喇叭界面广告功能 -->
+  <textdata type="zmd_main_ad" textcolor="#FF0000" param="">
+    <text>【达人通告】免费字体、免费表情、免费颜色、免费服务功能……成为喇叭达人，更多免费功能无限用！</text>
+  </textdata>
+  <textdata type="laba_nomain_ad" textcolor="#ff0000">
+    <text>免费字体、免费表情、免费颜色、免费服务功能……成为喇叭达人，更多免费功能无限用！ $查看详情$</text>
+    <url autologin="1">http://pv.7fgame.com/PVCount.aspx?id=1875</url>
+  </textdata>
+  <!--  vip提示 -->
+  <!--   <zipdata type="viper">
+    <zip filename="viper" ver="4" zipflag="1" size="15253" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/VIPER.zip</zip>
+  </zipdata>
+  <zipdata type="viproom">
+    <zip filename="viproom" ver="4" zipflag="1" size="39401" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/viproom.zip</zip>
+  </zipdata> -->
+  <!--  喇叭显示界面 -->
+  <!--   <zipdata type="labaui">
+    <zip filename="labaui" ver="19" zipflag="1" size="3657" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/labaui.zip</zip>
+  </zipdata> -->
+  <!--  价格定义表 -->
+  <imagedata type="prices">
+    <zip filename="pricelist.xml" ver="11" zipflag="0" size="8977" md5="e1e6066eac660d9f22a6831238a8e3d8">http://pt.7fgame.com/platformmanage/platforminterface/img/pricelist.xml</zip>
+  </imagedata>
+  <!--  表情包 -->
+  <!--   <zipdata type="smileys">
+    <zip filename="smileys" ver="2" zipflag="1" dir="..\Smileys" size="228944" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/smileys.zip</zip>
+  </zipdata> -->
+  <!-- 二级界面喇叭和聊天界面切换的时间 -->
+  <textdata type="GameDlgBottomTime" param="10000">
+    <text>二级界面下面切换时间</text>
+  </textdata>
+  <!--  直播二级界面样式文件 -->
+  <imagedata type="live_xsl">
+    <zip filename="live.xsl" ver="2" zipflag="0" size="246889" md5="a7102bc17adca7b8ebdb2df14a8c6c19">http://pt.7fgame.com/living/index.xsl</zip>
+  </imagedata>
+  <imagedata type="live_xsl_new">
+    <zip filename="live_new.xsl" ver="4" zipflag="0" size="283398" md5="4758e48646251dc770096a1b6014d2bb">http://pt.7fgame.com/living/index_test.xsl</zip>
+  </imagedata>
+  <imagedata type="UnionChat">
+    <zip filename="UnionChat.htm" ver="2" zipflag="0" size="8663" md5="7e9cde1797056ca414a3c6281c1161cc">http://pt.7fgame.com/platformmanage/platforminterface/img/unionchat.htm</zip>
+  </imagedata>
+  <!--  直播二级界面英雄图像包 -->
+  <!--   <zipdata type="herosanguo">
+    <zip filename="herosanguo" ver="21" zipflag="1" size="1204919" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/herosanguo.zip</zip>
+  </zipdata> -->
+  <!--  媒体合作 -->
+  <!--   <zipdata type="advtype">
+    <zip filename="advtype" ver="1" zipflag="1" size="1801" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/advtype.zip</zip>
+  </zipdata> -->
+  <!--  新手引导 -->
+  <!--   <zipdata type="newuserwizard">
+    <zip filename="newuserwizard" ver="2" zipflag="1" size="91185" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/newuserwizard.zip</zip>
+  </zipdata>
+  <zipdata type="service_icons">
+    <zip filename="service_icons" ver="2" zipflag="1" size="6433" md5="A36F1E65B51C95FDA037EDC4B20735BF">http://pt.7fgame.com/platformmanage/platforminterface/zip/service_icons.zip</zip>
+  </zipdata> -->
+  <!--平台主界面顶部按钮图片-->
+  <!--   <zipdata type="maintopbtn">
+    <zip filename="MainTopBtn" ver="26" zipflag="1" size="201628" md5="D52055B99791AED8635C827BB1F1E9F5">http://pt.7fgame.com/platformmanage/platforminterface/zip/MainTopBtn.zip</zip>
+  </zipdata> -->
+  <!--   游戏结果广告  -->
+  <imagedata type="gameresult">
+    <zip filename="game_result_notify.xml" ver="5" zipflag="0" size="77" md5="bd3ce86ba858d8856b7a780e41dda647">http://pt.7fgame.com/platformmanage/platforminterface/img/game_result_notify.xml</zip>
+  </imagedata>
+  <!-- 进入编辑器测试房间的文字提示 -->
+  <!-- 进入编辑器测试房间的文字提示 -->
+  <textdata type="editor_testtip">
+    <text>欢迎进入玩家原创地图自由发布区，参加原创地图体验。如果您遇到游戏异常现象，请与GM联系或者到论坛的相应版块发帖提交bug。\n本房间中所有的地图都是作者呕心沥血之作，您的测试将帮助他们完善作品，让更多玩家玩到更好玩的地图！</text>
+  </textdata>
+  <!-- 创建编辑器地图游戏时未找到地图的提示 -->
+  <textdata type="editor_nomap">
+    <text>您还没有可供创建的游戏地图。\n您可以先通过起凡游戏编辑器创建自己的游戏地图，或加入其他玩家的游戏。</text>
+  </textdata>
+  <textdata type="editor_enterroom" textcolor="" param="">
+    <text>该房间所有地图均处于测试状态，请花费几分钟注册成为编辑器用户，即可参加地图测试。</text>
+  </textdata>
+  <textdata type="editor_editmap" textcolor="" param="">
+    <text>编辑器目前处于测试状态，暂不对所有用户开放。</text>
+  </textdata>
+  <!-- 指定对主窗口Tab页的某项进行闪烁，Param=0则不闪烁, 非0闪烁, url为空则永不过期  -->
+  <!-- 游戏大厅="Home" 录像="Replay" 房间="GameRoom" 会员="VipPage" 赛事="LiveGame", 我的空间="Personal" 公会="union" -->
+  <textdata type="maintab_FlashItem" param="2" textcolor="">
+    <text>KnowAll</text>
+    <url autologin="0">2010-12-31</url>
+  </textdata>
+  <!--起凡知道的关键词词库-->
+  <!--   <imagedata type="7fZhidao_KeyWord">
+    <zip filename="KeyWord.txt" ver="1" zipflag="0" size="1866" md5="AF9A81843796FC75007290AB08C6A4F9">http://pt.7fgame.com/platformmanage/platforminterface/img/KeyWord.txt</zip>
+  </imagedata> -->
+  <!--  地图菜单配置 -->
+  <imagedata type="MapMenuItem">
+    <zip filename="MapItems.xml" ver="1" zipflag="0" size="192" md5="E176CF5421151F5BAB478B1B72092814">http://pt.7fgame.com/platformmanage/platforminterface/img/mapitems.xml</zip>
+  </imagedata>
+  <!--  地图logo -->
+  <zipdata type="map_logo">
+    <zip filename="map_logo" ver="136" zipflag="1" size="11014" md5="DA59B3D641516F63CD4B79FD271C0FC4">http://pt.7fgame.com/platformmanage/platforminterface/zip/2312/map_logo.zip</zip>
+  </zipdata>
+  <!--活动广告-->
+  <!--   <zipdata type="Day_Activity">
+    <zip filename="Day_Activity" ver="14" zipflag="1" size="1833" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/Day_Activity.zip</zip>
+  </zipdata> -->
+  <!--活动传递图标-->
+  <!--   <zipdata type="DayActTransmitImage">
+    <zip filename="DayActTransmitImage" ver="1" zipflag="1" size="1440" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/DayActTransmitImage.zip</zip>
+  </zipdata> -->
+  <!--积分广告配置-->
+  <imagedata type="IntegralAdvs">
+    <zip filename="IntegralAdvs.xml" ver="5" zipflag="0" size="297" md5="05de832a6f55c410ece00c1c31260e79">http://pt.7fgame.com/platformmanage/platforminterface/img/integraladvs.xml</zip>
+  </imagedata>
+  <!--房间列表/近期热点配置-->
+  <imagedata type="HotNews">
+    <zip filename="HotNews.xml" ver="4" zipflag="0" size="640" md5="B4C011379CF3C50DBC37B46A2A69D238">http://pt.7fgame.com/platformmanage/platforminterface/img/hotnews.xml</zip>
+  </imagedata>
+  <!-- 关键字过滤 -->
+  <imagedata type="sys_filterWord">
+    <zip filename="sys_filterWord.xml" ver="11" zipflag="0" size="2382" md5="72F5EC651B5E95CD20E8AB3441CCDB11">http://pt.7fgame.com/platformmanage/platforminterface/zip/sys_filterWord.xml</zip>
+  </imagedata>
+  <!-- 驱动加载失败弹窗体配置 -->
+  <imagedata type="LoadSysExitInfo">
+    <zip filename="ExitAppInfo.xml" ver="1" zipflag="0" size="516" md5="745364E73907C43D73486D8DA40D1CF9">http://pt.7fgame.com/platformmanage/platforminterface/img/exitappinfo.xml</zip>
+  </imagedata>
+  <!-- 自定义IM弹出框 -->
+  <!--   <zipdata type="ImNewMode">
+    <zip filename="ImNewMode" ver="3" zipflag="1" size="681658" md5="0302679EA99F174E9CF70D9DD18A6F1E">http://pt.7fgame.com/platformmanage/platforminterface/zip/ImNewMode.zip</zip>
+  </zipdata> -->
+  <!-- 地图个性框 -->
+  <zipdata type="common_use">
+    <zip filename="common_use" ver="304" zipflag="1" size="6678" md5="BAFCFEAD713294CCEEA87D837993064F">http://pt.7fgame.com/platformmanage/platforminterface/zip/common_use.zip</zip>
+  </zipdata> --&gt;
+  <!--   <zipdata type="images">
+    <zip filename="images" ver="17" zipflag="1" size="19979" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/images.zip</zip>
+  </zipdata> --><!-- 阵营标记 --><imagedata type="PfTypeFlag"><zip filename="PfTypeFlag.xml" ver="2" zipflag="0" size="420" md5="C18E9DBE355E8B0569768AEDDCD3D2CB">http://pt.7fgame.com/platformmanage/platforminterface/img/PfTypeFlag.xml</zip></imagedata><!-- 关键字 --><!--   <zipdata type="cnk">
+    <zip filename="cnk" ver="1" zipflag="1" size="20506" md5="F10CEA4BC0CD80731F667B9E8DD6882F">http://pt.7fgame.com/platformmanage/platforminterface/zip/cnk.zip</zip>
+  </zipdata> --><!-- 活动 --><!--   <zipdata type="Imax">
+    <zip filename="Imax" ver="2" zipflag="1" size="156903" md5="E49A7808AC0B366377939D62EA6F76AF">http://pt.7fgame.com/platformmanage/platforminterface/zip/Imax.zip</zip>
+  </zipdata> --><!-- 气泡 --><!--   <imagedata type="Activity">
+    <zip filename="Activity.xml" ver="55" zipflag="0" size="9601" md5="ae973c395e9773681592504cd9b8f254">http://pt.7fgame.com/platformmanage/platforminterface/img/Activity.xml</zip>
+  </imagedata>
+  <zipdata type="Activty">
+    <zip filename="Activty" ver="17" zipflag="1" size="92996" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/Activty.zip</zip>
+  </zipdata>
+  <zipdata type="adImage">
+    <zip filename="adImage" dir="..\game\resource\sanguo\ad\" ver="2" zipflag="1" size="63290" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/adImage.zip</zip>
+  </zipdata>
+  <zipdata type="Activitybtn">
+    <zip filename="Activitybtn" dir="..\Skin\" ver="17" zipflag="1" size="133656" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/Activitybtn.zip</zip>
+  </zipdata> --><zipdata type="loading"><zip filename="loading" dir="..\game\resource\sanguo\platformresouce\" ver="36" zipflag="1" size="1468835" md5="DBE09AA6F99C203CCBB0091C9D1DBC75">http://pt.7fgame.com/platformmanage/platforminterface/zip/loading.zip</zip></zipdata><!--   <zipdata type="Config">
+    <zip filename="Config" dir="..\Config\" ver="5" zipflag="1" size="560" md5="CDB12CCFA8E273DF294E336FA1375162">http://pt.7fgame.com/platformmanage/platforminterface/zip/Config.zip</zip>
+  </zipdata>
+  <zipdata type="battleConfig">
+    <zip filename="battleConfig" ver="13" zipflag="1" size="27053" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/battleConfig.zip</zip>
+  </zipdata> --><!--   <zipdata type="ImIconProp">
+    <zip filename="ImIconProp" dir="..\GameBag\" ver="32" zipflag="1" size="2745" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/2308/ImIconProp.zip</zip>
+  </zipdata> --><!--
+  <zipdata type="LoginSkin">
+    <zip filename="LoginSkin" dir="..\" ver="28" zipflag="1" size="726870" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/LoginSkin.zip</zip>
+  </zipdata>
+  <zipdata type="dic">
+    <zip filename="dic" ver="1" zipflag="1" size="20506" md5="F10CEA4BC0CD80731F667B9E8DD6882F">http://pt.7fgame.com/platformmanage/platforminterface/zip/dic.zip</zip>
+  </zipdata>
+  <zipdata type="Skin">
+    <zip filename="Skin" dir="..\Skin\" ver="8" zipflag="1" size="6163" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/Skin.zip</zip>
+  </zipdata>--><imagedata type="wuxun"><zip filename="wuxun.xml" ver="44" zipflag="0" size="3956" md5="73f73c81ac640bb7d3ab7f409fcd873c">http://pt.7fgame.com/platformmanage/platforminterface/img/wuxun.xml</zip></imagedata><zipdata type="BubbleTip"><zip filename="BubbleTip" ver="76" zipflag="1" size="3073" md5="84CBC9F614D369F374055EDE2B894EA7">http://pt.7fgame.com/platformmanage/platforminterface/zip/BubbleTip.zip</zip></zipdata> --&gt;
+      <imagedata type="qxgamecover"><zip filename="qxgamecover.xml" ver="168" zipflag="0" size="806" md5="5a17a48debf20dd995754fc819b07588">http://pt.7fgame.com/platformmanage/platforminterface/game/qxgamecover.xml</zip></imagedata><!--走马灯--><!--   <zipdata type="ad">
+    <zip filename="ad" ver="3" zipflag="1" size="1076" md5="F07633495A8ECF25097B55ACD2D08974">http://pt.7fgame.com/platformmanage/platforminterface/zip/ad.zip</zip>
+  </zipdata> --></content>

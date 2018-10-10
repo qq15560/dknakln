@@ -1,0 +1,165 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <script type="text/javascript" src="http://home.7fgame.com/homemain/Jscript/Common.js"></script>
+
+    <link href="http://home.7fgame.com/homemain/Css/Main.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        body{font: normal 12px Verdana;}
+        table.i{table-layout: fixed;width: 100%;font-size: 12px;}
+        table.i td.gt{color: #fff;line-height: 18px;font-size: 12px;}
+        table.i .no{font-weight: normal;}
+        table td.btm{padding: 2px 0px 0px 0px;}
+        table.i td.dt{width: 60px;white-space: nowrap;font-size: 8pt;text-align: right;font-size: 12px;        }
+        .txtflow, .tf{overflow: hidden;white-space: nowrap;-o-text-overflow: ellipsis;text-overflow: ellipsis;color: #000;}
+        table a{text-decoration: underline;font-size: 12px;color: #336699;}
+        .txtindent{text-indent: 24px;font-size: 12px;}
+        table.i td.op A{width: 66px;height: 18px;text-align: right;line-height: 18px;display: block;float: right;overflow: hidden;color: #03aae1;}
+        table.i td.op .A31{background: url(../images/web_icon_3.gif) no-repeat 0px -1439px;}
+        table.i td.op .A32{background: url(../images/web_icon_3.gif) no-repeat -2px -1419px;}
+        .platdivitem{padding: 3px 0px 3px 0px;border-bottom: 1px solid #D8DFEA;}
+    </style>
+</head>
+<body style="margin: 0px; padding: 0px; overflow: hidden; background: #EFF2F8">
+    <div id="Main" style="width: 155; overflow: hidden;">
+		<div id="divBody"></div>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+	var itemCount = 0;
+	var divPlatDivItem = "";
+	
+	function addNofiy(data){
+		//data = "<Item><FeedType>42</FeedType><uid>2917718</uid><uName>surelia</uName><newsId>3550</newsId><newsTitle>《起凡三国讲武堂》 直击精彩竞技</newsTitle><CreateTime>8天前</CreateTime></Item>";
+		//alert(data);
+		var divBodyInnerHTML = "";
+		var flagicon = "";
+		var feedTypeName = "";
+		var createTime = "";
+		var feedTitle = "";
+		if(itemCount>=20){
+			deleteNofiy();
+			itemCount--;
+		}
+		try{
+			if (window.ActiveXObject)
+			{
+			  xmlobject =new ActiveXObject("Microsoft.XMLDOM");
+			  xmlobject.async="false";
+			  xmlobject.loadXML(data);
+			}
+			
+			// 用于 Mozilla, Firefox, Opera, 等浏览器的代码：
+			else
+			{
+			 var parser=new DOMParser();
+			 xmlobject =parser.parseFromString(data,"text/xml");
+			}
+			var FeedType = parseInt(xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("FeedType")[0].firstChild.nodeValue);
+			switch(FeedType){
+				case 37:
+					flagicon = 14;
+					var uName1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uName1")[0].firstChild.nodeValue;
+					var uid1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uid1")[0].firstChild.nodeValue;
+					feedTypeName = '<a href="7fgame://type=browser/?userid=' + uid1 + ';str=t,1|u,' + uid1 + '">' + uName1 + '</a> 评论道：';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					feedTitle = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("Content")[0].firstChild.nodeValue;
+					break;
+				case 42:
+					flagicon = 18;
+					feedTypeName = '<a style="text-decoration: none;">官方新闻</a>';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					newsId = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("newsId")[0].firstChild.nodeValue;
+					feedTitle = '<a href="http://www.7fgame.com/news/News_Detail.aspx?nid=' + newsId + '" target="_blank">' + xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("newsTitle")[0].firstChild.nodeValue + '</a>';
+					break;
+				case 7:
+					flagicon = 7;
+					var uName = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uName")[0].firstChild.nodeValue;
+					var uid = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uid")[0].firstChild.nodeValue;
+					var sourceUrl = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("SourceUrl")[0].firstChild.nodeValue;
+					feedTypeName = '<a href="7fgame://type=browser/?userid=' + uid + ';str=t,1|u,' + uid + '">' + uName + '</a> 的转贴：';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					target = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("target")[0].firstChild.nodeValue;
+					feedTitle = '<a target="' + target + '" href="' + sourceUrl + '">' + xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("Title")[0].firstChild.nodeValue + '</a>';
+					break;
+				case 13:
+					flagicon = 14;
+					var uName = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uName")[0].firstChild.nodeValue;
+					var uid = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uid")[0].firstChild.nodeValue;
+					feedTypeName = '<a href="7fgame://type=browser/?userid=' + uid + ';str=t,1|u,' + uid + '">' + uName + '</a> 留言：';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					feedTitle = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("Content")[0].firstChild.nodeValue;
+					break;
+				case 20:
+					flagicon = 14;
+					var uName1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uName1")[0].firstChild.nodeValue;
+					var uid1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uid1")[0].firstChild.nodeValue;
+					feedTypeName = '<a href="7fgame://type=browser/?userid=' + uid1 + ';str=t,1|u,' + uid1 + '">' + uName1 + '</a> 评论道：';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					feedTitle = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("Content")[0].firstChild.nodeValue;
+					break;
+				case 33:
+					flagicon = 1;
+					var uName1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uName1")[0].firstChild.nodeValue;
+					var uid1 = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("uid1")[0].firstChild.nodeValue;
+					feedTypeName = '<a href="7fgame://type=browser/?userid=' + uid1 + ';str=t,1|u,' + uid1 + '">' + uName1 + '</a> 评论道：';
+					createTime = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("CreateTime")[0].firstChild.nodeValue;
+					feedTitle = xmlobject.getElementsByTagName("Item").item(0).getElementsByTagName("Content")[0].firstChild.nodeValue;
+					break;
+			}
+		  
+		}catch(e){return;}
+		
+		
+		divBodyInnerHTML += '<div class="platdivitem">';
+		divBodyInnerHTML += '<table cellspacing="0" class="i">';
+		divBodyInnerHTML += '<tr>';
+		divBodyInnerHTML += '<td width="16">';
+		divBodyInnerHTML += '<div class="itemicon flagicon' + flagicon + '"></div>';
+		divBodyInnerHTML += '</td>';
+		divBodyInnerHTML += '<td class="gt tf">';
+		divBodyInnerHTML += '<div class="txtflow">' + feedTypeName + '</div>';
+		divBodyInnerHTML += '</td>';
+		divBodyInnerHTML += '<td class="dt">';
+		divBodyInnerHTML += '<div>' + createTime + '</div>';
+		divBodyInnerHTML += '</td>';
+		divBodyInnerHTML += '</tr>';
+		divBodyInnerHTML += '<tr>';
+		divBodyInnerHTML += '<td colspan="3" class="btm txtflow">';
+		divBodyInnerHTML += '<div class="txtflow txtindent">' + feedTitle + '</div>';
+		divBodyInnerHTML += '</td>';
+		divBodyInnerHTML += '</tr>';
+		divBodyInnerHTML += '</table>';
+		divBodyInnerHTML += '</div>';		
+		document.getElementById('divBody').innerHTML = divBodyInnerHTML + document.getElementById('divBody').innerHTML;
+		if( divPlatDivItem.length > 0 )
+		{
+			divPlatDivItem += "#split#" + divBodyInnerHTML;
+		}
+		else
+		{
+			divPlatDivItem = divBodyInnerHTML;
+		}
+		itemCount++;
+	}
+	
+	function deleteNofiy(){
+		var arrayPlatDivItem = divPlatDivItem.split("#split#");
+		document.getElementById('divBody').innerHTML = "";
+		divPlatDivItem = "";
+		for( var i=1; i<arrayPlatDivItem.length; i++ ){
+			document.getElementById('divBody').innerHTML = arrayPlatDivItem[i] + document.getElementById('divBody').innerHTML;
+			if( divPlatDivItem.length > 0 )
+			{
+				divPlatDivItem += "#split#" + arrayPlatDivItem[i];
+			}
+			else
+			{
+				divPlatDivItem = arrayPlatDivItem[i];
+			}		
+		}
+	}
+	//addNofiy(1);
+</script>

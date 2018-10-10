@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>QQLive</title>
+	<!--[if IE 6]>
+		<script type="text/javascript">
+			document.execCommand("BackgroundImageCache", false, true);
+		</script>
+	<![endif]-->
+	<style type="text/css" media="screen">
+html{overflow:auto; scrollbar-face-color:#3F4349; scrollbar-highlight-color:#494D53; scrollbar-shadow-color:#1C1E21; scrollbar-3dlight-color:#1C1E21; scrollbar-arrow-color:#252729; scrollbar-track-color:#34373C; scrollbar-darkshadow-color:#34373C;}		body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,fieldset,lengend,button,input,textarea,th,td{margin:0;padding:0;}body,button,input,select,textarea{font:12px/1.5 Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif;}h1{font-size:18px;}h2{font-size:16px;}h3{font-size:14px;}h4,h5,h6{font-size:100%;}ul,ol,li{list-style:none;}a{text-decoration:none;}a:hover{text-decoration:underline;}legend{color:#000;}fieldset,img{border:none;}button,input,select,textarea{font-size:100%;}table{border-collapse:collapse;border-spacing:0;}
+		body{background:#272727;color:#808080;font-size:12px;min-width:100px}
+		a{color:#ddd;text-decoration:underline;}
+		a:hover{color:#f90}
+		.offline,.buffer .back,thead th,.processer,.processer b,.processer em,.complete,.buffer .name a:hover span,.buffer .name .playing span{background-image:url(img/sprite.png);background-repeat:no-repeat;} 
+		.offline{margin:90px auto;width:360px;padding:0 0 0 50px;background-position:-120px -162px;}
+		.offline p{line-height:22px;}
+		.offline h1{font-size:14px;line-height:2;color:#ddd}
+	</style>	
+</head>
+<body>
+
+<script language="javascript">
+
+function kErr(){return true;}
+window.onerror = kErr; 
+var objQQLive = new ActiveXObject('QQLive.Application');
+
+function VaildURL(sUrl)
+{
+	return sUrl.indexOf("http://cache.tv.qq.com") == 0;
+}
+function goback()
+{
+	var url=document.location.toString();
+	var onf=url.indexOf("url=");
+	if(onf!=-1)
+	{
+		url = url.substr(onf+4, url.length -onf-4);
+		url = decodeURIComponent(url);
+		if(VaildURL(url))
+		{
+			window.location.href = url;
+		}
+	}
+	return false;
+}
+</script>	
+
+<div class="offline">
+	<h1>很抱歉，未能连接到网络！</h1>
+	<p>建议您：检查网络是否连接正常，如果连接正常，请<a href="#" onclick="return goback();">点击刷新</a></p>
+</div>
+</body>
+</html>

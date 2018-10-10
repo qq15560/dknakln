@@ -1,0 +1,8 @@
+ ’µΩ _READY_ACK time=10-08 21:26:55
+server send m_dwGetSnapCheck =123853835 time=10-08 21:37:57 frame 37229
+server send m_dwGetSnapCheck =123853835 time=10-08 21:38:34 frame 39284
+server send m_dwGetSnapCheck =123853835 time=10-08 21:47:50 frame 72195
+server send m_dwGetSnapCheck =123853835 time=10-08 21:52:08 frame 87409
+server send m_dwGetSnapCheck =123853835 time=10-08 21:55:12 frame 98277
+server send m_dwGetSnapCheck =123853835 time=10-08 22:06:05 frame 136817
+socket closed time=10-08 22:08:48

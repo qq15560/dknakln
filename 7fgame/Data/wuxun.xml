@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content ver="44">
+<WuxunInfo  MapId="47" RoomId="1272" WxImg="NewBieWuxun.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="1"/>
+<WuxunInfo  MapId="47" RoomId="2703" WxImg="NewBieWuxun.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="1"/> 
+<WuxunInfo  MapId="47" RoomId="1069" WxImg="DianxinWx.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="1"/>
+<WuxunInfo  MapId="47" RoomId="2701" WxImg="DianxinWx.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="1"/>
+<WuxunInfo  MapId="47" RoomId="1179" WxImg="wangtongWx.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="2"/> 
+<WuxunInfo  MapId="47" RoomId="2705" WxImg="wangtongWx.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="2"/> 
+<WuxunInfo  MapId="47" RoomId="670" WxImg="jueshiRoom.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="3"/> 
+<WuxunInfo  MapId="47" RoomId="2855" WxImg="jueshiRoom.png" Title="" WxEnvelop="envelop.png" WxLimit="limit.png" Huobao="line.png" HuoBaoIndex="3"/> 
+<AutoMatchBtnInfo BtnId="0" MapId="47" BtnImg="PayUp.png" Login="0" ShowType="0" Width="98" Height="144" Url="http://pv.7fgame.com/PVCount.aspx?id=6790"/>
+<AutoMatchBtnInfo BtnId="1" MapId="47" BtnImg="Shop.png" Login="0" ShowType="0" Width="98" Height="144" Url="http://pv.7fgame.com/PVCount.aspx?id=6791"/>
+<AutoMatchBtnInfo BtnId="2" MapId="47" BtnImg="Rank.png" Login="0" ShowType="0" Width="98" Height="144" Url="http://pv.7fgame.com/PVCount.aspx?id=6792"/>
+<AutoMatchBtnInfo BtnId="3" MapId="47" BtnImg="WuxunStore.png" Login="0" ShowType="0" Width="98" Height="144" Url="http://pv.7fgame.com/PVCount.aspx?id=6793"/>
+<AutoMatchBtnInfo BtnId="3" MapId="47" BtnImg="score.png" Login="0" ShowType="0" Width="98" Height="144" Url="http://pv.7fgame.com/PVCount.aspx?id=6801"/>
+<AutoMatchBtnInfo BtnId="4" MapId="47" bBottom="1" Caption="天猫" BtnImg="PluginBtn.png" Login="0" ShowType="1" Width="61" Height="88" Url="http://pv.7fgame.com/PVCount.aspx?id=6815"/>
+<AutoMatchBtnInfo BtnId="5" MapId="47" bBottom="1" Caption="公会" BtnImg="PluginBtn.png" Login="0" ShowType="1" Width="61" Height="88" Url="http://pv.7fgame.com/PVCount.aspx?id=6816"/>
+<AutoMatchBtnInfo BtnId="6" MapId="47" bBottom="1" Caption="论坛" BtnImg="PluginBtn.png" Login="0" ShowType="1" Width="61" Height="88" Url="http://pv.7fgame.com/PVCount.aspx?id=6817"/>
+<AutoMatchBtnInfo BtnId="7" MapId="47" bBottom="1" Caption="积分兑换" BtnImg="PluginBtn.png" Login="0" ShowType="1" Width="61" Height="88" Url="http://pv.7fgame.com/PVCount.aspx?id=6818"/>
+<!-- <AutoMatchBtnInfo BtnId="8" MapId="47" bBottom="1" Caption="积分兑换" BtnImg="PluginBtn.png" Login="0" ShowType="0" Width="61" Height="88" Url="http://pv.7fgame.com/PVCount.aspx?id=6801"/> -->
+<!-- <ActiveBtnInfo BtnId="0" MapId="47" caption="青龙" BtnImg="ActiveBtn.png" Login="0" ShowType="0" bTip="1" Width="61" Height="88" strTip="&lt;font size=12px color=#960025&gt;海量好礼等你来拿&lt;/font&gt;" ToolbarStyle="0" Url="http://pv.7fgame.com/PVCount.aspx?id=6796"/> -->
+<ActiveBtnInfo BtnId="1" MapId="47" caption="虎符商店" BtnImg="ActiveBtn.png" Login="0" ShowType="1" bTip="0" Width="61" Height="88" ToolbarStyle="0" WebWidth="1000" WebHeight="750" Url="http://pv.7fgame.com/PVCount.aspx?id=6797"/>
+<ActiveBtnInfo BtnId="2" MapId="47" caption="武勋商店" BtnImg="ActiveBtn.png" Login="0" ShowType="0" bTip="0" Width="61" Height="88" ToolbarStyle="0" Url="http://pv.7fgame.com/PVCount.aspx?id=6798"/>
+<ActiveBtnInfo BtnId="3" MapId="47" caption="魂玉配置" BtnImg="ActiveBtn.png" Login="0" ShowType="3" bTip="0" Width="61" Height="88" ToolbarStyle="0" Url="http://pv.7fgame.com/PVCount.aspx?id=6799"/>
+</content>

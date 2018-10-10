@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>喇叭</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+        html {scrollbar-face-color: #dceefb;scrollbar-shadow-color: #dceefb;scrollbar-highlight-color: #FFFFFF;scrollbar-3dlight-color: #96AABD;scrollbar-darkshadow-color: #96AABD;scrollbar-track-color: #edf7fa;scrollbar-arrow-color: #5b86af;overflow-x: hidden;overflow-y: auto;}
+        body {background-color: #EFF2F8;}
+        *{margin: 0px; padding: 0px;  font-size: 12px; font-family: "微软雅黑", Tahoma, Geneva, sans-serif;}
+        img{border: none;}
+        .rowContent{padding:3px 10px; margin:5px 0; word-break: break-all;word-wrap: break-word; color: #000;}
+        .userLv{display: inline-block; background: url(images/userlvbg.png); color: #FFF; font-weight:bold; width: 43px; height: 21px; line-height: 21px; text-align: center;}
+        /*用户名的连接样式*/
+        .uNameLink{display:inline; text-decoration:underline; color:red; cursor:pointer; padding: 0 3px;}
+        /*号令显示样式*/
+        .hlStyle1{background: url(images/haoling1.png) repeat-y; color: #4F2F4F!important;}
+        .hlStyle2{background: url(images/haoling2.png) repeat-y; color: #BC1717!important;}
+        .hlStyle3{background: url(images/haoling3.png) repeat-y; color: #FF7F00!important;}
+        .hlStyle4{background: url(images/haoling4.png) repeat-y; color: #426F42!important;}
+        
+        .hlStyle5{background: url(images/haoling5.png) repeat-y; color: #5B86AF!important;}
+        .hlStyle6{background: url(images/haoling6.png) repeat-y; color: #5B86AF!important;}
+        /*邀请加入的连接样式*/
+       .joinLink{ cursor:pointer; text-decoration:underline;color: orangered;}
+    </style>
+</head>
+<body onkeydown="keypressed()">
+	<form id="Form1">
+        <script type="text/javascript">
+            function keypressed() {
+                if (window.event.keyCode == 116) {
+                    window.event.keyCode = 0;
+                    event.returnValue = false;
+                }
+            }
+        </script>
+   
+        <span id="divBody" style="display: block;"></span>
+        <div id="Bottom" style="padding:3px;">&nbsp;</div>
+
+    </form>
+</body>
+</html>
+<script type="text/javascript">
+	var emot = [
+				{"s":"/bz","t":"闭嘴","f":"bizui.gif"},
+				{"s":"/bgx","t":"不高兴","f":"bugaoxing.gif"},
+				{"s":"/dk","t":"大哭","f":"daku.gif"},
+				{"s":"/dx","t":"大笑","f":"daxiao.gif"},
+				{"s":"/fdai","t":"发呆","f":"fadai.gif"},
+				{"s":"/fdou","t":"发抖","f":"fadou.gif"},
+				{"s":"/fc","t":"讽刺","f":"fengci.gif"},
+				{"s":"/fn","t":"愤怒","f":"fennu.gif"},
+				{"s":"/gg","t":"尴尬","f":"ganga.gif"},
+				{"s":"/hx","t":"害羞","f":"haixiu.gif"},
+				{"s":"/hy","t":"怀疑","f":"huaiyi.gif"},
+				{"s":"/jy","t":"惊讶","f":"jingya.gif"},
+				{"s":"/kj","t":"恐惧","f":"kongju.gif"},
+				{"s":"/kun","t":"困","f":"kun.gif"},
+				{"s":"/lh","t":"流汗","f":"liuhan.gif"},
+				{"s":"/ll","t":"流泪","f":"liulei.gif"},
+				{"s":"/qq","t":"亲亲","f":"qinqin.gif"},
+				{"s":"/qz","t":"亲嘴","f":"qinzui.gif"},
+				{"s":"/semm","t":"色眯眯","f":"semimi.gif"},
+				{"s":"/sr","t":"闪人","f":"shanren.gif"},
+				{"s":"/shb","t":"生病","f":"shengbing.gif"},
+				{"s":"/sw","t":"失望","f":"shiwang.gif"},
+				{"s":"/sk","t":"思考","f":"sikao.gif"},
+				{"s":"/tx","t":"偷笑","f":"touxiao.gif"},
+				{"s":"/otu","t":"吐","f":"tu.gif"},
+				{"s":"/ts","t":"吐舌","f":"tushe.gif"},
+				{"s":"/weix","t":"威胁","f":"weixie.gif"},
+				{"s":"/wx","t":"微笑","f":"weixiao.gif"},
+				{"s":"/yyqc","t":"咬牙切齿","f":"yaoyaqiechi.gif"},
+				{"s":"/yw","t":"疑问","f":"yiwen.gif"},
+				{"s":"/yb","t":"拥抱","f":"yongbao.gif"},
+				{"s":"/tux","t":"吐血","f":"tuxue.gif"},
+				{"s":"/yun","t":"晕","f":"yun.gif"},
+				{"s":"/keai","t":"可爱","f":"keai.gif"},
+				{"s":"/niu","t":"牛","f":"niniu.gif"},
+				{"s":"/ym","t":"郁闷","f":"yumen.gif"},
+				{"s":"/eg","t":"打耳光","f":"erguang.gif"},
+				{"s":"/ysz","t":"咬手指","f":"yaoshouzhi.gif"},
+				{"s":"/ss","t":"耍帅","f":"shuashuai.gif"},
+				{"s":"/wy","t":"无语","f":"wuyu.gif"},
+				{"s":"/zx","t":"贼笑","f":"zeixiao.gif"},
+				{"s":"/anf","t":"安抚","f":"anfu.gif"},
+				{"s":"/gc","t":"告辞","f":"gaoci.gif"},
+				{"s":"/db","t":"大包","f":"dabao.gif"},
+				{"s":"/shl","t":"胜利","f":"shengli.gif"}
+			   ];
+
+    //替换表情的方法
+    function ReplaceSmile(Content) {
+		//alert(ReplaceSmile);
+		for (var i = 0; i < emot.length; i++) {
+			//替换表情
+		    Content = Content.replace(new RegExp(emot[i].s, "gm"), '<img src="../Smileys/' + emot[i].f + '"  align="absmiddle" title="'+ emot[i].t +'">');		
+		}
+        return Content;
+    }
+    
+
+    //去掉首位空格
+    function myTrim(str) {
+        str = str.replace(/^\s+|\s+$/g, '');
+        return str;
+    }
+
+    //武勋等级称号
+    function getWuxunLvName(lv){
+        var s = "";
+        switch (parseInt(lv)) {
+			case 0:
+				s= "狼牙新兵";
+				break;
+            case 1:
+                s = "狼牙将士";
+                break;
+            case 2:
+                s = "驰狼都尉"
+                break;
+            case 3:
+                s = "苍狼校尉"
+                break;
+            case 4:
+                s = "虎胆偏将"
+                break;
+            case 5:
+                s = "虎啸少将"
+                break;
+            case 6:
+                s = "虎威将军"
+                break;
+            case 7:
+                s = "龙鳞少帅"
+                break;
+            case 8:
+                s = "龙吟元帅"
+                break;
+			case 9:
+				s = "龙魂大元帅"
+				break;
+        }
+        return { "name": s, "icon": "wuxunfenxiang" + ( parseInt(lv) + 16) + ".png" };
+    }
+
+	function loadData(p){
+		var p = eval('('+p+')');
+		
+        var divBodyInnerHTML;
+       
+        //构造消息的显示行，追加到内容显示区域的最后一行。
+        //构造消息头的图标
+        var zmdHTML = myTrim(p.zmdflag) == "" ? "" : "<img src='" + p.zmdflag + "' style='width:16px; height:16px' title='走马灯'></img>";
+
+        //构造用户名显示
+        var usernameHtml = "<span id='basicinfo' class='uNameLink' userid='" + p.userid + "' title='" + p.uname + "' username='" + p.uname + "'>";
+        if (myTrim(p.uname) == "")
+            usernameHtml += "</span>";
+        else
+            usernameHtml += p.uname+"</span>说：";
+        
+        //武勋称号图标
+        if(myTrim(p.wuxunlevel) != "")
+        {
+            var wx = getWuxunLvName(p.wuxunlevel);
+            usernameHtml = "<img src='' style='display:inline-block;width:16px; height:16px; background:url(../GameBag/ImIconProp/" + wx.icon +") no-repeat; '  title='" + wx.name + "' />" + usernameHtml;
+        }
+		
+        //前置用户类型图标   align='absmiddle'
+        usernameHtml = myTrim(p.drflag) == "" ? usernameHtml : "<img src='" + p.drflag + "' width='6' height='16'   title='群雄达人' />" + usernameHtml;
+        usernameHtml = myTrim(p.imageurl) == "" ? usernameHtml : "<img src='" + p.imageurl + "' width='16' height='16'  title='起凡会员' />" + usernameHtml;
+
+        //构造消息内容加样式
+        var fontStyle = "";
+        var contentHtml = "<span id='labacontent'>" + ReplaceSmile(p.content) + "</span>";
+        
+        //构造内容后面的 各种功能特色类型的点击链接（加入游戏局、加入公会等等）
+        var featureLinkHtml = "";
+        if (myTrim(p.typeid) != "") {
+            var arrTypeId = p.typeid.split(",");
+            var featureLinkTemp = "";
+            for(var n=0;n<arrTypeId.length;n++){
+                switch (arrTypeId[n]) {
+                    case "1": //1自主建局游戏邀请
+                        featureLinkTemp = myTrim(p.gameroomid)==""?"":"<span id='invitegame' class='joinLink' gameroomid='" + p.gameroomid + "' gamecreatorid='"+ p.gamecreatorid +"' >点击加入该游戏局</span>&nbsp;";
+                        break;
+                    case "3": //3好友邀请
+                        featureLinkTemp = myTrim(p.userid) == "" ? "" : "<span id='invitefriend' class='joinLink' userid='" + p.userid + "' username='" + p.uname + "'>点击加为好友</span>&nbsp;";
+                        break;
+                    case "7": //7机器人喊话
+                        featureLinkTemp = "<img title='自动喊话' src='images/autosp.gif' style='cursor:pointer;' />&nbsp;";
+                        break;
+					case "10": //10自动匹配游戏邀请
+						featureLinkTemp = myTrim(p.teamid)==""?"":"<span id='autoinvitegame'class='joinLink' gameroomid='" + p.gameroomid + "' subgameroomid='" + p.subroomid + "' userid='" + p.userid + "' shuwei='" + p.shuwei + "' teamId='" + p.teamid + "'>点击加入该游戏局</span>&nbsp;";
+						//alert(featureLinkTemp);
+						break ;
+                } //end by --> switch (arrTypeId[n])
+                featureLinkHtml += featureLinkTemp;
+            }//end by --> for(var n=0;n<arrTypeId.length;i++){
+        }//end by --> if (myTrim(TypeId) != "") {
+
+        //拼接内容并追加到页面内容显示区域		
+        divBodyInnerHTML = zmdHTML + usernameHtml + contentHtml + "&nbsp;&nbsp;"+featureLinkHtml;
+        //前置平台等级
+		divBodyInnerHTML = "<span class='userLv'>Lv"+p.platlevel+"</span>"+ divBodyInnerHTML;
+		
+        var newNode = document.createElement("div");//创建一个标签 
+        
+        if(myTrim(p.fontcolor)!="")
+        	newNode.className = "rowContent hlStyle"+p.fontcolor;
+        else
+        	newNode.className = "rowContent";
+        newNode.innerHTML = divBodyInnerHTML;
+
+        document.getElementById('divBody').appendChild(newNode);
+        document.getElementById("Bottom").scrollIntoView(false);
+
+    }
+
+
+    function Remove(index) {
+       try {
+            //查找并删除节点
+             var node = document.getElementById("divBody").childNodes[index]; //通过索引查找
+            document.getElementById('divBody').removeChild(node);
+            document.getElementById("Bottom").scrollIntoView(false);
+        }catch(e){}
+    }
+
+    function Delete(blackUserIds) { }
+
+    function DeleteAll() {
+        document.getElementById('divBody').innerHTML = "";
+    }
+   
+</script>

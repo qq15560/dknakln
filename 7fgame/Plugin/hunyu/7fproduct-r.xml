@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Content>
+<ProductsList time="2018-09-29 16:12:33" >
+	<PlatForm ID="0">
+		<Product>
+			<ID>0</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>1.0.6.5</Version>
+			<Name>起凡平台更新程序</Name>
+			<Desc>起凡平台更新程序</Desc>
+			<Path>%modulepath%</Path>
+			<CheckUrl>http://update.7fgame.com/7fupdate/updater/1.0.6.5/20170328/VerComp.dat</CheckUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=5850</DownloadUrl>
+			<CloseProcess>qfuupdate.bin</CloseProcess>
+			<ClosePrompt>您的程序还在运行中,是否关闭程序?</ClosePrompt>
+			<IsDatFileCopy>0</IsDatFileCopy>
+			<IniFileMode>0</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>0</Hide>
+			<IsScrollBack>0</IsScrollBack>
+			<Rate>10</Rate>
+			<UpdateMode>0</UpdateMode>
+		</Product>
+	</PlatForm>
+	<PlatForm ID="2">
+		<Product>
+			<ID>2</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>8.6.8</Version>
+			<Name>测试补丁 2013-12-23</Name>
+			<Desc>测试补丁 2013-12-23</Desc>
+			<Path>%modulepath%/gametest</Path>
+			<CheckUrl>http://update.7fgame.com/gametest/8.6.8/VerComp.dat</CheckUrl>
+			<FtpUrl>ftp://61.147.74.6/gametest/8.6.8/VerComp.dat</FtpUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=5850</DownloadUrl>
+			<IsDatFileCopy>1</IsDatFileCopy>
+			<IniFile>%modulepath%\gametest\gamever.ini</IniFile>
+			<IniAppName>Game</IniAppName>
+			<IniKeyName>Ver</IniKeyName>
+			<IniFileMode>1</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>0</Hide>
+			<IsScrollBack>0</IsScrollBack>
+			<Rate>0</Rate>
+			<UpdateMode>0</UpdateMode>
+		</Product>
+	</PlatForm>
+	<PlatForm ID="100">
+		<Product>
+			<ID>100</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>2.3.3.5</Version>
+			<Name>起凡游戏平台 2335</Name>
+			<Desc>起凡游戏平台 2335</Desc>
+			<Path>%modulepath%</Path>
+			<CheckUrl>http://update.7fgame.com/7fupdate/platform/2.3.3.5/20180925/VerComp.dat</CheckUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=5850</DownloadUrl>
+			<CloseMainWnd>7FGameMainWnd</CloseMainWnd>
+			<CloseProcess>7fGame.exe|7fhomepage.exe|7fRes.exe|7fGameReplay.exe|7fBugReport.exe|Service\Media\7fmedia.exe|Plugin\7fGameBox\7fgamebox.exe|kit\7fGameIM.exe</CloseProcess>
+			<ClosePrompt>您的程序还在运行中,是否关闭程序?</ClosePrompt>
+			<StartProcess>7fGame.exe</StartProcess>
+			<IsDatFileCopy>1</IsDatFileCopy>
+			<IniFile>%modulepath%\server.ini</IniFile>
+			<IniAppName>Base</IniAppName>
+			<IniKeyName>IMVer</IniKeyName>
+			<IniFileMode>0</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>0</Hide>
+			<IsScrollBack>1</IsScrollBack>
+			<Rate>100</Rate>
+			<UpdateMode>0</UpdateMode>
+		</Product>
+	</PlatForm>
+	<PlatForm ID="107">
+		<Product>
+			<ID>107</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>1.0.1.7</Version>
+			<Name>三国群雄传启动程序1017</Name>
+			<Desc>三国群雄传启动程序1017</Desc>
+			<Path>%modulepath%</Path>
+			<CheckUrl>http://pveupdate.7fgame.com/launcher/1.0.1.7/20150212/VerComp.dat</CheckUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=5850</DownloadUrl>
+			<IsDatFileCopy>1</IsDatFileCopy>
+			<IniFile>%modulepath%\pve\Launcher\gamever.ini</IniFile>
+			<IniAppName>Game</IniAppName>
+			<IniKeyName>Ver</IniKeyName>
+			<IniFileMode>1</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>1</Hide>
+			<IsScrollBack>1</IsScrollBack>
+			<Rate>100</Rate>
+			<UpdateMode>0</UpdateMode>
+		</Product>
+	</PlatForm>
+	<PlatForm ID="109">
+		<Product>
+			<ID>109</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>1.0.6.1</Version>
+			<Name>魂玉系统1061</Name>
+			<Desc>魂玉系统1061</Desc>
+			<Path>%modulepath%\plugin\hunyu</Path>
+			<CheckUrl>http://update.7fgame.com/HunyuSystem/1.0.6.1/20180929/VerComp.dat</CheckUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=</DownloadUrl>
+			<IsDatFileCopy>1</IsDatFileCopy>
+			<IniFile>%modulepath%\plugin\hunyu\gamever.ini</IniFile>
+			<IniAppName>Game</IniAppName>
+			<IniKeyName>Ver</IniKeyName>
+			<IniFileMode>1</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>0</Hide>
+			<IsScrollBack>1</IsScrollBack>
+			<Rate>0</Rate>
+			<UpdateMode>0</UpdateMode>
+		</Product>
+	</PlatForm>
+	<PlatForm ID="702">
+		<Product>
+			<ID>702</ID>
+			<GType>0</GType>
+			<Item>1</Item>
+			<Version>2.5.34.6</Version>
+			<Name>三国争霸2大厅2.5.34.6</Name>
+			<Path>%modulepath%</Path>
+			<CheckUrl>http://sg2update.5211game.com/sango2lobby/2.5.34.6/20150515/VerComp.dat</CheckUrl>
+			<IsParseDomain>0</IsParseDomain>
+			<DownloadUrl>http://pv.7fgame.com/PVCount.aspx?id=5850</DownloadUrl>
+			<CloseProcess>lobby\sg2logic.exe|lobby\sg2lobby.exe|lobby\sg2Launcher.exe|lobby\sg2ResUpdate.exe|lobby\qfdelta.exe</CloseProcess>
+			<IsDatFileCopy>1</IsDatFileCopy>
+			<IniFile>%modulepath%\gamever.ini</IniFile>
+			<IniAppName>Game</IniAppName>
+			<IniKeyName>Ver</IniKeyName>
+			<IniFileMode>1</IniFileMode>
+			<IsBigFile>0</IsBigFile>
+			<Hide>1</Hide>
+			<IsScrollBack>0</IsScrollBack>
+			<Rate>0</Rate>
+			<UpdateMode>1</UpdateMode>
+		</Product>
+	</PlatForm>
+</ProductsList>
+</Content>
+

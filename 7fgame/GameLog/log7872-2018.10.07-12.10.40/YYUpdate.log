@@ -1,0 +1,1842 @@
+
+2018-07-08 09:30:35 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-08 09:30:35 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-07-08 09:30:36 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-08 09:30:36 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.2.2
+2018-07-08 09:30:36 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.2.2/20180625/VerComp.dat,path=D:\
+2018-07-08 09:30:36 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-07-08 09:30:36 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-07-08 09:30:36 [YYUpdate]*** CDomainIPThread:TaskRst=1589910896
+2018-07-08 09:30:36 [YYUpdate]*** StartUpdateMulti:1
+2018-07-08 09:30:36 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:30:36 [YYUpdate]*** C11UpdateMultiThread threadid=2244 OnStart
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:11328
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:11312
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:5684
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:7896
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:11244
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:11172
+2018-07-08 09:30:36 [YYUpdate]*** DLThread:6584
+2018-07-08 09:30:36 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-07-08 09:30:36 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-07-08 09:30:36 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-07-08 09:30:37 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-07-08 09:30:38 [YYUpdate]*** Docheck: Time=31,File=KIT\mfc100u.dll,crc=,size=4422992
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=109,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=47,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=93,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=93,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=79,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-07-08 09:30:39 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-07-08 09:30:41 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-07-08 09:30:44 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-07-08 09:30:45 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-07-08 09:30:46 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-07-08 09:30:46 [YYUpdate]*** Quit with 1[2244],Stop:0,Update:1
+2018-07-08 09:30:46 [YYUpdate]*** Exit MultiThrd:2244
+2018-07-08 09:30:46 [YYUpdate]*** C11UpdateMultiThread threadid=2244 OnTerminate
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread[11172]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11244]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11244]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread[7896]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread[7896]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[7896]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread[6584]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[5684]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[5684]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11328]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11328]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11312]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[11312]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** Exit dlThread v2[6584]-(6,0)
+2018-07-08 09:30:46 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-07-08 09:30:46 [YYUpdate]*** DoFinishFace
+2018-07-08 09:30:46 [YYUpdate]*** DoCancel Begin: 1
+2018-07-08 09:30:47 [YYUpdate]*** StartAppModule(1): "D:\
+2018-07-08 09:30:47 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-08 09:30:47 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:30:47 [YYUpdate]*** DoCancel IDCancel_2
+2018-07-08 09:30:47 [YYUpdate]*** Update Destroy!
+2018-07-08 09:30:47 [YYUpdate]*** UnInitYYUCore
+2018-07-08 09:30:47 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:38:36 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-08 09:38:36 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-07-08 09:38:37 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-08 09:38:37 [YYUpdate]*** C11PrdEx: ExID=37, PID= 1, DstVer=24.4.3
+2018-07-08 09:38:37 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-07-08 09:38:37 [YYUpdate]*** C11PrdEx: ExID=34, PID= 10047, DstVer=8.1.6
+2018-07-08 09:38:37 [YYUpdate]*** Product: 37(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-07-08 09:38:37 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-07-08 09:38:37 [YYUpdate]*** Product: 34(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-07-08 09:38:37 [YYUpdate]*** StartUpdateMulti: Size=3,gamepaksize=2
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-07-08 09:38:37 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:37 [YYUpdate]*** StartUpdateMulti:3
+2018-07-08 09:38:37 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:38:37 [YYUpdate]*** C11UpdateMultiThread threadid=10484 OnStart
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:1344
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:92
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:5424
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:1132
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:2984
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:852
+2018-07-08 09:38:37 [YYUpdate]*** DLThread:9080
+2018-07-08 09:38:37 [YYUpdate]*** =============START TASK(Count=3,mode=2)=============
+2018-07-08 09:38:37 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-07-08 09:38:37 [YYUpdate]*** STATE:[Prepare ](0) PID=37,scrollback=0(0)
+2018-07-08 09:38:37 [YYUpdate]*** STATE:[Check   ](0) PID=37
+2018-07-08 09:38:38 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-07-08 09:38:38 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-07-08 09:38:40 [YYUpdate]*** STATE:[Prepare ](2) PID=34,scrollback=0(0)
+2018-07-08 09:38:40 [YYUpdate]*** STATE:[Check   ](2) PID=34
+2018-07-08 09:38:41 [YYUpdate]*** STATE:[Download](0) PID=37
+2018-07-08 09:38:51 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread[1344]-(-1,3)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[1344]-(-1,3)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread[852]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[5424]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[5424]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[852]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[852]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[92]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread[2984]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[9080]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[9080]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[2984]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[2984]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** Exit dlThread v2[1132]-(6,2)
+2018-07-08 09:38:54 [YYUpdate]*** STATE:[Download](0) PID=37,Error=1008,dlcode=111013
+2018-07-08 09:38:54 [YYUpdate]*** Quit with 1[10484],Stop:0,Update:0
+2018-07-08 09:38:54 [YYUpdate]*** Quit with ISERROR,1008,0
+2018-07-08 09:38:54 [YYUpdate]*** Exit MultiThrd:10484
+2018-07-08 09:38:54 [YYUpdate]*** C11UpdateMultiThread threadid=10484 OnTerminate
+2018-07-08 09:38:56 [YYUpdate]*** C11PrdEx: ExID=37, PID= 1, DstVer=24.4.3
+2018-07-08 09:38:56 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-07-08 09:38:56 [YYUpdate]*** C11PrdEx: ExID=34, PID= 10047, DstVer=8.1.6
+2018-07-08 09:38:56 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-08 09:38:56 [YYUpdate]*** Product: 37(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-07-08 09:38:56 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-07-08 09:38:56 [YYUpdate]*** Product: 34(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-07-08 09:38:56 [YYUpdate]*** StartUpdateMulti: Size=3,gamepaksize=2
+2018-07-08 09:38:56 [YYUpdate]*** StartUpdateMulti:3
+2018-07-08 09:38:56 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:38:56 [YYUpdate]*** C11UpdateMultiThread threadid=2620 OnStart
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-07-08 09:38:56 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:6544
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:9980
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:11128
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:10472
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:11800
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:3168
+2018-07-08 09:38:56 [YYUpdate]*** DLThread:10368
+2018-07-08 09:38:56 [YYUpdate]*** =============START TASK(Count=3,mode=2)=============
+2018-07-08 09:38:56 [YYUpdate]*** CurrTcpDlIP2:118.123.240.8
+2018-07-08 09:38:56 [YYUpdate]*** STATE:[Prepare ](0) PID=37,scrollback=0(0)
+2018-07-08 09:38:56 [YYUpdate]*** STATE:[Check   ](0) PID=37
+2018-07-08 09:38:57 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-07-08 09:38:57 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-07-08 09:39:10 [YYUpdate]*** STATE:[Prepare ](2) PID=34,scrollback=0(0)
+2018-07-08 09:39:10 [YYUpdate]*** STATE:[Check   ](2) PID=34
+2018-07-08 09:39:11 [YYUpdate]*** STATE:[Download](0) PID=37
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** DownloadHttpFile Copy DlFile Fail:D:\
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread[9980]-(-1,3)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[9980]-(-1,3)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread[11800]-6622)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[6544]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[6544]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread[10368]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread[3168]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[3168]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[3168]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[11128]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread[10472]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[10368]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[10368]-(6,2)
+2018-07-08 09:39:11 [YYUpdate]*** Exit dlThread v2[10472]-(6,2)
+2018-07-08 09:39:12 [YYUpdate]*** STATE:[Download](0) PID=37,Error=1008,dlcode=111013
+2018-07-08 09:39:12 [YYUpdate]*** Quit with 1[2620],Stop:0,Update:0
+2018-07-08 09:39:12 [YYUpdate]*** Quit with ISERROR,1008,0
+2018-07-08 09:39:12 [YYUpdate]*** Exit MultiThrd:2620
+2018-07-08 09:39:12 [YYUpdate]*** C11UpdateMultiThread threadid=2620 OnTerminate
+2018-07-08 09:39:16 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-07-08 09:39:16 [YYUpdate]*** DoCancel Begin: 0
+2018-07-08 09:39:16 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-08 09:39:16 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-08 09:39:16 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:39:16 [YYUpdate]*** DoCancel IDCancel_1
+2018-07-08 09:39:16 [YYUpdate]*** Update Destroy!
+2018-07-08 09:39:17 [YYUpdate]*** UnInitYYUCore
+2018-07-08 09:39:17 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:39:30 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-08 09:39:30 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-07-08 09:39:30 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-08 09:39:30 [YYUpdate]*** C11PrdEx: ExID=37, PID= 1, DstVer=24.4.3
+2018-07-08 09:39:30 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-07-08 09:39:30 [YYUpdate]*** C11PrdEx: ExID=34, PID= 10047, DstVer=8.1.6
+2018-07-08 09:39:30 [YYUpdate]*** Product: 37(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-07-08 09:39:30 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-07-08 09:39:30 [YYUpdate]*** Product: 34(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-07-08 09:39:30 [YYUpdate]*** StartUpdateMulti: Size=3,gamepaksize=2
+2018-07-08 09:39:30 [YYUpdate]*** StartUpdateMulti: Size=3,gamepaksize=2
+2018-07-08 09:39:30 [YYUpdate]*** CDomainIPThread:TaskRst=-1638031755
+2018-07-08 09:39:30 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-07-08 09:39:30 [YYUpdate]*** CDomainIPThread:TaskRst=-1638031755
+2018-07-08 09:39:30 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-07-08 09:39:30 [YYUpdate]*** CDomainIPThread:TaskRst=-1638031755
+2018-07-08 09:39:30 [YYUpdate]*** StartUpdateMulti:3
+2018-07-08 09:39:30 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:39:30 [YYUpdate]*** C11UpdateMultiThread threadid=10548 OnStart
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:7032
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:5768
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:8872
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:10984
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:11492
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:11168
+2018-07-08 09:39:30 [YYUpdate]*** DLThread:11600
+2018-07-08 09:39:30 [YYUpdate]*** =============START TASK(Count=3,mode=2)=============
+2018-07-08 09:39:30 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-07-08 09:39:30 [YYUpdate]*** STATE:[Prepare ](0) PID=37,scrollback=0(0)
+2018-07-08 09:39:30 [YYUpdate]*** STATE:[Check   ](0) PID=37
+2018-07-08 09:39:31 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-07-08 09:39:32 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-07-08 09:39:34 [YYUpdate]*** STATE:[Prepare ](2) PID=34,scrollback=0(0)
+2018-07-08 09:39:34 [YYUpdate]*** STATE:[Check   ](2) PID=34
+2018-07-08 09:39:35 [YYUpdate]*** STATE:[Download](0) PID=37
+2018-07-08 09:39:36 [YYUpdate]*** STATE:[Download](1) PID=7
+2018-07-08 09:42:25 [YYUpdate]*** STATE:[Download](2) PID=34
+2018-07-08 09:42:26 [YYUpdate]*** STATE:[Install ](0) PID=37
+2018-07-08 09:42:27 [YYUpdate]*** STATE:[Final   ](0) PID=37
+2018-07-08 09:42:27 [YYUpdate]*** STATE:[Install ](1) PID=7
+2018-07-08 09:42:51 [YYUpdate]*** STATE:[Final   ](1) PID=7
+2018-07-08 09:42:54 [YYUpdate]*** STATE:[Install ](2) PID=34
+2018-07-08 09:42:54 [YYUpdate]*** STATE:[Final   ](2) PID=34
+2018-07-08 09:42:54 [YYUpdate]*** ===============END TASK(Count=3,3+0)===========
+2018-07-08 09:42:54 [YYUpdate]*** Quit with 1[10548],Stop:0,Update:1
+2018-07-08 09:42:54 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,3
+2018-07-08 09:42:54 [YYUpdate]*** DoFinishFace
+2018-07-08 09:42:55 [YYUpdate]*** DoCancel Begin: 1
+2018-07-08 09:42:55 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:42:55 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread[7032]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[11492]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[11492]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[8872]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[8872]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[5768]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[5768]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[10984]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[10984]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[11600]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[11600]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[7032]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread[11168]-(6,0)
+2018-07-08 09:42:55 [YYUpdate]*** Exit dlThread v2[11168]-(6,0)
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-08 09:43:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-08 09:43:02 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-08 09:43:02 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:43:02 [YYUpdate]*** DoCancel NULL
+2018-07-08 09:44:09 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-07-08 09:44:09 [YYUpdate]*** DoCancel Begin: 0
+2018-07-08 09:44:09 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:44:09 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:44:09 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:44:09 [YYUpdate]*** DoCancel IDCancel_1
+2018-07-08 09:44:09 [YYUpdate]*** Update Destroy!
+2018-07-08 09:44:09 [YYUpdate]*** UnInitYYUCore
+2018-07-08 09:44:09 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:44:38 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-08 09:44:38 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-07-08 09:44:38 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-08 09:44:38 [YYUpdate]*** C11PrdEx: ExID=37, PID= 1, DstVer=24.4.3
+2018-07-08 09:44:38 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-07-08 09:44:38 [YYUpdate]*** C11PrdEx: ExID=34, PID= 10047, DstVer=8.1.6
+2018-07-08 09:44:38 [YYUpdate]*** C11PrdEx: ExID=27, PID= 1275735440, DstVer=1.0.0
+2018-07-08 09:44:38 [YYUpdate]*** C11PrdEx: ExID=20, PID= 1621540995, DstVer=1.0.0
+2018-07-08 09:44:38 [YYUpdate]*** Product: 37(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-07-08 09:44:38 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-07-08 09:44:38 [YYUpdate]*** Product: 34(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-07-08 09:44:38 [YYUpdate]*** Product: 27(1275735440),url=http://update.7fgame.com/qxzl/game/pack/1275735440/VerComp.dat,path=D:\
+2018-07-08 09:44:38 [YYUpdate]*** Product: 20(1621540995),url=http://update.7fgame.com/qxzl/game/pack/1621540995/VerComp.dat,path=D:\
+2018-07-08 09:44:38 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:Task=1275735440-update.7fgame.com
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:Task=1621540995-update.7fgame.com
+2018-07-08 09:44:38 [YYUpdate]*** CDomainIPThread:TaskRst=1606688112
+2018-07-08 09:44:38 [YYUpdate]*** StartUpdateMulti:5
+2018-07-08 09:44:38 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:44:38 [YYUpdate]*** C11UpdateMultiThread threadid=9600 OnStart
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:8020
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:10588
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:5196
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:7192
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:6964
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:3204
+2018-07-08 09:44:38 [YYUpdate]*** DLThread:3184
+2018-07-08 09:44:38 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-07-08 09:44:38 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-07-08 09:44:38 [YYUpdate]*** STATE:[Prepare ](0) PID=37,scrollback=0(0)
+2018-07-08 09:44:38 [YYUpdate]*** STATE:[Check   ](0) PID=37
+2018-07-08 09:44:39 [YYUpdate]*** Docheck: Time=47,File=d3dx9_32.dll,crc=,size=3426072
+2018-07-08 09:44:39 [YYUpdate]*** Docheck: Time=63,File=7fxp.dll,crc=,size=6431664
+2018-07-08 09:44:39 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-07-08 09:44:39 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-07-08 09:44:39 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=37
+2018-07-08 09:44:39 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-07-08 09:44:40 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-07-08 09:44:41 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-07-08 09:44:41 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-07-08 09:44:41 [YYUpdate]*** Docheck: Time=32,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-07-08 09:44:44 [YYUpdate]*** Docheck: Time=31,File=ui\liansha.dds,crc=,size=4194432
+2018-07-08 09:44:44 [YYUpdate]*** Docheck: Time=31,File=ui\NewEndPic.dds,crc=,size=4194432
+2018-07-08 09:44:44 [YYUpdate]*** STATE:[Check  ](1) DatFileCopy PID=7
+2018-07-08 09:44:44 [YYUpdate]*** STATE:[Prepare ](2) PID=34,scrollback=0(0)
+2018-07-08 09:44:44 [YYUpdate]*** STATE:[Check   ](2) PID=34
+2018-07-08 09:44:45 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=34
+2018-07-08 09:44:45 [YYUpdate]*** STATE:[Prepare ](3) PID=27,scrollback=0(0)
+2018-07-08 09:44:45 [YYUpdate]*** STATE:[Check   ](3) PID=27
+2018-07-08 09:44:46 [YYUpdate]*** STATE:[Prepare ](4) PID=20,scrollback=0(0)
+2018-07-08 09:44:47 [YYUpdate]*** STATE:[Check   ](4) PID=20
+2018-07-08 09:44:48 [YYUpdate]*** STATE:[Download](3) PID=27
+2018-07-08 09:44:54 [YYUpdate]*** STATE:[Download](4) PID=20
+2018-07-08 09:44:58 [YYUpdate]*** STATE:[Install ](3) PID=27
+2018-07-08 09:44:58 [YYUpdate]*** STATE:[Final   ](3) PID=27
+2018-07-08 09:44:58 [YYUpdate]*** STATE:[Install ](4) PID=20
+2018-07-08 09:44:59 [YYUpdate]*** STATE:[Final   ](4) PID=20
+2018-07-08 09:44:59 [YYUpdate]*** ===============END TASK(Count=5,2+3)===========
+2018-07-08 09:44:59 [YYUpdate]*** Quit with 1[9600],Stop:0,Update:1
+2018-07-08 09:44:59 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,2
+2018-07-08 09:44:59 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-07-08 09:44:59 [YYUpdate]*** DoFinishFace
+2018-07-08 09:44:59 [YYUpdate]*** Exit MultiThrd:9600
+2018-07-08 09:44:59 [YYUpdate]*** C11UpdateMultiThread threadid=9600 OnTerminate
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread[7192]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[7192]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread[3184]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[3204]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[3204]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[3184]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[3184]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[5196]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread[10508-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[6964]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[6964]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[10588]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[10588]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** Exit dlThread v2[8020]-(6,0)
+2018-07-08 09:44:59 [YYUpdate]*** DoCancel Begin: 1
+2018-07-08 09:44:59 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-08 09:44:59 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-08 09:44:59 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:44:59 [YYUpdate]*** DoCancel FlashWindow
+2018-07-08 09:45:18 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-07-08 09:45:18 [YYUpdate]*** DoCancel Begin: 0
+2018-07-08 09:45:18 [YYUpdate]*** StopUpdateMulti
+2018-07-08 09:45:18 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-08 09:45:18 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-08 09:45:18 [YYUpdate]*** DoCancel IDCancel_1
+2018-07-08 09:45:18 [YYUpdate]*** Update Destroy!
+2018-07-08 09:45:18 [YYUpdate]*** UnInitYYUCore
+2018-07-08 09:45:18 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:36:09 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-13 19:36:09 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-07-13 19:36:10 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-13 19:36:10 [YYUpdate]*** C11PrdEx: ExID=30, PID= 1, DstVer=24.4.3
+2018-07-13 19:36:10 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-07-13 19:36:10 [YYUpdate]*** C11PrdEx: ExID=27, PID= 10047, DstVer=8.1.6
+2018-07-13 19:36:10 [YYUpdate]*** C11PrdEx: ExID=18, PID= 1501198375, DstVer=1.0.0
+2018-07-13 19:36:10 [YYUpdate]*** C11PrdEx: ExID=15, PID= 1785752224, DstVer=1.0.0
+2018-07-13 19:36:10 [YYUpdate]*** Product: 30(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-07-13 19:36:10 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-07-13 19:36:10 [YYUpdate]*** Product: 18(1501198375),url=http://update.7fgame.com/qxzl/game/pack/1501198375/VerComp.dat,path=D:\
+2018-07-13 19:36:10 [YYUpdate]*** Product: 18(1501198375),url=http://update.7fgame.com/qxzl/game/pack/1501198375/VerComp.dat,path=D:\
+2018-07-13 19:36:10 [YYUpdate]*** Product: 15(1785752224),url=http://update.7fgame.com/qxzl/game/pack/1785752224/VerComp.dat,path=D:\
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:Task=1501198375-update.7fgame.com
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:Task=1785752224-update.7fgame.com
+2018-07-13 19:36:10 [YYUpdate]*** CDomainIPThread:TaskRst=1049828720
+2018-07-13 19:36:10 [YYUpdate]*** StartUpdateMulti:5
+2018-07-13 19:36:10 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:36:10 [YYUpdate]*** C11UpdateMultiThread threadid=14048 OnStart
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:10948
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:6256
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:13632
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:4900
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:12984
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:3304
+2018-07-13 19:36:10 [YYUpdate]*** DLThread:10352
+2018-07-13 19:36:10 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-07-13 19:36:10 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-07-13 19:36:10 [YYUpdate]*** STATE:[Prepare ](0) PID=30,scrollback=0(0)
+2018-07-13 19:36:10 [YYUpdate]*** STATE:[Check   ](0) PID=30
+2018-07-13 19:36:10 [YYUpdate]*** Docheck: Time=47,File=d3dx9_32.dll,crc=,size=3426072
+2018-07-13 19:36:10 [YYUpdate]*** Docheck: Time=62,File=7fxp.dll,crc=,size=6431664
+2018-07-13 19:36:10 [YYUpdate]*** Docheck: Time=32,File=gpi.o,crc=,size=6994805
+2018-07-13 19:36:10 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-07-13 19:36:11 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=30
+2018-07-13 19:36:11 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-07-13 19:36:11 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-07-13 19:36:13 [YYUpdate]*** Docheck: Time=47,File=fonts\heavy.ttf,crc=,size=8135960
+2018-07-13 19:36:13 [YYUpdate]*** Docheck: Time=47,File=fonts\dsf.ttf,crc=,size=8137052
+2018-07-13 19:36:13 [YYUpdate]*** Docheck: Time=31,File=fonts\HYChengXingJ.ttf,crc=,size=6553132
+2018-07-13 19:36:13 [YYUpdate]*** Docheck: Time=31,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-07-13 19:36:17 [YYUpdate]*** Docheck: Time=31,File=sound\bgm_old.mp3,crc=,size=3553200
+2018-07-13 19:36:17 [YYUpdate]*** Docheck: Time=31,File=sound\bgm.mp3,crc=,size=3821783
+2018-07-13 19:36:18 [YYUpdate]*** Docheck: Time=31,File=ui\jhsp.dds,crc=,size=4194432
+2018-07-13 19:36:18 [YYUpdate]*** Docheck: Time=31,File=ui\JL_New_Back.dds,crc=,size=4194432
+2018-07-13 19:36:18 [YYUpdate]*** Docheck: Time=31,File=ui\loadingback.dds,crc=,size=4194432
+2018-07-13 19:36:18 [YYUpdate]*** Docheck: Time=31,File=ui\newloading.dds,crc=,size=4194432
+2018-07-13 19:36:18 [YYUpdate]*** Docheck: Time=32,File=ui\sizhandaodi.dds,crc=,size=4194432
+2018-07-13 19:36:18 [YYUpdate]*** STATE:[Check  ](1) DatFileCopy PID=7
+2018-07-13 19:36:18 [YYUpdate]*** STATE:[Prepare ](2) PID=27,scrollback=0(0)
+2018-07-13 19:36:18 [YYUpdate]*** STATE:[Check   ](2) PID=27
+2018-07-13 19:36:20 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=27
+2018-07-13 19:36:20 [YYUpdate]*** STATE:[Prepare ](3) PID=18,scrollback=0(0)
+2018-07-13 19:36:20 [YYUpdate]*** STATE:[Check   ](3) PID=18
+2018-07-13 19:36:21 [YYUpdate]*** STATE:[Prepare ](4) PID=15,scrollback=0(0)
+2018-07-13 19:36:21 [YYUpdate]*** STATE:[Check   ](4) PID=15
+2018-07-13 19:36:22 [YYUpdate]*** STATE:[Download](3) PID=18
+2018-07-13 19:36:26 [YYUpdate]*** STATE:[Download](4) PID=15
+2018-07-13 19:36:36 [YYUpdate]*** STATE:[Install ](3) PID=18
+2018-07-13 19:36:36 [YYUpdate]*** STATE:[Final   ](3) PID=18
+2018-07-13 19:36:36 [YYUpdate]*** STATE:[Install ](4) PID=15
+2018-07-13 19:36:38 [YYUpdate]*** STATE:[Final   ](4) PID=15
+2018-07-13 19:36:38 [YYUpdate]*** ===============END TASK(Count=5,2+3)===========
+2018-07-13 19:36:38 [YYUpdate]*** Quit with 1[14048],Stop:0,Update:1
+2018-07-13 19:36:38 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,2
+2018-07-13 19:36:38 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-07-13 19:36:38 [YYUpdate]*** DoFinishFace
+2018-07-13 19:36:38 [YYUpdate]*** DoCancel Begin: 1
+2018-07-13 19:36:38 [YYUpdate]*** StopUpdateMulti
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread[4900]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[4900]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread[12984]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[10948]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[10948]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[3304]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[3304]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[6256]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread[13632]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[13632]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[13632]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[12984]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[12984]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit dlThread v2[10352]-(6,0)
+2018-07-13 19:36:38 [YYUpdate]*** Exit MultiThrd:14048
+2018-07-13 19:36:38 [YYUpdate]*** C11UpdateMultiThread threadid=14048 OnTerminate
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-13 19:36:38 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-13 19:36:38 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-13 19:36:38 [YYUpdate]*** DoCancel NULL
+2018-07-13 19:36:45 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-07-13 19:36:45 [YYUpdate]*** DoCancel Begin: 0
+2018-07-13 19:36:45 [YYUpdate]*** StopUpdateMulti
+2018-07-13 19:36:45 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:36:45 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-13 19:36:45 [YYUpdate]*** DoCancel IDCancel_1
+2018-07-13 19:36:45 [YYUpdate]*** Update Destroy!
+2018-07-13 19:36:45 [YYUpdate]*** UnInitYYUCore
+2018-07-13 19:36:45 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:49:43 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-24 18:49:43 [YYUpdate]*** Update Start:  -uid 0 -isp 293 -a -p 100
+2018-07-24 18:49:44 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-07-24 18:49:44 [YYUpdate]*** C11PrdEx: ExID=0, PID= 0, DstVer=1.0.6.5
+2018-07-24 18:49:44 [YYUpdate]*** Product: 0(0),url=http://update.7fgame.com/7fupdate/updater/1.0.6.5/20170328/VerComp.dat,path=D:\
+2018-07-24 18:49:44 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-07-24 18:49:44 [YYUpdate]*** CDomainIPThread:Task=0-update.7fgame.com
+2018-07-24 18:49:44 [YYUpdate]*** CDomainIPThread:TaskRst=1589910896
+2018-07-24 18:49:44 [YYUpdate]*** StartUpdateMulti:1
+2018-07-24 18:49:44 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:49:44 [YYUpdate]*** C11UpdateMultiThread threadid=16844 OnStart
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:26004
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:4312
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:16036
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:22860
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:25648
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:14552
+2018-07-24 18:49:44 [YYUpdate]*** DLThread:23580
+2018-07-24 18:49:44 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-07-24 18:49:44 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-07-24 18:49:44 [YYUpdate]*** STATE:[Prepare ](0) PID=0,scrollback=0(0)
+2018-07-24 18:49:44 [YYUpdate]*** STATE:[Check   ](0) PID=0
+2018-07-24 18:49:44 [YYUpdate]*** Docheck: Time=31,File=QFUpdate.exe,crc=,size=2822192
+2018-07-24 18:49:45 [YYUpdate]*** STATE:[Download](0) PID=0
+2018-07-24 18:49:47 [YYUpdate]*** STATE:[Install ](0) PID=0
+2018-07-24 18:49:47 [YYUpdate]*** STATE:[Final   ](0) PID=0
+2018-07-24 18:49:47 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-07-24 18:49:47 [YYUpdate]*** Quit with 1[16844],Stop:0,Update:1
+2018-07-24 18:49:47 [YYUpdate]*** Exit MultiThrd:16844
+2018-07-24 18:49:47 [YYUpdate]*** C11UpdateMultiThread threadid=16844 OnTerminate
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread[23580]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[16036]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[16036]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[26004]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[26004]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[4312]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[4312]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[14552]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[14552]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[23580]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[23580]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[25648]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[25648]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** Exit dlThread v2[22860]-(6,0)
+2018-07-24 18:49:47 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:1,1
+2018-07-24 18:49:47 [YYUpdate]*** StartSelfAppModule: "D:\
+2018-07-24 18:49:47 [YYUpdate]*** Update Destroy!
+2018-07-24 18:49:47 [YYUpdate]*** UnInitYYUCore
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-24 18:49:47 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-24 18:49:50 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-07-24 18:49:50 [YYUpdate]*** Update Start:  -c -uid 0 -isp 293 -a -p 100
+2018-07-24 18:49:50 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.2.3
+2018-07-24 18:49:50 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.2.3/20180724/VerComp.dat,path=D:\
+2018-07-24 18:49:50 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-07-24 18:49:50 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-07-24 18:49:50 [YYUpdate]*** CDomainIPThread:TaskRst=1589910896
+2018-07-24 18:49:50 [YYUpdate]*** StartUpdateMulti:1
+2018-07-24 18:49:50 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:49:50 [YYUpdate]*** C11UpdateMultiThread threadid=25236 OnStart
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:10696
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:21708
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:16584
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:20912
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:21620
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:25496
+2018-07-24 18:49:50 [YYUpdate]*** DLThread:8440
+2018-07-24 18:49:50 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-07-24 18:49:50 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-07-24 18:49:50 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-07-24 18:49:50 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-07-24 18:49:50 [YYUpdate]*** Docheck: Time=31,File=7FGame.exe,crc=,size=5766480
+2018-07-24 18:49:52 [YYUpdate]*** Docheck: Time=110,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=110,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=62,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT55\Qt5Widgets.dll,crc=,size=4497712
+2018-07-24 18:49:53 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-07-24 18:49:55 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-07-24 18:49:58 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-07-24 18:49:59 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-07-24 18:50:00 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-07-24 18:50:00 [YYUpdate]*** Quit with 1[25236],Stop:0,Update:1
+2018-07-24 18:50:00 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-07-24 18:50:00 [YYUpdate]*** DoFinishFace
+2018-07-24 18:50:00 [YYUpdate]*** Exit MultiThrd:25236
+2018-07-24 18:50:00 [YYUpdate]*** C11UpdateMultiThread threadid=25236 OnTerminate
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread[21708]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[8440]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[8440]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[21708]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[21708]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[10696]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread[21620]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[25496]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[25496]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[20912]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[20912]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[21620]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[21620]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** Exit dlThread v2[16584]-(6,0)
+2018-07-24 18:50:00 [YYUpdate]*** DoCancel Begin: 1
+2018-07-24 18:50:00 [YYUpdate]*** DoCancel Del Thread
+2018-07-24 18:50:00 [YYUpdate]*** StartAppModule(1): "D:\
+2018-07-24 18:50:00 [YYUpdate]*** StopUpdateMulti
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-07-24 18:50:00 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-07-24 18:50:00 [YYUpdate]*** DoCancel IDCancel_2
+2018-07-24 18:50:00 [YYUpdate]*** Update Destroy!
+2018-07-24 18:50:00 [YYUpdate]*** UnInitYYUCore
+2018-07-24 18:50:00 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 11:19:16 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-08-11 11:19:16 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-08-11 11:19:17 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-08-11 11:19:17 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.2.6
+2018-08-11 11:19:17 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.2.6/20180803/VerComp.dat,path=D:\
+2018-08-11 11:19:17 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-08-11 11:19:17 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-08-11 11:19:17 [YYUpdate]*** CDomainIPThread:TaskRst=830148985
+2018-08-11 11:19:17 [YYUpdate]*** StartUpdateMulti:1
+2018-08-11 11:19:17 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 11:19:17 [YYUpdate]*** C11UpdateMultiThread threadid=21664 OnStart
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:8540
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:27304
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:17572
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:26656
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:7048
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:17952
+2018-08-11 11:19:17 [YYUpdate]*** DLThread:23616
+2018-08-11 11:19:17 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-08-11 11:19:17 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-08-11 11:19:17 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-08-11 11:19:17 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-08-11 11:19:17 [YYUpdate]*** Docheck: Time=31,File=7FGame.exe,crc=,size=5815632
+2018-08-11 11:19:19 [YYUpdate]*** Docheck: Time=93,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=110,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=62,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT55\Qt5Widgets.dll,crc=,size=4497712
+2018-08-11 11:19:20 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-08-11 11:19:22 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-08-11 11:19:26 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-08-11 11:19:27 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-08-11 11:19:27 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-08-11 11:19:27 [YYUpdate]*** Quit with 1[21664],Stop:0,Update:1
+2018-08-11 11:19:27 [YYUpdate]*** Exit MultiThrd:21664
+2018-08-11 11:19:27 [YYUpdate]*** C11UpdateMulti27304]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[8540]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[8540]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[8540]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[27304]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread[23616]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[17572]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[17572]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[23616]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread[7048]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread[7048]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[7048]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread[26656]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread[26656]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[26656]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[26656]-(6,0)
+2018-08-11 11:19:27 [YYUpdate]*** Exit dlThread v2[17952]-(6,0)
+2018-08-11 11:19:28 [YYUpdate]*** DoCancel Begin: 1
+2018-08-11 11:19:28 [YYUpdate]*** StartAppModule(1): "D:\
+2018-08-11 11:19:28 [YYUpdate]*** StopUpdateMulti
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-08-11 11:19:28 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-11 11:19:28 [YYUpdate]*** DoCancel IDCancel_2
+2018-08-11 11:19:28 [YYUpdate]*** Update Destroy!
+2018-08-11 11:19:28 [YYUpdate]*** UnInitYYUCore
+2018-08-11 11:19:28 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 12:49:53 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-08-11 12:49:53 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-08-11 12:49:54 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-08-11 12:49:54 [YYUpdate]*** C11PrdEx: ExID=30, PID= 1, DstVer=24.4.3
+2018-08-11 12:49:54 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-08-11 12:49:54 [YYUpdate]*** C11PrdEx: ExID=27, PID= 10047, DstVer=8.1.6
+2018-08-11 12:49:54 [YYUpdate]*** C11PrdEx: ExID=21, PID= 1304971175, DstVer=1.0.0
+2018-08-11 12:49:54 [YYUpdate]*** C11PrdEx: ExID=17, PID= 1530709630, DstVer=1.0.0
+2018-08-11 12:49:54 [YYUpdate]*** Product: 30(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-08-11 12:49:54 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-08-11 12:49:54 [YYUpdate]*** Product: 27(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-08-11 12:49:54 [YYUpdate]*** Product: 21(1304971175),url=http://update.7fgame.com/qxzl/game/pack/1304971175/VerComp.dat,path=D:\
+2018-08-11 12:49:54 [YYUpdate]*** Product: 17(1530709630),url=http://update.7fgame.com/qxzl/game/pack/1530709630/VerComp.dat,path=D:\
+2018-08-11 12:49:54 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-08-11 12:49:54 [YYUpdate]*** StartUpdateMulti:5
+2018-08-11 12:49:54 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 12:49:54 [YYUpdate]*** C11UpdateMultiThread threadid=28948 OnStart
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:Task=1304971175-update.7fgame.com
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:Task=1530709630-update.7fgame.com
+2018-08-11 12:49:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:22364
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:10040
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:28956
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:29452
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:8688
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:28612
+2018-08-11 12:49:54 [YYUpdate]*** DLThread:13676
+2018-08-11 12:49:54 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-08-11 12:49:54 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-08-11 12:49:54 [YYUpdate]*** STATE:[Prepare ](0) PID=30,scrollback=0(0)
+2018-08-11 12:49:54 [YYUpdate]*** STATE:[Check   ](0) PID=30
+2018-08-11 12:49:54 [YYUpdate]*** Docheck: Time=32,File=7fxp.dll,crc=,size=6431664
+2018-08-11 12:49:54 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-08-11 12:49:54 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-08-11 12:49:55 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=30
+2018-08-11 12:49:55 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-08-11 12:49:56 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-08-11 12:49:58 [YYUpdate]*** Docheck: Time=31,File=fonts\dsf.ttf,crc=,size=8137052
+2018-08-11 12:49:58 [YYUpdate]*** Docheck: Time=47,File=fonts\heavy.ttf,crc=,size=8135960
+2018-08-11 12:49:58 [YYUpdate]*** Docheck: Time=31,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-08-11 12:50:01 [YYUpdate]*** Docheck: Time=32,File=sound\bgm_old.mp3,crc=,size=3553200
+2018-08-11 12:50:01 [YYUpdate]*** Docheck: Time=32,File=sound\bgm.mp3,crc=,size=3821783
+2018-08-11 12:50:02 [YYUpdate]*** Docheck: Time=31,File=ui\NewEndPic.dds,crc=,size=4194432
+2018-08-11 12:50:03 [YYUpdate]*** STATE:[Prepare ](2) PID=27,scrollback=0(0)
+2018-08-11 12:50:03 [YYUpdate]*** STATE:[Check   ](2) PID=27
+2018-08-11 12:50:04 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=27
+2018-08-11 12:50:04 [YYUpdate]*** STATE:[Prepare ](3) PID=21,scrollback=0(0)
+2018-08-11 12:50:04 [YYUpdate]*** STATE:[Check   ](3) PID=21
+2018-08-11 12:50:05 [YYUpdate]*** STATE:[Prepare ](4) PID=17,scrollback=0(0)
+2018-08-11 12:50:05 [YYUpdate]*** STATE:[Check   ](4) PID=17
+2018-08-11 12:50:06 [YYUpdate]*** STATE:[Download](1) PID=7
+2018-08-11 12:50:06 [YYUpdate]*** STATE:[Download](3) PID=21
+2018-08-11 12:50:22 [YYUpdate]*** STATE:[Download](4) PID=17
+2018-08-11 12:50:28 [YYUpdate]*** STATE:[Install ](1) PID=7
+2018-08-11 12:50:29 [YYUpdate]*** STATE:[Final   ](1) PID=7
+2018-08-11 12:50:30 [YYUpdate]*** STATE:[Install ](3) PID=21
+2018-08-11 12:50:32 [YYUpdate]*** STATE:[Final   ](3) PID=21
+2018-08-11 12:50:33 [YYUpdate]*** STATE:[Install ](4) PID=17
+2018-08-11 12:50:33 [YYUpdate]*** STATE:[Final   ](4) PID=17
+2018-08-11 12:50:33 [YYUpdate]*** ===============END TASK(Count=5,3+2)===========
+2018-08-11 12:50:33 [YYUpdate]*** Quit with 1[28948],Stop:0,Update:1
+2018-08-11 12:50:33 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,3
+2018-08-11 12:50:33 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-08-11 12:50:33 [YYUpdate]*** Need Del Pack Count:5/4,timeout:45000
+2018-08-11 12:50:33 [YYUpdate]*** Need Del Pack:1275735440
+2018-08-11 12:50:33 [YYUpdate]*** Need Del Pack:1621540995
+2018-08-11 12:50:33 [YYUpdate]*** Need Del Pack:1501198375
+2018-08-11 12:50:33 [YYUpdate]*** Need Del Pack:1785752224
+2018-08-11 12:50:33 [YYUpdate]*** DoFinishFace
+2018-08-11 12:50:33 [YYUpdate]*** DoCancel Begin: 1
+2018-08-11 12:50:33 [YYUpdate]*** StopUpdateMulti
+2018-08-11 12:50:33 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread[28612]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[22364]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[22364]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[28956]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[10040]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[10040]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[29452]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[28612]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[28612]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[13676]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[13676]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[13676]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[8688]-(6,0)
+2018-08-11 12:50:33 [YYUpdate]*** Exit dlThread v2[8688]-(6,0)
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-08-11 12:50:38 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-08-11 12:50:38 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-11 12:50:38 [YYUpdate]*** DoCancel NULL
+2018-08-11 12:50:42 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-08-11 12:50:42 [YYUpdate]*** DoCancel Begin: 0
+2018-08-11 12:50:42 [YYUpdate]*** StopUpdateMulti
+2018-08-11 12:50:42 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-11 12:50:42 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-11 12:50:42 [YYUpdate]*** DoCancel IDCancel_1
+2018-08-11 12:50:42 [YYUpdate]*** Update Destroy!
+2018-08-11 12:50:42 [YYUpdate]*** UnInitYYUCore
+2018-08-11 12:50:42 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-22 16:48:34 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-08-22 16:48:34 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-08-22 16:48:35 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-08-22 16:48:35 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.2.8
+2018-08-22 16:48:35 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.2.8/20180813/VerComp.dat,path=D:\
+2018-08-22 16:48:35 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-08-22 16:48:35 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-08-22 16:48:35 [YYUpdate]*** CDomainIPThread:TaskRst=2110733018
+2018-08-22 16:48:35 [YYUpdate]*** StartUpdateMulti:1
+2018-08-22 16:48:35 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-22 16:48:35 [YYUpdate]*** C11UpdateMultiThread threadid=35736 OnStart
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:35072
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:11772
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:6844
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:2836
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:34768
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:35456
+2018-08-22 16:48:35 [YYUpdate]*** DLThread:38276
+2018-08-22 16:48:35 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-08-22 16:48:35 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-08-22 16:48:35 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-08-22 16:48:35 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-08-22 16:48:37 [YYUpdate]*** Docheck: Time=94,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=110,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=62,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=109,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-08-22 16:48:38 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-08-22 16:48:40 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-08-22 16:48:47 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-08-22 16:48:51 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-08-22 16:48:52 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-08-22 16:48:52 [YYUpdate]*** Quit with 1[35736],Stop:0,Update:1
+2018-08-22 16:48:52 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-08-22 16:48:52 [YYUpdate]*** DoFinishFace
+2018-08-22 16:48:52 [YYUpdate]*** Exit MultiThrd:35736
+2018-08-22 16:48:52 [YYUpdate]*** C11UpdateMultiThread threadid=35736 OnTerminate
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread[2836]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[38276]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[38276]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[11772]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[11772]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[35456]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[35456]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[2836]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread[6844]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[34768]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[34768]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[6844]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[6844]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** Exit dlThread v2[35072]-(6,0)
+2018-08-22 16:48:52 [YYUpdate]*** DoCancel Begin: 1
+2018-08-22 16:48:52 [YYUpdate]*** StartAppModule(1): "D:\
+2018-08-22 16:48:52 [YYUpdate]*** StopUpdateMulti
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-08-22 16:48:52 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-22 16:48:52 [YYUpdate]*** DoCancel IDCancel_2
+2018-08-22 16:48:52 [YYUpdate]*** Update Destroy!
+2018-08-22 16:48:52 [YYUpdate]*** UnInitYYUCore
+2018-08-22 16:48:52 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:02:31 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-08-25 16:02:31 [YYUpdate]*** Update Start:  -uid 103089366 -isp 0 -env 1 -a -p 100
+2018-08-25 16:02:31 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-08-25 16:02:31 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.2.9
+2018-08-25 16:02:31 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.2.9/20180824/VerComp.dat,path=D:\
+2018-08-25 16:02:31 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-08-25 16:02:31 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-08-25 16:02:31 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-08-25 16:02:31 [YYUpdate]*** StartUpdateMulti:1
+2018-08-25 16:02:31 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:02:31 [YYUpdate]*** C11UpdateMultiThread threadid=45832 OnStart
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:34956
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:49816
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:48248
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:39920
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:51052
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:15936
+2018-08-25 16:02:31 [YYUpdate]*** DLThread:43480
+2018-08-25 16:02:31 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-08-25 16:02:31 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-08-25 16:02:31 [YYUpdate]*** DoCloseProcessByWnd:100-40458
+2018-08-25 16:02:31 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-08-25 16:02:31 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=31,File=KIT\mfc100u.dll,crc=,size=4422992
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=110,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=32,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\mfc100u.dll,crc=,size=4422992
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=109,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=32,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=63,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-08-25 16:02:33 [YYUpdate]*** Docheck: Time=93,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-08-25 16:02:34 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-08-25 16:02:36 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-08-25 16:02:39 [YYUpdate]*** DoCheck_ClosePrompt Exist Proc: (30552)D:\
+2018-08-25 16:02:39 [YYUpdate]*** DoCheck_ClosePrompt Exist Proc: (46156)D:\
+2018-08-25 16:02:41 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-08-25 16:02:46 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-08-25 16:02:47 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-08-25 16:02:47 [YYUpdate]*** Quit with 1[45832],Stop:0,Update:1
+2018-08-25 16:02:47 [YYUpdate]*** Exit MultiThrd:45832
+2018-08-25 16:02:47 [YYUpdate]*** C11UpdateMultiThread threadid=45832 OnTerminate
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread[34956]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[48248]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[48248]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[34956]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread[49816]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[49816]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread[15936]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[43480]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[43480]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[15936]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread[39920]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[39920]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread[51052]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** Exit dlThread v2[51052]-(6,0)
+2018-08-25 16:02:47 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-08-25 16:02:47 [YYUpdate]*** DoFinishFace
+2018-08-25 16:02:47 [YYUpdate]*** DoCancel Begin: 1
+2018-08-25 16:02:47 [YYUpdate]*** StartAppModule(1): "D:\
+2018-08-25 16:02:47 [YYUpdate]*** StopUpdateMulti
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-08-25 16:02:47 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-25 16:02:47 [YYUpdate]*** DoCancel IDCancel_2
+2018-08-25 16:02:47 [YYUpdate]*** Update Destroy!
+2018-08-25 16:02:47 [YYUpdate]*** UnInitYYUCore
+2018-08-25 16:02:47 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:03:28 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-08-25 16:03:28 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-08-25 16:03:28 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-08-25 16:03:28 [YYUpdate]*** C11PrdEx: ExID=34, PID= 1, DstVer=24.4.3
+2018-08-25 16:03:28 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-08-25 16:03:28 [YYUpdate]*** C11PrdEx: ExID=31, PID= 10047, DstVer=8.1.6
+2018-08-25 16:03:28 [YYUpdate]*** C11PrdEx: ExID=22, PID= 1397284962, DstVer=1.0.0
+2018-08-25 16:03:28 [YYUpdate]*** C11PrdEx: ExID=11, PID= 2060416817, DstVer=1.0.0
+2018-08-25 16:03:28 [YYUpdate]*** Product: 34(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-08-25 16:03:28 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-08-25 16:03:28 [YYUpdate]*** Product: 31(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-08-25 16:03:28 [YYUpdate]*** Product: 22(1397284962),url=http://update.7fgame.com/qxzl/game/pack/1397284962/VerComp.dat,path=D:\
+2018-08-25 16:03:28 [YYUpdate]*** Product: 11(2060416817),url=http://update.7fgame.com/qxzl/game/pack/2060416817/VerComp.dat,path=D:\
+2018-08-25 16:03:28 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:Task=1397284962-update.7fgame.com
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:Task=2060416817-update.7fgame.com
+2018-08-25 16:03:28 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-08-25 16:03:28 [YYUpdate]*** StartUpdateMulti:5
+2018-08-25 16:03:28 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:03:28 [YYUpdate]*** C11UpdateMultiThread threadid=37396 OnStart
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:47420
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:26016
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:10380
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:46644
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:40052
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:44116
+2018-08-25 16:03:28 [YYUpdate]*** DLThread:48476
+2018-08-25 16:03:28 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-08-25 16:03:28 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-08-25 16:03:28 [YYUpdate]*** STATE:[Prepare ](0) PID=34,scrollback=0(0)
+2018-08-25 16:03:28 [YYUpdate]*** STATE:[Check   ](0) PID=34
+2018-08-25 16:03:28 [YYUpdate]*** Docheck: Time=32,File=7fxp.dll,crc=,size=6431664
+2018-08-25 16:03:28 [YYUpdate]*** Docheck: Time=31,File=gpigame.dll,crc=,size=4485120
+2018-08-25 16:03:28 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-08-25 16:03:28 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-08-25 16:03:29 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=34
+2018-08-25 16:03:29 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-08-25 16:03:29 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-08-25 16:03:32 [YYUpdate]*** Docheck: Time=31,File=fonts\dsf.ttf,crc=,size=8137052
+2018-08-25 16:03:32 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-08-25 16:03:32 [YYUpdate]*** Docheck: Time=31,File=fonts\HYChengXingJ.ttf,crc=,size=6553132
+2018-08-25 16:03:32 [YYUpdate]*** Docheck: Time=31,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-08-25 16:03:36 [YYUpdate]*** Docheck: Time=32,File=ui\JL_New_Back.dds,crc=,size=4194432
+2018-08-25 16:03:36 [YYUpdate]*** Docheck: Time=32,File=ui\newloading.dds,crc=,size=4194432
+2018-08-25 16:03:37 [YYUpdate]*** STATE:[Prepare ](2) PID=31,scrollback=0(0)
+2018-08-25 16:03:37 [YYUpdate]*** STATE:[Check   ](2) PID=31
+2018-08-25 16:03:38 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=31
+2018-08-25 16:03:38 [YYUpdate]*** STATE:[Prepare ](3) PID=22,scrollback=0(0)
+2018-08-25 16:03:38 [YYUpdate]*** STATE:[Check   ](3) PID=22
+2018-08-25 16:03:39 [YYUpdate]*** STATE:[Prepare ](4) PID=11,scrollback=0(0)
+2018-08-25 16:03:39 [YYUpdate]*** STATE:[Check   ](4) PID=11
+2018-08-25 16:03:40 [YYUpdate]*** STATE:[Download](1) PID=7
+2018-08-25 16:03:40 [YYUpdate]*** STATE:[Download](3) PID=22
+2018-08-25 16:03:44 [YYUpdate]*** STATE:[Download](4) PID=11
+2018-08-25 16:03:54 [YYUpdate]*** STATE:[Install ](1) PID=7
+2018-08-25 16:03:55 [YYUpdate]*** STATE:[Final   ](1) PID=7
+2018-08-25 16:03:55 [YYUpdate]*** STATE:[Install ](3) PID=22
+2018-08-25 16:03:59 [YYUpdate]*** STATE:[Final   ](3) PID=22
+2018-08-25 16:03:59 [YYUpdate]*** STATE:[Install ](4) PID=11
+2018-08-25 16:04:01 [YYUpdate]*** STATE:[Final   ](4) PID=11
+2018-08-25 16:04:02 [YYUpdate]*** ===============END TASK(Count=5,3+2)===========
+2018-08-25 16:04:02 [YYUpdate]*** Quit with 1[37396],Stop:0,Update:1
+2018-08-25 16:04:02 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,3
+2018-08-25 16:04:02 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-08-25 16:04:02 [YYUpdate]*** DoFinishFace
+2018-08-25 16:04:02 [YYUpdate]*** DoCancel Begin: 1
+2018-08-25 16:04:02 [YYUpdate]*** StopUpdateMulti
+2018-08-25 16:04:02 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread[40052]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[40052]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread[47420]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[46644]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[46644]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[10380]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[10380]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[47420]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread[48476]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[48476]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread[44116]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[26016]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[26016]-(6,0)
+2018-08-25 16:04:02 [YYUpdate]*** Exit dlThread v2[44116]-(6,0)
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-08-25 16:04:07 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-08-25 16:04:07 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-25 16:04:07 [YYUpdate]*** DoCancel FlashWindow
+2018-08-25 16:04:09 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-08-25 16:04:09 [YYUpdate]*** DoCancel Begin: 0
+2018-08-25 16:04:09 [YYUpdate]*** StopUpdateMulti
+2018-08-25 16:04:09 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-25 16:04:09 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-08-25 16:04:09 [YYUpdate]*** DoCancel IDCancel_1
+2018-08-25 16:04:09 [YYUpdate]*** Update Destroy!
+2018-08-25 16:04:09 [YYUpdate]*** UnInitYYUCore
+2018-08-25 16:04:09 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-03 22:04:42 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-03 22:04:42 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-09-03 22:04:43 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-03 22:04:43 [YYUpdate]*** C11PrdEx: ExID=36, PID= 1, DstVer=24.4.3
+2018-09-03 22:04:43 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-09-03 22:04:43 [YYUpdate]*** C11PrdEx: ExID=33, PID= 10047, DstVer=8.1.6
+2018-09-03 22:04:43 [YYUpdate]*** C11PrdEx: ExID=29, PID= 1213171880, DstVer=1.0.0
+2018-09-03 22:04:43 [YYUpdate]*** C11PrdEx: ExID=17, PID= 1682952436, DstVer=1.0.0
+2018-09-03 22:04:43 [YYUpdate]*** Product: 36(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-09-03 22:04:43 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-09-03 22:04:43 [YYUpdate]*** Product: 33(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-09-03 22:04:43 [YYUpdate]*** Product: 29(1213171880),url=http://update.7fgame.com/qxzl/game/pack/1213171880/VerComp.dat,path=D:\
+2018-09-03 22:04:43 [YYUpdate]*** Product: 17(1682952436),url=http://update.7fgame.com/qxzl/game/pack/1682952436/VerComp.dat,path=D:\
+2018-09-03 22:04:43 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:TaskRst=1114035772
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:TaskRst=1114035772
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:TaskRst=1114035772
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:Task=1213171880-update.7fgame.com
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:TaskRst=1114035772
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:Task=1682952436-update.7fgame.com
+2018-09-03 22:04:43 [YYUpdate]*** CDomainIPThread:TaskRst=1114035772
+2018-09-03 22:04:43 [YYUpdate]*** StartUpdateMulti:5
+2018-09-03 22:04:43 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-03 22:04:43 [YYUpdate]*** C11UpdateMultiThread threadid=26736 OnStart
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:58332
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:38464
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:68604
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:66080
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:47344
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:62884
+2018-09-03 22:04:43 [YYUpdate]*** DLThread:47764
+2018-09-03 22:04:43 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-09-03 22:04:43 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-03 22:04:43 [YYUpdate]*** STATE:[Prepare ](0) PID=36,scrollback=0(0)
+2018-09-03 22:04:43 [YYUpdate]*** STATE:[Check   ](0) PID=36
+2018-09-03 22:04:43 [YYUpdate]*** Docheck: Time=31,File=7fxp.dll,crc=,size=6431664
+2018-09-03 22:04:43 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-09-03 22:04:43 [YYUpdate]*** Docheck: Time=156,File=main_map.o,crc=,size=35060883
+2018-09-03 22:04:44 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=36
+2018-09-03 22:04:44 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-09-03 22:04:44 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-09-03 22:04:45 [YYUpdate]*** Docheck: Time=31,File=effect\icon15.bmp,crc=,size=4194360
+2018-09-03 22:04:47 [YYUpdate]*** Docheck: Time=32,File=fonts\dsf.ttf,crc=,size=8137052
+2018-09-03 22:04:47 [YYUpdate]*** Docheck: Time=32,File=fonts\heavy.ttf,crc=,size=8135960
+2018-09-03 22:04:47 [YYUpdate]*** Docheck: Time=31,File=fonts\HYChengXingJ.ttf,crc=,size=6553132
+2018-09-03 22:04:47 [YYUpdate]*** Docheck: Time=47,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-09-03 22:04:51 [YYUpdate]*** Docheck: Time=31,File=ui\liansha.dds,crc=,size=4194432
+2018-09-03 22:04:51 [YYUpdate]*** Docheck: Time=31,File=ui\NewEndPic.dds,crc=,size=4194432
+2018-09-03 22:04:52 [YYUpdate]*** STATE:[Check  ](1) DatFileCopy PID=7
+2018-09-03 22:04:52 [YYUpdate]*** STATE:[Prepare ](2) PID=33,scrollback=0(0)
+2018-09-03 22:04:52 [YYUpdate]*** STATE:[Check   ](2) PID=33
+2018-09-03 22:04:53 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=33
+2018-09-03 22:04:53 [YYUpdate]*** STATE:[Prepare ](3) PID=29,scrollback=0(0)
+2018-09-03 22:04:53 [YYUpdate]*** STATE:[Check   ](3) PID=29
+2018-09-03 22:04:54 [YYUpdate]*** STATE:[Prepare ](4) PID=17,scrollback=0(0)
+2018-09-03 22:04:54 [YYUpdate]*** STATE:[Check   ](4) PID=17
+2018-09-03 22:04:55 [YYUpdate]*** STATE:[Download](3) PID=29
+2018-09-03 22:05:37 [YYUpdate]*** STATE:[Download](4) PID=17
+2018-09-03 22:05:45 [YYUpdate]*** STATE:[Install ](3) PID=29
+2018-09-03 22:05:48 [YYUpdate]*** STATE:[Final   ](3) PID=29
+2018-09-03 22:05:48 [YYUpdate]*** STATE:[Install ](4) PID=17
+2018-09-03 22:05:51 [YYUpdate]*** STATE:[Final   ](4) PID=17
+2018-09-03 22:05:51 [YYUpdate]*** ===============END TASK(Count=5,2+3)===========
+2018-09-03 22:05:51 [YYUpdate]*** Quit with 1[26736],Stop:0,Update:1
+2018-09-03 22:05:51 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,2
+2018-09-03 22:05:51 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-09-03 22:05:51 [YYUpdate]*** DoFinishFace
+2018-09-03 22:05:52 [YYUpdate]*** DoCancel Begin: 1
+2018-09-03 22:05:52 [YYUpdate]*** StopUpdateMulti
+2018-09-03 22:05:52 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread[48332]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[66080]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[66080]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[68604]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[68604]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread[47344]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread[47344]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[47344]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[47344]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[62884]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[62884]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[38464]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[38464]-(6,0)
+2018-09-03 22:05:52 [YYUpdate]*** Exit dlThread v2[58332]-(6,0)
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-03 22:05:57 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-03 22:05:57 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-03 22:05:57 [YYUpdate]*** DoCancel FlashWindow
+2018-09-03 22:05:58 [YYUpdate]*** Update Cancel!
+2018-09-03 22:05:58 [YYUpdate]*** Update Destroy!
+2018-09-03 22:05:58 [YYUpdate]*** UnInitYYUCore
+2018-09-03 22:05:58 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-08 21:20:53 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-08 21:20:53 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-09-08 21:20:54 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-08 21:20:54 [YYUpdate]*** C11PrdEx: ExID=32, PID= 1, DstVer=24.4.3
+2018-09-08 21:20:54 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-09-08 21:20:54 [YYUpdate]*** C11PrdEx: ExID=29, PID= 10047, DstVer=8.1.6
+2018-09-08 21:20:54 [YYUpdate]*** C11PrdEx: ExID=11, PID= 2101772622, DstVer=1.0.0
+2018-09-08 21:20:54 [YYUpdate]*** C11PrdEx: ExID=9, PID= 2135472190, DstVer=1.0.0
+2018-09-08 21:20:54 [YYUpdate]*** Product: 32(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-09-08 21:20:54 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-09-08 21:20:54 [YYUpdate]*** Product: 29(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-09-08 21:20:54 [YYUpdate]*** Product: 11(2101772622),url=http://update.7fgame.com/qxzl/game/pack/2101772622/VerComp.dat,path=D:\
+2018-09-08 21:20:54 [YYUpdate]*** Product: 9(2135472190),url=http://update.7fgame.com/qxzl/game/pack/2135472190/VerComp.dat,path=D:\
+2018-09-08 21:20:54 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:TaskRst=1130812988
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:TaskRst=1130812988
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:TaskRst=1130812988
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:Task=2101772622-update.7fgame.com
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:TaskRst=1130812988
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:Task=2135472190-update.7fgame.com
+2018-09-08 21:20:54 [YYUpdate]*** CDomainIPThread:TaskRst=1130812988
+2018-09-08 21:20:54 [YYUpdate]*** StartUpdateMulti:5
+2018-09-08 21:20:54 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-08 21:20:54 [YYUpdate]*** C11UpdateMultiThread threadid=18164 OnStart
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:10384
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:3840
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:27272
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:26804
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:27612
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:26964
+2018-09-08 21:20:54 [YYUpdate]*** DLThread:26708
+2018-09-08 21:20:54 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-09-08 21:20:54 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-08 21:20:54 [YYUpdate]*** STATE:[Prepare ](0) PID=32,scrollback=0(0)
+2018-09-08 21:20:54 [YYUpdate]*** STATE:[Check   ](0) PID=32
+2018-09-08 21:20:54 [YYUpdate]*** Docheck: Time=31,File=d3dx9_32.dll,crc=,size=3426072
+2018-09-08 21:20:54 [YYUpdate]*** Docheck: Time=31,File=7fxp.dll,crc=,size=6431664
+2018-09-08 21:20:54 [YYUpdate]*** Docheck: Time=31,File=gpigame.dll,crc=,size=4485120
+2018-09-08 21:20:54 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-09-08 21:20:54 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-09-08 21:20:55 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=32
+2018-09-08 21:20:55 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-09-08 21:20:56 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-09-08 21:20:58 [YYUpdate]*** Docheck: Time=31,File=fonts\dsf.ttf,crc=,size=8137052
+2018-09-08 21:20:58 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-09-08 21:20:58 [YYUpdate]*** Docheck: Time=31,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-09-08 21:21:02 [YYUpdate]*** Docheck: Time=32,File=ui\jhsp.dds,crc=,size=4194432
+2018-09-08 21:21:02 [YYUpdate]*** Docheck: Time=31,File=ui\NewDao.dds,crc=,size=4194432
+2018-09-08 21:21:02 [YYUpdate]*** Docheck: Time=31,File=ui\sizhandaodi.dds,crc=,size=4194432
+2018-09-08 21:21:03 [YYUpdate]*** STATE:[Check  ](1) DatFileCopy PID=7
+2018-09-08 21:21:03 [YYUpdate]*** STATE:[Prepare ](2) PID=29,scrollback=0(0)
+2018-09-08 21:21:03 [YYUpdate]*** STATE:[Check   ](2) PID=29
+2018-09-08 21:21:04 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=29
+2018-09-08 21:21:04 [YYUpdate]*** STATE:[Prepare ](3) PID=11,scrollback=0(0)
+2018-09-08 21:21:04 [YYUpdate]*** STATE:[Check   ](3) PID=11
+2018-09-08 21:21:05 [YYUpdate]*** STATE:[Prepare ](4) PID=9,scrollback=0(0)
+2018-09-08 21:21:05 [YYUpdate]*** STATE:[Check   ](4) PID=9
+2018-09-08 21:21:06 [YYUpdate]*** STATE:[Download](3) PID=11
+2018-09-08 21:21:16 [YYUpdate]*** STATE:[Download](4) PID=9
+2018-09-08 21:21:57 [YYUpdate]*** STATE:[Install ](3) PID=11
+2018-09-08 21:22:01 [YYUpdate]*** STATE:[Final   ](3) PID=11
+2018-09-08 21:22:01 [YYUpdate]*** STATE:[Install ](4) PID=9
+2018-09-08 21:22:03 [YYUpdate]*** STATE:[Final   ](4) PID=9
+2018-09-08 21:22:04 [YYUpdate]*** ===============END TASK(Count=5,2+3)===========
+2018-09-08 21:22:04 [YYUpdate]*** Quit with 1[18164],Stop:0,Update:1
+2018-09-08 21:22:04 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,2
+2018-09-08 21:22:04 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-09-08 21:22:04 [YYUpdate]*** DoFinishFace
+2018-09-08 21:22:04 [YYUpdate]*** DoCancel Begin: 1
+2018-09-08 21:22:04 [YYUpdate]*** StopUpdateMulti
+2018-09-08 21:22:04 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread[27272]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[27612]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[27612]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[26804]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[26804]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[3840]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[3840]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[27272]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread[26708]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[26708]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[26708]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[26964]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread[10384]-(6,0)
+2018-09-08 21:22:04 [YYUpdate]*** Exit dlThread v2[10384]-(6,0)
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-08 21:22:09 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-08 21:22:09 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-08 21:22:09 [YYUpdate]*** DoCancel NULL
+2018-09-08 21:22:17 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-09-08 21:22:17 [YYUpdate]*** DoCancel Begin: 0
+2018-09-08 21:22:17 [YYUpdate]*** StopUpdateMulti
+2018-09-08 21:22:17 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-08 21:22:17 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-08 21:22:17 [YYUpdate]*** DoCancel IDCancel_1
+2018-09-08 21:22:17 [YYUpdate]*** Update Destroy!
+2018-09-08 21:22:17 [YYUpdate]*** UnInitYYUCore
+2018-09-08 21:22:17 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:21:52 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-11 20:21:52 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-09-11 20:21:52 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-11 20:21:52 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.3.2
+2018-09-11 20:21:52 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.3.2/20180911/VerComp.dat,path=D:\
+2018-09-11 20:21:52 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-09-11 20:21:52 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-09-11 20:21:52 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:21:52 [YYUpdate]*** StartUpdateMulti:1
+2018-09-11 20:21:52 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:21:52 [YYUpdate]*** C11UpdateMultiThread threadid=2448 OnStart
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:1948
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:1816
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:9876
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:9332
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:8928
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:5584
+2018-09-11 20:21:52 [YYUpdate]*** DLThread:10828
+2018-09-11 20:21:52 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-09-11 20:21:52 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-11 20:21:52 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-09-11 20:21:52 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-09-11 20:21:53 [YYUpdate]*** Docheck: Time=47,File=7FGame.exe,crc=,size=5823824
+2018-09-11 20:21:54 [YYUpdate]*** Docheck: Time=31,File=KIT\mfc100u.dll,crc=,size=4422992
+2018-09-11 20:21:54 [YYUpdate]*** Docheck: Time=32,File=mfc100u.dll,crc=,size=4422992
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=110,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=94,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=62,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT\Qt5Widgets.dll,crc=,size=4379008
+2018-09-11 20:21:55 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-09-11 20:21:58 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-09-11 20:22:01 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-09-11 20:22:02 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-09-11 20:22:03 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-09-11 20:22:03 [YYUpdate]*** Quit with 1[2448],Stop:0,Update:1
+2018-09-11 20:22:03 [YYUpdate]*** Exit MultiThrd:2448
+2018-09-11 20:22:03 [YYUpdate]*** C11UpdateMultiThread threadid=2448 OnTerminate
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread[1948]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[1948]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread[9876]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[9332]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[9332]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[8928]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[8928]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[5584]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[5584]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[9876]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[9876]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[10828]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread[1816]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** Exit dlThread v2[1816]-(6,0)
+2018-09-11 20:22:03 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-09-11 20:22:03 [YYUpdate]*** DoFinishFace
+2018-09-11 20:22:03 [YYUpdate]*** DoCancel Begin: 1
+2018-09-11 20:22:04 [YYUpdate]*** StartAppModule(1): "D:\
+2018-09-11 20:22:04 [YYUpdate]*** StopUpdateMulti
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-11 20:22:04 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-11 20:22:04 [YYUpdate]*** DoCancel IDCancel_2
+2018-09-11 20:22:04 [YYUpdate]*** Update Destroy!
+2018-09-11 20:22:04 [YYUpdate]*** UnInitYYUCore
+2018-09-11 20:22:04 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:23:03 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-11 20:23:03 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-09-11 20:23:04 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-11 20:23:04 [YYUpdate]*** C11PrdEx: ExID=35, PID= 1, DstVer=24.4.3
+2018-09-11 20:23:04 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-09-11 20:23:04 [YYUpdate]*** C11PrdEx: ExID=32, PID= 10047, DstVer=8.1.6
+2018-09-11 20:23:04 [YYUpdate]*** C11PrdEx: ExID=24, PID= 1304971175, DstVer=1.0.0
+2018-09-11 20:23:04 [YYUpdate]*** C11PrdEx: ExID=21, PID= 1526639689, DstVer=1.0.0
+2018-09-11 20:23:04 [YYUpdate]*** Product: 35(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-09-11 20:23:04 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-09-11 20:23:04 [YYUpdate]*** Product: 32(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-09-11 20:23:04 [YYUpdate]*** Product: 24(1304971175),url=http://update.7fgame.com/qxzl/game/pack/1304971175/VerComp.dat,path=D:\
+2018-09-11 20:23:04 [YYUpdate]*** Product: 21(1526639689),url=http://update.7fgame.com/qxzl/game/pack/1526639689/VerComp.dat,path=D:\
+2018-09-11 20:23:04 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:Task=1304971175-update.7fgame.com
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:Task=1526639689-update.7fgame.com
+2018-09-11 20:23:04 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-11 20:23:04 [YYUpdate]*** StartUpdateMulti:5
+2018-09-11 20:23:04 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:23:04 [YYUpdate]*** C11UpdateMultiThread threadid=12240 OnStart
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12244
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12248
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12252
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12256
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12260
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12264
+2018-09-11 20:23:04 [YYUpdate]*** DLThread:12268
+2018-09-11 20:23:04 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-09-11 20:23:04 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-11 20:23:04 [YYUpdate]*** STATE:[Prepare ](0) PID=35,scrollback=0(0)
+2018-09-11 20:23:04 [YYUpdate]*** STATE:[Check   ](0) PID=35
+2018-09-11 20:23:04 [YYUpdate]*** Docheck: Time=31,File=7fxp.dll,crc=,size=6431664
+2018-09-11 20:23:04 [YYUpdate]*** Docheck: Time=32,File=gpi.o,crc=,size=6994805
+2018-09-11 20:23:04 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-09-11 20:23:05 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=35
+2018-09-11 20:23:05 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-09-11 20:23:05 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-09-11 20:23:07 [YYUpdate]*** Docheck: Time=31,File=fonts\dsf.ttf,crc=,size=8137052
+2018-09-11 20:23:07 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-09-11 20:23:07 [YYUpdate]*** Docheck: Time=32,File=fonts\HYChengXingJ.ttf,crc=,size=6553132
+2018-09-11 20:23:07 [YYUpdate]*** Docheck: Time=47,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-09-11 20:23:11 [YYUpdate]*** Docheck: Time=31,File=ui\liansha.dds,crc=,size=4194432
+2018-09-11 20:23:12 [YYUpdate]*** STATE:[Prepare ](2) PID=32,scrollback=0(0)
+2018-09-11 20:23:12 [YYUpdate]*** STATE:[Check   ](2) PID=32
+2018-09-11 20:23:13 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=32
+2018-09-11 20:23:13 [YYUpdate]*** STATE:[Prepare ](3) PID=24,scrollback=0(0)
+2018-09-11 20:23:13 [YYUpdate]*** STATE:[Check   ](3) PID=24
+2018-09-11 20:23:14 [YYUpdate]*** Docheck: Time=31,File=resource-sanguo-7.6.3-7.7.8\fonts\HYChengXingJ.ttf,crc=,size=6571920
+2018-09-11 20:23:14 [YYUpdate]*** STATE:[Check  ](3) DatFileCopy PID=24
+2018-09-11 20:23:14 [YYUpdate]*** STATE:[Prepare ](4) PID=21,scrollback=0(0)
+2018-09-11 20:23:14 [YYUpdate]*** STATE:[Check   ](4) PID=21
+2018-09-11 20:23:15 [YYUpdate]*** STATE:[Download](1) PID=7
+2018-09-11 20:23:16 [YYUpdate]*** STATE:[Download](4) PID=21
+2018-09-11 20:23:22 [YYUpdate]*** STATE:[Install ](1) PID=7
+2018-09-11 20:23:22 [YYUpdate]*** STATE:[Final   ](1) PID=7
+2018-09-11 20:23:23 [YYUpdate]*** STATE:[Install ](4) PID=21
+2018-09-11 20:23:23 [YYUpdate]*** STATE:[Final   ](4) PID=21
+2018-09-11 20:23:23 [YYUpdate]*** ===============END TASK(Count=5,2+3)===========
+2018-09-11 20:23:23 [YYUpdate]*** Quit with 1[12240],Stop:0,Update:1
+2018-09-11 20:23:23 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,2
+2018-09-11 20:23:23 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-09-11 20:23:23 [YYUpdate]*** Need Del Pack Count:5/2,timeout:45000
+2018-09-11 20:23:23 [YYUpdate]*** Need Del Pack:1397284962
+2018-09-11 20:23:23 [YYUpdate]*** Need Del Pack:2060416817
+2018-09-11 20:23:23 [YYUpdate]*** Exit MultiThrd:12240
+2018-09-11 20:23:23 [YYUpdate]*** C11UpdateMultiThread threadid=12240 OnTerminate
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread[12244]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12252]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12252]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12244]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread[12248]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12248]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread[12268]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12260]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12260]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12268]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12268]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12264]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread[12256]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** Exit dlThread v2[12256]-(6,0)
+2018-09-11 20:23:23 [YYUpdate]*** DoFinishFace
+2018-09-11 20:23:23 [YYUpdate]*** DoCancel Begin: 1
+2018-09-11 20:23:23 [YYUpdate]*** StopUpdateMulti
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-11 20:23:23 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-11 20:23:23 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-11 20:23:23 [YYUpdate]*** DoCancel FlashWindow
+2018-09-11 20:23:24 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-09-11 20:23:24 [YYUpdate]*** DoCancel Begin: 0
+2018-09-11 20:23:24 [YYUpdate]*** StopUpdateMulti
+2018-09-11 20:23:24 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-11 20:23:24 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-11 20:23:24 [YYUpdate]*** DoCancel IDCancel_1
+2018-09-11 20:23:24 [YYUpdate]*** Update Destroy!
+2018-09-11 20:23:24 [YYUpdate]*** UnInitYYUCore
+2018-09-11 20:23:24 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:00:40 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-20 19:00:40 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-09-20 19:00:40 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-20 19:00:40 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.3.3
+2018-09-20 19:00:40 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.3.3/20180919/VerComp.dat,path=D:\
+2018-09-20 19:00:40 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-09-20 19:00:40 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-09-20 19:00:40 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-09-20 19:00:40 [YYUpdate]*** StartUpdateMulti:1
+2018-09-20 19:00:40 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:00:40 [YYUpdate]*** C11UpdateMultiThread threadid=1796 OnStart
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:10820
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:4596
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:6872
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:7092
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:9364
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:1028
+2018-09-20 19:00:40 [YYUpdate]*** DLThread:11592
+2018-09-20 19:00:40 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-09-20 19:00:40 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-20 19:00:40 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-09-20 19:00:40 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-09-20 19:00:42 [YYUpdate]*** Docheck: Time=110,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\mfc100u.dll,crc=,size=4422992
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=109,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=47,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=63,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT55\Qt5Widgets.dll,crc=,size=4497712
+2018-09-20 19:00:43 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-09-20 19:00:44 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-09-20 19:00:47 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-09-20 19:00:48 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-09-20 19:00:49 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-09-20 19:00:49 [YYUpdate]*** Quit with 1[1796],Stop:0,Update:1
+2018-09-20 19:00:49 [YYUpdate]*** Exit MultiThrd:1796
+2018-09-20 19:00:49 [YYUpdate]*** C11UpdateMultiThread threadid=1796 OnTerminate
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread[7092]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[10820]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[7092]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[7092]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[7092]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[4596]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread[11592]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[11592]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread[1028]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[6872]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[6872]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[1028]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread[9364]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** Exit dlThread v2[9364]-(6,0)
+2018-09-20 19:00:49 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-09-20 19:00:49 [YYUpdate]*** DoFinishFace
+2018-09-20 19:00:49 [YYUpdate]*** DoCancel Begin: 1
+2018-09-20 19:00:49 [YYUpdate]*** StartAppModule(1): "D:\
+2018-09-20 19:00:49 [YYUpdate]*** StopUpdateMulti
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-20 19:00:49 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-20 19:00:49 [YYUpdate]*** DoCancel IDCancel_2
+2018-09-20 19:00:49 [YYUpdate]*** Update Destroy!
+2018-09-20 19:00:49 [YYUpdate]*** UnInitYYUCore
+2018-09-20 19:00:49 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:02:38 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-20 19:02:38 [YYUpdate]*** Update Start:  -a -p 1,D:\
+2018-09-20 19:02:39 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-20 19:02:39 [YYUpdate]*** C11PrdEx: ExID=32, PID= 1, DstVer=24.4.3
+2018-09-20 19:02:39 [YYUpdate]*** C11PrdEx: ExID=7, PID= 1000, DstVer=7.6.3
+2018-09-20 19:02:39 [YYUpdate]*** C11PrdEx: ExID=29, PID= 10047, DstVer=8.1.6
+2018-09-20 19:02:39 [YYUpdate]*** C11PrdEx: ExID=25, PID= 1181758204, DstVer=1.0.0
+2018-09-20 19:02:39 [YYUpdate]*** C11PrdEx: ExID=20, PID= 1363597586, DstVer=1.0.0
+2018-09-20 19:02:39 [YYUpdate]*** Product: 32(1),url=http://update.7fgame.com/qxzl/game/core/24.4.3/VerComp.dat,path=D:\
+2018-09-20 19:02:39 [YYUpdate]*** Product: 7(1000),url=http://update.7fgame.com/qxzl/game/resource/sanguo/7.6.3/VerComp.dat,path=D:\
+2018-09-20 19:02:39 [YYUpdate]*** Product: 29(10047),url=http://update.7fgame.com/qxzl/game/map/sanguo_b/8.1.6/VerComp.dat,path=D:\
+2018-09-20 19:02:39 [YYUpdate]*** Product: 25(1181758204),url=http://update.7fgame.com/qxzl/game/pack/1181758204/VerComp.dat,path=D:\
+2018-09-20 19:02:39 [YYUpdate]*** Product: 20(1363597586),url=http://update.7fgame.com/qxzl/game/pack/1363597586/VerComp.dat,path=D:\
+2018-09-20 19:02:39 [YYUpdate]*** StartUpdateMulti: Size=5,gamepaksize=2
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:Task=1-update.7fgame.com
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:Task=1000-update.7fgame.com
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:Task=10047-update.7fgame.com
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:Task=1181758204-update.7fgame.com
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:Task=1363597586-update.7fgame.com
+2018-09-20 19:02:39 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-20 19:02:39 [YYUpdate]*** StartUpdateMulti:5
+2018-09-20 19:02:39 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:02:39 [YYUpdate]*** C11UpdateMultiThread threadid=8996 OnStart
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:6508
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:1648
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:6512
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:9704
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:6572
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:4640
+2018-09-20 19:02:39 [YYUpdate]*** DLThread:8
+2018-09-20 19:02:39 [YYUpdate]*** =============START TASK(Count=5,mode=2)=============
+2018-09-20 19:02:39 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-09-20 19:02:39 [YYUpdate]*** STATE:[Prepare ](0) PID=32,scrollback=0(0)
+2018-09-20 19:02:39 [YYUpdate]*** STATE:[Check   ](0) PID=32
+2018-09-20 19:02:39 [YYUpdate]*** Docheck: Time=31,File=7fxp.dll,crc=,size=6431664
+2018-09-20 19:02:39 [YYUpdate]*** Docheck: Time=31,File=gpigame.dll,crc=,size=4485120
+2018-09-20 19:02:39 [YYUpdate]*** Docheck: Time=31,File=gpi.o,crc=,size=6994805
+2018-09-20 19:02:39 [YYUpdate]*** Docheck: Time=141,File=main_map.o,crc=,size=35060883
+2018-09-20 19:02:40 [YYUpdate]*** STATE:[Check  ](0) DatFileCopy PID=32
+2018-09-20 19:02:40 [YYUpdate]*** STATE:[Prepare ](1) PID=7,scrollback=0(0)
+2018-09-20 19:02:40 [YYUpdate]*** STATE:[Check   ](1) PID=7
+2018-09-20 19:02:41 [YYUpdate]*** Docheck: Time=31,File=effect\E_T_0211.TGA,crc=,size=4194348
+2018-09-20 19:02:42 [YYUpdate]*** Docheck: Time=31,File=fonts\dsf.ttf,crc=,size=8137052
+2018-09-20 19:02:42 [YYUpdate]*** Docheck: Time=31,File=fonts\heavy.ttf,crc=,size=8135960
+2018-09-20 19:02:42 [YYUpdate]*** Docheck: Time=32,File=fonts\HYChengXingJ.ttf,crc=,size=6553132
+2018-09-20 19:02:42 [YYUpdate]*** Docheck: Time=32,File=fonts\MSYHBD.TTF,crc=,size=8127028
+2018-09-20 19:02:46 [YYUpdate]*** Docheck: Time=31,File=ui\loadingback2.dds,crc=,size=4194432
+2018-09-20 19:02:46 [YYUpdate]*** Docheck: Time=31,File=ui\NewEndPic.dds,crc=,size=4194432
+2018-09-20 19:02:46 [YYUpdate]*** Docheck: Time=32,File=ui\sizhandaodi.dds,crc=,size=4194432
+2018-09-20 19:02:46 [YYUpdate]*** STATE:[Prepare ](2) PID=29,scrollback=0(0)
+2018-09-20 19:02:46 [YYUpdate]*** STATE:[Check   ](2) PID=29
+2018-09-20 19:02:47 [YYUpdate]*** STATE:[Check  ](2) DatFileCopy PID=29
+2018-09-20 19:02:47 [YYUpdate]*** STATE:[Prepare ](3) PID=25,scrollback=0(0)
+2018-09-20 19:02:47 [YYUpdate]*** STATE:[Check   ](3) PID=25
+2018-09-20 19:02:48 [YYUpdate]*** STATE:[Prepare ](4) PID=20,scrollback=0(0)
+2018-09-20 19:02:48 [YYUpdate]*** STATE:[Check   ](4) PID=20
+2018-09-20 19:02:49 [YYUpdate]*** STATE:[Download](1) PID=7
+2018-09-20 19:02:49 [YYUpdate]*** STATE:[Download](3) PID=25
+2018-09-20 19:02:55 [YYUpdate]*** STATE:[Download](4) PID=20
+2018-09-20 19:03:24 [YYUpdate]*** STATE:[Install ](1) PID=7
+2018-09-20 19:03:25 [YYUpdate]*** STATE:[Final   ](1) PID=7
+2018-09-20 19:03:26 [YYUpdate]*** STATE:[Install ](3) PID=25
+2018-09-20 19:03:26 [YYUpdate]*** STATE:[Final   ](3) PID=25
+2018-09-20 19:03:26 [YYUpdate]*** STATE:[Install ](4) PID=20
+2018-09-20 19:03:29 [YYUpdate]*** STATE:[Final   ](4) PID=20
+2018-09-20 19:03:29 [YYUpdate]*** ===============END TASK(Count=5,3+2)===========
+2018-09-20 19:03:29 [YYUpdate]*** Quit with 1[8996],Stop:0,Update:1
+2018-09-20 19:03:29 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,3
+2018-09-20 19:03:29 [YYUpdate]*** Del Pack set ProductList:D:\
+2018-09-20 19:03:29 [YYUpdate]*** Need Del Pack Count:5/2,timeout:45000
+2018-09-20 19:03:29 [YYUpdate]*** Need Del Pack:1213171880
+2018-09-20 19:03:29 [YYUpdate]*** Need Del Pack:1682952436
+2018-09-20 19:03:29 [YYUpdate]*** DoFinishFace
+2018-09-20 19:03:29 [YYUpdate]*** DoCancel Begin: 1
+2018-09-20 19:03:29 [YYUpdate]*** StopUpdateMulti
+2018-09-20 19:03:29 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread[65126,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[9704]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6512]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6512]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6508]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6508]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6508]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[8]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread[1648]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[1648]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread[6572]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[4640]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6572]-(6,0)
+2018-09-20 19:03:29 [YYUpdate]*** Exit dlThread v2[6572]-(6,0)
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-20 19:03:34 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-20 19:03:35 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-20 19:03:35 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-20 19:03:35 [YYUpdate]*** DoCancel NULL
+2018-09-20 19:03:35 [YYUpdate]*** OnBnClickedBtnMultiCancel:upStatus=0
+2018-09-20 19:03:35 [YYUpdate]*** DoCancel Begin: 0
+2018-09-20 19:03:35 [YYUpdate]*** StopUpdateMulti
+2018-09-20 19:03:35 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-20 19:03:35 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-20 19:03:35 [YYUpdate]*** DoCancel IDCancel_1
+2018-09-20 19:03:35 [YYUpdate]*** Update Destroy!
+2018-09-20 19:03:35 [YYUpdate]*** UnInitYYUCore
+2018-09-20 19:03:35 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-23 15:02:21 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-23 15:02:21 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-09-23 15:02:21 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-23 15:02:21 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.3.4
+2018-09-23 15:02:21 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.3.4/201809202/VerComp.dat,path=D:\
+2018-09-23 15:02:21 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-09-23 15:02:21 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-09-23 15:02:21 [YYUpdate]*** CDomainIPThread:TaskRst=2080837341
+2018-09-23 15:02:21 [YYUpdate]*** StartUpdateMulti:1
+2018-09-23 15:02:21 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-23 15:02:21 [YYUpdate]*** C11UpdateMultiThread threadid=1368 OnStart
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:7456
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:28936
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:28860
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:9120
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:14928
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:2704
+2018-09-23 15:02:21 [YYUpdate]*** DLThread:10276
+2018-09-23 15:02:21 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-09-23 15:02:21 [YYUpdate]*** CurrTcpDlIP:118.123.240.8
+2018-09-23 15:02:21 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-09-23 15:02:22 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-09-23 15:02:24 [YYUpdate]*** Docheck: Time=93,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-09-23 15:02:24 [YYUpdate]*** Docheck: Time=31,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=110,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=62,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=32,File=RunTime\QT\Qt5Core.dll,crc=,size=4118912
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=94,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT55\Qt5Gui.dll,crc=,size=4883760
+2018-09-23 15:02:25 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-09-23 15:02:27 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-09-23 15:02:34 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-09-23 15:02:39 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-09-23 15:02:39 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-09-23 15:02:39 [YYUpdate]*** Quit with 1[1368],Stop:0,Update:1
+2018-09-23 15:02:39 [YYUpdate]*** Exit MultiThrd:1368
+2018-09-23 15:02:39 [YYUpdate]*** C11UpdateMultiThread threadid=1368 OnTerminate
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread[7456]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[10276]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread[28936]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[2704]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[28936]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[28936]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[7456]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[7456]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[7456]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[14928]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[14928]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[28860]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[28860]-(6,0)
+2018-09-23 15:02:39 [YYUpdate]*** Exit dlThread v2[9120]-(6,0)
+2018-09-23 15:02:40 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-09-23 15:02:40 [YYUpdate]*** DoFinishFace
+2018-09-23 15:02:40 [YYUpdate]*** DoCancel Begin: 1
+2018-09-23 15:02:40 [YYUpdate]*** StartAppModule(1): "D:\
+2018-09-23 15:02:40 [YYUpdate]*** StopUpdateMulti
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-23 15:02:40 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-23 15:02:40 [YYUpdate]*** DoCancel IDCancel_2
+2018-09-23 15:02:40 [YYUpdate]*** Update Destroy!
+2018-09-23 15:02:40 [YYUpdate]*** UnInitYYUCore
+2018-09-23 15:02:40 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-27 18:24:53 [YYUpdate]*** 
+============================InitYYUCore(127)========================
+2018-09-27 18:24:53 [YYUpdate]*** Update Start:  -uid 0 -isp 0 -a -p 100
+2018-09-27 18:24:54 [YYUpdate]*** Download Ini Return: Ret=1,Fill=1,updateprdt=0
+2018-09-27 18:24:54 [YYUpdate]*** C11PrdEx: ExID=2, PID= 100, DstVer=2.3.3.5
+2018-09-27 18:24:54 [YYUpdate]*** Product: 2(100),url=http://update.7fgame.com/7fupdate/platform/2.3.3.5/20180925/VerComp.dat,path=D:\
+2018-09-27 18:24:54 [YYUpdate]*** StartUpdateMulti: Size=1,gamepaksize=0
+2018-09-27 18:24:54 [YYUpdate]*** CDomainIPThread:Task=100-update.7fgame.com
+2018-09-27 18:24:54 [YYUpdate]*** CDomainIPThread:TaskRst=520556253
+2018-09-27 18:24:54 [YYUpdate]*** StartUpdateMulti:1
+2018-09-27 18:24:54 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-27 18:24:54 [YYUpdate]*** C11UpdateMultiThread threadid=3012 OnStart
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4760
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4484
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4360
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4648
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4744
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:4832
+2018-09-27 18:24:54 [YYUpdate]*** DLThread:5800
+2018-09-27 18:24:54 [YYUpdate]*** =============START TASK(Count=1,mode=2)=============
+2018-09-27 18:24:54 [YYUpdate]*** CurrTcpDlIP:119.188.39.138
+2018-09-27 18:24:54 [YYUpdate]*** STATE:[Prepare ](0) PID=2,scrollback=1(0)
+2018-09-27 18:24:55 [YYUpdate]*** STATE:[Check   ](0) PID=2
+2018-09-27 18:24:57 [YYUpdate]*** Docheck: Time=31,File=mfc100u.dll,crc=,size=4422992
+2018-09-27 18:24:57 [YYUpdate]*** Docheck: Time=109,File=Plugin\hunyu\icudt54.dll,crc=,size=25344816
+2018-09-27 18:24:57 [YYUpdate]*** Docheck: Time=47,File=Plugin\hunyu\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=31,File=Plugin\WebBrower\mfc100u.dll,crc=,size=4422992
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=109,File=Plugin\WebBrower\icudt54.dll,crc=,size=25344816
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=32,File=Plugin\WebBrower\plugins\NPSWF32.dll,crc=,size=8797056
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=63,File=Plugin\WebBrower\plugins\NPSWF32_12_0_0_70.dll,crc=,size=16265096
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=31,File=RunTime\QT\Qt5Gui.dll,crc=,size=4356992
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=93,File=RunTime\QT\icudt52.dll,crc=,size=23514496
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=32,File=RunTime\QT55\Qt5Core.dll,crc=,size=4658992
+2018-09-27 18:24:58 [YYUpdate]*** Docheck: Time=78,File=RunTime\QT55\Qt5WebKit.dll,crc=,size=17549104
+2018-09-27 18:25:00 [YYUpdate]*** STATE:[Download](0) PID=2
+2018-09-27 18:25:09 [YYUpdate]*** STATE:[Install ](0) PID=2
+2018-09-27 18:25:09 [YYUpdate]*** STATE:[Final   ](0) PID=2
+2018-09-27 18:25:10 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-09-27 18:25:10 [YYUpdate]*** Quit with 1[3012],Stop:0,Update:1
+2018-09-27 18:25:10 [YYUpdate]*** OnExitTask_YYUC_UPDATESTATE_FINISH:2,1
+2018-09-27 18:25:10 [YYUpdate]*** DoFinishFace
+2018-09-27 18:25:10 [YYUpdate]*** Exit MultiThrd:3012
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread[4360]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread[4360]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4648]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4648]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4832]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4832]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4360]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread[4744]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4760]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4760]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4744]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread[5800]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4484]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[4484]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** Exit dlThread v2[5800]-(6,0)
+2018-09-27 18:25:10 [YYUpdate]*** DoCancel Begin: 1
+2018-09-27 18:25:11 [YYUpdate]*** StartAppModule(1): "D:\
+2018-09-27 18:25:11 [YYUpdate]*** StopUpdateMulti
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pUpdateMultiThread
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:0
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:1
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:2
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:3
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:4
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:5
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit m_pDownloadThread:6
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit DeleteAllFiles
+2018-09-27 18:25:11 [YYUpdate]*** DoCancel StopUpdateMulti
+2018-09-27 18:25:11 [YYUpdate]*** DoCancel IDCancel_2
+2018-09-27 18:25:11 [YYUpdate]*** Update Destroy!
+2018-09-27 18:25:11 [YYUpdate]*** UnInitYYUCore
+2018-09-27 18:25:11 [YYUpdate]*** UpdateMgr:UnInit Begin

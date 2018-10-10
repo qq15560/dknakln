@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>温馨提示-起凡游戏</title>
+<style type="text/css">
+<!--
+body{
+overflow:scroll;
+overflow-x:hidden;
+overflow-y:hidden;
+margin:0px;
+font:12px;
+}
+-->
+</style>
+
+<script type="text/javascript">
+    function request(paras) {
+        var url = location.href;
+        var paraString = url.substring(url.indexOf("?") + 1, url.length).split("&");
+        var paraObj = {}
+        for (i = 0; j = paraString[i]; i++) {
+            paraObj[j.substring(0, j.indexOf("=")).toLowerCase()] = j.substring(j.indexOf("=") + 1, j.length);
+        }
+        var returnValue = paraObj[paras.toLowerCase()];
+        if (typeof (returnValue) == "undefined") {
+            return "";
+        } else {
+            return returnValue;
+        }
+    }
+
+
+    function GetTopContent() {
+        var img = document.getElementById("imgTop");
+        var t = request("type");
+        if (t == 1)
+            img.src = "images/newserimage_top1.jpg";
+        else if (t == 2)
+            img.src = "images/newserimage_top2.jpg";
+        else
+            img.src = "images/newserimage_top1.jpg";
+    }
+</script>
+</head>
+<body>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="534" height="69">
+        <img id="imgTop" src=""  width="534" height="69"/>
+        <script>
+            GetTopContent();
+        </script>
+    </td>
+  </tr>
+  <tr>
+    <td height="273" background="images/newserimage_mid.jpg">&nbsp;</td>
+  </tr>
+</table>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="534" height="49" align="center" background="images/bg_03.jpg"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style=" background-image:url(images/newserbtn.png)" width="167" height="40"><div id="creategame" gamemapid="66" style="WIDTH: 167px">&nbsp;</div></td>
+        <td width="8">&nbsp;</td>
+        <td style=" background-image:url(images/newserbtn.png)" width="167" height="40"><div id="enterroom" gameroomid="277" style="WIDTH: 167px">&nbsp;</div></td>
+        <td width="8">&nbsp;</td>
+        <td style=" background-image:url(images/newserbtn.png)" width="167" height="40"><div id="selectmap" gamemapid="47" style="WIDTH: 167px">&nbsp;</div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>

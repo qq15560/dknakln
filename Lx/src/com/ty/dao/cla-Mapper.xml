@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ty.dao.ClassesDao">
+	<resultMap type="cla" id="getClass" autoMapping="true">
+	  <id property="classid" column="classid"/>
+	  <collection property="student" ofType="stu" autoMapping="true">
+	   <id property="stuid" column="stuid"/>
+	  </collection>
+	</resultMap>
+	
+	<select id="queryClasses" resultMap="getClass">
+	 select c.classid,c.classname,s.stuid,s.stuname,s.stuaddres
+	 from class c left join student s on c.classid=s.classid
+	</select>
+</mapper>

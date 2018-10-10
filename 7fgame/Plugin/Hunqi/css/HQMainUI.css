@@ -1,0 +1,784 @@
+QPushButton#HqMainUI_ExitBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ExitBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 32 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ExitBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_ExitBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_RefreshBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIRefreshBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_RefreshBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIRefreshBtn.png) 32 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_RefreshBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIRefreshBtn.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_RefreshBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainUIRefreshBtn.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_MinBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIMinBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_MinBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIMinBtn.png) 32 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_MinBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIMinBtn.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_MinBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainUIMinBtn.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_HunYuSystemBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HunYuSystemBtn.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_HunYuSystemBtn:checked 
+{
+    border-image: url(./Images/HqMainUI/HunYuSystemBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_HunYuSystemBtn:disabled 
+{
+    border-image: url(./Images/HqMainUI/HunYuSystemBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystemBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/PropSystemBtn.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystemBtn:checked 
+{
+    border-image: url(./Images/HqMainUI/PropSystemBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystemBtn:disabled 
+{
+    border-image: url(./Images/HqMainUI/PropSystemBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_MysteryShopBtn
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/MysteryShopBtn.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_MysteryShopBtn:checked 
+{
+    border-image: url(./Images/HqMainUI/MysteryShopBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_MysteryShopBtn:disabled 
+{
+    border-image: url(./Images/HqMainUI/MysteryShopBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystem_EquipmentBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EquipmentBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EquipmentBtn:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EquipmentBtn.png) 28 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EquipmentBtn:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EquipmentBtn.png) 56 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EquipmentBtn:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EquipmentBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_EquipmentBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUI_Equipment.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_EquipmentBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUI_Equipment.png) 38 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_EquipmentBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUI_Equipment.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_EquipmentBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUI_Equipment.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_EquipmentBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainUI_Equipment.png) 152 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_ShopBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainui_Shop.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ShopBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainui_Shop.png) 38 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ShopBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainui_Shop.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ShopBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainui_Shop.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_ShopBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainui_Shop.png) 152 0 0 0 repeat repeat;
+}
+
+QPushButton#PackageTreasureOkBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureOkBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureOkBtn:hover {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureOkBtn.png) 38 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureOkBtn:pressed {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureOkBtn.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureOkBtn:checked {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureOkBtn.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureOkBtn:disabled {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureOkBtn.png) 152 0 0 0 repeat repeat;
+}
+
+QPushButton#PackageTreasureCancleBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureCancleBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureCancleBtn:hover {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureCancleBtn.png) 38 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureCancleBtn:pressed {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureCancleBtn.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureCancleBtn:checked {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureCancleBtn.png) 114 0 0 0 repeat repeat;
+}
+QPushButton#PackageTreasureCancleBtn:disabled {
+    border-image: url(./Images/HqMainUI/PopupDlg/PackageTreasureCancleBtn.png) 152 0 0 0 repeat repeat;
+}
+
+QPushButton#ChestDlgOkBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/PopupDlg/ChestDlg/CheseOkBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#ChestDlgOkBtn:hover {
+    border-image: url(./Images/HqMainUI/PopupDlg/ChestDlg/CheseOkBtn.png) 37 0 0 0 repeat repeat;
+}
+QPushButton#ChestDlgOkBtn:pressed {
+    border-image: url(./Images/HqMainUI/PopupDlg/ChestDlg/CheseOkBtn.png) 74 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystem_EnhanceBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EnhanceBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EnhanceBtn:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EnhanceBtn.png) 28 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EnhanceBtn:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EnhanceBtn.png) 56 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_EnhanceBtn:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_EnhanceBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystem_CreationBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_CreationBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_CreationBtn:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_CreationBtn.png) 28 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_CreationBtn:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_CreationBtn.png) 56 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_CreationBtn:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_CreationBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_PropSystem_DecomposeBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_DecomposeBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_DecomposeBtn:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_DecomposeBtn.png) 28 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_DecomposeBtn:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_DecomposeBtn.png) 56 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_PropSystem_DecomposeBtn:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_Prop_DecomposeBtn.png) 84 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_WeaponBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_WeaponBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_WeaponBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_WeaponBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_WeaponBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_WeaponBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_HelmetBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_HelmetBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_HelmetBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_HelmetBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_HelmetBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_HelmetBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_PlastronBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_PlastronBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_PlastronBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_PlastronBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_PlastronBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_PlastronBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_LegGuardBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LegGuardBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_LegGuardBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LegGuardBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_LegGuardBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LegGuardBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_DecorationBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_DecorationBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_DecorationBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_DecorationBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_DecorationBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_DecorationBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_ShoesBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_ShoesBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_ShoesBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_ShoesBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_ShoesBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_ShoesBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_MaterialBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_MaterialBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_MaterialBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_MaterialBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_MaterialBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_MaterialBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_OtherBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_OtherBtn.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_OtherBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_OtherBtn.png) 21 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_OtherBtn:checked {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_OtherBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_LastPageBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LastPageBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_LastPageBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LastPageBtn.png) 0 0 0 16 repeat repeat;
+}
+QPushButton#HQMainUIPackage_LastPageBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_LastPageBtn.png) 0 0 0 32 repeat repeat;
+}
+
+QPushButton#HQMainUIPackage_NextPageBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_NextPageBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUIPackage_NextPageBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_NextPageBtn.png) 0 0 0 16 repeat repeat;
+}
+QPushButton#HQMainUIPackage_NextPageBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIPackage_NextPageBtn.png) 0 0 0 32 repeat repeat;
+}
+
+QPushButton#HQMainUISearchBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqSearchBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HQMainUISearchBtn:hover {
+    border-image: url(./Images/HqMainUI/HqSearchBtn.png) 0 0 0 18 repeat repeat;
+}
+QPushButton#HQMainUISearchBtn:pressed {
+    border-image: url(./Images/HqMainUI/HqSearchBtn.png) 0 0 0 36 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookSourceBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookSourceBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookSourceBtn:hover 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookSourceBtn.png) 25 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookSourceBtn:pressed 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookSourceBtn.png) 50 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookTreasureBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookTreasureBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookTreasureBtn:hover 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookTreasureBtn.png) 25 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookTreasureBtn:pressed 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookTreasureBtn.png) 50 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookScrollBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookScrollBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookScrollBtn:hover 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookScrollBtn.png) 25 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookScrollBtn:pressed 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookScrollBtn.png) 50 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookHqBtn 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookHqBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookHqBtn:hover 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookHqBtn.png) 25 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_IllustrateBookHqBtn:pressed 
+{
+    border-image: url(./Images/HqMainUI/HqMainUI_IllustrateBookHqBtn.png) 50 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/slpitUI/splitBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitBtn:hover {
+    border-image: url(./Images/HqMainUI/slpitUI/splitBtn.png) 44 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitBtn:pressed {
+    border-image: url(./Images/HqMainUI/slpitUI/splitBtn.png) 132 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitBtn:disabled {
+    border-image: url(./Images/HqMainUI/slpitUI/splitBtn.png) 88 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitAddBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/slpitUI/btn_addNum.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitAddBtn:hover {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_addNum.png) 15 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitAddBtn:pressed {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_addNum.png) 45 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitAddBtn:disabled {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_addNum.png) 30 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitSubBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/slpitUI/btn_subNum.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitSubBtn:hover {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_subNum.png) 15 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitUI_SplitSubBtn:pressed {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_subNum.png) 45 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitUI_SplitSubBtn:disabled {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_subNum.png) 30 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_Split {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_Split.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_Split:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_Split.png) 26 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_Split:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_Split.png) 78 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_Split:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_Split.png) 78 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_Split:disabled {
+    border-image: url(./Images/HqMainUI/HqMainUI_Split.png) 104 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_BatchSplit {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HqMainUI_BatchSplit.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqMainUI_BatchSplit:hover {
+    border-image: url(./Images/HqMainUI/HqMainUI_BatchSplit.png) 26 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_BatchSplit:pressed {
+    border-image: url(./Images/HqMainUI/HqMainUI_BatchSplit.png) 78 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_BatchSplit:checked {
+    border-image: url(./Images/HqMainUI/HqMainUI_BatchSplit.png) 78 0 0 0 repeat repeat;
+}
+
+QPushButton#HqMainUI_BatchSplit:disabled {
+    border-image: url(./Images/HqMainUI/HqMainUI_BatchSplit.png) 104 0 0 0 repeat repeat;
+}
+
+QPushButton#HqSplitRemoveBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/slpitUI/btn_remove.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitRemoveBtn:hover {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_remove.png) 18 0 0 0 repeat repeat;
+}
+QPushButton#HqSplitRemoveBtn:pressed {
+    border-image: url(./Images/HqMainUI/slpitUI/btn_remove.png) 36 0 0 0 repeat repeat;
+}
+QLabel
+{
+    color:rgb(218,157,39);
+}
+
+QLabel#HqMainUI_ColorStyle_CheckBox
+{
+    font-size:14px;
+    font-family:@黑体;
+    color:rgb(94,116,136);
+}
+
+QLabel#HqMainUI_ColorStyle
+{
+    color:rgb(94,116,136);
+}
+
+QLabel#HqTipTitle
+{
+    font-size:15px;
+    font-family:@黑体;
+    color:rgb(186,240,254);
+}
+
+QLabel#HqSplitResultEffection_Get
+{
+    font-size:20px;
+    font-family:@微软雅黑;
+    color:rgb(186,240,254);
+}
+
+QTableView
+{
+    /*background-color:rgba(255,255,255,0); */
+    background-image:url(./Images/HqMainUI/HQMainUI_PackageTableView_BG.png);/**/
+}
+
+QListView
+{
+   background-color:rgba(255,255,255,0);
+}
+
+QCheckBox#CheckBox_Big  {
+    spacing: 1px;
+    color:rgb(94,116,136);
+}
+
+QCheckBox#CheckBox_Big:enabled
+{
+    color:rgb(94,116,136);
+}
+
+QCheckBox#CheckBox_Big::indicator:disabled
+{
+    color:#050505;
+}
+
+QCheckBox#CheckBox_Big::indicator 
+{
+    color:rgb(94,116,136);
+    width: 16px;
+    height: 16px;
+}
+
+QCheckBox#CheckBox_Big::indicator:unchecked 
+{
+    color:rgb(94,116,136);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 0 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox#CheckBox_Big::indicator:unchecked:hover 
+{
+    color: rgb(94,116,136);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 16  repeat repeat;
+}
+
+QCheckBox#CheckBox_Big::indicator:unchecked:pressed 
+{
+    color: rgb(94,116,136);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 32 repeat repeat;
+}
+
+QCheckBox#CheckBox_Big::indicator:checked 
+{
+    color: rgb(186,240,254);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 48 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox#CheckBox_Big::indicator:checked:hover 
+{
+    color: rgb(186,240,254);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 64 repeat repeat;
+}
+
+QCheckBox#CheckBox_Big::indicator:checked:pressed 
+{
+    color: rgb(186,240,254);
+    border-image: url(./Images/HqMainUI/checkbox_big.png) 0 0 0 80 repeat repeat;
+}
+
+QCheckBox#CheckBox_Small  {
+    spacing: 1px;
+    color: rgb(94,116,136);
+}
+
+QCheckBox#CheckBox_Small:enabled
+{
+    color: rgb(94,116,136);
+}
+
+QCheckBox#CheckBox_Small::indicator:disabled
+{
+    color:#050505;
+}
+
+QCheckBox#CheckBox_Small::indicator {
+    width: 14px;
+    height: 14px;
+}
+
+QCheckBox#CheckBox_Small::indicator:unchecked {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 0 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox#CheckBox_Small::indicator:unchecked:hover {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 14  repeat repeat;
+}
+
+QCheckBox#CheckBox_Small::indicator:unchecked:pressed {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 28 repeat repeat;
+}
+
+QCheckBox#CheckBox_Small::indicator:checked {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 42 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox#CheckBox_Small::indicator:checked:hover {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 56 repeat repeat;
+}
+
+QCheckBox#CheckBox_Small::indicator:checked:pressed {
+    border-image: url(./Images/HqMainUI/checkbox_small.png) 0 0 0 70 repeat repeat;
+}
+
+QLabel#schemenamebg {
+    border-image: url(./Images/lineEditBg.png) no-repeat;
+}
+
+/*
+QPushButton#HunYuTabConfig {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabConfig.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:hover {
+    border-image: url(./Images/HunYuTabConfig.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:pressed {
+    border-image: url(./Images/HunYuTabConfig.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:checked {
+    border-image: url(./Images/HunYuTabConfig.png) 81 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:disabled {
+    border-image: url(./Images/HunYuTabConfig.png) 108 0 0 0 repeat repeat;
+}
+*/
+
+/*设置垂直滚动条基本样式*/ 
+QScrollBar:vertical
+{
+    width: 20px;
+    margin: 0px 0px 0px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-image: url(./Images/HqEnhanceUI/Scrollbar/Scrollbar_Tunnel_Bkgnd.png);
+}
+
+QScrollBar::handle:vertical
+{
+    width: 20px;
+    min-height: 27px;
+    border-image: url(./Images/HqEnhanceUI/Scrollbar/Scrollbar_Thumb_bdImg.png) 5 0 5 0 no-repeat stretch;
+    
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #808080;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #808080;
+}
+
+QScrollBar::sub-line:vertical   /*设置上箭头*/ 
+{
+    height: 19px;
+    subcontrol-position: top;
+    background-color: transparent;
+}
+
+QScrollBar::add-line:vertical
+{
+    height: 19px;
+    subcontrol-position: bottom;
+    background-color: transparent;
+}
+
+QScrollBar::up-arrow:vertical
+{ 
+    border-width: 0px; 
+    max-height: 19px;
+    min-width: 20px;
+    margin: -4px -4px -6px -4px;
+    background-image: url(./Images/HqEnhanceUI/Scrollbar/Scrollbar_Arrow_Up.png) 0 0 0 0 no-repeat no-repeat;
+}
+ 
+QScrollBar::down-arrow:vertical
+{ 
+    border-width: 0px;
+    max-height: 19px; 
+    min-width: 20px;
+    margin: 0px 0px -1px 0px;
+    background-image: url(./Images/HqEnhanceUI/Scrollbar/Scrollbar_Arrow_Down.png) 0 0 0 0 no-repeat no-repeat;
+} 
+
+QScrollBar::add-page:vertical
+{
+    background: none;
+}
+
+QScrollBar::sub-page:vertical
+{
+    background: none;
+}

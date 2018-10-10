@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="gb2312"?>
+
+<!-- 
+模块Id的管理说明
+1.模块Id必须从1开始，0视为非法模块Id。
+2.模块Id 1~10 为框架核心模块CoreModule所使用，所有业务模块模块Id从11开始编号。
+3.每个插件中可以包含多个模块，该插件中的所有模块Id以Json的数组形式表示为[11]或[11, 12, 13]的形式。
+4.正确配置模块Id
+	4.1.Plugin1.dll 中 A模块，Plugin1.dll对应的模块Id为[11, 12, 13]
+	4.2.则系统加载A模块调用A.GetModuleId时，必须获得模块Id属于[11, 12, 13]中的某一个才会正确加载A模块，否则不予加载。
+-->
+
+<KITPlugins>
+	<Plugin ModuleId="[3]"			Name="EDACoreModule">EDACoreModule.dll</Plugin>
+	<Plugin ModuleId="[8]"			Name="EDAUtilityModule">EDAUtilityModule.dll</Plugin>
+	<Plugin ModuleId="[11]"			Name="KITCore">KITCore.dll</Plugin>
+	<Plugin ModuleId="[12]"			Name="KITShell">KITShell.dll</Plugin>
+	<Plugin ModuleId="[13]"			Name="Net">Net.dll</Plugin>
+	<!--
+	<Plugin ModuleId="[14]"			Name="InternetModule">InternetModule.dll</Plugin>
+	<Plugin ModuleId="[6]"			Name="DemoModule">DemoModule.dll</Plugin>
+	<Plugin ModuleId="[12]"			Name="EDAModuleDemo2">EDAModuleDemo2.dll</Plugin>	
+	<Plugin ModuleId="[13]"			Name="EDAModuleDemo3">EDAModuleDemo3.dll</Plugin>
+	<Plugin ModuleId="[14]"			Name="SingleChatPlugin">SingleChat.dll</Plugin>
+	<Plugin ModuleId="[15]"			Name="MsgRecordPlugin">MsgRecord.dll</Plugin>
+	<Plugin ModuleId="[16]"			Name="SysSettingPlugin">SysSetting.dll</Plugin>
+	<Plugin ModuleId="[17, 18]"		Name="SysMessagePlugin">SysMessage.dll</Plugin>
+	-->
+</KITPlugins>
+
+
+
+

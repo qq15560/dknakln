@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="gb2312"?>
+
+<!-- 
+模块Id的管理说明
+1.模块Id必须从1开始，0视为非法模块Id。
+2.模块Id 1~10 为框架核心模块CoreModule所使用，所有业务模块模块Id从11开始编号。
+3.每个插件中可以包含多个模块，该插件中的所有模块Id以Json的数组形式表示为[11]或[11, 12, 13]的形式。
+4.正确配置模块Id
+	4.1.一个dll中一个模块
+		1).Plugin1.dll对应模块Id为[11],Plugin1.dll中有唯一模块A;
+		2).框架加载模块A获取A的模块Id，必须获得模块Id为11才会正确加载A模块，否则不予加载。
+	4.2.一个dll中多个模块
+		1).Plugin2.dll对应的模块Id为[11, 12, 13]，Plugin1.dll中有三个模块B、C、D;
+		2).框架加载模块B、C、D获取各模块Id，必须获得模块Id互不重复且属于[11, 12, 13]中才会正确加载模块，否则不予加载。
+-->
+
+<Plugins>
+	<Plugin ModuleId="[11]"			Name="HqLogical">HqLogical.dll</Plugin>
+	<Plugin ModuleId="[12]"			Name="HqNet">HqNet.dll</Plugin>
+	<Plugin ModuleId="[13]"			Name="HqMainUI">HqMainUI.dll</Plugin>
+	<Plugin ModuleId="[14]"			Name="HqEquipUI">HqEquipUI.dll</Plugin>
+	<Plugin ModuleId="[15]"			Name="HqEnhanceUI">HqEnhanceUI.dll</Plugin>	
+	<Plugin ModuleId="[17]"			Name="HqSplitUI">HqSplitUI.dll</Plugin>	
+	<Plugin ModuleId="[18]"			Name="HqMiscUI">HqMiscUI.dll</Plugin>
+	<Plugin ModuleId="[19]"			Name="HqPlatformInterface">HqPlatformInterface.dll</Plugin>
+	<Plugin ModuleId="[23]"			Name="HqStatistic">HqStatistic.dll</Plugin>
+
+	<!--
+	<Plugin ModuleId="[16]"			Name="HqProduceUI">HqProduceUI.dll</Plugin>	
+	<Plugin ModuleId="[14]"			Name="HqGameUI">HqGameUI.dll</Plugin>
+	<Plugin ModuleId="[15]"			Name="HqSetting">HqSetting.dll</Plugin>	
+	<Plugin ModuleId="[16]"			Name="HqIm">HqIm.dll</Plugin>
+	<Plugin ModuleId="[18]"			Name="HqGameInterface">HqGameInterface.dll</Plugin>
+	<Plugin ModuleId="[20]"			Name="HqUpdate">HqUpdate.dll</Plugin>
+	
+	<Plugin ModuleId="[3]"			Name="DemoModule1">DemoModule1.dll</Plugin>	
+	<Plugin ModuleId="[4]"			Name="DemoModule2">DemoModule2.dll</Plugin>
+	<Plugin ModuleId="[5]"			Name="DemoModule3">DemoModule3.dll</Plugin>
+	<Plugin ModuleId="[20]"			Name="InternetModule">TaskTray.dll</Plugin>
+	-->
+</Plugins>
+
+
+
+

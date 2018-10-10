@@ -1,0 +1,10 @@
+35553, ================================================================
+35553,  p_control_id = 12
+35553,  gold_bonus = 10509 Gold_Give_Rate = 100
+35553,  reconnect_chest_bonus = 5255 Reconnect_Chest_Value_Factor = 50
+35553,  G_Tab.PLAYER[12].resource.gold = 11309
+38881, ================================================================
+38881,  p_control_id = 12
+38881,  gold_bonus = 717 Gold_Give_Rate = 100
+38881,  reconnect_chest_bonus = 359 Reconnect_Chest_Value_Factor = 50
+38881,  G_Tab.PLAYER[12].resource.gold = 11986

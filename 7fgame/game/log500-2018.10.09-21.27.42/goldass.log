@@ -1,0 +1,492 @@
+4533, run control_id= 4 ,K = 16.7 , EA=0.48925625686286 ,G_Var.Wuxunconf= 0 ,Old_Point= 575 ,New_Point=551.8092534247 , myaddpointbasiclose=7 , Escapeflag=2
+4533, fin run  p_control_id= 4 ,TT_Add_Point = -23 , MK=1 ,BK= 1 ,GK= 1
+4533, fin run  p_control_id= 4 ,TT_Add_Point_new = -23 , MK=1 ,BK= 1 ,GK= 1 ,Mode_K=1
+17545, run control_id= 12 ,K = 16.784 , EA=0.49961623589319 ,G_Var.Wuxunconf= 0 ,Old_Point= 554 ,New_Point=530.23425489103 , myaddpointbasiclose=7 , Escapeflag=2
+17545, fin run  p_control_id= 12 ,TT_Add_Point = -24 , MK=1 ,BK= 1 ,GK= 1
+17545, fin run  p_control_id= 12 ,TT_Add_Point_new = -24 , MK=1 ,BK= 1 ,GK= 1 ,Mode_K=1
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 1 ,K = 16.596 , EA=0.48542109474094 ,G_Var.Wuxunconf= 0 ,Old_Point= 601 ,New_Point=589.54600384849 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=601
+158706, fin  p_control_id= 1 ,TT_Add_Point = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 1 ,TT_Add_Point_new1 = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 1 ,TT_Add_Point_new2 = -11 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 1 ,add_point1= -11 ,old_point = 601
+158706, Check_MaxAddPoint control_id = 1 ,add_point2= -11 ,old_point = 601
+158706, p_control_id= 1 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 0
+158706,  正常打 2 GetRankLv my_old_exp= 0
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 80
+158706,  CheckCanRankVP p_control_id= 1 ,point = 601
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=590 , TT_Add_Point-=-11
+158706, 失败  end up_new_addscore_2=-11 , up_add_exp_2=80
+158706,   p_control_id= 1 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=1
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 1 ,temp_player_tab[207] = 80,temp_player_tab[203]=-11
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 2 ,K = 16.796 , EA=0.50345382270422 ,G_Var.Wuxunconf= 0 ,Old_Point= 551 ,New_Point=539.01981283493 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=551
+158706, fin  p_control_id= 2 ,TT_Add_Point = -12 , MK=0.5 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 2 ,TT_Add_Point_new1 = -6 , MK=0.5 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 2 ,TT_Add_Point_new2 = -6 , MK=0.5 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 2 ,add_point1= -6 ,old_point = 551
+158706, Check_MaxAddPoint control_id = 2 ,add_point2= -6 ,old_point = 551
+158706, p_control_id= 2 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 0
+158706,  正常打 2 GetRankLv my_old_exp= 0
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 5 ,my_new_exp= 90
+158706,  CheckCanRankVP p_control_id= 2 ,point = 551
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=545 , TT_Add_Point-=-6
+158706, 失败  end up_new_addscore_2=-6 , up_add_exp_2=90
+158706,   p_control_id= 2 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=2
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 2 ,temp_player_tab[207] = 90,temp_player_tab[203]=-6
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 3 ,K = 16.644 , EA=0.48082120515411 ,G_Var.Wuxunconf= 0 ,Old_Point= 589 ,New_Point=577.63146342534 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=589
+158706, fin  p_control_id= 3 ,TT_Add_Point = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 3 ,TT_Add_Point_new1 = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 3 ,TT_Add_Point_new2 = -11 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 3 ,add_point1= -11 ,old_point = 589
+158706, Check_MaxAddPoint control_id = 3 ,add_point2= -11 ,old_point = 589
+158706, p_control_id= 3 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 78
+158706,  正常打 2 GetRankLv my_old_exp= 78
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 56
+158706,  CheckCanRankVP p_control_id= 3 ,point = 589
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=578 , TT_Add_Point-=-11
+158706, 失败  end up_new_addscore_2=-11 , up_add_exp_2=-22
+158706,   p_control_id= 3 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=3
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 3 ,temp_player_tab[207] = -22,temp_player_tab[203]=-11
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=35
+158706, lose control_id= 4 ,K = 16.996 , EA=0.48427086025558 ,G_Var.Wuxunconf= 0 ,Old_Point= 501 ,New_Point=489.37943643731 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=501
+158706, fin  p_control_id= 4 ,TT_Add_Point = -12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 4 ,TT_Add_Point_new1 = -12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 4 ,TT_Add_Point_new2 = -12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 4 ,add_point1= -12 ,old_point = 501
+158706, Check_MaxAddPoint control_id = 4 ,add_point2= -12 ,old_point = 501
+158706, p_control_id= 4 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 5 ,my_old_exp= 0
+158706,  正常打 2 GetRankLv my_old_exp= -16
+158706,  正常打 GetRankLv my_new_big_lv= 0 ,my_new_lit_lv= 0 ,my_new_exp= 0
+158706,  CheckCanRankVP p_control_id= 4 ,point = 501
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=489 , TT_Add_Point-=-12
+158706, 失败  end up_new_addscore_2=-12 , up_add_exp_2=16
+158706,   p_control_id= 4 ,temp_player_tab[316] = 1 , PlayerRankScore_new=1 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =0 , p_control_id=4
+158706,  5555 p_control_id= 4 ,temp_player_tab[207] = 16,temp_player_tab[203]=0
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 5 ,K = 16.5 , EA=0.49040707274851 ,G_Var.Wuxunconf= 0 ,Old_Point= 625 ,New_Point=613.47543379041 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=625
+158706, fin  p_control_id= 5 ,TT_Add_Point = -12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 5 ,TT_Add_Point_new1 = -12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 5 ,TT_Add_Point_new2 = -12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 5 ,add_point1= -12 ,old_point = 625
+158706, Check_MaxAddPoint control_id = 5 ,add_point2= -12 ,old_point = 625
+158706, p_control_id= 5 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 50
+158706,  正常打 2 GetRankLv my_old_exp= 50
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 26
+158706,  CheckCanRankVP p_control_id= 5 ,point = 625
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=613 , TT_Add_Point-=-12
+158706, 失败  end up_new_addscore_2=-12 , up_add_exp_2=-24
+158706,   p_control_id= 5 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=5
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 5 ,temp_player_tab[207] = -24,temp_player_tab[203]=-12
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 6 ,K = 16.72 , EA=0.48733848945097 ,G_Var.Wuxunconf= 0 ,Old_Point= 570 ,New_Point=558.44033103022 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=570
+158706, fin  p_control_id= 6 ,TT_Add_Point = -12 , MK=0.7 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 6 ,TT_Add_Point_new1 = -8 , MK=0.7 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 6 ,TT_Add_Point_new2 = -8 , MK=0.7 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 6 ,add_point1= -8 ,old_point = 570
+158706, Check_MaxAddPoint control_id = 6 ,add_point2= -8 ,old_point = 570
+158706, p_control_id= 6 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 40
+158706,  正常打 2 GetRankLv my_old_exp= 40
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 24
+158706,  CheckCanRankVP p_control_id= 6 ,point = 570
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=562 , TT_Add_Point-=-8
+158706, 失败  end up_new_addscore_2=-8 , up_add_exp_2=-16
+158706,   p_control_id= 6 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=6
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 6 ,temp_player_tab[207] = -16,temp_player_tab[203]=-8
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 7 ,K = 16.552 , EA=0.48542109474094 ,G_Var.Wuxunconf= 0 ,Old_Point= 612 ,New_Point=600.56736237666 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=612
+158706, fin  p_control_id= 7 ,TT_Add_Point = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 7 ,TT_Add_Point_new1 = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 7 ,TT_Add_Point_new2 = -11 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 7 ,add_point1= -11 ,old_point = 612
+158706, Check_MaxAddPoint control_id = 7 ,add_point2= -11 ,old_point = 612
+158706, p_control_id= 7 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 24
+158706,  正常打 2 GetRankLv my_old_exp= 24
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 0
+158706,  CheckCanRankVP p_control_id= 7 ,point = 612
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=601 , TT_Add_Point-=-11
+158706, 失败  end up_new_addscore_2=-11 , up_add_exp_2=-24
+158706,   p_control_id= 7 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=7
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 7 ,temp_player_tab[207] = -24,temp_player_tab[203]=-11
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 8 ,K = 16.648 , EA=0.48388748518733 ,G_Var.Wuxunconf= 0 ,Old_Point= 588 ,New_Point=576.55702875029 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=588
+158706, fin  p_control_id= 8 ,TT_Add_Point = -11 , MK=0.6 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 8 ,TT_Add_Point_new1 = -7 , MK=0.6 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 8 ,TT_Add_Point_new2 = -7 , MK=0.6 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 8 ,add_point1= -7 ,old_point = 588
+158706, Check_MaxAddPoint control_id = 8 ,add_point2= -7 ,old_point = 588
+158706, p_control_id= 8 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 76
+158706,  正常打 2 GetRankLv my_old_exp= 76
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 62
+158706,  CheckCanRankVP p_control_id= 8 ,point = 588
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=581 , TT_Add_Point-=-7
+158706, 失败  end up_new_addscore_2=-7 , up_add_exp_2=-14
+158706,   p_control_id= 8 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=8
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 8 ,temp_player_tab[207] = -14,temp_player_tab[203]=-7
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 9 ,K = 16.768 , EA=0.48273747556762 ,G_Var.Wuxunconf= 0 ,Old_Point= 558 ,New_Point=546.52629568071 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=558
+158706, fin  p_control_id= 9 ,TT_Add_Point = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 9 ,TT_Add_Point_new1 = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 9 ,TT_Add_Point_new2 = -11 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 9 ,add_point1= -11 ,old_point = 558
+158706, Check_MaxAddPoint control_id = 9 ,add_point2= -11 ,old_point = 558
+158706, p_control_id= 9 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 16
+158706,  正常打 2 GetRankLv my_old_exp= 16
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 5 ,my_new_exp= 94
+158706,  CheckCanRankVP p_control_id= 9 ,point = 558
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=547 , TT_Add_Point-=-11
+158706, 失败  end up_new_addscore_2=-11 , up_add_exp_2=78
+158706,   p_control_id= 9 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=9
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 9 ,temp_player_tab[207] = -16,temp_player_tab[203]=-7
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, lose control_id= 10 ,K = 16.692 , EA=0.4796717100665 ,G_Var.Wuxunconf= 0 ,Old_Point= 577 ,New_Point=565.6356178451 , myaddpointbasiclose=7
+158706, jisuan  TT_Old_Point=577
+158706, fin  p_control_id= 10 ,TT_Add_Point = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 10 ,TT_Add_Point_new1 = -11 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 10 ,TT_Add_Point_new2 = -11 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 10 ,add_point1= -11 ,old_point = 577
+158706, Check_MaxAddPoint control_id = 10 ,add_point2= -11 ,old_point = 577
+158706, p_control_id= 10 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 54
+158706,  正常打 2 GetRankLv my_old_exp= 54
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 32
+158706,  CheckCanRankVP p_control_id= 10 ,point = 577
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 失败  ，p_num2=0
+158706, 失败  my_new_score=566 , TT_Add_Point-=-11
+158706, 失败  end up_new_addscore_2=-11 , up_add_exp_2=-22
+158706,   p_control_id= 10 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=10
+158706, 成就卡  iselowin= 0
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 10 ,temp_player_tab[207] = -22,temp_player_tab[203]=-11
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 11 ,K = 16.428 , EA=0.51841235122263 ,G_Var.Wuxunconf= 0 ,Old_Point= 643 ,New_Point=654.76422308433 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 11 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=643
+158706, fin  p_control_id= 11 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 11 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 11 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 11 ,add_point1= 12 ,old_point = 643
+158706, Check_MaxAddPoint control_id = 11 ,add_point2= 12 ,old_point = 643
+158706, p_control_id= 11 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 86
+158706,  正常打 2 GetRankLv my_old_exp= 86
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 2 ,my_new_exp= 10
+158706,  CheckCanRankVP p_control_id= 11 ,point = 643
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=655 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=-76 , my_new_exp=10 ,my_old_exp= 86
+158706,  小段晋级 GetRankLv my_old_exp= 86
+158706,   p_control_id= 11 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=11
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 11 ,temp_player_tab[207] = 14,temp_player_tab[203]=7
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=16
+158706, win control_id= 12 ,K = 16.984 , EA=0.4915579903178 ,G_Var.Wuxunconf= 0 ,Old_Point= 504 ,New_Point=516.7029151699 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 12 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=504
+158706, fin  p_control_id= 12 ,TT_Add_Point = 13 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 12 ,TT_Add_Point_new1 = 13 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 12 ,TT_Add_Point_new2 = 13 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 12 ,add_point1= 13 ,old_point = 504
+158706, Check_MaxAddPoint control_id = 12 ,add_point2= 13 ,old_point = 504
+158706, p_control_id= 12 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 5 ,my_old_exp= 8
+158706,  正常打 2 GetRankLv my_old_exp= 8
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 5 ,my_new_exp= 34
+158706,  CheckCanRankVP p_control_id= 12 ,point = 504
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=517 , TT_Add_Point=13
+158706, 胜利者  end up_new_addscore_1=13 , up_add_exp_1=26 , my_new_exp=34 ,my_old_exp= 8
+158706,   p_control_id= 12 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =0 , p_control_id=12
+158706,  5555 p_control_id= 12 ,temp_player_tab[207] = 26,temp_player_tab[203]=13
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 13 ,K = 16.464 , EA=0.51496233451717 ,G_Var.Wuxunconf= 0 ,Old_Point= 634 ,New_Point=645.86596144837 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 13 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=634
+158706, fin  p_control_id= 13 ,TT_Add_Point = 12 , MK=1.2 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 13 ,TT_Add_Point_new1 = 14 , MK=1.2 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 13 ,TT_Add_Point_new2 = 14 , MK=1.2 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 13 ,add_point1= 14 ,old_point = 634
+158706, Check_MaxAddPoint control_id = 13 ,add_point2= 14 ,old_point = 634
+158706, p_control_id= 13 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 68
+158706,  正常打 2 GetRankLv my_old_exp= 68
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 96
+158706,  CheckCanRankVP p_control_id= 13 ,point = 634
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=648 , TT_Add_Point=14
+158706, 胜利者  end up_new_addscore_1=14 , up_add_exp_1=28 , my_new_exp=96 ,my_old_exp= 68
+158706,   p_control_id= 13 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=13
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 13 ,temp_player_tab[207] = 28,temp_player_tab[203]=14
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 14 ,K = 16.464 , EA=0.51496233451717 ,G_Var.Wuxunconf= 0 ,Old_Point= 634 ,New_Point=645.86596144837 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 14 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=634
+158706, fin  p_control_id= 14 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 14 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 14 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 14 ,add_point1= 12 ,old_point = 634
+158706, Check_MaxAddPoint control_id = 14 ,add_point2= 12 ,old_point = 634
+158706, p_control_id= 14 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 68
+158706,  正常打 2 GetRankLv my_old_exp= 68
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 92
+158706,  CheckCanRankVP p_control_id= 14 ,point = 634
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=646 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=24 , my_new_exp=92 ,my_old_exp= 68
+158706,   p_control_id= 14 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=14
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 14 ,temp_player_tab[207] = 24,temp_player_tab[203]=12
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 15 ,K = 16.628 , EA=0.51112732372932 ,G_Var.Wuxunconf= 0 ,Old_Point= 593 ,New_Point=605.03995627119 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 15 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=593
+158706, fin  p_control_id= 15 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 15 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 15 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 15 ,add_point1= 12 ,old_point = 593
+158706, Check_MaxAddPoint control_id = 15 ,add_point2= 12 ,old_point = 593
+158706, p_control_id= 15 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 86
+158706,  正常打 2 GetRankLv my_old_exp= 86
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 10
+158706,  CheckCanRankVP p_control_id= 15 ,point = 593
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=605 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=-76 , my_new_exp=10 ,my_old_exp= 86
+158706,  小段晋级 GetRankLv my_old_exp= 86
+158706,   p_control_id= 15 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=15
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 15 ,temp_player_tab[207] = 14,temp_player_tab[203]=7
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 16 ,K = 16.548 , EA=0.51879558409108 ,G_Var.Wuxunconf= 0 ,Old_Point= 613 ,New_Point=624.81260600173 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 16 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=613
+158706, fin  p_control_id= 16 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 16 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 16 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 16 ,add_point1= 12 ,old_point = 613
+158706, Check_MaxAddPoint control_id = 16 ,add_point2= 12 ,old_point = 613
+158706, p_control_id= 16 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 26
+158706,  正常打 2 GetRankLv my_old_exp= 26
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 50
+158706,  CheckCanRankVP p_control_id= 16 ,point = 613
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=625 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=24 , my_new_exp=50 ,my_old_exp= 26
+158706,   p_control_id= 16 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=16
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 16 ,temp_player_tab[207] = 24,temp_player_tab[203]=12
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 17 ,K = 16.684 , EA=0.5203282899335 ,G_Var.Wuxunconf= 0 ,Old_Point= 579 ,New_Point=590.84021649128 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 17 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=579
+158706, fin  p_control_id= 17 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 17 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 17 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 17 ,add_point1= 12 ,old_point = 579
+158706, Check_MaxAddPoint control_id = 17 ,add_point2= 12 ,old_point = 579
+158706, p_control_id= 17 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 4 ,my_old_exp= 58
+158706,  正常打 2 GetRankLv my_old_exp= 58
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 4 ,my_new_exp= 82
+158706,  CheckCanRankVP p_control_id= 17 ,point = 579
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=591 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=24 , my_new_exp=82 ,my_old_exp= 58
+158706,   p_control_id= 17 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=17
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 17 ,temp_player_tab[207] = 24,temp_player_tab[203]=12
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 18 ,K = 16.4 , EA=0.51189444515133 ,G_Var.Wuxunconf= 0 ,Old_Point= 650 ,New_Point=661.90977553831 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 18 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=650
+158706, fin  p_control_id= 18 ,TT_Add_Point = 12 , MK=2 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 18 ,TT_Add_Point_new1 = 24 , MK=2 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 18 ,TT_Add_Point_new2 = 24 , MK=2 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 18 ,add_point1= 24 ,old_point = 650
+158706, Check_MaxAddPoint control_id = 18 ,add_point2= 24 ,old_point = 650
+158706, p_control_id= 18 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 100
+158706,  正常打 2 GetRankLv my_old_exp= 100
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 2 ,my_new_exp= 48
+158706,  CheckCanRankVP p_control_id= 18 ,point = 650
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=674 , TT_Add_Point=24
+158706, 胜利者  end up_new_addscore_1=24 , up_add_exp_1=-52 , my_new_exp=48 ,my_old_exp= 100
+158706,   p_control_id= 18 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=18
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 18 ,temp_player_tab[207] = -52,temp_player_tab[203]=24
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 19 ,K = 16.496 , EA=0.51649587091688 ,G_Var.Wuxunconf= 0 ,Old_Point= 626 ,New_Point=637.84391714602 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 19 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=626
+158706, fin  p_control_id= 19 ,TT_Add_Point = 12 , MK=1.5 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 19 ,TT_Add_Point_new1 = 18 , MK=1.5 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 19 ,TT_Add_Point_new2 = 18 , MK=1.5 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 19 ,add_point1= 18 ,old_point = 626
+158706, Check_MaxAddPoint control_id = 19 ,add_point2= 18 ,old_point = 626
+158706, p_control_id= 19 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 52
+158706,  正常打 2 GetRankLv my_old_exp= 52
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 3 ,my_new_exp= 88
+158706,  CheckCanRankVP p_control_id= 19 ,point = 626
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=644 , TT_Add_Point=18
+158706, 胜利者  end up_new_addscore_1=18 , up_add_exp_1=36 , my_new_exp=88 ,my_old_exp= 52
+158706,   p_control_id= 19 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=19
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 19 ,temp_player_tab[207] = 36,temp_player_tab[203]=18
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, win control_id= 20 ,K = 16.4 , EA=0.51189444515133 ,G_Var.Wuxunconf= 0 ,Old_Point= 650 ,New_Point=661.90977553831 , myaddpointbasicwin=8
+158706, CheckLaoBingBuff p_control_id= 20 ,G_Tab.LaoJiang_Mark[side] = 0,side=2.G_Var.TT_Switch=1
+158706, jisuan  TT_Old_Point=650
+158706, fin  p_control_id= 20 ,TT_Add_Point = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 20 ,TT_Add_Point_new1 = 12 , MK=1 ,BK= 1 ,GK= 1,Mode_K=1
+158706, fin  p_control_id= 20 ,TT_Add_Point_new2 = 12 , MK=1 ,BK= 1 ,GK= 1
+158706, Check_MaxAddPoint control_id = 20 ,add_point1= 12 ,old_point = 650
+158706, Check_MaxAddPoint control_id = 20 ,add_point2= 12 ,old_point = 650
+158706, p_control_id= 20 ,G_Tab.MyRiseRank[p_control_id][1] = 0
+158706,  正常打 GetRankLv my_old_big_lv= 1 ,my_old_lit_lv= 3 ,my_old_exp= 100
+158706,  正常打 2 GetRankLv my_old_exp= 100
+158706,  正常打 GetRankLv my_new_big_lv= 1 ,my_new_lit_lv= 2 ,my_new_exp= 24
+158706,  CheckCanRankVP p_control_id= 20 ,point = 650
+158706,  正常打 G_Tab.MyRiseRank[p_control_id][1]-2= 0
+158706, 胜利者  end my_new_score=662 , TT_Add_Point=12
+158706, 胜利者  end up_new_addscore_1=12 , up_add_exp_1=-76 , my_new_exp=24 ,my_old_exp= 100
+158706,   p_control_id= 20 ,temp_player_tab[316] = 0 , PlayerRankScore_new=0 , PlayerRankScore_old=0
+158706, WhetherFristPlayer(p_control_id)  =1 , p_control_id=20
+158706, 成就卡  iselowin= 1
+158706, 成就卡  num= 0
+158706,  5555 p_control_id= 20 ,temp_player_tab[207] = -76,temp_player_tab[203]=12
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, 开始CollectPlayerInfo  G_Var.TT_Switch =1 , p_game_time=44
+158706, ~~~~~~~~~~~~~~以下是金钱获得统计~~~~~~~~~~~~~~~
+158706, name	消灭获得	助攻获得	队友消灭	工资	补刀获得	分红	新boss粮仓	分摊	加钱	征伐	军令	
+158706, 曹丕	5408	3001	0	10349	9739	920	900	2743	761	1296	0
+158706, 马超	12188	2048	0	10349	11410	920	900	4179	611	1139	0
+158706, 贾诩	3728	3307	0	11227	4566	920	900	5679	445	150	0
+158706, 鲁肃	798	3376	0	8486	10017	920	900	3751	1140	984	0
+158706, 赵云	3579	2912	0	10349	13966	920	900	2114	1633	1368	0
+158706, 夏侯恩	10881	2212	0	10349	12005	690	900	4311	756	655	0
+158706, 孙权	4173	3356	0	10349	4854	920	900	4105	298	314	0
+158706, 高顺	7822	2969	0	10349	14445	920	900	3709	1106	855	0
+158706, 郭嘉	3386	2930	0	13877	6261	920	900	4791	407	322	0
+158706, 司马懿	6079	2558	0	10349	15447	690	900	4222	1604	855	0
+158706, 孙尚香	3537	3181	0	10641	12386	1840	1200	4515	484	797	0
+158706, 曹洪	3257	1028	0	5420	3858	345	1200	2242	529	117	0
+158706, 马岱	6647	4477	0	10641	9639	1725	1200	3353	364	674	0
+158706, 邓艾	5138	2047	0	11521	13264	1495	3000	4884	720	909	0
+158706, 蒋琬	8032	3679	0	10641	9080	1840	1200	3155	291	878	0
+158706, 法正	6277	3086	0	10641	10447	1840	1200	3949	702	854	0
+158706, 祝融夫人	6171	956	0	10641	13946	1840	1350	4050	1035	1249	0
+158706, 甘宁	7283	7054	0	12425	8724	1840	1200	5341	441	585	0
+158706, 张郃	9656	2777	0	10641	10523	1495	1200	4739	580	844	0
+158706, 典韦	4527	2672	0	10641	17272	1840	4800	2925	2032	2651	0
+158706, ~~~~~~~~~~~~~~以下是军令金钱获得统计~~~~~~~~~~~~~~~
+158706, name	总	断粮	斩将	破城	内务	掠阵	暗谋	掠夺	暗杀	击虚	明察	牌子
+158706, 曹丕	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 马超	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 贾诩	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 鲁肃	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 赵云	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 夏侯恩	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 孙权	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 高顺	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 郭嘉	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 司马懿	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 孙尚香	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 曹洪	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 马岱	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 邓艾	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 蒋琬	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 法正	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 祝融夫人	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 甘宁	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 张郃	0	0	0	0	0	0	0	0	0	0	0	0
+158706, 典韦	0	0	0	0	0	0	0	0	0	0	0	0

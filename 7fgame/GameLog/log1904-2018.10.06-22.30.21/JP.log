@@ -1,0 +1,521 @@
+3525, 普通玩家 9 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10
+3617, 普通玩家 9 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 60
+3709, 普通玩家 9 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 160
+3885, 普通玩家 14 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 170
+3937, 普通玩家 20 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 180
+4009, 普通玩家 14 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 230
+4021, 普通玩家 20 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 280
+4101, 普通玩家 20 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 380
+5053, 普通玩家 18 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 390
+5113, 普通玩家 15 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 400
+5213, 普通玩家 18 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 420
+5225, 普通玩家 15 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 440
+5545, 普通玩家 15 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 450
+5653, 普通玩家 15 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 500
+5693, 普通玩家 13 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 510
+5793, 普通玩家 13 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 560
+5861, 普通玩家 17 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 570
+5865, 普通玩家 2 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 580
+5965, 普通玩家 13 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 680
+5973, 普通玩家 17 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 700
+5989, 普通玩家 11 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 710
+6161, 普通玩家 11 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 730
+6369, 普通玩家 17 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 740
+6493, 普通玩家 17 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 790
+6601, 普通玩家 17 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 890
+7457, 普通玩家 11 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 900
+7509, 普通玩家 2 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 910
+7581, 普通玩家 11 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 960
+7729, 普通玩家 2 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 1010
+7825, 普通玩家 2 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1110
+8117, 普通玩家 7 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1120
+8213, 普通玩家 19 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1130
+8229, 普通玩家 7 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 1180
+8485, 普通玩家 5 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1190
+8697, 普通玩家 19 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 1240
+8829, 普通玩家 20 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1250
+9209, 普通玩家 19 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1350
+9573, 普通玩家 7 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1360
+9949, 普通玩家 16 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1370
+10001, 普通玩家 1 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1380
+10045, 普通玩家 15 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1390
+10061, 普通玩家 16 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 1440
+10241, 普通玩家 16 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1540
+10281, 普通玩家 1 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 1560
+10341, 普通玩家 16 第4次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1660
+10429, 普通玩家 16 第4次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1760
+10469, 普通玩家 6 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1770
+10565, 普通玩家 6 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 1790
+10613, 普通玩家 7 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1800
+10729, 普通玩家 10 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1810
+10841, 普通玩家 1 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 1820
+10917, 普通玩家 10 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 1870
+11005, 普通玩家 1 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 1890
+11021, 普通玩家 10 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 1990
+11381, 普通玩家 1 第4次重转 铜 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 2090
+11461, 普通玩家 8 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 2100
+11929, CollectEscapePlayerInfo =
+11929, 22 G_Tab.JJCI[p_control_id].uid=19434355,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=19434355,p_control_id=4 , last_leavequeue=0
+11929, 222 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=4
+12057, 普通玩家 19 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 2110
+12341, 普通玩家 13 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 2120
+15217, 普通玩家 2 第2次重转 铜 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 2130
+15325, 普通玩家 2 第3次重转 铜 宝箱，重转价格：20，G_Var.NormalPlayerPayment = 2150
+29457, 普通玩家 5 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2155
+29693, 普通玩家 5 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2180
+29893, 普通玩家 7 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2185
+30001, 普通玩家 7 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2210
+30081, 普通玩家 7 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2260
+30549, 普通玩家 18 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2265
+30593, 普通玩家 1 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2270
+30597, 普通玩家 5 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2320
+30669, 普通玩家 13 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2325
+30681, 普通玩家 1 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2350
+30681, 普通玩家 18 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2375
+30709, 普通玩家 20 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2380
+30761, 普通玩家 1 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2430
+30773, 普通玩家 13 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2455
+30829, 普通玩家 8 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2460
+30865, 普通玩家 20 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2485
+30973, 普通玩家 20 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2535
+31277, 普通玩家 13 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2585
+31789, 普通玩家 6 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2590
+31929, 普通玩家 6 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2615
+32369, 普通玩家 14 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2620
+32481, 普通玩家 14 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2645
+32569, 普通玩家 14 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2695
+32777, 普通玩家 16 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 2700
+32869, 普通玩家 16 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 2725
+32997, 普通玩家 16 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 2775
+33097, 普通玩家 16 第4次重转 银 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 2875
+33189, 普通玩家 16 第4次重转 银 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 2975
+33281, 普通玩家 16 第4次重转 银 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 3075
+33409, 普通玩家 15 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3080
+33497, 普通玩家 15 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3105
+33581, 普通玩家 15 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3155
+33753, 普通玩家 10 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3160
+33857, 普通玩家 10 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3185
+33989, 普通玩家 9 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3190
+34009, 普通玩家 10 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3240
+34069, 普通玩家 9 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3265
+34289, 普通玩家 17 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3270
+34385, 普通玩家 17 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3295
+34513, 普通玩家 17 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3345
+36701, 普通玩家 2 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3350
+36869, 普通玩家 2 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3375
+37085, 普通玩家 2 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3425
+39733, 普通玩家 7 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3430
+39853, 普通玩家 7 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3455
+40129, 普通玩家 11 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3460
+40265, 普通玩家 11 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3485
+40485, 普通玩家 11 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3535
+41325, 普通玩家 9 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3540
+41345, 普通玩家 18 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3545
+41421, 普通玩家 9 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3570
+41473, 普通玩家 18 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3595
+41497, 普通玩家 9 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3645
+41761, 普通玩家 2 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3650
+41809, 普通玩家 13 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3655
+41905, 普通玩家 13 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3680
+42049, 普通玩家 2 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3705
+42049, 普通玩家 13 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3755
+42101, 普通玩家 20 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3760
+42237, 普通玩家 2 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3810
+43305, 普通玩家 1 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3815
+43845, 普通玩家 6 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3820
+44021, 普通玩家 6 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3845
+44069, 普通玩家 10 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3850
+44205, 普通玩家 5 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3855
+44245, 普通玩家 6 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3905
+44325, 普通玩家 19 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3910
+44381, 普通玩家 5 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 3935
+44541, 普通玩家 5 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 3985
+44693, 普通玩家 15 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 3990
+44789, 普通玩家 19 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 4015
+44797, 普通玩家 15 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 4040
+46097, 普通玩家 14 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 4045
+47469, CollectEscapePlayerInfo =
+47469, 22 G_Tab.JJCI[p_control_id].uid=124450222,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=124450222,p_control_id=6 , last_leavequeue=0
+47469, 222 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=6
+53100, 给玩家 4 发放断线重连以后的奖励 军机 宝箱 G_Var.JoinedPlayerRareCopperChestNum = 1
+53821, 普通玩家 6 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 4050
+53925, 普通玩家 6 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 4075
+54017, 普通玩家 4 第1次重转 银 宝箱，重转价格：5，G_Var.NormalPlayerPayment = 4080
+54017, 普通玩家 6 第3次重转 银 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4130
+54109, 普通玩家 4 第2次重转 银 宝箱，重转价格：25，G_Var.NormalPlayerPayment = 4155
+54561, 普通玩家 4 第1次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4165
+54641, 普通玩家 4 第2次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4215
+54729, 普通玩家 4 第3次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 4315
+57905, 普通玩家 9 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4325
+58021, 普通玩家 9 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4375
+58117, 普通玩家 9 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 4475
+58733, 普通玩家 2 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4485
+59353, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4495
+59389, 普通玩家 20 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4505
+59505, 普通玩家 20 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4555
+59517, 普通玩家 5 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4565
+59589, 普通玩家 20 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 4665
+59629, 普通玩家 5 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4715
+59673, 普通玩家 16 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4725
+59797, 普通玩家 16 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 4775
+59825, 普通玩家 5 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 4875
+59893, 普通玩家 16 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 4975
+59937, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4985
+60033, 普通玩家 8 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 4995
+60069, 普通玩家 18 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 5005
+60165, 普通玩家 8 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 5055
+60225, 普通玩家 18 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 5105
+60245, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 5115
+60257, 普通玩家 1 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 5125
+60305, 普通玩家 8 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5225
+60369, 普通玩家 19 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 5235
+60369, 普通玩家 1 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 5285
+60377, 普通玩家 18 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5385
+60381, 普通玩家 16 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 5435
+60537, 普通玩家 19 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 5485
+60653, 普通玩家 19 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5585
+60765, 普通玩家 16 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5685
+60869, 普通玩家 16 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5785
+60909, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 5795
+60933, 普通玩家 19 第261次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5895
+60977, 普通玩家 16 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 5995
+61097, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 6045
+61105, 普通玩家 16 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6145
+61261, 普通玩家 17 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 6155
+61317, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6255
+61501, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 6265
+61513, 普通玩家 19 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 6275
+61565, 普通玩家 11 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 6285
+61577, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 6335
+61605, 普通玩家 15 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 6345
+61665, 普通玩家 19 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 6395
+61673, 普通玩家 1 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6495
+61709, 普通玩家 15 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 6545
+61709, 普通玩家 11 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 6595
+61753, 普通玩家 1 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6695
+61837, 普通玩家 1 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6795
+61901, 普通玩家 11 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6895
+61957, 普通玩家 15 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 6995
+62113, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7005
+62221, 普通玩家 20 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7055
+62313, 普通玩家 20 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 7155
+62365, 普通玩家 8 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7165
+62437, 普通玩家 6 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7175
+62461, 普通玩家 8 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7225
+62573, 普通玩家 13 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7235
+62613, 普通玩家 6 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7285
+62689, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7295
+62689, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7305
+62701, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7315
+62777, 普通玩家 15 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7365
+62845, 普通玩家 18 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7415
+63393, 普通玩家 10 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7425
+63401, 普通玩家 5 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7435
+63501, 普通玩家 10 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7485
+63597, 普通玩家 10 第260次重转 军机 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 7585
+63729, 普通玩家 5 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7635
+63745, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7645
+63761, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7655
+63853, 普通玩家 5 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 7755
+63889, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7805
+64001, 普通玩家 14 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 7905
+64565, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7915
+64565, 普通玩家 14 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7925
+64837, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 7935
+64945, 普通玩家 11 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 7985
+65133, 普通玩家 11 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 8085
+66065, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8095
+66093, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8105
+66173, 普通玩家 18 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8155
+66249, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8165
+66289, 普通玩家 17 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8175
+66749, 普通玩家 17 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8185
+66869, 普通玩家 17 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8235
+67029, 普通玩家 5 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8245
+67137, 普通玩家 4 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8255
+67221, 普通玩家 5 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8305
+67405, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8315
+67545, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8325
+67557, 普通玩家 5 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 8425
+67637, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8475
+67753, 普通玩家 1 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 8575
+67829, 普通玩家 19 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8585
+69157, 普通玩家 8 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8595
+69201, 普通玩家 6 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8605
+69265, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8615
+69289, 普通玩家 8 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8665
+69357, 普通玩家 6 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8715
+69405, 普通玩家 8 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 8815
+70013, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8825
+70597, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8835
+70881, 普通玩家 4 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8845
+71153, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8855
+72201, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8865
+73161, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8875
+73521, 普通玩家 17 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8885
+74025, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8895
+74101, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 8905
+74237, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 8955
+74269, 普通玩家 11 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9005
+74417, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 9105
+74637, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9115
+74769, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9165
+75157, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9175
+75505, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9185
+75753, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9195
+75893, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9245
+76273, 普通玩家 6 第258次重转 军机 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9255
+76345, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9265
+76361, 普通玩家 6 第259次重转 军机 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9315
+76441, 普通玩家 20 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9365
+76937, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9375
+76989, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9385
+76997, 普通玩家 5 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9395
+77093, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9445
+77141, 普通玩家 5 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9495
+77173, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9505
+77225, 普通玩家 7 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 9605
+77265, 普通玩家 5 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 9705
+77953, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9715
+78001, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9725
+78241, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9735
+78337, 普通玩家 15 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9785
+78681, 普通玩家 8 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9795
+78801, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 9845
+78953, 普通玩家 7 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 9945
+79633, 普通玩家 8 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9955
+79665, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9965
+79769, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9975
+79849, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 9985
+79897, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10035
+79981, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10045
+80021, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 10145
+80113, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10155
+80277, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10165
+80593, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10175
+80817, 普通玩家 4 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10185
+81161, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10195
+81245, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10245
+81341, 普通玩家 13 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 10345
+82173, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10355
+84909, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10365
+85345, 普通玩家 5 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10375
+85457, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10385
+85533, 普通玩家 5 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10435
+85565, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10485
+85989, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10495
+86085, 普通玩家 20 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10545
+86189, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10555
+86261, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10565
+86281, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10575
+86317, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10585
+86349, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10635
+86405, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10685
+86841, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10695
+86981, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10705
+87189, 普通玩家 4 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10715
+88001, 普通玩家 6 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10725
+88193, 普通玩家 6 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10775
+88277, 普通玩家 6 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 10875
+89565, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10885
+89657, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 10935
+89961, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10945
+91633, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10955
+92049, 普通玩家 8 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10965
+92393, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10975
+92601, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10985
+92669, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 10995
+92813, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11045
+93257, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11055
+93449, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11105
+93565, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11205
+93749, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11215
+93789, 普通玩家 18 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11225
+93841, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11235
+93845, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11285
+93933, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11335
+93953, 普通玩家 7 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11435
+94025, 普通玩家 13 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11535
+94109, 普通玩家 13 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11635
+94197, 普通玩家 13 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11735
+94425, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11745
+94549, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11755
+94581, 普通玩家 11 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11805
+94645, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 11855
+94745, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11865
+95385, 普通玩家 14 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 11965
+95577, 普通玩家 6 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 11975
+95757, 普通玩家 6 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12025
+95869, 普通玩家 6 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 12125
+96141, 普通玩家 6 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12135
+96237, 普通玩家 6 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12185
+96381, 普通玩家 6 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 12285
+96449, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12295
+96489, CollectEscapePlayerInfo =
+96489, 22 G_Tab.JJCI[p_control_id].uid=75670850,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=75670850,p_control_id=16 , last_leavequeue=0
+96489, 222 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=16
+96549, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12345
+97473, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12355
+98373, 普通玩家 15 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12365
+98513, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12375
+98617, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12425
+98937, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12435
+99053, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12485
+99633, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12495
+99737, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12505
+99749, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12555
+99749, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12565
+99949, 普通玩家 20 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12615
+100873, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12625
+101013, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12675
+101025, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12685
+101105, 普通玩家 13 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 12785
+104685, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12795
+105301, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12805
+105333, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12815
+105437, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12865
+105605, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 12915
+105717, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 12925
+105729, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13025
+105825, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13075
+106201, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13085
+106273, 普通玩家 20 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13135
+106565, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13145
+106689, 普通玩家 13 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13195
+106921, 普通玩家 13 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13295
+107021, 普通玩家 13 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13395
+110769, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13405
+110917, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13455
+111145, 普通玩家 11 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13465
+111441, 普通玩家 11 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13515
+111577, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13525
+111589, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13535
+111705, 普通玩家 9 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13585
+111801, 普通玩家 9 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13685
+111937, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 13695
+112041, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 13745
+112133, 普通玩家 1 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13845
+112249, 普通玩家 1 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 13945
+112353, 普通玩家 1 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 14045
+112453, 普通玩家 1 第4次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 14145
+112901, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14155
+114013, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14165
+114197, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14215
+114285, CollectEscapePlayerInfo =
+114285, 22 G_Tab.JJCI[p_control_id].uid=75670850,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=75670850,p_control_id=16 , last_leavequeue=1
+116857, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14225
+117225, 普通玩家 9 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14235
+119269, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14245
+119537, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14295
+120025, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14305
+120133, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14355
+120277, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14365
+120385, 普通玩家 16 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14415
+120537, 普通玩家 16 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 14515
+121389, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14525
+122285, 普通玩家 13 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14535
+124185, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14545
+124281, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14555
+124297, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14605
+124389, CollectEscapePlayerInfo =
+124389, 22 G_Tab.JJCI[p_control_id].uid=100095669,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=100095669,p_control_id=12 , last_leavequeue=0
+124389, 222 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=12
+124585, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14615
+124705, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14665
+124929, 普通玩家 2 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 14765
+125177, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14775
+128141, 普通玩家 14 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14785
+128229, 普通玩家 14 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14835
+129249, 普通玩家 20 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14845
+129297, 普通玩家 16 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14855
+129401, 普通玩家 16 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14905
+133365, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14915
+133469, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 14965
+134053, CollectEscapePlayerInfo =
+134053, 22 G_Tab.JJCI[p_control_id].uid=100095669,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=100095669,p_control_id=12 , last_leavequeue=1
+134109, 普通玩家 1 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 14975
+134209, 普通玩家 1 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 15025
+134520, 给玩家 12 发放断线重连以后的奖励 军机 宝箱 G_Var.JoinedPlayerRareCopperChestNum = 2
+138060, 给玩家 12 发放断线重连以后的奖励 军机 宝箱 G_Var.JoinedPlayerRareCopperChestNum = 3
+138993, 普通玩家 10 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 15035
+139337, 普通玩家 10 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 15085
+147649, 普通玩家 7 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 15095
+147773, 普通玩家 7 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 15145
+147889, 普通玩家 7 第3次重转 金 宝箱，重转价格：100，G_Var.NormalPlayerPayment = 15245
+149785, 普通玩家 2 第1次重转 金 宝箱，重转价格：10，G_Var.NormalPlayerPayment = 15255
+149917, 普通玩家 2 第2次重转 金 宝箱，重转价格：50，G_Var.NormalPlayerPayment = 15305
+161145, 11 G_Tab.JJCI[p_control_id].uid=99488797,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=99488797,p_control_id=1 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=1
+161145, 11 G_Tab.JJCI[p_control_id].uid=90860370,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=90860370,p_control_id=2 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=2
+161145, 11 G_Tab.JJCI[p_control_id].uid=67798109,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=67798109,p_control_id=3 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=3
+161145, 11 G_Tab.JJCI[p_control_id].uid=19434355,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=19434355,p_control_id=4 , last_leavequeue=1
+161145, 11 G_Tab.JJCI[p_control_id].uid=98059900,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=98059900,p_control_id=5 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=5
+161145, 11 G_Tab.JJCI[p_control_id].uid=124450222,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=124450222,p_control_id=6 , last_leavequeue=1
+161145, 11 G_Tab.JJCI[p_control_id].uid=42401348,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=42401348,p_control_id=7 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=7
+161145, 11 G_Tab.JJCI[p_control_id].uid=74286380,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=74286380,p_control_id=8 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=8
+161145, 11 G_Tab.JJCI[p_control_id].uid=123253606,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=123253606,p_control_id=9 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=9
+161145, 11 G_Tab.JJCI[p_control_id].uid=101014532,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=101014532,p_control_id=10 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=10
+161145, 11 G_Tab.JJCI[p_control_id].uid=122940637,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=122940637,p_control_id=11 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=11
+161145, 11 G_Tab.JJCI[p_control_id].uid=100095669,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=100095669,p_control_id=12 , last_leavequeue=2
+161145, 11 G_Tab.JJCI[p_control_id].uid=99167851,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=99167851,p_control_id=13 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=13
+161145, 11 G_Tab.JJCI[p_control_id].uid=102528214,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=102528214,p_control_id=14 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=14
+161145, 11 G_Tab.JJCI[p_control_id].uid=124671337,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=124671337,p_control_id=15 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=15
+161145, 11 G_Tab.JJCI[p_control_id].uid=75670850,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=75670850,p_control_id=16 , last_leavequeue=2
+161145, 11 G_Tab.JJCI[p_control_id].uid=73974988,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=73974988,p_control_id=17 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=17
+161145, 11 G_Tab.JJCI[p_control_id].uid=122617873,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=122617873,p_control_id=18 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=18
+161145, 11 G_Tab.JJCI[p_control_id].uid=17375975,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=17375975,p_control_id=19 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=19
+161145, 11 G_Tab.JJCI[p_control_id].uid=103089366,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=103089366,p_control_id=20 , last_leavequeue=0
+161145, 112 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=20
+161145, 33 G_Tab.JJCI[p_control_id].uid=99488797,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=99488797 , p_control_id=1
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=1
+161145, 33 G_Tab.JJCI[p_control_id].uid=90860370,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=90860370 , p_control_id=2
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=2
+161145, 33 G_Tab.JJCI[p_control_id].uid=67798109,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=67798109 , p_control_id=3
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=3
+161145, 33 G_Tab.JJCI[p_control_id].uid=19434355,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=19434355 , p_control_id=4
+161145, 33 G_Tab.JJCI[p_control_id].uid=98059900,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=98059900 , p_control_id=5
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=5
+161145, 33 G_Tab.JJCI[p_control_id].uid=124450222,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=124450222 , p_control_id=6
+161145, 33 G_Tab.JJCI[p_control_id].uid=42401348,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=42401348 , p_control_id=7
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=7
+161145, 33 G_Tab.JJCI[p_control_id].uid=74286380,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=74286380 , p_control_id=8
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=8
+161145, 33 G_Tab.JJCI[p_control_id].uid=123253606,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=123253606 , p_control_id=9
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=9
+161145, 33 G_Tab.JJCI[p_control_id].uid=101014532,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=101014532 , p_control_id=10
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=10
+161145, 33 G_Tab.JJCI[p_control_id].uid=122940637,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=122940637 , p_control_id=11
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=11
+161145, 33 G_Tab.JJCI[p_control_id].uid=100095669,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=100095669 , p_control_id=12
+161145, 33 G_Tab.JJCI[p_control_id].uid=99167851,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=99167851 , p_control_id=13
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=13
+161145, 33 G_Tab.JJCI[p_control_id].uid=102528214,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=102528214 , p_control_id=14
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=14
+161145, 33 G_Tab.JJCI[p_control_id].uid=124671337,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=124671337 , p_control_id=15
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=15
+161145, 33 G_Tab.JJCI[p_control_id].uid=75670850,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=75670850 , p_control_id=16
+161145, 33 G_Tab.JJCI[p_control_id].uid=73974988,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=73974988 , p_control_id=17
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=17
+161145, 33 G_Tab.JJCI[p_control_id].uid=122617873,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=122617873 , p_control_id=18
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=18
+161145, 33 G_Tab.JJCI[p_control_id].uid=17375975,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=17375975 , p_control_id=19
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=19
+161145, 33 G_Tab.JJCI[p_control_id].uid=103089366,G_Tab.CONTROL_PLAYER_joined[p_control_id][1].user_id=103089366 , p_control_id=20
+161145, 332 G_Tab.JJCI[p_control_id].jjc=0,p_control_id=20
+161145, 结束界面  old_tt_point=510 , add_tt_point-=-9 ,new_tt_point= 501 ,Var_ControlID=20
+161145, 结束界面  Rank_Point_delta=-20 , w-=0 ,w_1= 20 ,k=1 , k_1=1 ,v= 5 , v_1=5
+161145, 结束界面  2  Rank_Point_delta=-20

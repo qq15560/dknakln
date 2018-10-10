@@ -1,0 +1,10 @@
+67965, ================================================================
+67965,  p_control_id = 10
+67965,  gold_bonus = 1014 Gold_Give_Rate = 100
+67965,  reconnect_chest_bonus = 507 Reconnect_Chest_Value_Factor = 50
+67965,  G_Tab.PLAYER[10].resource.gold = 4206
+67968, ================================================================
+67968,  p_control_id = 10
+67968,  gold_bonus = 0 Gold_Give_Rate = 100
+67968,  reconnect_chest_bonus = 0 Reconnect_Chest_Value_Factor = 50
+67968,  G_Tab.PLAYER[10].resource.gold = 4206

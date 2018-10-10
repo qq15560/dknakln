@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="20">
+	<!--item:每个节日的项节点-->
+	<!--name:节日的名字-->
+	<!--starttime:节日活动的开始时间,相应的endtime节日活动的截止时间(如starttime = "4-1"表示4月1日凌晨开始，endtime = "4-11"表示4月11日24时终止)-->
+		<!--text:活动标题文字-->
+		<!--defaultTxtColor1:个性化道具窗口显示活动标题的默认颜色值；defaultTxtColor2:二级界面窗口显示活动标题的默认颜色值-->
+		<!--specialTxtColor1:个性化道具窗口显示活动标题中需要特殊显示的颜色值；specialTxtColor2:二级界面窗口显示活动标题中需要特殊显示的颜色值-->
+		<!--haveBold：标题文字中是否有需要有粗体显示的文字，1：有 0；没有-->
+		<!--haveSpecialColor：标题文字中是否有需要高亮其他颜色显示的文字，1：有，采用specialcolor值，为0：没有忽略specialcolor值-->
+		<!--标题文字格式说明:使用特殊符号配对，在一个#对间的文字使用特殊颜色，在*对间的文字需要粗体。如“个性装扮达人朝我看!  #道具/声望#，好礼相送！#*马上参与*#>>”文字“道具/声望”和“马上参与”需要特殊文字显示，文字“马上参与”粗要粗体-->
+		<!--url:点击的链接地址-->
+		<!--showtype：点击链接显示方式 1，弹web内嵌窗口；2，弹网页； 3,在主窗口的选项卡显示...-->
+		<!--autologin:登陆认证 1：表示需要 0 不需要-->
+<!--  <item name = "端午节" starttime="12-31" endtime = "12-31" starttimeEx="1/11/2012 17:00:00" endtimeEx = "1/31/2012 23:59:59">		
+		<text  defaultTxtColor1 = "#ffffff" defaultTxtColor2 = "#000000" specialTxtColor1 = "#ffff00" specialTxtColor2 = "#FF0000" haveBold = "1" haveSpecialColor1 = "1">集齐四字卡牌祝福，免费兑换新春最炫最闪亮的装扮，赶快来参加>>></text>
+		<url showtype = "1" autologin="1">http://pv.7fgame.com/PVCount.aspx?id=4777</url>
+	</item>
+  -->
+<item name = "春节" starttime="1-21" endtime = "2-6" starttimeEx="1/21/2012 17:00:00" endtimeEx = "2/6/2012 23:59:59">		
+		<text  defaultTxtColor1 = "#ffffff" defaultTxtColor2 = "#000000" specialTxtColor1 = "#ffff00" specialTxtColor2 = "#FF0000" haveBold = "1" haveSpecialColor1 = "1">春节活动将持续到#*2月6日*#>>></text>
+		<url showtype = "1" autologin="1">http://pv.7fgame.com/PVCount.aspx?id=4777</url>
+	</item>
+
+<!--TransmitItem为节日活动传递的相关内容，title是点击二级界面玩家的传递活动标记的标题 content是传递活动内容，tip是提示内容-->
+	<TransmitItem name = "春节鞭炮" bShowIfHasProp="1" nGetPropWebWidth="514" nGetPropWebHight="363" nPropTipWebWidth="514" nPropTipWebHight="363" starttimeEx="12/21/2011 0:00:00" endtimeEx="01/03/2012 23:59:59">
+		<title>春节鞭炮</title>		
+		<tip>春节鞭炮</tip>
+	</TransmitItem>
+
+<!--|换行 **:包含红色文字，必须成对,T空格：目前支持空一格 -->
+   <ExitPlatformTipItem name = "五一活动1" starttimeEx="4/27/2012 00:00:00" endtimeEx="4/28/2012 23:59:59">		
+        <Content> 亲：|T咱们又见面了，本次为您带来的是五一活动:|*   4.26-5.6     充值、玩群雄、打三国得劳动积分*|五一小长假，激情不放假，活动详情请见专题页</Content>	
+</ExitPlatformTipItem>
+
+  <ExitPlatformTipItem name = "五一活动2" starttimeEx="4/29/2012 00:00:00" endtimeEx="5/1/2012 18:59:59">		
+        <Content> 亲：|T    |五一豪华底纹大放送,请关注*4月30日及5月1日平台新增任务*！</Content>	
+</ExitPlatformTipItem>
+ 
+ <ExitPlatformTipItem name = "五一活动3" starttimeEx="5/1/2012 19:00:00" endtimeEx="5/6/2012 23:59:59">		
+        <Content> 亲：|T咱们又见面了，本次为您带来的是五一活动:|*   4.26-5.6     充值、玩群雄、打三国得劳动积分*|五一小长假，激情不放假，活动详情请见专题页</Content>	
+</ExitPlatformTipItem></content>

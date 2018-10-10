@@ -1,0 +1,26 @@
+0, map_preloadres()
+66622,  XJ_LG_Event num=2
+66622, ÷ÿ∑¢Ω«Æ disconnection_time=27 , disconnection_protect_time = 180
+67965,  pos=10Œª÷√ÕÊº“º”»Î”Œœ∑
+67965, i=:1    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 1 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =–Ï ¢ ,tab_infor[i].kill_num =5 , tab_infor[i].death_num =5 ,tab_infor[i].use_id =33091360 ,tab_infor[i].disconnectiontime= 0
+67965, i=:2    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 2 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =ΩØ«’ ,tab_infor[i].kill_num =5 , tab_infor[i].death_num =11 ,tab_infor[i].use_id =97513424 ,tab_infor[i].disconnectiontime= 0
+67965, i=:3    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 3 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =¬Ì≥¨ ,tab_infor[i].kill_num =11 , tab_infor[i].death_num =8 ,tab_infor[i].use_id =99787459 ,tab_infor[i].disconnectiontime= 0
+67965, i=:4    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 4 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =µÀ∞¨ ,tab_infor[i].kill_num =4 , tab_infor[i].death_num =6 ,tab_infor[i].use_id =47284789 ,tab_infor[i].disconnectiontime= 0
+67965, i=:5    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 5 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =’‘‘∆ ,tab_infor[i].kill_num =1 , tab_infor[i].death_num =8 ,tab_infor[i].use_id =114627666 ,tab_infor[i].disconnectiontime= 0
+67965, i=:6    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 6 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =≤‹ÿß ,tab_infor[i].kill_num =6 , tab_infor[i].death_num =7 ,tab_infor[i].use_id =30362660 ,tab_infor[i].disconnectiontime= 0
+67965, i=:7    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 7 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =≤‹≤Ÿ ,tab_infor[i].kill_num =10 , tab_infor[i].death_num =7 ,tab_infor[i].use_id =34448098 ,tab_infor[i].disconnectiontime= 0
+67965, i=:8    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 8 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =÷‹Ë§ ,tab_infor[i].kill_num =7 , tab_infor[i].death_num =6 ,tab_infor[i].use_id =57287033 ,tab_infor[i].disconnectiontime= 0
+67965, i=:9    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 9 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =ª™Ÿ¢ ,tab_infor[i].kill_num =4 , tab_infor[i].death_num =5 ,tab_infor[i].use_id =124356257 ,tab_infor[i].disconnectiontime= 0
+67965, i=:10    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 10 ,tab_infor[i].side =1 ,tab_infor[i].hero_id =ª∆∏« ,tab_infor[i].kill_num =6 , tab_infor[i].death_num =7 ,tab_infor[i].use_id =47674059 ,tab_infor[i].disconnectiontime= 0
+67965, i=:11    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 11 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =µÀ÷• ,tab_infor[i].kill_num =8 , tab_infor[i].death_num =10 ,tab_infor[i].use_id =96087497 ,tab_infor[i].disconnectiontime= 0
+67965, i=:12    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 12 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =≤‹–› ,tab_infor[i].kill_num =2 , tab_infor[i].death_num =2 ,tab_infor[i].use_id =62169186 ,tab_infor[i].disconnectiontime= 0
+67965, i=:13    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 13 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =¬Ì⁄’ ,tab_infor[i].kill_num =2 , tab_infor[i].death_num =6 ,tab_infor[i].use_id =116096157 ,tab_infor[i].disconnectiontime= 0
+67965, i=:14    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 14 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =º÷⁄º ,tab_infor[i].kill_num =11 , tab_infor[i].death_num =8 ,tab_infor[i].use_id =96246134 ,tab_infor[i].disconnectiontime= 0
+67965, i=:15    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 15 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =◊£»⁄∑Ú»À ,tab_infor[i].kill_num =16 , tab_infor[i].death_num =3 ,tab_infor[i].use_id =92696166 ,tab_infor[i].disconnectiontime= 0
+67965, i=:16    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 16 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =¿Óµ‰ ,tab_infor[i].kill_num =2 , tab_infor[i].death_num =4 ,tab_infor[i].use_id =121521743 ,tab_infor[i].disconnectiontime= 0
+67965, i=:17    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 17 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =Àæ¬Ì‹≤ ,tab_infor[i].kill_num =6 , tab_infor[i].death_num =7 ,tab_infor[i].use_id =109175625 ,tab_infor[i].disconnectiontime= 0
+67965, i=:18    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 18 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =∑®’˝ ,tab_infor[i].kill_num =12 , tab_infor[i].death_num =10 ,tab_infor[i].use_id =109156839 ,tab_infor[i].disconnectiontime= 0
+67965, i=:19    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 19 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =’Áºß ,tab_infor[i].kill_num =5 , tab_infor[i].death_num =3 ,tab_infor[i].use_id =96261584 ,tab_infor[i].disconnectiontime= 0
+67965, i=:20    ,tab_infor[i].isfree:0 ,tab_infor[i].control= 20 ,tab_infor[i].side =2 ,tab_infor[i].hero_id =¬Ì·∑ ,tab_infor[i].kill_num =7 , tab_infor[i].death_num =6 ,tab_infor[i].use_id =45780313 ,tab_infor[i].disconnectiontime= 0
+67965, free_local = 0 _____________________
+67965,  XJ_LG_Event num=1

@@ -1,0 +1,30 @@
+67965, ==============================================
+67965, p_control_id = 10
+67965, own_gold = 3192 own_item_value = 19455
+67965, own_asset = 22647
+67965, friend_asset_all = 29459 tmp_gold = 1409 tmp_item_value = 28050
+67965, friend_asset_all = 46401 tmp_gold = 692 tmp_item_value = 16250
+67965, friend_asset_all = 69705 tmp_gold = 429 tmp_item_value = 22875
+67965, friend_asset_all = 93480 tmp_gold = 240 tmp_item_value = 23535
+67965, friend_asset_all = 118685 tmp_gold = 950 tmp_item_value = 24255
+67965, friend_asset_all = 137444 tmp_gold = 1359 tmp_item_value = 17400
+67965, friend_asset_all = 162798 tmp_gold = 354 tmp_item_value = 25000
+67965, friend_asset_all = 186715 tmp_gold = 2267 tmp_item_value = 21650
+67965, friend_asset_all = 212948 tmp_gold = 583 tmp_item_value = 25650
+67965, friend_average_asset = 23661 player_number = 9
+67965, bonus_num = 1014
+67968, ==============================================
+67968, p_control_id = 10
+67968, own_gold = 4206 own_item_value = 19455
+67968, own_asset = 23661
+67968, friend_asset_all = 29459 tmp_gold = 1409 tmp_item_value = 28050
+67968, friend_asset_all = 46401 tmp_gold = 692 tmp_item_value = 16250
+67968, friend_asset_all = 69705 tmp_gold = 429 tmp_item_value = 22875
+67968, friend_asset_all = 93480 tmp_gold = 240 tmp_item_value = 23535
+67968, friend_asset_all = 118685 tmp_gold = 950 tmp_item_value = 24255
+67968, friend_asset_all = 137444 tmp_gold = 1359 tmp_item_value = 17400
+67968, friend_asset_all = 162798 tmp_gold = 354 tmp_item_value = 25000
+67968, friend_asset_all = 186715 tmp_gold = 2267 tmp_item_value = 21650
+67968, friend_asset_all = 212948 tmp_gold = 583 tmp_item_value = 25650
+67968, friend_average_asset = 23661 player_number = 9
+67968, bonus_num = 0

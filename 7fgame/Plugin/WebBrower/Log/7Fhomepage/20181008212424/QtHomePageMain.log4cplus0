@@ -1,0 +1,52 @@
+######################################################################## 
+#rootLogger 
+#	logger 
+#		appender 
+#			layout 
+#				ConversionPattern 
+#			filters 
+######################################################################## 
+log4cplus.rootLogger=TRACE, STDOUT 
+
+######################################################################## 
+#Logger Default这里简写为QtHomePageMain 
+#这样日志记录中记录Logger名时可以节省日志文件大小 
+######################################################################## 
+#log4cplus.logger.QtHomePageMain=TRACE, AppenderNameRollingFile_QtHomePageMain, AppenderNameDefault 
+log4cplus.logger.QtHomePageMain=unknown, AppenderNameRollingFile_QtHomePageMain 
+log4cplus.additivity.QtHomePageMain=FALSE 
+
+log4cplus.appender.STDOUT=log4cplus::ConsoleAppender 
+log4cplus.appender.STDOUT.layout=log4cplus::PatternLayout 
+log4cplus.appender.STDOUT.layout.ConversionPattern=%D{%m/%d/%y %H:%M:%S} [%t] %-5p %c - %m %n 
+log4cplus.appender.STDOUT.logToStdErr=true 
+log4cplus.appender.STDOUT.ImmediateFlush=true 
+
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain=log4cplus::RollingFileAppender 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.File=D:\起凡\7fgame\plugin\WebBrower\Log\7Fhomepage\20181008212424\QtHomePageMain.log0 
+#log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.MaxFileSize=5MB 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.MaxFileSize=1024KB 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.MaxBackupIndex=15 
+#log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.layout=log4cplus::TTCCLayout 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.layout=log4cplus::PatternLayout 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.layout.ConversionPattern=%D{%m/%d/%y %H:%M:%S:%q} [%t] %-5p %c - %F(%L) %m %n 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.ImmediateFlush=true 
+log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.BufferSize=0 
+#log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.Append=TRUE 
+#log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.Threshold=ERROR 
+#log4cplus.appender.AppenderNameRollingFile_QtHomePageMain.ReopenDelay=5 
+
+
+#log4cplus.appender.AppenderNameDefault=log4cplus::RollingFileAppender 
+#log4cplus.appender.AppenderNameDefault=log4cplus::FileAppender 
+#log4cplus.appender.AppenderNameDefault.File=test_output.log 
+#log4cplus.appender.AppenderNameDefault=log4cplus::NullAppender 
+#log4cplus.appender.AppenderNameDefault.layout=log4cplus::TTCCLayout 
+#log4cplus.appender.AppenderNameDefault.layout=log4cplus::PatternLayout 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%D{%y-%m-%d %H:%M:%S,%q} [%t] %-5p %c <%x> - %m%n 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%D{%y-%m-%d %H:%M:%S,%q} %-5p %c <%x> - %m%n 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%p - %m%n 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%-5p - %m%n 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%l - %m%n 
+#log4cplus.appender.AppenderNameDefault.layout.ConversionPattern=%C.%M.%L - %m%n 
+

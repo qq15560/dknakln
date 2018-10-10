@@ -1,0 +1,10 @@
+33113, free_local = 1, free_local_s = 0, free_local_w = 1
+33113, full game rtn 1
+33113, 取消求助
+33113, control_id = 4, session_id = 6, zhenying = 1, roomID = 1812
+33113, =======================================
+97677, free_local = 0, free_local_s = 0, free_local_w = 0
+97677, full game rtn 1
+97677, 取消求助
+97677, control_id = 12, session_id = 6, zhenying = 2, roomID = 1812
+97677, =======================================

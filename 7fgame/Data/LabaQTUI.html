@@ -1,0 +1,551 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>喇叭</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+        Img {
+            border: none;
+        }
+
+        html {
+            scrollbar-face-color: #dceefb;
+            scrollbar-shadow-color: #dceefb;
+            scrollbar-highlight-color: #FFFFFF;
+            scrollbar-3dlight-color: #96AABD;
+            scrollbar-darkshadow-color: #96AABD;
+            scrollbar-track-color: #edf7fa;
+            scrollbar-arrow-color: #5b86af;
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+
+        body {
+            font-family: 宋体;
+            font-size: 12px;
+            line-height: 17px;
+        }
+
+        .mainTd {
+            width: 99%;
+            height: 100%;
+            z-index: 1;
+            overflow: hidden;
+            overflow-y: auto;
+            font-family: 宋体;
+            font-size: 12px;
+            line-height: 19px;
+            margin-left: 8px;
+            word-spacing: -5px;
+            word-break: break-all;
+            word-wrap: break-word;
+        }
+
+        .font_18px {
+            line-height: 24px;
+        }
+        .rowContent{width:100%; padding:3px 15px;}
+    </style>
+</head>
+<body bgcolor="#EFF2F8" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onkeydown="keypressed()">
+    <form id="Form1">
+        <script type="text/javascript">
+            function keypressed() {
+                if (window.event.keyCode == 116) {
+                    window.event.keyCode = 0;
+                    event.returnValue = false;
+                }
+            }
+        </script>
+        <!-- ImageReady Slices (无标题-3) -->
+        <table id="Table_01" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td width="10">
+                    &nbsp;
+                </td>
+                <td align="left" valign="top">
+                    <span id="divBody" style="display: inline; word-break: break-all; word-wrap: break-word;">
+                    </span>
+                    <div id="Bottom" style="padding:3px;">&nbsp;</div>
+                </td>
+                <td width="10">
+                    &nbsp;
+                </td>
+            </tr>
+        </table>
+        <!-- End ImageReady Slices -->
+    </form>
+</body>
+</html>
+<script type="text/javascript">
+	//读取xml文件中的笑脸图标信息
+	if (window.ActiveXObject){
+		var filepath = "face.xml";
+        xmlDoc = new ActiveXObject('Microsoft.XMLDOM');
+        xmlDoc.async = false;
+        xmlDoc.load(filepath);
+		if (xmlDoc.load(filepath)) {
+			root = xmlDoc.documentElement;
+			var len = root.childNodes.length;
+		}
+    }
+    else if (window.DOMParser){
+		var strVar = "";
+		strVar += "<Face>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>bizui.gif<\/FileName>";
+		strVar += "		<Symbol>/bz<\/Symbol>";
+		strVar += "		<Text>闭嘴<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>bugaoxing.gif<\/FileName>";
+		strVar += "		<Symbol>/bgx<\/Symbol>";
+		strVar += "		<Text>不高兴<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>daku.gif<\/FileName>";
+		strVar += "		<Symbol>/dk<\/Symbol>";
+		strVar += "		<Text>大哭<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>daxiao.gif<\/FileName>";
+		strVar += "		<Symbol>/dx<\/Symbol>";
+		strVar += "		<Text>大笑<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>fadai.gif<\/FileName>";
+		strVar += "		<Symbol>/fdai<\/Symbol>";
+		strVar += "		<Text>发呆<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>fadou.gif<\/FileName>";
+		strVar += "		<Symbol>/fdou<\/Symbol>";
+		strVar += "		<Text>发抖<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>fengci.gif<\/FileName>";
+		strVar += "		<Symbol>/fc<\/Symbol>";
+		strVar += "		<Text>讽刺<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>fennu.gif<\/FileName>";
+		strVar += "		<Symbol>/fn<\/Symbol>";
+		strVar += "		<Text>愤怒<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>ganga.gif<\/FileName>";
+		strVar += "		<Symbol>/gg<\/Symbol>";
+		strVar += "		<Text>尴尬<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>haixiu.gif<\/FileName>";
+		strVar += "		<Symbol>/hx<\/Symbol>";
+		strVar += "		<Text>害羞<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>huaiyi.gif<\/FileName>";
+		strVar += "		<Symbol>/hy<\/Symbol>";
+		strVar += "		<Text>怀疑<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>jingya.gif<\/FileName>";
+		strVar += "		<Symbol>/jy<\/Symbol>";
+		strVar += "		<Text>惊讶<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>kongju.gif<\/FileName>";
+		strVar += "		<Symbol>/kj<\/Symbol>";
+		strVar += "		<Text>恐惧<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>kun.gif<\/FileName>";
+		strVar += "		<Symbol>/kun<\/Symbol>";
+		strVar += "		<Text>困<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>liuhan.gif<\/FileName>";
+		strVar += "		<Symbol>/lh<\/Symbol>";
+		strVar += "		<Text>流汗<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>liulei.gif<\/FileName>";
+		strVar += "		<Symbol>/ll<\/Symbol>";
+		strVar += "		<Text>流泪<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>qinqin.gif<\/FileName>";
+		strVar += "		<Symbol>/qq<\/Symbol>";
+		strVar += "		<Text>亲亲<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>qinzui.gif<\/FileName>";
+		strVar += "		<Symbol>/qz<\/Symbol>";
+		strVar += "		<Text>亲嘴<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>semimi.gif<\/FileName>";
+		strVar += "		<Symbol>/semm<\/Symbol>";
+		strVar += "		<Text>色眯眯<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>shanren.gif<\/FileName>";
+		strVar += "		<Symbol>/sr<\/Symbol>";
+		strVar += "		<Text>闪人<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>shengbing.gif<\/FileName>";
+		strVar += "		<Symbol>/shb<\/Symbol>";
+		strVar += "		<Text>生病<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>shiwang.gif<\/FileName>";
+		strVar += "		<Symbol>/sw<\/Symbol>";
+		strVar += "		<Text>失望<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>sikao.gif<\/FileName>";
+		strVar += "		<Symbol>/sk<\/Symbol>";
+		strVar += "		<Text>思考<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>touxiao.gif<\/FileName>";
+		strVar += "		<Symbol>/tx<\/Symbol>";
+		strVar += "		<Text>偷笑<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>tu.gif<\/FileName>";
+		strVar += "		<Symbol>/otu<\/Symbol>";
+		strVar += "		<Text>吐<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>tushe.gif<\/FileName>";
+		strVar += "		<Symbol>/ts<\/Symbol>";
+		strVar += "		<Text>吐舌<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>weixie.gif<\/FileName>";
+		strVar += "		<Symbol>/weix<\/Symbol>";
+		strVar += "		<Text>威胁<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>weixiao.gif<\/FileName>";
+		strVar += "		<Symbol>/wx<\/Symbol>";
+		strVar += "		<Text>微笑<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yaoyaqiechi.gif<\/FileName>";
+		strVar += "		<Symbol>/yyqc<\/Symbol>";
+		strVar += "		<Text>咬牙切齿<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yiwen.gif<\/FileName>";
+		strVar += "		<Symbol>/yw<\/Symbol>";
+		strVar += "		<Text>疑问<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yongbao.gif<\/FileName>";
+		strVar += "		<Symbol>/yb<\/Symbol>";
+		strVar += "		<Text>拥抱<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>tuxue.gif<\/FileName>";
+		strVar += "		<Symbol>/tux<\/Symbol>";
+		strVar += "		<Text>吐血<\/Text>";
+		strVar += "	<\/Emotion>";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yun.gif<\/FileName>";
+		strVar += "		<Symbol>/yun<\/Symbol>";
+		strVar += "		<Text>晕<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>keai.gif<\/FileName>";
+		strVar += "		<Symbol>/keai<\/Symbol>";
+		strVar += "		<Text>可爱<\/Text>";
+		strVar += "	<\/Emotion>		";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>niniu.gif<\/FileName>";
+		strVar += "		<Symbol>/niu<\/Symbol>";
+		strVar += "		<Text>牛<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yumen.gif<\/FileName>";
+		strVar += "		<Symbol>/ym<\/Symbol>";
+		strVar += "		<Text>郁闷<\/Text>";
+		strVar += "	<\/Emotion>		";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>erguang.gif<\/FileName>";
+		strVar += "		<Symbol>/eg<\/Symbol>";
+		strVar += "		<Text>打耳光<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>yaoshouzhi.gif<\/FileName>";
+		strVar += "		<Symbol>/ysz<\/Symbol>";
+		strVar += "		<Text>咬手指<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>shuashuai.gif<\/FileName>";
+		strVar += "		<Symbol>/ss<\/Symbol>";
+		strVar += "		<Text>耍帅<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>wuyu.gif<\/FileName>";
+		strVar += "		<Symbol>/wy<\/Symbol>";
+		strVar += "		<Text>无语<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>zeixiao.gif<\/FileName>";
+		strVar += "		<Symbol>/zx<\/Symbol>";
+		strVar += "		<Text>贼笑<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>anfu.gif<\/FileName>";
+		strVar += "		<Symbol>/anf<\/Symbol>";
+		strVar += "		<Text>安抚<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>gaoci.gif<\/FileName>";
+		strVar += "		<Symbol>/gc<\/Symbol>";
+		strVar += "		<Text>告辞<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>dabao.gif<\/FileName>";
+		strVar += "		<Symbol>/db<\/Symbol>";
+		strVar += "		<Text>大包<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "	<Emotion>";
+		strVar += "		<FileName>shengli.gif<\/FileName>";
+		strVar += "		<Symbol>/shl<\/Symbol>";
+		strVar += "		<Text>胜利<\/Text>";
+		strVar += "	<\/Emotion>	";
+		strVar += "<\/Face>";
+		strVar += "";
+		
+		///strVar = "<?xml version=\"1.0\" encoding=\"gb2312\"?><Face><Emotion><FileName>bizui.gif</FileName><Symbol>/bz</Symbol><Text>闭嘴</Text></Emotion></Face>";
+		///strVar = "<?xml version=\"1.0\" encoding=\"gb2312\"?> <root><c><a>sss</a><b>sss</b><d>sss</d></c></root>"
+		parser = new DOMParser();
+		xmlStrDoc = parser.parseFromString(strVar, "text/xml");
+		
+		if (parser.parseError && parser.parseError.errorCode != 0) {
+        	errorMsg = "XML Parsing Error: " + parser.parseError.reason
+                          + " at line " + parser.parseError.line
+                          + " at position " + parser.parseError.linepos;
+			console.log(errorMsg);
+        }
+		
+//		root = xmlStrDoc.documentElement;
+//		len = root.childNodes.length;
+//		//alert(len);
+//		console.log(root);
+//		console.log(root.childNodes);
+//		console.log(root.childNodes.length);
+//		//console.log(root.childNodes[0].text);	
+//		//var node = root.childNodes[0];	
+//		var node = root.childNodes.item(0);
+//		console.log(node.childNodes.length);	
+//		console.log(node.childNodes.item(0).nodeName);		
+//		//console.log(node.childNodes.item(0).text);
+//		console.log(node.childNodes.item(0).textContent);	
+		
+		//Content = Content.replace(new RegExp(node.childNodes.item(1).text, "gm"), "<img src=\"../Smileys/" + node.childNodes.item(0).text + "\" width=\"24\" height=\"24\">");//替换表情
+		//root = xmlStrDoc.documentElement;
+		root = xmlStrDoc.getElementsByTagName("Emotion");
+		len = root.length;
+//		console.log(len);	
+//		for (var i = 0; i < len; i++) {
+//		    var node = root[i];
+////		    console.log(node.getElementsByTagName("FileName")[0].firstChild.nodeValue);
+////		    console.log(node.getElementsByTagName("Symbol")[0].firstChild.nodeValue);
+////		    console.log(node.getElementsByTagName("Text")[0].firstChild.nodeValue);
+//		    //Content = Content.replace(new RegExp(node.childNodes.item(1).text, "gm"), "<img src=\"../Smileys/" + node.childNodes.item(0).text + "\" width=\"24\" height=\"24\">");//替换表情
+//		    //console.log(Content);
+////		}
+//		
+//		var Content = "元旦福利，/niu100元11万通宝，送武魂盒，双倍福利，可淘宝付款，可靠，客服Q10499779";
+//		Content = ReplaceSmile(Content);
+//		console.log(Content);
+
+		//alert(Content);
+    }
+    else {
+		xmlDoc=null;
+	}
+
+    //替换表情的方法
+    function ReplaceSmile(Content) {
+		//alert(ReplaceSmile);
+		for (var i = 0; i < len; i++) {
+		    var node = root[i];
+		    var symbol = node.getElementsByTagName("Symbol")[0].firstChild.nodeValue;
+			var filename = node.getElementsByTagName("FileName")[0].firstChild.nodeValue;
+			//替换表情
+			Content = Content.replace(new RegExp(symbol, "gm"), "<img src=\"../Smileys/" + filename + "\" width=\"24\" height=\"24\">");
+		    //Content = Content.replace(new RegExp(node.childNodes.item(1).text, "gm"), "<img src=\"../Smileys/" + node.childNodes.item(0).text + "\" width=\"24\" height=\"24\">");//替换表情
+		    //console.log(Content);			
+		}
+//		alert(len);
+//        for (var i = 0; i < len; i++) {
+//			alert(i);
+//            var node = root.childNodes.item(i);
+//			alert(node);
+//			alert(Content);
+//            Content = Content.replace(new RegExp(node.childNodes.item(1).text, "gm"), "<img src=\"../Smileys/" + node.childNodes.item(0).text + "\" width=\"24\" height=\"24\">");//替换表情
+//			alert(Content);
+//        }
+        return Content;
+    }
+
+    //去掉首位空格
+    function myTrim(str) {
+        str = str.replace(/^\s+|\s+$/g, '');
+        return str;
+    }
+
+    //武勋等级称号
+    function getWuxunLvName(lv){
+        var s = "";
+        switch (parseInt(lv)) {
+			 case 0:
+				s= "狼牙新兵";
+				break;
+             case 1:
+                s = "狼牙将士";
+                break;
+            case 2:
+                s = "驰狼都尉"
+                break;
+            case 3:
+                s = "苍狼校尉"
+                break;
+            case 4:
+                s = "虎胆偏将"
+                break;
+            case 5:
+                s = "虎啸少将"
+                break;
+            case 6:
+                s = "虎威将军"
+                break;
+            case 7:
+                s = "龙鳞少帅"
+                break;
+            case 8:
+                s = "龙吟元帅"
+                break;
+			case 9:
+				s = "龙魂大元帅"
+				break;
+        }
+        return { "name": s, "icon": "wuxunfenxiang" + ( parseInt(lv) + 16) + ".png" };
+    }
+
+
+
+    function loadData(ZMDFlag, RoomName, UserName, UserId, FontName, FontColor, FontSize,
+		Content, ImageUrl, Italic, Bold, UnderLine, TypeId, GameroomId, 
+		GamecretorId, UnionId, DRFlag, SendName, LiveHostId, LiveSessionId, SysmsgTitle, 
+		SysmsgUrl, BattleId, BattleCamp, LegionId ,TeamId , Subgameroomid , ShuWei ,AutoMatchInveiteRoomid,WuxunLevel ) {
+        var divBodyInnerHTML;
+       
+        //构造消息的显示行，追加到内容显示区域的最后一行。
+        //构造消息头的图标
+        var zmdHTML = myTrim(ZMDFlag) == "" ? "" : "<img src=\"" + ZMDFlag + "\" style=\" vertical-align:text-top; \"></img>";
+        //在图标后面追加RoomName
+        zmdHTML += RoomName;
+
+        //构造用户名显示
+        var usernameHtml = "<span id=\"basicinfo\" userid=\"" + UserId + "\" style=\" vertical-align:text-top; display:inline; text-decoration:underline; color:blue; cursor:pointer; \" title='" + UserName + "' username=\"" + SendName + "\">";
+        if (myTrim(UserName) == "")
+            usernameHtml += "</span>";
+        else
+            usernameHtml += UserName+"</span>说：";
+        
+        //武勋称号图标
+        if(myTrim(WuxunLevel) != "")
+        {
+            var wx = getWuxunLvName(WuxunLevel);
+            usernameHtml = "<img src='' style=\"display:inline-block;width:16px; height:16px; background:url(../GameBag/ImIconProp/" + wx.icon +") no-repeat; vertical-align:text-bottom; \" title=\"" + wx.name + "\" />" + usernameHtml;
+        }
+		
+        //前置用户类型图标
+        usernameHtml = myTrim(DRFlag) == "" ? usernameHtml : "<img src=\"" + DRFlag + "\" width=\"16\" height=\"16\" style=\" vertical-align:text-bottom; \" title=\"喇叭达人\" />" + usernameHtml;
+        usernameHtml = myTrim(ImageUrl) == "" ? usernameHtml : "<img src=\"" + ImageUrl + "\" width=\"16\" height=\"16\" style=\" vertical-align:text-bottom; \" title=\"起凡会员\" />" + usernameHtml;
+		
+
+        //构造消息内容加样式
+        var fontStyle = "";
+        if (Italic == 'true') fontStyle += "font-style: italic; ";
+        if (Bold == 'true') fontStyle += "font-weight:bold; ";
+        if (UnderLine == 'true') fontStyle += "text-decoration:underline; ";
+        var contentHtml = "<span id=\"labacontent\" style=\"font-family:" + FontName + "; font-size:" + FontSize + "; color: " + FontColor + "; line-height:" + FontSize + ";  " + fontStyle + "\">" + ReplaceSmile(Content) + "</span>";
+        
+        //构造内容后面的 各种功能特色类型的点击链接（加入游戏局、加入公会等等）
+        var featureLinkHtml = "";
+        if (myTrim(TypeId) != "") {
+            var arrTypeId = TypeId.split(",");
+            var featureLinkTemp = "";
+            for(var n=0;n<arrTypeId.length;n++){
+                switch (arrTypeId[n]) {
+                    case "1":
+                        featureLinkTemp = myTrim(GamecretorId)==""?"":"<span id=\"invitegame\" gameroomid=\"" + GameroomId + "\" gamecretorid=\"" + GamecretorId + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加入该游戏局</span>";
+                        break;
+                    case "2":
+                        featureLinkTemp = myTrim(UnionId) == "" ? "" : "<span id=\"inviteunion\" unionid=\"" + UnionId + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加入该公会</span>";
+                        break;
+                    case "3":
+                        featureLinkTemp = myTrim(UserId) == "" ? "" : "<span id=\"invitefriend\" userid=\"" + UserId + "\" username=\"" + SendName + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加为好友</span>";
+                        break;
+                    case "4":
+                        featureLinkTemp = myTrim(LiveHostId) == "" ? "" : "<span id=\"invitewatchlive\" liveroomid=\"" + GameroomId + "\" livehostid=\"" + LiveHostId + "\" livesessionid=\"" + LiveSessionId + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击观看直播</span>";
+                        break;
+                    case "5":
+                        featureLinkTemp = myTrim(SysmsgTitle) == "" ? "" : "<span id=\"systemnotify\" snurl=\"" + SysmsgUrl + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">" + SysmsgTitle + "</span>";
+                        break;
+                    case "6":
+                        featureLinkTemp = myTrim(UnionId) == "" ? "" : "<span id=\"inviteunion\" unionid=\"" + UnionId + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加入该公会</span>" + "<img id=\"invateunionupwd\" unionid=\"" + UnionId + "\" src=\"images/yaoshi.gif\" style=\"cursor:pointer;\" />";
+                        break;
+                    case "7":
+                        featureLinkTemp = "<img title=\"自动喊话\" src=\"images/autosp.gif\" style=\"cursor:pointer;\" />";
+                        break;
+                    case "8":
+                        featureLinkTemp = (myTrim(BattleId) == "" || myTrim(BattleCamp) == "") ? "" : "<span id=\"joinbattle\" battleid=\"" + BattleId + "\" camp=\"" + BattleCamp + "\"  style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">立即参与大战役</span>";
+                        break;
+                    case "9":
+                        featureLinkTemp = myTrim(LegionId) == "" ? "" : "<span id=\"requestjoinlegion\" legionid=\"" + LegionId + "\"  userid=\"" + UserId + "\"  username=\"" + UserName + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加入该军团</span>";
+                        break;
+					case "10":
+						featureLinkTemp = myTrim(TeamId)==""?"":"<span id=\"autoinvitegame\" gameroomid=\"" + AutoMatchInveiteRoomid + "\" subgameroomid=\"" + Subgameroomid + "\" userid=\"" + UserId + "\" shuwei=\"" + ShuWei + "\" teamId=\"" + TeamId + "\" style=\"cursor:pointer; text-decoration:underline; color:red; font-family:隶书; font-size:17px;\">点击加入该游戏局</span>";
+						//alert(featureLinkTemp);
+						break ;
+                } //end by --> switch (arrTypeId[n])
+                featureLinkHtml += featureLinkTemp;
+            }//end by --> for(var n=0;n<arrTypeId.length;i++){
+        }//end by --> if (myTrim(TypeId) != "") {
+
+        //拼接内容并追加到页面内容显示区域
+        divBodyInnerHTML = zmdHTML + usernameHtml + contentHtml + featureLinkHtml;
+        var newNode = document.createElement("div");//创建一个标签 
+        newNode.className = "rowContent";
+        newNode.innerHTML = divBodyInnerHTML;
+
+        document.getElementById('divBody').appendChild(newNode);
+        document.getElementById("Bottom").scrollIntoView(false);
+
+        //====================================================================================================================================================================================
+    }
+
+
+    function Remove(index) {
+       try {
+            //查找并删除节点
+             var node = document.getElementById("divBody").childNodes[index]; //通过索引查找
+            document.getElementById('divBody').removeChild(node);
+            document.getElementById("Bottom").scrollIntoView(false);
+        }catch(e){}
+    }
+
+    function Delete(blackUserIds) { }
+
+    function DeleteAll() {
+        document.getElementById('divBody').innerHTML = "";
+    }
+</script>

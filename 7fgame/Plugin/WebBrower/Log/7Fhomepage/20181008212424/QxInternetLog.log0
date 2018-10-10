@@ -1,0 +1,20 @@
+10/08/18 21:24:24:453 [11856] UNKNOWN Internet - Log4cplusWrapper.h(6996) LOG4CPLUS_MAKE_VERSION_STR:1.1.3 
+10/08/18 21:24:24:453 [11856] UNKNOWN Internet - Log4cplusWrapper.h(6997) log4cplus PropertyConfigurator::doConfigure...., Log Config File:D:\起凡\7fgame\plugin\WebBrower\Log\7Fhomepage\20181008212424\QxInternet.log4cplus0 
+10/08/18 21:24:24:453 [11856] UNKNOWN Internet - dllmain.cpp(106) 初始化日志模块 
+10/08/18 21:24:24:453 [11856] UNKNOWN Internet - dllmain.cpp(111) 版本号:1.0.0.9, 版本创建时间:2018/9/11 20:22:2, 编译日期:Aug  3 2018, 编译时间:11:36:52 
+10/08/18 21:24:24:510 [11856] INFO  Internet - InternetManager.cpp(100) CInternetManager::idealThreadCount: 8 
+10/08/18 21:24:24:510 [11856] INFO  Internet - InternetManager.cpp(101) CInternetManager::maxThreadCount: 8 
+10/08/18 21:24:24:510 [11856] TRACE Internet - InternetManager.cpp(391) B-Entry	==> FUN<CInternetManager::CInternetManager>: 
+10/08/18 21:24:24:510 [11856] TRACE Internet - InternetManager.cpp(391) B-Exit 	<== FUN<CInternetManager::CInternetManager>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(437) B-Entry	==> FUN<CInternetManager::unIntialize>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(463) B-Entry	====> FUN<CInternetManager::stopAllTask>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(463) B-Exit 	<==== FUN<CInternetManager::stopAllTask>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(400) B-Entry	====> FUN<CInternetManager::~CInternetManager>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(400) B-Exit 	<==== FUN<CInternetManager::~CInternetManager>: 
+10/08/18 22:09:50:510 [11856] TRACE Internet - InternetManager.cpp(106) B-Entry	====> FUN<CInternetManagerPrivate::~CInternetManagerPrivate>: 
+10/08/18 22:09:50:511 [11856] INFO  Internet - InternetManager.cpp(107) m_mapReply.size(): 0 
+10/08/18 22:09:50:511 [11856] INFO  Internet - InternetManager.cpp(108) m_mapBatchReply.size(): 0 
+10/08/18 22:09:50:511 [11856] INFO  Internet - InternetManager.cpp(109) m_lstRequestThread.size(): 0 
+10/08/18 22:09:50:511 [11856] TRACE Internet - InternetManager.cpp(106) B-Exit 	<==== FUN<CInternetManagerPrivate::~CInternetManagerPrivate>: 
+10/08/18 22:09:50:511 [11856] TRACE Internet - InternetManager.cpp(437) B-Exit 	<== FUN<CInternetManager::unIntialize>: 
+10/08/18 22:09:50:527 [11856] UNKNOWN Internet - dllmain.cpp(119) 关闭日志模块 

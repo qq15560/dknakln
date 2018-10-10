@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>QQLive</title>
+	<!--[if IE 6]>
+		<script type="text/javascript">
+			document.execCommand("BackgroundImageCache", false, true);
+		</script>
+	<![endif]-->
+	<style type="text/css">
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,fieldset,lengend,button,input,textarea,th,td{margin:0;padding:0;}body,button,input,select,textarea,th{font:12px/1.5 Tahoma,"hiragino sans gb",Helvetica,Arial;}a{text-decoration:none;}a:hover{text-decoration:underline;}html{overflow:hidden;}body{background:#1D1D1D;color:#808080;}a{color:#ddd;}a:hover{color:#f90}.offline{position:absolute;top:50%;left:50%;width:200px;height:100px;overflow:hidden; margin:-50px 0 0 -100px;}.offline h1{padding:0 0 5px 50px;font-size:14px;color:#ddd; background:url(img/icon_warning.png) no-repeat 10px 2px;}.offline p{line-height:22px;margin: 0 10px;}.offline p a{text-decoration:underline;}
+	</style>	
+</head>
+<body>
+
+<script language="javascript">
+
+function kErr(){return true;}
+window.onerror = kErr; 
+var objQQLive = new ActiveXObject('QQLive.Application');
+
+function VaildURL(sUrl)
+{
+	return sUrl.indexOf("http://cache.tv.qq.com") == 0;
+}
+function goback()
+{
+	var url=document.location.toString();
+	var onf=url.indexOf("url=");
+	if(onf!=-1)
+	{
+		url = url.substr(onf+4, url.length -onf-4);
+		url = decodeURIComponent(url);
+		if(VaildURL(url))
+		{
+			window.location.href = url;
+		}
+	}
+	return false;
+}
+</script>	
+
+<div class="offline">
+	<h1>很抱歉！<br />获取节目信息失败</h1>
+	<p>建议您：检查网络是否连接正常，如果连接正常，请<a href="#" onclick="javascript:goback();">点击刷新</a></p>
+</div>
+
+</body>
+</html>

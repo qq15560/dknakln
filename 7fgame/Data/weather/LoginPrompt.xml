@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LoginPrompt ver="16">
+<weatherInfo starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59"></weatherInfo>
+<Fixtip starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" TipContent="端午节快乐！"></Fixtip>
+<Fixtip BgnTime="6" EndTime="9" TipContent="早，%s，记得要吃早餐哦~"></Fixtip>
+<Fixtip BgnTime="9" EndTime="11" TipContent="上午好！%s,做好激战的准备了吗?"></Fixtip>
+<Fixtip BgnTime="11" EndTime="12" TipContent="%s中午好！快想想中午该吃点什么呢？"></Fixtip>
+<Fixtip BgnTime="12" EndTime="13" TipContent="%s小憩一下，整个下午都会很精神！"></Fixtip>
+<Fixtip BgnTime="13" EndTime="15" TipContent="下午好！%s,是时候惩戒下对面那些人了。"></Fixtip>
+<Fixtip BgnTime="15" EndTime="17" TipContent="下午好！%s,站起来放松一下吧！"></Fixtip>
+<Fixtip BgnTime="17" EndTime="18" TipContent="晚上好！%s,该找点好吃的补充下体力了。"></Fixtip>
+<Fixtip BgnTime="18" EndTime="24" TipContent="晚上好！%s,快带着小伙伴们一起开黑吧！"></Fixtip>
+<Fixtip BgnTime="0" EndTime="3" TipContent="夜深了！%s,来杯咖啡提提神吧！"></Fixtip>
+<Fixtip BgnTime="3" EndTime="4" TipContent="夜深了！%s,试着闭目养神休息片刻。"></Fixtip>
+<Fixtip BgnTime="4" EndTime="6" TipContent="%s，打开窗户呼吸下新鲜空气吧！"></Fixtip>
+</LoginPrompt>

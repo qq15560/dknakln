@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ty.dao.StuDao">
+<!-- 返回单个实体对象 -->
+	<select id="queryByName" resultType="stu" parameterType="String">
+	  select * from student where stuname like #{name}
+	</select>
+	<!-- 返回实体集合 -->
+	<select id="queryAll" resultType="stu">
+	 select stuid,stuname,stuage,stusex,stuaddres from student
+	</select>
+	<!-- 返回单个结果 -->
+	<select id="queryName" resultType="String" parameterType="int">
+	select stuname from student where stuid=#{id}
+	</select>	
+	<!-- 返回map集合 -->
+	<select id="queryAll2" resultType="map">
+	select * from student
+	</select>
+	<!-- 嵌套结果 -->
+	<resultMap type="stu" id="getStudent2" autoMapping="true">
+	<association property="classes" column="classid" javaType="cla" autoMapping="true"></association>
+	</resultMap>
+	<!--表连接查询  -->
+	<select id="queryStudent2" resultMap="getStudent2">
+	 select s.stuid,s.stuname,s.stuaddres from student s join class c on s.classid=c.classid
+	</select>
+</mapper>

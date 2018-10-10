@@ -1,0 +1,121 @@
+0, Loading 新武勋大段：0,  小段：0,  玩家：1
+0, Loading 新武勋大段：0,  小段：0,  玩家：2
+0, Loading 新武勋大段：0,  小段：0,  玩家：3
+0, Loading 新武勋大段：0,  小段：0,  玩家：4
+0, Loading 新武勋大段：0,  小段：0,  玩家：5
+0, Loading 新武勋大段：0,  小段：0,  玩家：6
+0, Loading 新武勋大段：0,  小段：0,  玩家：7
+0, Loading 新武勋大段：0,  小段：0,  玩家：8
+0, Loading 新武勋大段：0,  小段：0,  玩家：9
+0, Loading 新武勋大段：0,  小段：0,  玩家：10
+0, Loading 新武勋大段：0,  小段：0,  玩家：11
+0, Loading 新武勋大段：0,  小段：0,  玩家：12
+0, Loading 新武勋大段：0,  小段：0,  玩家：13
+0, Loading 新武勋大段：0,  小段：0,  玩家：14
+0, Loading 新武勋大段：0,  小段：0,  玩家：15
+0, Loading 新武勋大段：0,  小段：0,  玩家：16
+0, Loading 新武勋大段：1,  小段：4,  玩家：17
+0, Loading 新武勋大段：0,  小段：0,  玩家：18
+0, Loading 新武勋大段：0,  小段：0,  玩家：19
+0, Loading 新武勋大段：0,  小段：0,  玩家：20
+102861, CheckSpeItemWorkEvent 1 Item_id =324
+103253, CheckSpeItemWorkEvent 1 Item_id =166
+103473, CheckSpeItemWorkEvent 1 Item_id =31
+103489, CheckSpeItemWorkEvent 1 Item_id =431
+103489, CheckSpeItemWorkEvent 1 Item_id =31
+103533, CheckSpeItemWorkEvent 1 Item_id =31
+103553, CheckSpeItemWorkEvent 1 Item_id =31
+103849, CheckSpeItemWorkEvent 1 Item_id =478
+104349, CheckSpeItemWorkEvent 1 Item_id =387
+104521, CheckSpeItemWorkEvent 1 Item_id =364
+104793, CheckSpeItemWorkEvent 1 Item_id =363
+104805, CheckSpeItemWorkEvent 1 Item_id =651
+104989, CheckSpeItemWorkEvent 1 Item_id =364
+105477, CheckSpeItemWorkEvent 1 Item_id =500
+105641, CheckSpeItemWorkEvent 1 Item_id =31
+105677, CheckSpeItemWorkEvent 1 Item_id =31
+105697, CheckSpeItemWorkEvent 1 Item_id =31
+106253, CheckSpeItemWorkEvent 1 Item_id =2183
+106489, CheckSpeItemWorkEvent 1 Item_id =318
+106977, CheckSpeItemWorkEvent 1 Item_id =2182
+106989, CheckSpeItemWorkEvent 1 Item_id =117
+107109, CheckSpeItemWorkEvent 1 Item_id =501
+107345, CheckSpeItemWorkEvent 1 Item_id =73
+107365, CheckSpeItemWorkEvent 1 Item_id =571
+107477, CheckSpeItemWorkEvent 1 Item_id =478
+107589, CheckSpeItemWorkEvent 1 Item_id =431
+107805, CheckSpeItemWorkEvent 1 Item_id =92
+107901, CheckSpeItemWorkEvent 1 Item_id =431
+107945, CheckSpeItemWorkEvent 1 Item_id =31
+107965, CheckSpeItemWorkEvent 1 Item_id =90
+107969, CheckSpeItemWorkEvent 1 Item_id =31
+107989, CheckSpeItemWorkEvent 1 Item_id =31
+108013, CheckSpeItemWorkEvent 1 Item_id =31
+108037, CheckSpeItemWorkEvent 1 Item_id =478
+108057, CheckSpeItemWorkEvent 1 Item_id =637
+108213, CheckSpeItemWorkEvent 1 Item_id =31
+108217, CheckSpeItemWorkEvent 1 Item_id =26
+108237, CheckSpeItemWorkEvent 1 Item_id =31
+108257, CheckSpeItemWorkEvent 1 Item_id =31
+108277, CheckSpeItemWorkEvent 1 Item_id =31
+108325, CheckSpeItemWorkEvent 1 Item_id =2182
+108653, CheckSpeItemWorkEvent 1 Item_id =571
+109033, CheckSpeItemWorkEvent 1 Item_id =324
+109253, CheckSpeItemWorkEvent 1 Item_id =393
+109477, CheckSpeItemWorkEvent 1 Item_id =820
+109641, CheckSpeItemWorkEvent 1 Item_id =582
+112001, CheckSpeItemWorkEvent 1 Item_id =2142
+112329, CheckSpeItemWorkEvent 1 Item_id =803
+112469, CheckSpeItemWorkEvent 1 Item_id =820
+114557, CheckSpeItemWorkEvent 1 Item_id =827
+117173, CheckSpeItemWorkEvent 1 Item_id =324
+117549, CheckSpeItemWorkEvent 1 Item_id =827
+118105, CheckSpeItemWorkEvent 1 Item_id =637
+118161, CheckSpeItemWorkEvent 1 Item_id =11
+118209, CheckSpeItemWorkEvent 1 Item_id =451
+118365, CheckSpeItemWorkEvent 1 Item_id =655
+118481, CheckSpeItemWorkEvent 1 Item_id =318
+118537, CheckSpeItemWorkEvent 1 Item_id =126
+118641, CheckSpeItemWorkEvent 1 Item_id =318
+118773, CheckSpeItemWorkEvent 1 Item_id =31
+118793, CheckSpeItemWorkEvent 1 Item_id =31
+118813, CheckSpeItemWorkEvent 1 Item_id =31
+118869, CheckSpeItemWorkEvent 1 Item_id =31
+119065, CheckSpeItemWorkEvent 1 Item_id =2183
+119329, CheckSpeItemWorkEvent 1 Item_id =2183
+119477, CheckSpeItemWorkEvent 1 Item_id =637
+119649, CheckSpeItemWorkEvent 1 Item_id =2172
+119929, CheckSpeItemWorkEvent 1 Item_id =72
+119989, CheckSpeItemWorkEvent 1 Item_id =571
+121085, CheckSpeItemWorkEvent 1 Item_id =318
+121553, CheckSpeItemWorkEvent 1 Item_id =31
+121861, CheckSpeItemWorkEvent 1 Item_id =117
+121953, CheckSpeItemWorkEvent 1 Item_id =827
+122073, CheckSpeItemWorkEvent 1 Item_id =651
+122117, CheckSpeItemWorkEvent 1 Item_id =31
+122145, CheckSpeItemWorkEvent 1 Item_id =31
+122161, CheckSpeItemWorkEvent 1 Item_id =31
+122185, CheckSpeItemWorkEvent 1 Item_id =31
+122281, CheckSpeItemWorkEvent 1 Item_id =501
+122705, CheckSpeItemWorkEvent 1 Item_id =827
+123209, CheckSpeItemWorkEvent 1 Item_id =333
+123289, CheckSpeItemWorkEvent 1 Item_id =31
+123305, CheckSpeItemWorkEvent 1 Item_id =31
+123325, CheckSpeItemWorkEvent 1 Item_id =31
+124213, CheckSpeItemWorkEvent 1 Item_id =323
+124833, CheckSpeItemWorkEvent 1 Item_id =31
+124861, CheckSpeItemWorkEvent 1 Item_id =31
+127277, CheckSpeItemWorkEvent 1 Item_id =501
+129411, GetSpeItemAdd 没有获胜， control_id=1
+129411, GetSpeItemAdd 没有获胜， control_id=2
+129411, GetSpeItemAdd 没有获胜， control_id=3
+129411, GetSpeItemAdd 没有获胜， control_id=4
+129411, GetSpeItemAdd 没有获胜， control_id=5
+129411, GetSpeItemAdd 没有获胜， control_id=6
+129411, GetSpeItemAdd 没有获胜， control_id=7
+129411, GetSpeItemAdd 没有获胜， control_id=8
+129411, GetSpeItemAdd 没有获胜， control_id=9
+129411, GetSpeItemAdd 晋级赛不生效， control_id=10
+129411, GetSpeItemAdd 不是开局玩家， control_id=12
+129411, GetSpeItemAdd 定级赛不生效 ， control_id=13
+129411, GetSpeItemAdd 定级赛不生效 ， control_id=15

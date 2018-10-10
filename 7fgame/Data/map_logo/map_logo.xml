@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="136">
+	<!--id:地图ID号,根据id区分不同地图 -->
+	<!--current_ver:当前显示的已安装logo的版本号,可配置-->
+	<!--default_ver:指定版本的logo不存在时，显示替代的版本logo-->
+	<!--logoname:该地图的未安装的logo文件名,名和地图ID一样,不同版本的未安装logo唯一,和unready_type组合成一个完整的文件名-->
+	<!--current_type default_type unready_type指明logo图片的格式-->
+	<!--如:id="47",logoname="47", current_ver="1", default_ver="0",default_type=".png"，current_type=".bmp" unready_type=".png"表示地图id为47的地图在未安装时显示的logo图标为:47.png,安装后显示的logo为:47_1.bmp, 如果47_1.bmp不存在，则显示默认的47_0.png，如果都不存在，则显示skin里面的未安装图标-->
+	<!--ShowReadyLogoOnly:1,只显示安装图标  其他值表示都显示-->
+       <mapitemEx id="47" logoname="47" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="76" logoname="76" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="81" logoname="81" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/>
+       <mapitemEx id="15" logoname="15" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="7657" logoname="7657" current_ver="1" current_type=".jpg" default_ver="0" default_type=".jpg" unready_type=".jpg" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="7658" logoname="7658" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+       <mapitemEx id="72" logoname="72" current_ver="1" current_type=".png" default_ver="0" default_type=".png" unready_type=".png" ShowReadyLogoOnly="0"/> 
+	   
+<ActiveInfo id = "1" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/31/2099 15:00:00" relateMapid="84" Mapid="7654" toolbar="193" MapImage="icon1.png" MapLogoName="起凡天猫店"  ActivePV = "http://pv.7fgame.com/PVCount.aspx?id=6763" showType="1" Width="1000" Height="750" LoginType="0"/>
+
+
+</content>
+

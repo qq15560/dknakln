@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imgpro ver="3">
+  <!-- 头像分类 visible="1"的将在客户端显示 -->
+  <!-- 图像总数 超过的按缺省处理 -->
+  <imgcount num="256">
+  </imgcount>
+  <type name="普通" prop="normal" visible="1" maxnum="70" currentnum="42">
+  </type>
+  <type name="活动" prop="special" visible="1" maxnum="20" currentnum="2">
+  </type>
+  <type name="会员" prop="vip" visible="1" maxnum="35" currentnum="18">
+  </type>
+  <type name="喇叭达人" prop="labadaren" visible="1" maxnum="35" currentnum="9">
+  </type>
+  <type name="系统" prop="service" visible="0" maxnum="46" currentnum="6">
+  </type>
+  <!-- 图像属性 必须对图像规划好各类范围，tip表示提示文字 enable="1"的表示已使用，enable="0"的表示预留-->
+  <userimg id="0" filename="Stranger" type="normal" tip="默认" enable="1">
+  </userimg>
+  <userimg id="1" filename="liubei" type="normal" tip="刘备" enable="1">
+  </userimg>
+  <userimg id="2" filename="hutuo" type="normal" tip="华佗" enable="1">
+  </userimg>
+  <userimg id="3" filename="xuzhu" type="normal" tip="许褚" enable="1">
+  </userimg>
+  <userimg id="4" filename="zgliang" type="normal" tip="诸葛亮" enable="1">
+  </userimg>
+  <userimg id="5" filename="guanyu" type="normal" tip="关羽" enable="1">
+  </userimg>
+  <userimg id="6" filename="gongbin" type="normal" tip="弓兵" enable="1">
+  </userimg>
+  <userimg id="7" filename="caocao" type="normal" tip="曹操" enable="1">
+  </userimg>
+  <userimg id="8" filename="bubin" type="normal" tip="步兵" enable="1">
+  </userimg>
+  <userimg id="9" filename="zhangfei" type="normal" tip="张飞" enable="1">
+  </userimg>
+  <userimg id="10" filename="smyi" type="normal" tip="司马懿" enable="1">
+  </userimg>
+  <userimg id="11" filename="zhouyu" type="normal" tip="周瑜" enable="1">
+  </userimg>
+  <userimg id="12" filename="zhaoyun" type="normal" tip="赵云" enable="1">
+  </userimg>
+  <userimg id="13" filename="zhangliao" type="normal" tip="张辽" enable="1">
+  </userimg>
+  <userimg id="14" filename="qiangdao" type="normal" tip="强盗" enable="1">
+  </userimg>
+  <userimg id="15" filename="pangtong" type="normal" tip="庞统" enable="1">
+  </userimg>
+  <userimg id="16" filename="menghuo" type="normal" tip="孟获" enable="1">
+  </userimg>
+  <userimg id="17" filename="lvbu" type="normal" tip="吕布" enable="1">
+  </userimg>
+  <userimg id="18" filename="diaochan" type="normal" tip="貂禅" enable="1">
+  </userimg>
+  <userimg id="19" filename="zhurong" type="normal" tip="祝融夫人" enable="1">
+  </userimg>
+  <userimg id="20" filename="dianwei" type="normal" tip="典韦" enable="1">
+  </userimg>
+  <userimg id="21" filename="shi" type="normal" tip="皇后" enable="1">
+  </userimg>
+  <userimg id="22" filename="yujin" type="normal" tip="于禁" enable="1">
+  </userimg>
+  <userimg id="23" filename="xiahou" type="normal" tip="夏侯惇" enable="1">
+  </userimg>
+  <userimg id="24" filename="xhy" type="normal" tip="夏侯渊" enable="1">
+  </userimg>
+  <userimg id="25" filename="daqiao" type="normal" tip="大乔" enable="1">
+  </userimg>
+  <userimg id="26" filename="jiangwei" type="normal" tip="姜维" enable="1">
+  </userimg>
+  <userimg id="27" filename="pangde" type="normal" tip="庞德" enable="1">
+  </userimg>
+  <userimg id="28" filename="zhanghe" type="normal" tip="张郃" enable="1">
+  </userimg>
+  <userimg id="29" filename="xuzhe" type="normal" tip="皇帝" enable="1">
+  </userimg>
+  <userimg id="30" filename="xuhuang" type="normal" tip="徐晃" enable="1">
+  </userimg>
+  <userimg id="31" filename="weiyan" type="normal" tip="魏延" enable="1">
+  </userimg>
+  <userimg id="32" filename="machao" type="normal" tip="马超" enable="1">
+  </userimg>
+  <userimg id="33" filename="maliang" type="normal" tip="马良" enable="1">
+  </userimg>
+  <userimg id="34" filename="guojia" type="normal" tip="郭嘉" enable="1">
+  </userimg>
+  <userimg id="35" filename="jiaxu" type="normal" tip="贾诩" enable="1">
+  </userimg>
+  <userimg id="36" filename="xunyou" type="normal" tip="荀攸" enable="1">
+  </userimg>
+  <userimg id="37" filename="chenyu" type="normal" tip="程昱" enable="1">
+  </userimg>
+  <userimg id="38" filename="huangyuying" type="normal" tip="黄月英" enable="1">
+  </userimg>
+  <userimg id="39" filename="huangzhong" type="normal" tip="黄忠" enable="1">
+  </userimg>
+  <userimg id="40" filename="lidian" type="normal" tip="李典" enable="1">
+  </userimg>
+  <userimg id="41" filename="xiaoqiao" type="normal" tip="小乔" enable="1">
+  </userimg>
+  <userimg id="42" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="43" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="44" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="45" filename="dianwei_gif" type="vip" tip="典韦" enable="1">
+  </userimg>
+  <userimg id="46" filename="diaochan_gif" type="vip" tip="貂禅" enable="1">
+  </userimg>
+  <userimg id="47" filename="sunce_gif" type="vip" tip="孙策" enable="1">
+  </userimg>
+  <userimg id="48" filename="xuzhu_gif" type="vip" tip="许褚" enable="1">
+  </userimg>
+  <userimg id="49" filename="zhuge_gif" type="vip" tip="诸葛亮" enable="1">
+  </userimg>
+  <userimg id="50" filename="maliang_gif" type="vip" tip="马良" enable="1">
+  </userimg>
+  <userimg id="51" filename="weiyan_gif" type="vip" tip="魏延" enable="1">
+  </userimg>
+  <userimg id="52" filename="guanyu_gif" type="vip" tip="关羽" enable="1">
+  </userimg>
+  <userimg id="53" filename="daqiao_gif" type="vip" tip="大乔" enable="1">
+  </userimg>
+  <userimg id="54" filename="lvbu_gif" type="vip" tip="吕布" enable="1">
+  </userimg>
+  <userimg id="55" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="56" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="57" filename="yongnv" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="58" filename="yongnan" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="59" filename="tai1" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="60" filename="tai2" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="61" filename="wen1" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="62" filename="wen2" type="service" tip="系统头像" enable="1">
+  </userimg>
+  <userimg id="63" filename="christmas_gif" type="vip" tip="圣诞头像" enable="1">
+  </userimg>
+  <userimg id="64" filename="newyear_gif" type="vip" tip="新年头像" enable="1">
+  </userimg>
+  <userimg id="65" filename="SchoolBoy_gif" type="vip" tip="男孩" enable="1">
+  </userimg>
+  <userimg id="66" filename="SchoolGirl_gif" type="vip" tip="女孩" enable="1">
+  </userimg>
+  <userimg id="67" filename="heart" type="vip" tip="中国心" enable="1">
+  </userimg>
+  <userimg id="68" filename="VipZhGL_gif" type="vip" tip="诸葛亮" enable="1">
+  </userimg>
+  <userimg id="69" filename="VipHYY_gif" type="vip" tip="黄月英" enable="1">
+  </userimg>
+  <userimg id="70" filename="VipKing" type="vip" tip="皇帝" enable="1">
+  </userimg>
+  <userimg id="71" filename="VipQueen" type="vip" tip="皇后" enable="1">
+  </userimg>
+  <userimg id="72" filename="Vipxiahoudun" type="vip" tip="夏侯敦" enable="1">
+  </userimg>
+  <userimg id="73" filename="Viphuangyue" type="vip" tip="黄月英2" enable="1">
+  </userimg>
+  <userimg id="74" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="75" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="76" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="77" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="78" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="79" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="80" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="81" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="82" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="83" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="84" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="85" filename="Stranger" type="vip" tip="会员头像" enable="0">
+  </userimg>
+  <userimg id="86" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="87" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="88" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="89" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="90" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="91" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="92" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="93" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="94" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="95" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="96" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="97" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="98" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="99" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="100" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="101" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="102" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="103" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="104" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="105" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="106" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="107" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="108" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="109" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="110" filename="Stranger" type="normal" tip="普通头像" enable="0">
+  </userimg>
+  <userimg id="111" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="112" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="113" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="114" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="115" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="116" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="117" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="118" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="119" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="120" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="121" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="122" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="123" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="124" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="125" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="126" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="127" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="128" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="129" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="130" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="131" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="132" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="133" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="134" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="135" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="136" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="137" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="138" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="139" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="140" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="141" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="142" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="143" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="144" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="145" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="146" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="147" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="148" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="149" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="150" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="151" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="152" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="153" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="154" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="155" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="156" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="157" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="158" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="159" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="160" filename="Stranger" type="unknown" tip="保留头像" enable="0">
+  </userimg>
+  <userimg id="161" filename="dianwei_gif" type="labadaren" tip="典韦" enable="1">
+  </userimg>
+  <userimg id="162" filename="diaochan_gif" type="labadaren" tip="貂禅" enable="1">
+  </userimg>
+  <userimg id="163" filename="sunce_gif" type="labadaren" tip="孙策" enable="1">
+  </userimg>
+  <userimg id="164" filename="xuzhu_gif" type="labadaren" tip="许褚" enable="1">
+  </userimg>
+  <userimg id="165" filename="zhuge_gif" type="labadaren" tip="诸葛亮" enable="1">
+  </userimg>
+  <userimg id="166" filename="maliang_gif" type="labadaren" tip="马良" enable="1">
+  </userimg>
+  <userimg id="167" filename="weiyan_gif" type="labadaren" tip="魏延" enable="1">
+  </userimg>
+  <userimg id="168" filename="guanyu_gif" type="labadaren" tip="关羽" enable="1">
+  </userimg>
+  <userimg id="169" filename="daqiao_gif" type="labadaren" tip="大乔" enable="1">
+  </userimg>
+  <userimg id="170" filename="diaoch_gif" type="labadaren" tip="貂禅" enable="1">
+  </userimg>
+  <userimg id="171" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="172" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="173" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="174" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="175" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="176" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="177" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="178" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="179" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="180" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="181" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="182" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="183" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="184" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="185" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="186" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="187" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="188" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="189" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="190" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="191" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="192" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="193" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="194" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="195" filename="Stranger" type="labadaren" tip="喇叭达人头像" enable="0">
+  </userimg>
+  <userimg id="196" filename="medalW_gif" type="special" tip="起凡二周年庆活动头像(女)" enable="1">
+  </userimg>
+  <userimg id="197" filename="medalM_gif" type="special" tip="起凡二周年庆活动头像(男)" enable="1">
+  </userimg>
+  <userimg id="198" filename="jizhetuan_gif" type="special" tip="记者" enable="1">
+  </userimg>
+  <userimg id="199" filename="xucu_gif" type="special" tip="许诸" enable="1">
+  </userimg>
+  <userimg id="200" filename="dqiao_gif" type="special" tip="大乔" enable="1">
+  </userimg>
+  <userimg id="201" filename="mliang_gif" type="special" tip="编辑器活动头像1" enable="1">
+  </userimg>
+  <userimg id="202" filename="qima_gif" type="special" tip="国庆活动头像1" enable="1">
+  </userimg>
+  <userimg id="203" filename="zenji_gif" type="special" tip="国庆活动头像2" enable="1">
+  </userimg>
+  <userimg id="204" filename="shengdan1_gif" type="special" tip="圣诞头像(男)" enable="1">
+  </userimg>
+  <userimg id="205" filename="shengdan2_gif" type="special" tip="圣诞头像(女)" enable="1">
+  </userimg>
+  <userimg id="206" filename="wuxun1_gif" type="special" tip="武勋头像" enable="1">
+  </userimg>
+  <userimg id="207" filename="jizhetuan2_gif" type="special" tip="记者团头像2" enable="1">
+  </userimg>
+  <userimg id="208" filename="jizhetuan3_gif" type="special" tip="记者团头像3" enable="1">
+  </userimg>
+  <userimg id="209" filename="newyear" type="special" tip="春节头像" enable="1">
+  </userimg>
+  <userimg id="210" filename="qunxiong1" type="special" tip="群雄活动头像1" enable="1">
+  </userimg>
+  <userimg id="211" filename="qunxiong2" type="special" tip="群雄活动头像2" enable="1">
+  </userimg>
+  <userimg id="212" filename="qunxiong3" type="special" tip="群雄活动头像3" enable="1">
+  </userimg>
+  <userimg id="213" filename="qunxiong4" type="special" tip="群雄活动头像4" enable="1">
+  </userimg>
+  <userimg id="214" filename="qunxiong5" type="special" tip="群雄活动头像5" enable="1">
+  </userimg>
+  <userimg id="215" filename="Stranger" type="special" tip="qunxiong1" enable="0">
+  </userimg>
+  <userimg id="216" filename="zhenji_gif" type="service" tip="甄姬" enable="1">
+  </userimg>
+  <userimg id="217" filename="machao_gif" type="service" tip="马超" enable="1">
+  </userimg>
+  <userimg id="218" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="219" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="220" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="221" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="222" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="223" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="224" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="225" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="226" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="227" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="228" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="229" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="230" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="231" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="232" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="233" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="234" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="235" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="236" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="237" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="238" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="239" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="240" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="241" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="242" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="243" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="244" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="245" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="246" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="247" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="248" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="249" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="250" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="251" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="252" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="253" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="254" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+  <userimg id="255" filename="Stranger" type="service" tip="系统头像" enable="0">
+  </userimg>
+</imgpro>

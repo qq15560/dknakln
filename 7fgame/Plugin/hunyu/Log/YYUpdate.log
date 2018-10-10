@@ -1,0 +1,149 @@
+
+2018-07-13 19:42:29 [YYUpdate]*** 
+============================InitYYUCore==========================
+2018-07-13 19:42:29 [YYUpdate]*** StopUpdate
+2018-07-13 19:42:29 [YYUpdate]*** StopUpdateMulti
+2018-07-13 19:42:29 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:42:29 [YYUpdate]*** StartUpdate:1
+2018-07-13 19:42:30 [YYUpdate]*** URLDownloadFile Succ,url=http://update.7fgame.com/7fupdate/7fproduct-r.xml
+2018-07-13 19:42:30 [YYUpdate]*** FillList Succ,File=D:\起凡\7fgame\Plugin\Hunyu\7fproduct-r.xml
+2018-07-13 19:42:30 [YYUpdate]*** DoEventOfIni: Param1=1,Param2=1
+2018-07-13 19:42:30 [YYUpdate]*** Product: 4(109),url=http://update.7fgame.com/HunyuSystem/1.0.5.0/20180605/VerComp.dat,path=d:\起凡\7fgame\plugin\hunyu
+2018-07-13 19:42:30 [YYUpdate]*** StartUpdateMulti:1
+2018-07-13 19:42:30 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-13 19:42:30 [YYUpdate]*** C11UpdateMultiThread threadid=9976 OnStart
+2018-07-13 19:42:30 [YYUpdate]*** DLThread:10316
+2018-07-13 19:42:30 [YYUpdate]*** DLThread:10512
+2018-07-13 19:42:30 [YYUpdate]*** DoStartUpdate Rst=1
+2018-07-13 19:42:30 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=1
+2018-07-13 19:42:30 [YYUpdate]*** =============START TASK(Count=1)=============
+2018-07-13 19:42:36 [YYUpdate]*** CurrTcpDlIP:61.147.74.11
+2018-07-13 19:42:36 [YYUpdate]*** STATE:[Prepare ](0) PID=4,scrollback=1(0)
+2018-07-13 19:42:36 [YYUpdate]*** STATE:[Check   ](0) PID=4
+2018-07-13 19:42:36 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=2
+2018-07-13 19:42:37 [YYUpdate]*** STATE:[Download](0) PID=4
+2018-07-13 19:42:37 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=3
+2018-07-13 19:42:38 [YYUpdate]*** STATE:[Install ](0) PID=4
+2018-07-13 19:42:38 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=4
+2018-07-13 19:42:38 [YYUpdate]*** ClearDelList(5): del_file=d:\起凡\7fgame\plugin\hunyu\QFHunYuSystem.exe.old
+2018-07-13 19:42:38 [YYUpdate]*** STATE:[Final   ](0) PID=4
+2018-07-13 19:42:38 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-07-13 19:42:38 [YYUpdate]*** Quit with 1[9976],Stop:0,Update:1
+2018-07-13 19:42:38 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=5
+2018-07-13 19:42:38 [YYUpdate]*** Exit MultiThrd:9976
+2018-07-13 19:42:38 [YYUpdate]*** C11UpdateMultiThread threadid=9976 OnTerminate
+2018-07-13 19:42:38 [YYUpdate]*** Exit dlThread[10512]-(6,0)
+2018-07-13 19:42:38 [YYUpdate]*** Exit dlThread v2[10512]-(6,0)
+2018-07-13 19:42:38 [YYUpdate]*** Exit dlThread v2[10512]-(6,0)
+2018-07-13 19:42:38 [YYUpdate]*** Exit dlThread v2[10316]-(6,0)
+2018-07-24 18:55:00 [YYUpdate]*** 
+============================InitYYUCore==========================
+2018-07-24 18:55:00 [YYUpdate]*** StopUpdate
+2018-07-24 18:55:00 [YYUpdate]*** StopUpdateMulti
+2018-07-24 18:55:00 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:55:00 [YYUpdate]*** StartUpdate:1
+2018-07-24 18:55:00 [YYUpdate]*** URLDownloadFile Succ,url=http://update.7fgame.com/7fupdate/7fproduct-r.xml
+2018-07-24 18:55:00 [YYUpdate]*** FillList Succ,File=D:\起凡\7fgame\Plugin\Hunyu\7fproduct-r.xml
+2018-07-24 18:55:00 [YYUpdate]*** DoEventOfIni: Param1=1,Param2=1
+2018-07-24 18:55:00 [YYUpdate]*** Product: 4(109),url=http://update.7fgame.com/HunyuSystem/1.0.5.6/20180720/VerComp.dat,path=d:\起凡\7fgame\plugin\hunyu
+2018-07-24 18:55:00 [YYUpdate]*** StartUpdateMulti:1
+2018-07-24 18:55:00 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-07-24 18:55:00 [YYUpdate]*** C11UpdateMultiThread threadid=20920 OnStart
+2018-07-24 18:55:00 [YYUpdate]*** DLThread:18620
+2018-07-24 18:55:00 [YYUpdate]*** DLThread:17656
+2018-07-24 18:55:00 [YYUpdate]*** DoStartUpdate Rst=1
+2018-07-24 18:55:00 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=1
+2018-07-24 18:55:00 [YYUpdate]*** =============START TASK(Count=1)=============
+2018-07-24 18:55:06 [YYUpdate]*** CurrTcpDlIP:61.147.74.11
+2018-07-24 18:55:06 [YYUpdate]*** STATE:[Prepare ](0) PID=4,scrollback=1(0)
+2018-07-24 18:55:07 [YYUpdate]*** STATE:[Check   ](0) PID=4
+2018-07-24 18:55:07 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=2
+2018-07-24 18:55:07 [YYUpdate]*** STATE:[Download](0) PID=4
+2018-07-24 18:55:07 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=3
+2018-07-24 18:55:08 [YYUpdate]*** STATE:[Install ](0) PID=4
+2018-07-24 18:55:08 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=4
+2018-07-24 18:55:08 [YYUpdate]*** ClearDelList(5): del_file=d:\起凡\7fgame\plugin\hunyu\QFHunYuSystem.exe.old
+2018-07-24 18:55:08 [YYUpdate]*** STATE:[Final   ](0) PID=4
+2018-07-24 18:55:08 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-07-24 18:55:08 [YYUpdate]*** Quit with 1[20920],Stop:0,Update:1
+2018-07-24 18:55:08 [YYUpdate]*** Exit MultiThrd:20920
+2018-07-24 18:55:08 [YYUpdate]*** C11UpdateMultiThread threadid=20920 OnTerminate
+2018-07-24 18:55:08 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=5
+2018-07-24 18:55:08 [YYUpdate]*** Exit dlThread[18620]-(6,0)
+2018-07-24 18:55:08 [YYUpdate]*** Exit dlThread v2[18620]-(6,0)
+2018-07-24 18:55:08 [YYUpdate]*** Exit dlThread[17656]-(6,0)
+2018-07-24 18:55:08 [YYUpdate]*** Exit dlThread v2[17656]-(6,0)
+2018-08-28 13:43:32 [YYUpdate]*** 
+============================InitYYUCore==========================
+2018-08-28 13:43:32 [YYUpdate]*** StopUpdate
+2018-08-28 13:43:32 [YYUpdate]*** StopUpdateMulti
+2018-08-28 13:43:32 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-28 13:43:32 [YYUpdate]*** StartUpdate:1
+2018-08-28 13:43:32 [YYUpdate]*** URLDownloadFile Succ,url=http://update.7fgame.com/7fupdate/7fproduct-r.xml
+2018-08-28 13:43:32 [YYUpdate]*** FillList Succ,File=D:\起凡\7fgame\Plugin\Hunyu\7fproduct-r.xml
+2018-08-28 13:43:32 [YYUpdate]*** DoEventOfIni: Param1=1,Param2=1
+2018-08-28 13:43:32 [YYUpdate]*** Product: 4(109),url=http://update.7fgame.com/HunyuSystem/1.0.5.8/20180801/VerComp.dat,path=d:\起凡\7fgame\plugin\hunyu
+2018-08-28 13:43:32 [YYUpdate]*** StartUpdateMulti:1
+2018-08-28 13:43:32 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-08-28 13:43:32 [YYUpdate]*** C11UpdateMultiThread threadid=14224 OnStart
+2018-08-28 13:43:32 [YYUpdate]*** DLThread:57320
+2018-08-28 13:43:32 [YYUpdate]*** DLThread:56016
+2018-08-28 13:43:32 [YYUpdate]*** DoStartUpdate Rst=1
+2018-08-28 13:43:32 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=1
+2018-08-28 13:43:32 [YYUpdate]*** =============START TASK(Count=1)=============
+2018-08-28 13:43:38 [YYUpdate]*** CurrTcpDlIP:61.147.74.11
+2018-08-28 13:43:38 [YYUpdate]*** STATE:[Prepare ](0) PID=4,scrollback=1(0)
+2018-08-28 13:43:38 [YYUpdate]*** STATE:[Check   ](0) PID=4
+2018-08-28 13:43:38 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=2
+2018-08-28 13:43:39 [YYUpdate]*** STATE:[Download](0) PID=4
+2018-08-28 13:43:39 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=3
+2018-08-28 13:43:42 [YYUpdate]*** STATE:[Install ](0) PID=4
+2018-08-28 13:43:42 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=4
+2018-08-28 13:43:43 [YYUpdate]*** ClearDelList(5): del_file=d:\起凡\7fgame\plugin\hunyu\QFHunYuSystem.exe.old
+2018-08-28 13:43:43 [YYUpdate]*** STATE:[Final   ](0) PID=4
+2018-08-28 13:43:43 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-08-28 13:43:43 [YYUpdate]*** Quit with 1[14224],Stop:0,Update:1
+2018-08-28 13:43:43 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=5
+2018-08-28 13:43:43 [YYUpdate]*** Exit MultiThrd:14224
+2018-08-28 13:43:43 [YYUpdate]*** C11UpdateMultiThread threadid=14224 OnTerminate
+2018-08-28 13:43:43 [YYUpdate]*** Exit dlThread[57320]-(6,0)
+2018-08-28 13:43:43 [YYUpdate]*** Exit dlThread v2[57320]-(6,0)
+2018-08-28 13:43:43 [YYUpdate]*** Exit dlThread[56016]-(6,0)
+2018-08-28 13:43:43 [YYUpdate]*** Exit dlThread v2[56016]-(6,0)
+2018-10-01 13:51:59 [YYUpdate]*** 
+============================InitYYUCore==========================
+2018-10-01 13:51:59 [YYUpdate]*** StopUpdate
+2018-10-01 13:51:59 [YYUpdate]*** StopUpdateMulti
+2018-10-01 13:51:59 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-10-01 13:51:59 [YYUpdate]*** StartUpdate:1
+2018-10-01 13:51:59 [YYUpdate]*** URLDownloadFile Succ,url=http://update.7fgame.com/7fupdate/7fproduct-r.xml
+2018-10-01 13:51:59 [YYUpdate]*** FillList Succ,File=D:\起凡\7fgame\Plugin\Hunyu\7fproduct-r.xml
+2018-10-01 13:51:59 [YYUpdate]*** DoEventOfIni: Param1=1,Param2=1
+2018-10-01 13:51:59 [YYUpdate]*** Product: 4(109),url=http://update.7fgame.com/HunyuSystem/1.0.6.1/20180929/VerComp.dat,path=d:\起凡\7fgame\plugin\hunyu
+2018-10-01 13:51:59 [YYUpdate]*** StartUpdateMulti:1
+2018-10-01 13:51:59 [YYUpdate]*** UpdateMgr:UnInit Begin
+2018-10-01 13:51:59 [YYUpdate]*** C11UpdateMultiThread threadid=24832 OnStart
+2018-10-01 13:51:59 [YYUpdate]*** DLThread:22160
+2018-10-01 13:51:59 [YYUpdate]*** DLThread:25988
+2018-10-01 13:51:59 [YYUpdate]*** DoStartUpdate Rst=1
+2018-10-01 13:51:59 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=1
+2018-10-01 13:51:59 [YYUpdate]*** =============START TASK(Count=1)=============
+2018-10-01 13:52:05 [YYUpdate]*** CurrTcpDlIP:61.147.74.11
+2018-10-01 13:52:05 [YYUpdate]*** STATE:[Prepare ](0) PID=4,scrollback=1(0)
+2018-10-01 13:52:06 [YYUpdate]*** STATE:[Check   ](0) PID=4
+2018-10-01 13:52:06 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=2
+2018-10-01 13:52:06 [YYUpdate]*** STATE:[Download](0) PID=4
+2018-10-01 13:52:06 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=3
+2018-10-01 13:52:09 [YYUpdate]*** STATE:[Install ](0) PID=4
+2018-10-01 13:52:09 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=4
+2018-10-01 13:52:10 [YYUpdate]*** ClearDelList(5): del_file=d:\起凡\7fgame\plugin\hunyu\QFHunYuSystem.exe.old
+2018-10-01 13:52:10 [YYUpdate]*** STATE:[Final   ](0) PID=4
+2018-10-01 13:52:10 [YYUpdate]*** ===============END TASK(Count=1,1+0)===========
+2018-10-01 13:52:10 [YYUpdate]*** Quit with 1[24832],Stop:0,Update:1
+2018-10-01 13:52:10 [YYUpdate]*** DealWithCallBack_UpdateShow: UpdateStatus=5
+2018-10-01 13:52:10 [YYUpdate]*** Exit MultiThrd:24832
+2018-10-01 13:52:10 [YYUpdate]*** C11UpdateMultiThread threadid=24832 OnTerminate
+2018-10-01 13:52:10 [YYUpdate]*** Exit dlThread[22160]-(6,0)
+2018-10-01 13:52:10 [YYUpdate]*** Exit dlThread v2[22160]-(6,0)
+2018-10-01 13:52:10 [YYUpdate]*** Exit dlThread[25988]-(6,0)
+2018-10-01 13:52:10 [YYUpdate]*** Exit dlThread v2[25988]-(6,0)

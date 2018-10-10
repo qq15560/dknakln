@@ -1,0 +1,40 @@
+19577, ================================================================
+19577,  p_control_id = 3
+19577,  gold_bonus = 3697 Gold_Give_Rate = 100
+19577,  reconnect_chest_bonus = 1849 Reconnect_Chest_Value_Factor = 50
+19577,  G_Tab.PLAYER[3].resource.gold = 5192
+22715, ================================================================
+22715,  p_control_id = 3
+22715,  gold_bonus = 585 Gold_Give_Rate = 100
+22715,  reconnect_chest_bonus = 293 Reconnect_Chest_Value_Factor = 50
+22715,  G_Tab.PLAYER[3].resource.gold = 5734
+32093, ================================================================
+32093,  p_control_id = 9
+32093,  gold_bonus = 10017 Gold_Give_Rate = 100
+32093,  reconnect_chest_bonus = 5009 Reconnect_Chest_Value_Factor = 50
+32093,  G_Tab.PLAYER[9].resource.gold = 11006
+34220, ================================================================
+34220,  p_control_id = 9
+34220,  gold_bonus = 592 Gold_Give_Rate = 100
+34220,  reconnect_chest_bonus = 296 Reconnect_Chest_Value_Factor = 50
+34220,  G_Tab.PLAYER[9].resource.gold = 11476
+37969, ================================================================
+37969,  p_control_id = 14
+37969,  gold_bonus = 10460 Gold_Give_Rate = 100
+37969,  reconnect_chest_bonus = 5230 Reconnect_Chest_Value_Factor = 50
+37969,  G_Tab.PLAYER[14].resource.gold = 11932
+40474, ================================================================
+40474,  p_control_id = 14
+40474,  gold_bonus = 462 Gold_Give_Rate = 100
+40474,  reconnect_chest_bonus = 231 Reconnect_Chest_Value_Factor = 50
+40474,  G_Tab.PLAYER[14].resource.gold = 12291
+42657, ================================================================
+42657,  p_control_id = 3
+42657,  gold_bonus = 6084 Gold_Give_Rate = 100
+42657,  reconnect_chest_bonus = 3042 Reconnect_Chest_Value_Factor = 50
+42657,  G_Tab.PLAYER[3].resource.gold = 9145
+42716, ================================================================
+42716,  p_control_id = 3
+42716,  gold_bonus = 0 Gold_Give_Rate = 100
+42716,  reconnect_chest_bonus = 0 Reconnect_Chest_Value_Factor = 50
+42716,  G_Tab.PLAYER[3].resource.gold = 9166

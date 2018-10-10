@@ -1,0 +1,9 @@
+5, run control_id= 12 ,K = 19 , EA=0.29294521044769 ,G_Var.Wuxunconf= 0 ,Old_Point= 0 ,New_Point=-15.23315094328 , myaddpointbasiclose=7 , Escapeflag=2
+5, fin run  p_control_id= 12 ,TT_Add_Point = -15 , MK=1 ,BK= 1 ,GK= 1
+5, fin run  p_control_id= 12 ,TT_Add_Point_new = -15 , MK=1 ,BK= 1 ,GK= 1 ,Mode_K=1
+5, control_id= 12 ,K = 45 , flag=0 ,Game_num= 0 ,Win_num= 0 ,Old_Point=0
+5, control_id= 12 ,K = 45 , flag=0 ,Game_num= 0 ,Win_num= 0 ,New_Point=-40.5
+5, ¶¨¼¶Èütaopao 333 p_control_id= 12 ,temp_player_tab[207] = 45 ,coefficient= 45 ,GetInt(G_Tab.ELOpoint[p_control_id][5]/10)*10= 0
+63673, run control_id= 10 ,K = 16.58 , EA=0.51572913974442 ,G_Var.Wuxunconf= 0 ,Old_Point= 605 ,New_Point=580.67821376965 , myaddpointbasiclose=7 , Escapeflag=2
+63673, fin run  p_control_id= 10 ,TT_Add_Point = -24 , MK=1 ,BK= 1 ,GK= 1
+63673, fin run  p_control_id= 10 ,TT_Add_Point_new = -24 , MK=1 ,BK= 1 ,GK= 1 ,Mode_K=1

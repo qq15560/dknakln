@@ -1,0 +1,423 @@
+compilation time: Sep 19 2018 23:13:18
+pid 2028
+/pipe=GAME_XQYFZ_CHS_123456 /mapfile=152807484 /mode=1 /replay="D:\起凡\7fgame\replay\MyGame\AutoSave\my_replays0127.7fr" /replaypath="D:\起凡\7fgame\replay\MyGame\" /partner=0 /vfs= /enc=(6917bfbbc67d,b627bac821520980d757882ca5bc84b98641becb5ebb8c45a31253c58baa93bf41dc40c9aa29134d1aaee6a2ea0d3120),(41c6357ad5fa,8365123ccb11db371b2fca11c7f9c155bf7f5d20f12445b330a79be9bc20a84caf5168b9ea2df53fd2678265c1f89bcf),(765f5498ffa7,2f57e98e8f2ac1976b159082b20e2558e21fbe780af7e5d58351c48104893d096d6872e88f64e5d141873319c1670fac)
+/pipe=GAME_XQYFZ_CHS_123456
+/mapfile=152807484
+/mode=1
+2018-10-07 12:51:29:095 PID:2028 FM:     0  自动保存的平台路径：/replay="D:\起凡\7fgame\replay\MyGame\AutoSave\my_replays0127.7fr"  
+2018-10-07 12:51:29:095 PID:2028 FM:     0  玩家保存的平台路径：/replaypath="D:\起凡\7fgame\replay\MyGame\"  
+vertxt:D:\起凡\7fgame\game
+
+
+-----------------------------------------------------------------
+游戏开始启动, 首先获取机器配置信息
+-----------------------------------------------------------------
+
+一。操作系统:
+Windows  Vista以上版本
+版本号: 6,2, Build 9200
+运行模式:normal mode.
+系统语言: 中文简体
+
+三。CPU:
+8 个 CPU:
+CPU:
+  Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+VendorIdentifier:
+  GenuineIntel
+Identifier:
+  Intel64 Family 6 Model 142 Stepping 10
+
+四。内存:
+MemoryLoad:29,
+  TotalPhys:2047M, AvailPhys:2047M,
+  AvailPageFile:4095M, TotalPageFile:4095M,
+  AvailVirtual:1869M,TotalVirtual:2047M
+
+五。显卡:
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce MX150
+Version: 23.21.13.8873
+
+六。显示模式:
+Enum displaymode: 640 x 400, 32
+Enum displaymode: 640 x 480, 32
+Enum displaymode: 800 x 600, 32
+Enum displaymode: 1024 x 768, 32
+Enum displaymode: 1152 x 864, 32
+Enum displaymode: 1280 x 600, 32
+Enum displaymode: 1280 x 720, 32
+Enum displaymode: 1280 x 768, 32
+Enum displaymode: 1280 x 800, 32
+Enum displaymode: 1280 x 960, 32
+Enum displaymode: 1280 x 1024, 32
+Enum displaymode: 1360 x 768, 32
+Enum displaymode: 1366 x 768, 32
+Enum displaymode: 1400 x 1050, 32
+Enum displaymode: 1440 x 900, 32
+Enum displaymode: 1600 x 900, 32
+Enum displaymode: 1680 x 1050, 32
+Enum displaymode: 1920 x 1080, 32
+Receive displaymode: 800 x 600
+Receive displaymode: 1024 x 768
+Receive displaymode: 1152 x 864
+Receive displaymode: 1280 x 600
+Receive displaymode: 1280 x 720
+Receive displaymode: 1280 x 768
+Receive displaymode: 1280 x 800
+Receive displaymode: 1280 x 960
+Receive displaymode: 1280 x 1024
+Receive displaymode: 1360 x 768
+Receive displaymode: 1366 x 768
+Receive displaymode: 1400 x 1050
+Receive displaymode: 1440 x 900
+Receive displaymode: 1600 x 900
+Receive displaymode: 1680 x 1050
+Receive displaymode: 1920 x 1080
+
+七。显存:
+未知的显存!
+
+
+八。当前路径:
+D:\起凡\7fgame\game
+启动时分辨率为(1920 X 1080)，对应窗口调整为(1920 X 1080)
+启动时为全屏模式!
+设置完窗口位置和大小之后, 客户区尺寸取出来为[1920 1080]
+传入给D3D设备的窗口尺寸为[1920 1080], fullscreen = 0
+启动脚本游戏平台!
+
+
+// 游戏设置:
+Game Screen:
+  1920 X 1080
+VS_1.0 Support:
+  true
+dot3 Support:
+ true
+
+2018-10-07 12:51:32:897 PID:2028 FM:     0  声卡驱动： 
+2018-10-07 12:51:32:897 PID:2028 FM:     0  1  主声音驱动程序  
+2018-10-07 12:51:32:897 PID:2028 FM:     0  2  扬声器 (Realtek High Definition Audio)  
+2018-10-07 12:51:32:909 PID:2028 FM:     0  使用 主声音驱动程序  
+2018-10-07 12:51:32:912 PID:2028 FM:     0  音效系统 初始化成功! 
+2018-10-07 12:51:32:959 PID:2028 FM:     0  音乐系统 初始化成功! 
+2018-10-07 12:51:32:987 PID:2028 FM:     0  pipe data init Success。 
+设置读取地图名[sanguo_b]
+
+
+调用GameInit, game logic frame 清0
+启动脚本游戏平台!
+do [core/gpi.o] ok!
+读取地图表格, 加载地图相关脚本!
+do [map/sanguo_b/sanguo_b.o] ok!
+D:\起凡\7fgame\game\core\..\..\7fChatMsgFilter.dll
+版本 980502003-001945-090090-sanguo:000001
+[MPRender::BeginRender()]!
+GameEventJoinGame[sanguo_b, 群雄逐鹿]
+
+加载.\core\hct.o!
+SetSessionInfo // 通知客户端服务器端脚本信息
+LoadMap[0] = 0 
+[0] begin load map[sanguo_b]
+Scene : LoadMap, CreateUICha, CreateShadeArray! OK!
+LoadMap[1] = 44 
+LoadMap[2] = 0 
+设置角色光[0.67 0.67 1.00]
+[0] 成功执行map_init
+[0] 下一步:生成动态障碍信息
+LoadMap [3]= 686 (map_init)  
+LoadMap[4] = 109 
+enableb 0
+
+roleinit_after_loadmap函数定义不存在, map=[sanguo_b]
+
+[0] GameEvent_MapInit() ok!
+LoadMap[5] = 2696 
+[0] load snap ok!
+LoadMap[6] = 44 
+7fxp path: core\7fxp.dll
+7fxp.dll Not Found
+LoadMap[7] = 17 
+Loading end。  35633 
+Begin RunGameLogic, RenderCount = 45
+5, *,9,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 9,100
+5, *,10,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 10,170
+5, *,12,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 12,40
+5, *,11,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 11,88
+5, *,19,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 19,230
+5, *,13,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, *,15,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 15,167
+5, *,7,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 7,43
+5, *,4,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 4,81
+5, *,14,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 14,7
+5, *,6,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 6,42
+5, *,17,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 17,250
+5, *,2,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 2,81
+5, *,20,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 20,1
+5, *,5,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 5,43
+5, *,8,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 8,40
+5, *,16,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 16,1
+5, *,18,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 18,1
+5, *,1,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 1,1
+5, *,3,0
+5, HUS,1
+5, HNSC_OPEN,1
+5, HTS_OPEN,0
+5, HPS_OPEN,1
+5, HSS_OPEN,1
+5, HES_OPEN,1
+5, 982010
+5, 991755
+5, 982010
+5, 985745
+5, 982010
+5, 51002
+5, 3,1
+Render Average Time = 0ms

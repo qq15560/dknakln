@@ -1,0 +1,768 @@
+﻿<config>
+   <group>
+      <id>0</id>
+      <desc>emotion_group_name_0</desc>
+   </group>
+
+   <group>
+      <id>1</id>
+      <desc>emotion_group_name_1</desc>
+   </group>
+   
+   <emotion>
+      <id>0</id>
+      <desc>emotion_item_name_0</desc>
+      <tooltip>emotion_item_tooltip_0</tooltip>
+      <file>Emotions\\7f\\71_anfu.gif</file>
+      <shortcut>/sg_anfu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_anfu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>1</id>
+      <desc>emotion_item_name_1</desc>
+      <tooltip>emotion_item_tooltip_1</tooltip>
+      <file>Emotions\\7f\\71_bizui.gif</file>
+      <shortcut>/sg_bizui</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_bizui.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>2</id>
+      <desc>emotion_item_name_2</desc>
+      <tooltip>emotion_item_tooltip_2</tooltip>
+      <file>Emotions\\7f\\71_bugaoxing.gif</file>
+      <shortcut>/sg_bugaoxing</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_bugaoxing.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>3</id>
+      <desc>emotion_item_name_3</desc>
+      <tooltip>emotion_item_tooltip_3</tooltip>
+      <file>Emotions\\7f\\71_dabao.gif</file>
+      <shortcut>/sg_dabao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_dabao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>4</id>
+      <desc>emotion_item_name_4</desc>
+      <tooltip>emotion_item_tooltip_4</tooltip>
+      <file>Emotions\\7f\\71_daku.gif</file>
+      <shortcut>/sg_daku</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_daku.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>5</id>
+      <desc>emotion_item_name_5</desc>
+      <tooltip>emotion_item_tooltip_5</tooltip>
+      <file>Emotions\\7f\\71_daxiao.gif</file>
+      <shortcut>/sg_daxiao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_daxiao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>6</id>
+      <desc>emotion_item_name_6</desc>
+      <tooltip>emotion_item_tooltip_6</tooltip>
+      <file>Emotions\\7f\\71_erguang.gif</file>
+      <shortcut>/sg_erguang</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_erguang.wav</audio>
+  </emotion>
+
+   <emotion>
+      <id>7</id>
+      <desc>emotion_item_name_7</desc>
+      <tooltip>emotion_item_tooltip_7</tooltip>
+      <file>Emotions\\7f\\71_fadai.gif</file>
+      <shortcut>/sg_fadai</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_fadai.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>8</id>
+      <desc>emotion_item_name_8</desc>
+      <tooltip>emotion_item_tooltip_8</tooltip>
+      <file>Emotions\\7f\\71_fadou.gif</file>
+      <shortcut>/sg_fadou</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_fadou.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>9</id>
+      <desc>emotion_item_name_9</desc>
+      <tooltip>emotion_item_tooltip_9</tooltip>
+      <file>Emotions\\7f\\71_fengci.gif</file>
+      <shortcut>/sg_fengci</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_fengci.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>10</id>
+      <desc>emotion_item_name_10</desc>
+      <tooltip>emotion_item_tooltip_10</tooltip>
+      <file>Emotions\\7f\\71_fennu.gif</file>
+      <shortcut>/sg_fennu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_fennu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>11</id>
+      <desc>emotion_item_name_11</desc>
+      <tooltip>emotion_item_tooltip_11</tooltip>
+      <file>Emotions\\7f\\71_ganga.gif</file>
+      <shortcut>/sg_ganga</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_ganga.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>12</id>
+      <desc>emotion_item_name_12</desc>
+      <tooltip>emotion_item_tooltip_12</tooltip>
+      <file>Emotions\\7f\\71_gaoci.gif</file>
+      <shortcut>/sg_gaoci</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_gaoci.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>13</id>
+      <desc>emotion_item_name_13</desc>
+      <tooltip>emotion_item_tooltip_13</tooltip>
+      <file>Emotions\\7f\\71_haixiu.gif</file>
+      <shortcut>/sg_haixiu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_haixiu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>14</id>
+      <desc>emotion_item_name_14</desc>
+      <tooltip>emotion_item_tooltip_14</tooltip>
+      <file>Emotions\\7f\\71_huaiyi.gif</file>
+      <shortcut>/sg_huaiyi</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_huaiyi.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>15</id>
+      <desc>emotion_item_name_15</desc>
+      <tooltip>emotion_item_tooltip_15</tooltip>
+      <file>Emotions\\7f\\71_jingya.gif</file>
+      <shortcut>/sg_jingya</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_jingya.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>16</id>
+      <desc>emotion_item_name_16</desc>
+      <tooltip>emotion_item_tooltip_16</tooltip>
+      <file>Emotions\\7f\\71_keai.gif</file>
+      <shortcut>/sg_keai</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_keai.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>17</id>
+      <desc>emotion_item_name_17</desc>
+      <tooltip>emotion_item_tooltip_17</tooltip>
+      <file>Emotions\\7f\\71_kongju.gif</file>
+      <shortcut>/sg_kongju</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_kongju.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>18</id>
+      <desc>emotion_item_name_18</desc>
+      <tooltip>emotion_item_tooltip_18</tooltip>
+      <file>Emotions\\7f\\71_kun.gif</file>
+      <shortcut>/sg_kun</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_kun.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>19</id>
+      <desc>emotion_item_name_19</desc>
+      <tooltip>emotion_item_tooltip_19</tooltip>
+      <file>Emotions\\7f\\71_liuhan.gif</file>
+      <shortcut>/sg_liuhan</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_liuhan.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>20</id>
+      <desc>emotion_item_name_20</desc>
+      <tooltip>emotion_item_tooltip_20</tooltip>
+      <file>Emotions\\7f\\71_liulei.gif</file>
+      <shortcut>/sg_liulei</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_liulei.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>21</id>
+      <desc>emotion_item_name_21</desc>
+      <tooltip>emotion_item_tooltip_21</tooltip>
+      <file>Emotions\\7f\\71_niniu.gif</file>
+      <shortcut>/sg_niniu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_niniu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>22</id>
+      <desc>emotion_item_name_22</desc>
+      <tooltip>emotion_item_tooltip_22</tooltip>
+      <file>Emotions\\7f\\71_qinqin.gif</file>
+      <shortcut>/sg_qinqin</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_qinqin.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>23</id>
+      <desc>emotion_item_name_23</desc>
+      <tooltip>emotion_item_tooltip_23</tooltip>
+      <file>Emotions\\7f\\71_qinzui.gif</file>
+      <shortcut>/sg_qinzui</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_qinzui.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>24</id>
+      <desc>emotion_item_name_24</desc>
+      <tooltip>emotion_item_tooltip_24</tooltip>
+      <file>Emotions\\7f\\71_semimi.gif</file>
+      <shortcut>/sg_semimi</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_semimi.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>25</id>
+      <desc>emotion_item_name_25</desc>
+      <tooltip>emotion_item_tooltip_25</tooltip>
+      <file>Emotions\\7f\\71_shanren.gif</file>
+      <shortcut>/sg_shanren</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_shanren.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>26</id>
+      <desc>emotion_item_name_26</desc>
+      <tooltip>emotion_item_tooltip_26</tooltip>
+      <file>Emotions\\7f\\71_shengbing.gif</file>
+      <shortcut>/sg_shengbing</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_shengbing.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>27</id>
+      <desc>emotion_item_name_27</desc>
+      <tooltip>emotion_item_tooltip_27</tooltip>
+      <file>Emotions\\7f\\71_shengli.gif</file>
+      <shortcut>/sg_shengli</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_shengli.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>28</id>
+      <desc>emotion_item_name_28</desc>
+      <tooltip>emotion_item_tooltip_28</tooltip>
+      <file>Emotions\\7f\\71_shiwang.gif</file>
+      <shortcut>/sg_shiwang</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_shiwang.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>29</id>
+      <desc>emotion_item_name_29</desc>
+      <tooltip>emotion_item_tooltip_29</tooltip>
+      <file>Emotions\\7f\\71_shuashuai.gif</file>
+      <shortcut>/sg_shuashuai</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_shuashuai.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>30</id>
+      <desc>emotion_item_name_30</desc>
+      <tooltip>emotion_item_tooltip_30</tooltip>
+      <file>Emotions\\7f\\71_sikao.gif</file>
+      <shortcut>/sg_sikao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_sikao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>31</id>
+      <desc>emotion_item_name_31</desc>
+      <tooltip>emotion_item_tooltip_31</tooltip>
+      <file>Emotions\\7f\\71_touxiao.gif</file>
+      <shortcut>/sg_touxiao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_touxiao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>32</id>
+      <desc>emotion_item_name_32</desc>
+      <tooltip>emotion_item_tooltip_32</tooltip>
+      <file>Emotions\\7f\\71_tushe.gif</file>
+      <shortcut>/sg_tushe</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_tushe.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>33</id>
+      <desc>emotion_item_name_33</desc>
+      <tooltip>emotion_item_tooltip_33</tooltip>
+      <file>Emotions\\7f\\71_tuxue.gif</file>
+      <shortcut>/sg_tuxue</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_tuxue.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>34</id>
+      <desc>emotion_item_name_34</desc>
+      <tooltip>emotion_item_tooltip_34</tooltip>
+      <file>Emotions\\7f\\71_tu.gif</file>
+      <shortcut>/sg_tu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_tu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>35</id>
+      <desc>emotion_item_name_35</desc>
+      <tooltip>emotion_item_tooltip_35</tooltip>
+      <file>Emotions\\7f\\71_weixiao.gif</file>
+      <shortcut>/sg_weixiao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_weixiao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>36</id>
+      <desc>emotion_item_name_36</desc>
+      <tooltip>emotion_item_tooltip_36</tooltip>
+      <file>Emotions\\7f\\71_weixie.gif</file>
+      <shortcut>/sg_weixie</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_weixie.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>37</id>
+      <desc>emotion_item_name_37</desc>
+      <tooltip>emotion_item_tooltip_37</tooltip>
+      <file>Emotions\\7f\\71_wuyu.gif</file>
+      <shortcut>/sg_wuyu</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_wuyu.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>38</id>
+      <desc>emotion_item_name_38</desc>
+      <tooltip>emotion_item_tooltip_38</tooltip>
+      <file>Emotions\\7f\\71_yaoshouzhi.gif</file>
+      <shortcut>/sg_yaoshouzhi</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yaoshouzhi.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>39</id>
+      <desc>emotion_item_name_39</desc>
+      <tooltip>emotion_item_tooltip_39</tooltip>
+      <file>Emotions\\7f\\71_yaoyaqiechi.gif</file>
+      <shortcut>/sg_yaoyaqiechi</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yaoyaqiechi.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>40</id>
+      <desc>emotion_item_name_40</desc>
+      <tooltip>emotion_item_tooltip_40</tooltip>
+      <file>Emotions\\7f\\71_yiwen.gif</file>
+      <shortcut>/sg_yiwen</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yiwen.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>41</id>
+      <desc>emotion_item_name_41</desc>
+      <tooltip>emotion_item_tooltip_41</tooltip>
+      <file>Emotions\\7f\\71_yongbao.gif</file>
+      <shortcut>/sg_yongbao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yongbao.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>42</id>
+      <desc>emotion_item_name_42</desc>
+      <tooltip>emotion_item_tooltip_42</tooltip>
+      <file>Emotions\\7f\\71_yumen.gif</file>
+      <shortcut>/sg_yumen</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yumen.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>43</id>
+      <desc>emotion_item_name_43</desc>
+      <tooltip>emotion_item_tooltip_43</tooltip>
+      <file>Emotions\\7f\\71_yun.gif</file>
+      <shortcut>/sg_yun</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_yun.wav</audio>
+   </emotion>
+
+   <emotion>
+      <id>44</id>
+      <desc>emotion_item_name_44</desc>
+      <tooltip>emotion_item_tooltip_44</tooltip>
+      <file>Emotions\\7f\\71_zeixiao.gif</file>
+      <shortcut>/sg_zeixiao</shortcut>
+      <groupid>1</groupid>
+	  <audio>Emotions\\audio\\71_zeixiao.wav</audio>
+   </emotion>
+   
+   <emotion>
+      <id>45</id>
+      <desc>emotion_item_name_45</desc>
+      <tooltip>emotion_item_tooltip_45</tooltip>
+      <file>Emotions\\def\\def_bizui.gif</file>
+      <shortcut>/bizui</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   
+      <emotion>
+      <id>46</id>
+      <desc>emotion_item_name_46</desc>
+      <tooltip>emotion_item_tooltip_46</tooltip>
+      <file>Emotions\\def\\def_ciya.gif</file>
+      <shortcut>/ciya</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>47</id>
+      <desc>emotion_item_name_47</desc>
+      <tooltip>emotion_item_tooltip_47</tooltip>
+      <file>Emotions\\def\\def_fendou.gif</file>
+      <shortcut>/fendou</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>48</id>
+      <desc>emotion_item_name_48</desc>
+      <tooltip>emotion_item_tooltip_48</tooltip>
+      <file>Emotions\\def\\def_fennu.gif</file>
+      <shortcut>/fennu</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>49</id>
+      <desc>emotion_item_name_49</desc>
+      <tooltip>emotion_item_tooltip_49</tooltip>
+      <file>Emotions\\def\\def_haixiu.gif</file>
+      <shortcut>/haixiu</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>50</id>
+      <desc>emotion_item_name_50</desc>
+      <tooltip>emotion_item_tooltip_50</tooltip>
+      <file>Emotions\\def\\def_jingkong.gif</file>
+      <shortcut>/jingkong</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>51</id>
+      <desc>emotion_item_name_51</desc>
+      <tooltip>emotion_item_tooltip_51</tooltip>
+      <file>Emotions\\def\\def_kun.gif</file>
+      <shortcut>/kun</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>52</id>
+      <desc>emotion_item_name_52</desc>
+      <tooltip>emotion_item_tooltip_52</tooltip>
+      <file>Emotions\\def\\def_liuhan.gif</file>
+      <shortcut>/liuhan</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>53</id>
+      <desc>emotion_item_name_53</desc>
+      <tooltip>emotion_item_tooltip_53</tooltip>
+      <file>Emotions\\def\\def_liulei.gif</file>
+      <shortcut>/liulei</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>54</id>
+      <desc>emotion_item_name_54</desc>
+      <tooltip>emotion_item_tooltip_54</tooltip>
+      <file>Emotions\\def\\def_maimeng.gif</file>
+      <shortcut>/maimeng</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>55</id>
+      <desc>emotion_item_name_55</desc>
+      <tooltip>emotion_item_tooltip_55</tooltip>
+      <file>Emotions\\def\\def_nanguo.gif</file>
+      <shortcut>/nanguo</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>56</id>
+      <desc>emotion_item_name_56</desc>
+      <tooltip>emotion_item_tooltip_56</tooltip>
+      <file>Emotions\\def\\def_qinqin.gif</file>
+      <shortcut>/qinqin</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>57</id>
+      <desc>emotion_item_name_57</desc>
+      <tooltip>emotion_item_tooltip_57</tooltip>
+      <file>Emotions\\def\\def_semimi.gif</file>
+      <shortcut>/semimi</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>58</id>
+      <desc>emotion_item_name_58</desc>
+      <tooltip>emotion_item_tooltip_58</tooltip>
+      <file>Emotions\\def\\def_shuai.gif</file>
+      <shortcut>/shuai</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>59</id>
+      <desc>emotion_item_name_59</desc>
+      <tooltip>emotion_item_tooltip_59</tooltip>
+      <file>Emotions\\def\\def_shuashuai.gif</file>
+      <shortcut>/shuashuai</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>61</id>
+      <desc>emotion_item_name_61</desc>
+      <tooltip>emotion_item_tooltip_61</tooltip>
+      <file>Emotions\\def\\def_tiaopi.gif</file>
+      <shortcut>/tiaopi</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>62</id>
+      <desc>emotion_item_name_62</desc>
+      <tooltip>emotion_item_tooltip_62</tooltip>
+      <file>Emotions\\def\\def_touxiao.gif</file>
+      <shortcut>/touxiao</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+  
+   <emotion>
+      <id>63</id>
+      <desc>emotion_item_name_63</desc>
+      <tooltip>emotion_item_tooltip_63</tooltip>
+      <file>Emotions\\def\\def_tuxue.gif</file>
+      <shortcut>/tuxue</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>64</id>
+      <desc>emotion_item_name_64</desc>
+      <tooltip>emotion_item_tooltip_64</tooltip>
+      <file>Emotions\\def\\def_weixiao.gif</file>
+      <shortcut>/weixiao</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>65</id>
+      <desc>emotion_item_name_65</desc>
+      <tooltip>emotion_item_tooltip_65</tooltip>
+      <file>Emotions\\def\\def_tu.gif</file>
+      <shortcut>/tu</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>66</id>
+      <desc>emotion_item_name_66</desc>
+      <tooltip>emotion_item_tooltip_66</tooltip>
+      <file>Emotions\\def\\def_yiwen.gif</file>
+      <shortcut>/yiwen</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>67</id>
+      <desc>emotion_item_name_67</desc>
+      <tooltip>emotion_item_tooltip_67</tooltip>
+      <file>Emotions\\def\\def_yun.gif</file>
+      <shortcut>/yun</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>68</id>
+      <desc>emotion_item_name_68</desc>
+      <tooltip>emotion_item_tooltip_68</tooltip>
+      <file>Emotions\\def\\def_zaijian.gif</file>
+      <shortcut>/zaijian</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+   
+   <emotion>
+      <id>69</id>
+      <desc>emotion_item_name_69</desc>
+      <tooltip>emotion_item_tooltip_69</tooltip>
+      <file>Emotions\\def\\def_zhouma.gif</file>
+      <shortcut>/zhouma</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>70</id>
+      <desc>emotion_item_name_70</desc>
+      <tooltip>emotion_item_tooltip_70</tooltip>
+      <file>Emotions\\def\\def_aixin.gif</file>
+      <shortcut>/aixin</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+  <emotion>
+      <id>71</id>
+      <desc>emotion_item_name_71</desc>
+      <tooltip>emotion_item_tooltip_71</tooltip>
+      <file>Emotions\\def\\def_anfu.gif</file>
+      <shortcut>/anfu</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>72</id>
+      <desc>emotion_item_name_72</desc>
+      <tooltip>emotion_item_tooltip_72</tooltip>
+      <file>Emotions\\def\\def_dabao.gif</file>
+      <shortcut>/dabao</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>73</id>
+      <desc>emotion_item_name_73</desc>
+      <tooltip>emotion_item_tooltip_73</tooltip>
+      <file>Emotions\\def\\def_niniu.gif</file>
+      <shortcut>/niniu</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>74</id>
+      <desc>emotion_item_name_74</desc>
+      <tooltip>emotion_item_tooltip_74</tooltip>
+      <file>Emotions\\def\\def_shangxin.gif</file>
+      <shortcut>/shangxin</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>75</id>
+      <desc>emotion_item_name_75</desc>
+      <tooltip>emotion_item_tooltip_75</tooltip>
+      <file>Emotions\\def\\def_shanren.gif</file>
+      <shortcut>/shanren</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>76</id>
+      <desc>emotion_item_name_76</desc>
+      <tooltip>emotion_item_tooltip_76</tooltip>
+      <file>Emotions\\def\\def_shengli.gif</file>
+      <shortcut>/shengli</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>77</id>
+      <desc>emotion_item_name_77</desc>
+      <tooltip>emotion_item_tooltip_77</tooltip>
+      <file>Emotions\\def\\def_shengbing.gif</file>
+      <shortcut>/shengbing</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>78</id>
+      <desc>emotion_item_name_78</desc>
+      <tooltip>emotion_item_tooltip_78</tooltip>
+      <file>Emotions\\def\\def_sikao.gif</file>
+      <shortcut>/sikao</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+
+   <emotion>
+      <id>79</id>
+      <desc>emotion_item_name_79</desc>
+      <tooltip>emotion_item_tooltip_79</tooltip>
+      <file>Emotions\\def\\def_zhutou.gif</file>
+      <shortcut>/zhutou</shortcut>
+      <groupid>0</groupid>
+   </emotion>
+</config>

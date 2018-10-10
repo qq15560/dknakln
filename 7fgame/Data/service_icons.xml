@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceIcons>
+	<IconWidth>20</IconWidth>
+	<IconHeight>20</IconHeight>
+	<Bitmap>service_icons.bmp</Bitmap>	<!-- 相对于Data目录的路径 -->
+
+	<Icons>
+	<!-- id: 1会员 2喇叭 3公会 4群雄 5三国 6编辑器 
+             index: 图标索引 order: 排序 display: 是否显示 autologin: url自动登录 -->
+
+	<Icon id="1" index="0" order="1" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2201</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=2201</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2202</GreyURL>
+		<LightenTip>起凡会员</LightenTip>
+		<LightenSelfTip>起凡会员（剩余%d天）</LightenSelfTip>
+		<GreyTip>起凡会员</GreyTip>
+	</Icon>
+	<Icon id="2" index="1" order="2" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2203</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=2203</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2204</GreyURL>
+		<LightenTip>喇叭达人</LightenTip>
+		<LightenSelfTip>喇叭达人（剩余%d天）</LightenSelfTip>
+		<GreyTip>喇叭达人</GreyTip>
+	</Icon>
+	<Icon id="3" index="4" order="5" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2205</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=1741&amp;userId=%u</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2206</GreyURL>
+		<LightenTip>公会</LightenTip>
+		<LightenSelfTip>公会</LightenSelfTip>
+		<GreyTip>公会</GreyTip>
+	</Icon>
+	<Icon id="4" index="2" order="3" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2207</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=2207</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2208</GreyURL>
+		<LightenTip>群雄逐鹿</LightenTip>
+		<LightenSelfTip>群雄逐鹿</LightenSelfTip>
+		<GreyTip>群雄逐鹿</GreyTip>
+	</Icon>
+	<Icon id="5" index="3" order="4" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2209</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=2209</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2210</GreyURL>
+		<LightenTip>三国争霸</LightenTip>
+		<LightenSelfTip>三国争霸</LightenSelfTip>
+		<GreyTip>三国争霸</GreyTip>
+	</Icon>
+	<Icon id="6" index="5" order="6" display="1" autologin="1">
+		<LightenURL>http://pv.7fgame.com/PVCount.aspx?id=2211</LightenURL>
+		<LightenSelfURL>http://pv.7fgame.com/PVCount.aspx?id=2211</LightenSelfURL>
+		<GreyURL>http://pv.7fgame.com/PVCount.aspx?id=2212</GreyURL>
+		<LightenTip>地图作者</LightenTip>
+		<LightenSelfTip>地图作者</LightenSelfTip>
+		<GreyTip>地图作者</GreyTip>
+	</Icon>
+	</Icons>
+</ServiceIcons>
+

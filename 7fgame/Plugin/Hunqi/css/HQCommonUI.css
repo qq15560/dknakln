@@ -1,0 +1,158 @@
+QPushButton#NumEdit_Add
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_addNum.png) 0 0 30 0 stretch stretch;
+    background-image: 
+}
+
+QPushButton#NumEdit_Add:hover 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_addNum.png) 15 0 15 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Add:disabled 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_addNum.png) 0 0 30 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Add:checked 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_addNum.png) 30 0 0 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Sub
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_subNum.png) 0 0 30 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Sub:hover 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_subNum.png) 15 0 15 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Sub:disabled 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_subNum.png) 0 0 30 0 stretch stretch;
+}
+
+QPushButton#NumEdit_Sub:checked 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqEnhanceUI/btn_subNum.png) 30 0 0 0 stretch stretch;
+}
+
+QPushButton#HqCommonMsgCloseBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HqCommonMsgCloseBtn:hover {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 32 0 0 0 repeat repeat;
+}
+QPushButton#HqCommonMsgCloseBtn:pressed {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgCloseBtn:disabled {
+    border-image: url(./Images/HqMainUI/HQMainUIExitBtn.png) 92 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgOKBtn
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Ok_Btn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgOKBtn:hover
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Ok_Btn.png) 38 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgOKBtn:pressed
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Ok_Btn.png) 114 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgOKBtn:disabled
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Ok_Btn.png) 152 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgCancleBtn
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Cancle_Btn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgCancleBtn:hover
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Cancle_Btn.png) 38 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgCancleBtn:pressed
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Cancle_Btn.png) 114 0 0 0 repeat repeat;
+}
+
+QPushButton#HqCommonMsgCancleBtn:disabled
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/Msg/Cancle_Btn.png) 152 0 0 0 repeat repeat;
+}
+
+QLineEdit#NumEdit_edit
+{
+    background-color: #000000;
+    color: White;
+    border: 0px;
+    font-family: @黑体;
+    font-size: 12px;
+}
+
+QLabel#HqTipTitle
+{
+    font-size:15px;
+    font-family:@黑体;
+    color:rgb(186,240,254);
+}
+
+QLabel#HqPopUpTipNameLabel
+{
+    font-size:15px;
+    font-family:@黑体;
+    color:rgb(186,240,254);
+}
+
+QLabel#HqPopUpTipPropertyLabel
+{
+    font-size:12px;
+    font-family:@黑体;
+    color:rgb(94,116,136);
+}

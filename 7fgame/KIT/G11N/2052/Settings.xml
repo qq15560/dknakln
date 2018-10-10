@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- read only global settings -->
+<!-- alterable global/user settings are stored in "Settings" folder in data path -->
+<Settings version="4">
+	<GateSvrList>
+	</GateSvrList>
+	<!--ref: Settings.h::enum E_ISP_TYPE-->
+	<LogSvrList>
+		<LogSvr isp="0" ip="101.226.247.19" port="6667" />
+		<LogSvr isp="1" ip="101.226.247.19" port="6667" />
+		<LogSvr isp="2" ip="112.65.236.19" port="6667" />
+	</LogSvrList>
+	<!--ref: Settings.h::enum E_RETRY_EVENT, Settings.h::struct S_RETRY_STRATEGY-->
+	<RetryStrategy>
+		<Strategy event="1" count="10" interval="10" changestep="20" />
+		<Strategy event="2" count="5" interval="30" changestep="30" />
+		<Strategy event="3" count="2" interval="0" changestep="0" />
+		<Strategy event="4" count="2" interval="0" changestep="0" />
+	</RetryStrategy>
+	<!--ref: Settings.h::enum E_KIT_FUNCTION, Settings.h::struct S_KIT_FUNCTION-->
+	<Functions>
+		<!--Function func="23" available="0" /-->
+	</Functions>
+	<misc>
+		<pair key="embed_url_chat_wnd_avatar_area_11" value="http://pt.5211game.com/Kit/Ad/ad1.html" />
+		<pair key="embed_url_chat_wnd_avatar_area_7f" value="http://pt.7fgame.com/Kit/Ad/ad1.html" />
+		<pair key="embed_url_import_friend" value="http://pv.5211game.com/PVCount.aspx?id=1280" />
+		<pair key="url_personalprofile_base_360_userid" value="http://register.5211game.com/360/fillinfo.aspx?userid=%I64u&data=%s" />
+		<pair key="url_personalprofile_base_temp_userid" value="http://pv.5211game.com/PVCount.aspx?id=130&userid=%I64u" />
+		<pair key="url_personalprofile_base_no_passport_userid" value="http://register.5211game.com/user/createaccount.aspx?userid=%I64u" />
+		<pair key="url_promote_official_account" value="http://pv.5211game.com/PVCount.aspx?id=129&userid=%I64u" />
+		<pair key="url_friend_audio_feedback" value="qfyygame://type=popwebwnd/?url=http://feedback.5211game.com/Questionnaire/1045;w=468;h=433;atLogin=1;action=popWebWnd;serviceid=0" />
+		<pair key="url_team_audio_feedback" value="qfyygame://type=popwebwnd/?url=http://feedback.5211game.com/Questionnaire/1052;w=468;h=433;atLogin=1;action=popWebWnd;serviceid=0" />
+		<pair key="embed_url_campus" value="http://pv.5211game.com/PVCount.aspx?id=1279" />
+		<pair key="embed_url_sns_popstar" value="http://i.5211game.com/star/show/%ld" />
+		<pair key="embed_url_guild_audio" value="http://go.5211game.com/?id=2960&uid=%I64u&name=%s&flag=%d&gid=%d" />
+		<pair key="embed_url_find_audioroom" value="http://go.5211game.com/?id=3253" />
+		<pair key="platform_url_level" value="http://go.5211game.com/?id=3292" />
+		<pair key="platform_url_live_room" value="http://go.5211game.com/?id=3400" />
+		<pair key="platform_url_wonderful_video" value="http://go.5211game.com/?id=3402" />
+		<pair key="platform_url_11_vip" value="http://go.5211game.com/?id=3570" />
+	</misc>
+</Settings>

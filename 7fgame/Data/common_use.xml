@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content ver="305">
+<Sortdata type="sort_Value" param="50"></Sortdata>
+<MaskLayerWnd wndtype="1"  keyword="seven_year" image="six_layer.png" exittype="1" id="2" Isshowclosebtn="1" showtype="1" waitsec="10000"  hight="100" width="100" Isweb="0" real_hight="674" real_width="487" starttimeEx="7/23/2014 15:00:00" endtimeEx="9/10/2014 15:00:00">http://pv.7fgame.com/PVCount.aspx?id=5870</MaskLayerWnd>
+<!-- IMAX配置 --> 
+<SixerWeb starttimeEx="4/3/2015 22:00:00" endtimeEx="9/15/2015 23:59:59" Id="0" closefile="pptooltip_btn2.bmp" closefile2="pptooltip_btn.bmp" showlocal="0" qzauto="1" top="1" width="512" height="24"  minheight="230" closeleft="460" closetop="1" sendleft="0" sendtop="0" showtype="0" minurl="http://pv.7fgame.com/PVCount.aspx?id=5574">http://pvcount.7fgame.com/PVCount.aspx?id=5438
+</SixerWeb>
+<!-- NEWIMAX配置 --> 
+<MainTopWebInfo starttimeEx="7/20/2015 15:00:00" endtimeEx="6/12/2020 16:00:00" Width="295" Height="60" OffSet_X="5" OffSet_Y="1" Url="http://pv.7fgame.com/?id=6482"/>
+<!-- 二级界面配置 --> 
+<PrepareHuoDongItem starttimeEx="1/5/2013 00:00:00" maptype="1"  endtimeEx="5/3/2014 23:59:59" waitTime="10" title="活动"  qfurl="http://pvCount.7fgame.com/PVCount.aspx?id=5214&amp;subId=%s"/>
+<PrepareHuoDongItem starttimeEx="6/9/2013 15:00:00" maptype="3"  endtimeEx="6/24/2013 15:00:00" waitTime="10" title="活动"  qfurl="http://pvCount.7fgame.com/PVCount.aspx?id=5213&amp;subId=%s"/>
+<PrepareHuoDongItem starttimeEx="6/5/2012  17:00:00" maptype="10" endtimeEx="12/8/2012 23:59:59" waitTime="10" title="活动"  qfurl="http://pvCount.7fgame.com/PVCount.aspx?id=4067&amp;subId=%s"/>
+<PrepareHuoDongItem starttimeEx="4/1/2012  17:00:00" login="1" maptype="10" endtimeEx="11/30/2012 23:59:59" title="虎符获取"  qfurl="http://pvcount.7fgame.com/PVCount.aspx?id=5572"/>
+<PrepareHuoDongItem starttimeEx="2/7/2012 14:00:00" maptype="3" endtimeEx="2/28/2015 23:59:59" waitTime="10" title="武勋虎符" flash="1" btnimage="GPProp_CaptionMain0.bmp" qfurl="http://pvCount.7fgame.com/PVCount.aspx?id=6444"/> 
+<PrepareHuoDongItem starttimeEx="2/7/2012 14:00:00" maptype="3" endtimeEx="2/28/2016 23:59:59" waitTime="0" title="金币商城" btnimage="GPProp_CaptionMain0.bmp" qfurl="http://pvCount.7fgame.com/PVCount.aspx?id=5786&amp;subId=%s"/> 
+<!-- 退弹 --> 
+<MaskLayerWnd keyword="exit_sixyear" wndtype="2" image="mask_x.png" exittype="1" Isshowclosebtn="1" showtype="111" waitsec="15"  hight="300" width="600"  Isweb="1" real_hight="300" real_width="600" starttimeEx="4/1/2012 17:00:00" endtimeEx="11/7/2014 23:59:59">http://pvcount.7fgame.com/PVCount.aspx?id=5254&amp;subId=%s</MaskLayerWnd>
+<!-- 聊天提示 --> 
+<AutoMatchReturnTip default="兄弟，何不在此把酒言欢，畅所欲言$结束的游戏带不走我们的兄弟情，让我用语言记录彼此的感情$对手太强，队友太弱，都来吐槽下吧~$你想再来一局还是再来一句？$讲讲你上一局最开心的那一刻吧！" /> 
+<!-- 战争学院提示 --> 
+<GameRst_heroInfo show="1" tiptxt="
+发挥的不够好？点击进入#%s攻略$
+坑爹或被坑爹？点击进入#%s攻略$">http://go.5211game.com/?id=1316</GameRst_heroInfo> 
+<!-- 金戈置顶配置 --> 
+<TopJgIconItem IsTopJgIcon="0" JgtmLimitUserId="1" JgVerInfo="1.2.6"/>
+<!-- 金戈兑换虎符配置 --> 
+<GetHFTip width="431" height="311" DisplayType="1" IsUseIE="1"></GetHFTip>
+<!-- 群雄兑换虎符配置 --> 
+<GetHFTipQx width="800" height="500" DisplayType="1" IsUseIE="0"></GetHFTipQx>
+<CommonShowWebInfo id="10007" width="800" height="500" DisplayType="1" IsUseIE="1" title="群雄天梯排行">http://pv.7fgame.com/PVCount.aspx?id=5532</CommonShowWebInfo> 
+<wgtimer timer="180"></wgtimer>
+<!-- 群雄自动匹配房间活动提示 --> 
+ <PrepareTip starttimeEx="7/15/2012 17:00:00" automatch="2" maptype="3" endtimeEx="12/16/2015 23:59:59" content="使用APP领取虎符可以额外多20%。$点击查看$" url="http://pv.7fgame.com/PVCount.aspx?id=5383" color="#ff00ff" /> 
+<CommonShowWebInfo id="10002" width="488" height="396" DisplayType="1" IsUseIE="0" title="将魂进度">http://pv.7fgame.com/PVCount.aspx?id=5543</CommonShowWebInfo>
+<CommonShowWebInfo id="10003" width="800" height="500" DisplayType="2" IsUseIE="1" title="将魂活动">http://pv.7fgame.com/PVCount.aspx?id=5383</CommonShowWebInfo>
+<CommonShowWebInfo id="10006" width="622" height="411" DisplayType="2" IsUseIE="0" title="将魂激活">http://pv.7fgame.com/PVCount.aspx?id=5538</CommonShowWebInfo>
+<!-- !!!!活动任务提示 --> 
+  <TaskNotifyItemInfo starttimeEx="12/31/2012 15:00:00" maptype="10" endtimeEx="1/21/2012 23:59:59" flag="2" showtype="1" hight="560" width="572" showNum="0" title="活动" content="击败疯狂电脑，头像、勋章拿不停！ #立即领取任务" url="http://pv.7fgame.com/PVCount.aspx?id=5574" /> 
+<NotShowHuangguan  starttimeEx="4/1/2012 17:00:00"  endtimeEx="1/21/2013 23:59:59" />
+  <TaskNotifyItemInfo starttimeEx="4/1/2012 17:00:00" maptype="10" endtimeEx="12/30/2013 00:00:00" flag="1" showtype="1" hight="480" width="660" showNum="0" title="任务领取" content="%s，你尚未接受过任务，无法获得奖励。#立即接受>>>" url="http://pv.7fgame.com/PVCount.aspx?id=5379" />
+<!-- !!!!聊天活动文字 --> 
+<PrepareTip starttimeEx="12/20/2012  17:00:00" automatch="0" maptype="10" endtimeEx="12/21/2012 23:59:59" content="高难电脑横扫百破选手，你敢来战吗？$我要挑战$" url="http://pv.7fgame.com/PVCount.aspx?id=5574" color="#660000"/>
+<PrepareTip starttimeEx="7/15/2012  17:00:00" automatch="2" maptype="10" endtimeEx="12/21/2012 23:59:59" content="高难电脑横扫百破选手，你敢来战吗？$我要挑战$" 
+url="http://pv.7fgame.com/PVCount.aspx?id=5574" color="#660000"/>
+<!-- !!!!匹配房按钮 --> 
+<AutoActivityBtn BtnId="0" map="47" image="BuySkin.png" showType="1" login="1" width="1000" height="750" bTip="1" Tip="&lt;font size=12px color=#960025&gt;使用APP领取额外加领20%&lt;a href='http://www.baidu.com' &gt;立即领取&lt;/a&gt;&lt;/font&gt;" url="http://pv.7fgame.com/PVCount.aspx?id=6478" starttimeEx="1/24/2014 15:00:00" endtimeEx="12/12/2014 15:00:00" /> 
+
+<AutoActivityBtn BtnId="1" map="47" image="am_btn_hf.png" showType="2" NewBie="1" WuxunScore="750" login="1" toolbar="1" bTip="1" Tip="&lt;font size=12px color=#960025&gt;开启新春福袋，赢取Ip6s，Ipad mini，更有76款皮肤，64种灵技能，抽取既是永久 &lt;a href='http://pv.7fgame.com/?id=6710'   &gt; 查看详情" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=5496" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/1/2016 23:59:59" /> 
+
+<AutoActivityBtn BtnId="2" map="47" bJiangHun="1" image="amqxhunyu.png" showType="3" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" />
+<!-- 
+<AutoActivityBtn BtnId="3" map="47" image="dashiSai.png" showType="0" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/3/2015 23:59:59" /> 
+ -->
+ <AutoActivityBtn BtnId="3" map="47" image="btn_2.png" showType="0" login="1" toolbar="1" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=6706" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" /> 
+
+<AutoActivityBtn BtnId="0" map="74" image="BuySkin.png" showType="1" login="1" width="1000" height="750" bTip="1" Tip="&lt;font size=12px color=#960025&gt;海量好礼等你来拿&lt;/font&gt;" url="http://pv.7fgame.com/PVCount.aspx?id=6478" starttimeEx="1/24/2015 15:00:00" endtimeEx="9/2/2015 15:00:00" /> 
+<AutoActivityBtn BtnId="1" map="74" image="am_btn_hf.png" showType="2" login="1" toolbar="1"  bTip="1" Tip="&lt;font size=12px color=#960025&gt;海量好礼等你来拿&lt;/font&gt;" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=5496" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" /> 
+<AutoActivityBtn BtnId="2" map="74" bJiangHun="1" image="amqxhunyu.png" showType="3" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" /> 
+<!-- 
+<AutoActivityBtn BtnId="3" map="74" image="dashiSai.png" showType="0" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/3/2015 23:59:59" /> 
+ -->
+ <AutoActivityBtn BtnId="3" map="74" image="btn_2.png" showType="0" login="1" toolbar="1" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=6706" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/3/2016 23:59:59" /> 
+
+
+<AutoActivityBtn  BtnId="1"  map="76" image="wangzhebang.png" showType="0"   login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6001" starttimeEx="1/17/2014 00:00:01" endtimeEx="3/17/2014 23:59:59" /> 
+<UserPowermanagement NotUse="0"/>
+<!-- !!!!IM好友选项卡 --> 
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImTimeBtn.bmp" picture="ImTimePic.bmp" NewTip="1" BtnTip="时间锦囊" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5753"/>
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImGoldBtn.bmp" picture="ImGoldPic.bmp" BtnTip="金币商城" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5754"/>
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImTopBtn.bmp" picture="ImTopPic.bmp" BtnTip="排行榜" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5755"/>
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImHotBtn.bmp" picture="ImHotPic.bmp" BtnTip="热门活动" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5756"/>
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImPartyBtn.bmp" picture="ImPartyPic.bmp" BtnTip="群雄派对" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5757"/>
+<ImActiveItem starttimeEx="4/1/2012 17:00:00" endtimeEx="6/18/2012 23:59:59" BtnImg="ImPartyBtn.bmp" picture="ImPartyPic.bmp" BtnTip="群雄派对" width="23" height="23" URL="http://pv.7fgame.com/PVCount.aspx?id=5754"/>
+<!-- 登录提示 --> 
+<loginPop text="您的账号安全系数为%d分!" CellImageIndex="13" rcText="255" linktext=">>查看" Url="http://pv.7fgame.com/?id=6681
+" showType="0" Login="1" width="690" height="490" starttimeEx="9/1/2015 00:00:01" endtimeEx="6/6/2017 23:59:59" ></loginPop>
+
+<loginPop text="您在游戏中的强化buff快过期了!" CellImageIndex="12" Flag="1" rcText="255" linktext=">>点击查看" Url="7fgame://type=clickmapitem/?mapid=81" showType="0" Login="1" width="690" height="490" starttimeEx="10/27/2014 17:00:00" endtimeEx="6/6/2015 23:59:59" ></loginPop>
+<loginPop text="您在游戏中的强化buff即将过期!" CellImageIndex="12" Flag="2" rcText="255" linktext=">>点击查看" Url="7fgame://type=clickmapitem/?mapid=81" showType="0" Login="1" width="690" height="490" starttimeEx="10/27/2014 17:00:00" endtimeEx="6/6/2015 23:59:59" ></loginPop>
+<loginPop text="通宝实物尽在网吧战" CellImageIndex="4" rcText="255" linktext=">>点击领取" Url="http://pv.7fgame.com/PVCount.aspx?id=6269" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="10/31/2014 23:59:59" ></loginPop>
+<loginPop text="手机T恤键鼠通宝" CellImageIndex="4" NetBarLV="3" rcText="255" linktext=">>点击领取" Url="http://pv.7fgame.com/PVCount.aspx?id=6355" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="1/31/2015 23:59:59" ></loginPop>
+<loginPop text="国风竞技大作，封测邀您共赏！" rcText="255" linktext=">>查看详情" Url="http://www.527fgame.com/News/000/026/311.shtml" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="12/12/2012 17:00:00"/>
+<loginPop text="荆州战役，丰厚俸禄。" CCellImageIndex="0" Flag="1" rcText="255" linktext=">>立即领取" Url="http://pv.7fgame.com/PVCount.aspx?id=5837" showType="1"  Login="1" width="500" height="320" starttimeEx="4/1/2012 17:00:00" endtimeEx="8/30/2013 17:00:00"></loginPop>
+<loginPop text="虎符达人享受尊贵特权" CellImageIndex="0"  Flag="2" rcText="255" linktext=">>包月虎符领取" Url="http://pv.7fgame.com/PVCount.aspx?id=5883" showType="1"  Login="1" width="690" height="660" starttimeEx="8/17/2013 17:00:00" endtimeEx="8/30/2015 17:00:00"></loginPop>
+<loginPop text="您还有%d个会员礼包没有领取" CellImageIndex="7" Flag="2" rcText="0" linktext=">>领取" Url="http://pv.7fgame.com/PVCount.aspx?id=5945" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"/>
+<loginPop text="您的会员还有%d天到期" CellImageIndex="7" Flag="1" rcText="0" linktext=">>续费" Url="http://pv.7fgame.com/PVCount.aspx?id=5939" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"/>
+<loginPop text="您的群雄达人还有%d天到期" CellImageIndex="8" rcText="0" linktext=">>续费" Url="http://pv.7fgame.com/PVCount.aspx?id=5939" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"/>
+<loginPop text="您的虎符达人还有%d天到期" CellImageIndex="9" rcText="0" linktext=">>续费" Url="http://pv.7fgame.com/PVCount.aspx?id=5883" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"/>
+<loginPop text="您的喇叭达人即将到期" CellImageIndex="10" rcText="0" linktext=">>续费" Url="http://pv.7fgame.com/PVCount.aspx?id=5939" showType="0" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"/>
+<loginPop text="完善联系信息，送50金币" CCellImageIndex="0" Flag="4" rcText="255" linktext=">>领取" Url="http://pv.7fgame.com/PVCount.aspx?id=5941" showType="0"  Login="1" width="500" height="320" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2014 17:00:00"/>
+<loginPop text="您有%d个道具即将到期" CellImageIndex="1" rcText="0" linktext=">>续费"  starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00" pv="5742"></loginPop>
+<loginPop text="周常任务今日已重置" CellImageIndex="2" subIndex="1" rcText="255" Bold="0" linktext=">>接受" Url="http://pv.7fgame.com/PVCount.aspx?id=5771" showType="1"  Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00" ></loginPop>
+<loginPop text="您有%d个任务正在进行中，即将完成" CellImageIndex="2" subIndex="2" rcText="255" Bold="0" linktext=">>查看" Url="http://pv.7fgame.com/PVCount.aspx?id=5771" showType="1" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00" ></loginPop>
+<loginPop text="新的一个月从签到开始" CellImageIndex="3" subIndex="1" rcText="255" Bold="0" linktext=">>签到" Url="http://pv.7fgame.com/PVCount.aspx?id=5770" showType="1" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"></loginPop>
+<loginPop text="您距离下个签到奖励还有%d天" CellImageIndex="3" subIndex="2" rcText="255" Bold="0" linktext=">>签到" Url="http://pv.7fgame.com/PVCount.aspx?id=5770" showType="1" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"></loginPop>
+<loginPop text="少年，冲击全勤奖励吧！" CellImageIndex="3" subIndex="3" rcText="255" Bold="0" linktext=">>签到" Url="http://pv.7fgame.com/PVCount.aspx?id=5770" showType="1" Login="1" width="690" height="490" starttimeEx="4/1/2012 17:00:00" endtimeEx="5/30/2019 17:00:00"></loginPop>
+<Battle id="3" roomid="1121" mapid="47" name="荆州之战" image="qx_battle_nomal.png" imagenum="qx_battle_num.png" isdefault="1" Visable="0"/>
+<AutoMatchTestItem num="10"/>
+<GameAdImage starttimeEx="5/18/2013 20:00:00" endtimeEx="5/21/2013 19:59:59" AdImage="game\resource\sanguo\ad\adImage.dds"/>
+<Sango2 flag="6"/> 
+<ExitAdImageConfig starttimeEx="6/6/2013 10:00:00" endtimeEx="6/12/2013 16:00:00" showtype="0" login="1" width="690" height="490"  LinkUrl="http://pv.7fgame.com/PVCount.aspx?id=5833" tszName="images\ad1.jpg"/>
+<RoomTopAdConfig map="47" login="1" width="320" height="80" url="http://pv.7fgame.com/PVCount.aspx?id=5918" starttimeEx="8/17/2013 01:00:00" endtimeEx="1/24/2014 20:00:00"/>
+<pveImage starttimeEx="1/24/2014 20:00:00" endtimeEx="6/12/2027 16:00:00" imagename="pve_image.png"/>
+<GamePort starttimeEx="1/24/2014 20:00:00" endtimeEx="6/12/2027 16:00:00" MapId="47" Type="0" bBottom="1" />
+<GamePort starttimeEx="1/24/2014 20:00:00" endtimeEx="6/12/2027 16:00:00" MapId="76" Type="1" bBottom="0" />
+<GamePort starttimeEx="1/24/2014 20:00:00" endtimeEx="6/12/2027 16:00:00" MapId="64" Type="0" bBottom="0" />
+<GamePort starttimeEx="1/24/2014 20:00:00" endtimeEx="6/12/2027 16:00:00" MapId="15" Type="1" bBottom="0" />
+<!-- TwoDmCodeType二维码小框 0默认 1每次 2首次 3每日首次 4记忆  -->
+<TwoDmCode starttimeEx="8/17/2015 15:00:00" endtimeEx="9/30/2020 15:00:00" TwoDmCodeType="2" Number="2" />
+<ShowDmcode starttimeEx="8/17/2015 15:00:00" endtimeEx="9/30/2020 15:00:00"/>
+<WuXunScore WuXunScoreMax="9900" WuXunScoreMin="9000" />
+<LegionTime starttimeEx="7/20/2015 15:00:00" endtimeEx="8/1/2015 21:00:01" />
+<AutoMatchTip starttimeEx="8/17/2015 15:00:00" endtimeEx="9/30/2015 15:00:00"  StartTip="群雄盒子劲爆福利海量虎符天天领#英雄资料抢先看#点击查看"/>
+<QxBuffer starttimeEx="8/21/2015 00:00:01" endtimeEx="8/31/2015 23:59:59"/>
+<QxMeshMainWnd starttimeEx="9/1/2015 00:00:01" endtimeEx="8/31/2017 23:59:59" MaxDay="180"/>
+<WuxunShare starttimeEx="9/21/2015 15:00:00" endtimeEx="8/1/2015 21:00:01"/>
+<WuxunLink starttimeEx="9/21/2015 15:00:01" endtimeEx="8/31/2017 23:59:59" AreaId="46" Width="842" Height="688" ShowStyle="0" AreaName="逐鹿战场" LinkName="赛事奖励" LinkUrl="http://pv.7fgame.com/PVCount.aspx?id=6690"/>
+<DefaultRoom starttimeEx="8/21/2014 00:00:01" endtimeEx="8/31/2017 23:59:59" MapId="47" AreaId="46" RoomId="1272"/>
+<WuxunRoomTip starttimeEx="5/9/2016 00:00:01" endtimeEx="6/30/2017 23:59:59" RoomIndex="1" Score="3000" RoomTip="&lt;ul ver='0' style='font-size=12px'&gt;&lt;li&gt;&lt;font color=BLACK&gt;新版武勋房间 点击进入&lt;/li&gt;&lt;/ul&gt;"/>
+<!-- 背包切换-->
+<PropActive starttimeEx="1/18/2016 00:00:01" endtimeEx="8/31/2020 23:59:59" /> 
+<!-- 活动切换-->
+<ShowActive starttimeEx="8/21/2012 00:00:01" endtimeEx="8/31/2018 23:59:59" />
+<!-- 手机绑定气泡-->
+<BoundPhoneTip starttimeEx="8/21/2012 00:00:01" endtimeEx="8/31/2015 23:59:59" PhoneTip="&lt;font size=12px color=#960025&gt;您还未绑定手机，绑定后可领取50金币&lt;/font&gt;"/>
+<!-- 三国争霸2安装完成后提示-->
+<SanGuo2Tip Width="60" Height="32" Tip="&lt;ul ver='0' style='font-size=12px'&gt;&lt;li&gt;&lt;font color=RED&gt;安装完成&lt;br&gt;&lt;/br&gt;点击进入&lt;/li&gt;&lt;/ul&gt;"/>
+<!-- 手机蒙版开关-->
+<BindPhone starttimeEx="1/11/2016 00:00:01" endtimeEx="8/31/2019 23:59:59"/>
+<!-- 退弹开关-->
+<ShowExitWeb starttimeEx="8/21/2014 00:00:01" endtimeEx="8/31/2020 23:59:59"/>
+<!-- 金戈推广开关-->
+<SanGuo2Game starttimeEx="8/21/2014 00:00:01" endtimeEx="8/31/2018 23:59:59" width="980" height="710" Url="http://pv.7fgame.com/PVCount.aspx?id=6782"/>
+<!-- 春节红包开关-->
+<ChunjieActive starttimeEx="1/26/2016 00:00:01" endtimeEx="3/10/2016 23:59:59"/>
+<!-- 手机绑定页面大小-->
+<MaskWebActive width="460" height="260"/>
+<!-- 顶部按钮 -->
+<TopBtnWebInfo Width="460" Height="260" ShowStyle="0" Login="0"/>
+<!-- 成就点显示 -->
+<HideWuxunChengJ starttimeEx="3/11/2000 06:00:00" endtimeEx="3/11/2016 06:00:00" />
+<!-- 任务提示 -->
+<GetTask starttimeEx="1/26/2016 00:00:01" endtimeEx="8/31/2025 23:59:59" TaskId= "900096,900099,900094,900097,900098,900100,900095,900115,900116,900117"
+ TaskTip="累计60次击杀,累计100次击杀,完成1局有效局,完成3局有效局,完成4局有效局,完成5局有效局,完成2局武勋局,完成1局武勋有效局,完成2局武勋有效局,完成3局武勋有效局"/>
+<!-- 背包道具提示 -->
+<VipBaoxiangTip starttimeEx="1/11/2016 00:00:01" endtimeEx="8/31/2018 23:59:59" VipBaoxId="5001599" VipBaoxTip="&lt;font size=12px color=#960025&gt;您有一个极品装备礼包未领取"/>
+<!-- 武勋神将榜 -->
+<WuxunSortBtn starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2016 23:59:59" />
+<!-- 武勋大厅 -->
+<WuxunStartTip starttimeEx="1/26/2016 00:00:01" endtimeEx="8/31/2018 23:59:59" WuxunTitle="新版武勋房间"/>
+<!-- 军团魂器按钮 -->
+<ShowHunQ starttimeEx="7/20/2016 15:00:00" endtimeEx="8/31/2035 23:59:59"/>
+<!-- 军团逃跑提示 -->
+<EscapeTip MinEscap="0" MaxEscap="5" EscapeTip="请健康游戏，逃跑会降低游戏收益"/>
+<EscapeTip MinEscap="5" MaxEscap="20" EscapeTip="游戏任务收益降低至80%"/>
+<EscapeTip MinEscap="20" MaxEscap="0" EscapeTip="游戏任务强无收益,请健康完成游戏"/>
+<!-- 代金券气泡提示 -->
+<PayTip starttimeEx="1/26/2016 00:00:01" endtimeEx="8/31/2018 23:59:59" PayW="153" PayH="18" Tip="&lt;font size=12px color=#960025&gt;您有充值优惠券还未使用 &lt;/font&gt;"/>
+<!-- 背包弹出 -->
+<PropId starttimeEx="1/26/2016 00:00:01" endtimeEx="8/31/2018 23:59:59" nId="5001627"/>
+<!-- 赛季名称 -->
+<WuxunTitle Title="武勋段位"/>
+<PreWuxunLvTip starttimeEx="7/20/2014 15:00:00" endtimeEx="8/31/2020 23:59:59" 
+Text="上赛季武勋达到百夫长段位|上赛季武勋达到千夫长段位|上赛季武勋达到万夫长段位|上赛季武勋达到大将军段位|上赛季武勋达到绝世名将段位|上赛季武勋达到绝世名将段位"/>
+<!-- 永久被选中 -->
+<AllSelectPropID paramidlist="" />
+<!-- 默认被选中，可取消 -->
+<CanNoSelectPropID paramidlist="" />
+<!--匹配房间WEB广告位-->
+<AutoMatchWeb starttimeEx="1/17/2017 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="1272" pvId="6911" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="1/17/2017 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="2703" pvId="6912" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/17/2017 18:00:01" endtimeEx="4/17/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/18/2017 18:00:01" endtimeEx="4/18/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/19/2017 18:00:01" endtimeEx="4/19/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/20/2017 18:00:01" endtimeEx="4/20/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/21/2017 14:00:01" endtimeEx="4/21/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/22/2017 14:00:01" endtimeEx="4/22/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/23/2017 14:00:01" endtimeEx="4/23/2017 23:59:59" RoomId="1069" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/17/2017 18:00:01" endtimeEx="4/17/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/18/2017 18:00:01" endtimeEx="4/18/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/19/2017 18:00:01" endtimeEx="4/19/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/20/2017 18:00:01" endtimeEx="4/20/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/21/2017 14:00:01" endtimeEx="4/21/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/22/2017 14:00:01" endtimeEx="4/22/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="4/23/2017 14:00:01" endtimeEx="4/23/2017 23:59:59" RoomId="2701" pvId="6909" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="3365" pvId="6941" AdvPos="1"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="3365" pvId="6940" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="1069" pvId="6946" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="2701" pvId="6946" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="535" pvId="6946" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="748" pvId="6946" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<AutoMatchWeb starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" RoomId="3430" pvId="6959" AdvPos="2" TopRed="91" TopGreen="138" TopBlue="150" BotRed="140" BotGreen="181" BotBlue="191"/>
+<!--是否显示IM位置的广告位-->
+<IMwebAdv starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59"/>
+<!--地图列表旁边的广告位-->
+<ActiveTitle Title="名将录"/>
+<!--地图列表赛事中心标题-->
+<FuliTitle Title="赛事中心"/>
+<!--背包道具过去提示-->
+<PropExpireTip starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2019 23:59:59" ExpireText="&lt;font size=12px color=#960025&gt;您有道具即将过期，请尽快使用 &lt;/font&gt;"/>
+<!--召回令提示-->
+<RecallTip starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2016 23:59:59" text="&lt;ul ver='0' style='font-size=12px'&gt;&lt;li&gt;&lt;font color=BLACK&gt;#群雄老友记# 召回好友领虎符啦！&lt;/li&gt;&lt;/ul&gt;"/>
+<!--迅游入口显示控制-->
+<XunyouSpeed starttimeEx="9/21/2000 15:00:01" endtimeEx="8/31/2021 23:59:59"/>
+<!--积分框成就内容控制-->
+<ShowNewScore starttimeEx="4/25/2017 15:00:01" endtimeEx="8/31/2022 23:59:59" />
+<!--千军斩-->
+<QianJunInfo starttimeEx="9/21/2015 15:00:01" endtimeEx="8/31/2017 23:59:59" AreaId="40" width="842" height="688" ShowType="0" Caption="千军斩模式" Title="兑换虎符" Url="http://pv.7fgame.com/PVCount.aspx?id=6945"/>
+<!--新武勋段位显示-->
+<IsShowWuxunLv starttimeEx="5/24/2017 14:50:01" endtimeEx="6/2/2019 23:59:59"/>
+<!--组队匹配限制按钮-->
+<WunxunRoom starttimeEx="5/24/2017 14:50:01" endtimeEx="6/2/2019 23:59:59" arrRoomId="1069,2701"/>
+<!--武勋匹配分差-->
+<WuXunScore WuXunScoreMax="2751" WuXunScoreMin="750"/>
+<!--改名卡入口-->
+<ModifyUserName starttimeEx="6/1/2016 00:00:01" endtimeEx="6/2/2020 23:59:59"/>
+<!--英雄节活动-->
+<IsShowHeroXZ starttimeEx="8/10/2017 10:00:00" endtimeEx="9/19/2017 23:59:59"/>
+<!--群雄2广告弹框活动-->
+<QunXiongAdv starttimeEx="10/3/2017 14:00:00" endtimeEx="10/26/2017 23:59:59"/>
+<!--新版魂玉测试-->
+<NewHunyuTips starttimeEx="10/3/2017 14:00:00" endtimeEx="10/26/2017 23:59:59" offset_X="0" offset_Y="0" HyTips="&lt;font size=12px color=#960025&gt;免费领取新版魂玉 &lt;/font&gt;"/>
+<!--经验卡三倍卡提示-->
+<WuxunBufferTips starttimeEx="8/10/2017 10:00:00" endtimeEx="9/19/2025 23:59:59" bufferTips="逐鹿战场胜场三倍卡*%d;#逐鹿战场经验加成胜场卡*%d;#逐鹿战场负场保护卡*%d; "/>
+</content>

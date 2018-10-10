@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="80">
+<!--CommonToolTipInfo使用说明 starttimeEx开始时间 endtimeE结束时间
+ TszFlag标示符每个配置都不一样唯一性可以随便写字符串保证不同
+ TipId 气泡ID ModuleType模块类型： 1主界面 2.地图列表 3.房间列表
+ OffSetType//主界面拉伸位置定位 默认0 左上角 1右上角 3.右底
+ IsImMsg 是否IM通知的气泡 MapId 地图ID PropId道具ID RoomId 房间ID dwPopType //0.每次登录提示 1. 每天只提示一次 2.永久提示一次
+ OffSetX OffSetY 气泡偏移量 HoldTime弹出时间(秒) 
+ Direct 箭头方向0顶部左边 1顶部右边2顶部中间 16底部左边 17底部右边 18底部中间
+ 32左边顶部 33左边底部 34左边中间 48右边顶部 49右边底部 50右边中部
+ Anchor 箭头的长度 MarginCx箭头宽 MarginCy箭头高 beginR beginG beginB开始背景色endR endG endB结束背景色（可以渐变）
+ borderR borderG borderB 边框色 textR textG textB 文本颜色 TipWidth TipHeight 气泡宽高 closeImg 关闭按钮图片名称
+ Content 气泡提示内容 strUrl 执行的URL链接 LoginType 登录类型0.不登录 1.强制登录 2.自动登录
+ ShowType 显示类型//1.弹IE 2.弹内嵌页 WebWidth WebHeight 弹框WEB页宽高 IsToolbarStyel 是否显示工具条-->
+<CommonToolTipInfo starttimeEx="10/18/2017 00:00:00" endtimeEx="10/25/2019 23:59:59" TszFlag="qipaoTi" TipId="0" ModuleType="3" OffSetType="1" 
+	IsImMsg="0" MapId="0" RoomId="3722" PropId="" PropType="75" OffSetX="140" OffSetY="25" dwPopType="0" HoldTime="1000" Direct="34" Anchor="4" MarginCx="8" MarginCy="4" beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+	borderG="0" borderB="37" textR="100" textG="2" textB="26" TipWidth="210" TipHeight="20" closeImg="pptooltip_btn.bmp" Content="&lt;font size=12px color=#960025&gt;新版体验强势来袭，做任务领专属虎符！" strUrl="" 
+	LoginType="0" ShowType="0" WebWidth="400" WebHeight="300" IsToolbarStyel="1">
+</CommonToolTipInfo>
+<CommonToolTipInfo starttimeEx="11/17/2017 00:00:00" endtimeEx="11/22/2017 23:59:59" TszFlag="qipaoTi" TipId="0" ModuleType="3" OffSetType="1" 
+	IsImMsg="0" MapId="0" RoomId="1070" PropId="" PropType="75" OffSetX="-30" OffSetY="560" dwPopType="0" HoldTime="1000" Direct="34" Anchor="4" MarginCx="6" MarginCy="4" beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+	borderG="0" borderB="37" textR="100" textG="2" textB="26" TipWidth="500" TipHeight="20" closeImg="pptooltip_btn.bmp" Content="&lt;font size=12px color=#960025&gt;天枢齐玉衡开，十全十美十将星齐聚星魂盘，还不来看看有没有你的爱？！&lt;/a&gt;" strUrl="" 
+	LoginType="0" ShowType="0" WebWidth="400" WebHeight="300" IsToolbarStyel="1">
+</CommonToolTipInfo>
+<CommonToolTipInfo starttimeEx="4/17/2017 01:00:00" endtimeEx="4/23/2017 23:59:59" TszFlag="qipaoTi" TipId="0" ModuleType="3" OffSetType="0" 
+	IsImMsg="0" MapId="47" RoomId="1069" OffSetX="140" OffSetY="115" dwPopType="0" HoldTime="1000" Direct="34" Anchor="4" MarginCx="6" MarginCy="4" beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+	borderG="0" borderB="37" textR="100" textG="2" textB="26" TipWidth="300" TipHeight="45" closeImg="pptooltip_btn.bmp" Content="&lt;font size=12px color=#960025&gt;4月17日-4月20日，18:00-24:00；武勋双倍经验不间断！&lt;/li&gt;4月21日-4月23日，14:00-24:00；武勋双倍经验不间断！&lt;/li&gt;" strUrl="" 
+	LoginType="0" ShowType="0" WebWidth="400" WebHeight="300" IsToolbarStyel="1">
+</CommonToolTipInfo>
+<CommonToolTipInfo starttimeEx="10/18/2017 00:00:00" endtimeEx="12/18/2017 23:59:59" TszFlag="qipaoTi" TipId="0" ModuleType="3" OffSetType="0" 
+	IsImMsg="0" MapId="0" RoomId="535" PropId="" PropType="75" OffSetX="-20" OffSetY="205" dwPopType="0" HoldTime="120" Direct="34" Anchor="4" MarginCx="6" MarginCy="4" beginR="255" beginG="242" beginB="184" endR="255" endG="255" endB="254" borderR="150" 
+	borderG="0" borderB="37" textR="100" textG="2" textB="26" TipWidth="228" TipHeight="30" closeImg="pptooltip_btn.bmp" Content="&lt;font size=12px color=#960025&gt;星魂盘全新改版，重转消耗不增加！&lt;/li&gt;赶紧来定制属于你的专属将星魂玉吧！&lt;/li&gt;" strUrl="" 
+	LoginType="0" ShowType="0" WebWidth="400" WebHeight="300" IsToolbarStyel="1">
+</CommonToolTipInfo>
+<PopTipItem QiPaoId="0" MapId="7656" TszFlag="juntuanqipaoa" PopFlag="0" starttimeEx="9/30/2016 23:00:00" endtimeEx="11/7/2016 23:59:59" 
+		OffSetX="49" OffSetY="22" ImTip="0" PopTime="0" beginR="255" beginG="242" beginB="184" 
+		endR="255" endG="255" endB="254" borderR="150" borderG="0" borderB="37" 
+		textR="100" textG="2" textB="26" TipW="160" TipH="20" closeimg="pptooltip_btn.bmp" LoginType="1" LinkShowType="1" LinkWidth="100" LinkHeight="100">
+		&lt;font size=12px color=#960025&gt;新一波『虎符』免费领取啦  &lt;/font&gt;
+</PopTipItem>
+
+<!-- !!!!匹配房按钮 --> 
+<!-- <AutoActivityBtn BtnId="0" map="47" image="BuySkin.png" showType="1" login="1" width="1000" height="750" bTip="1" Tip="&lt;font size=12px color=#960025&gt;海量好礼等你来拿&lt;/font&gt;" url="http://pv.7fgame.com/PVCount.aspx?id=6478" starttimeEx="1/24/2015 15:00:00" endtimeEx="9/2/2018 15:00:00" /> 
+<AutoActivityBtn BtnId="1" map="47" image="am_btn_hf.png" showType="2" login="1" toolbar="1"  bTip="1" Tip="&lt;font size=12px color=#960025&gt;海量好礼等你来拿&lt;/font&gt;" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=5496" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" /> 
+<AutoActivityBtn BtnId="2" map="47" bJiangHun="1" image="amqxhunyu.png" showType="3" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="5/3/2016 23:59:59" /> 
+
+<AutoActivityBtn BtnId="3" map="74" image="dashiSai.png" showType="0" login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6407" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/3/2015 23:59:59" /> 
+
+ <AutoActivityBtn BtnId="3" map="47" image="btn_2.png" showType="0" login="1" toolbar="1" width="840" height="620" url="http://pv.7fgame.com/PVCount.aspx?id=6706" starttimeEx="1/24/2015 15:00:00" endtimeEx="3/3/2016 23:59:59" /> 
+ <AutoActivityBtn  BtnId="1"  map="47" image="wangzhebang.png" showType="0"   login="1" toolbar="1" width="950" height="750" url="http://pv.7fgame.com/PVCount.aspx?id=6001" starttimeEx="1/17/2014 00:00:01" endtimeEx="3/17/2020 23:59:59" />  -->
+
+		<!--顶部活动--> 
+		<ActiveItem BtnId="0" MapId="7654" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2017 23:59:59" szBtnTip="更多" 
+		BtnImg="22_45.jpg" BmpWidth="22" BmpHeight="45" OffSetX="45" OffSetY="-5" Login="1" showType="6" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6465" >
+		</ActiveItem>
+
+		<!--起凡大乱斗-->
+		<ActiveItem BtnId="0" MapId="7656" starttimeEx="30/10/2012 00:00:00" endtimeEx="12/20/2020 9:59:59" szBtnTip="起凡大乱斗" 
+		BtnImg="7656.png" BmpWidth="49" BmpHeight="49" OffSetX="-10" OffSetY="-7" Login="1" showType="1" TipW="1280" 
+		TipH="650" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6918">
+		</ActiveItem>
+		
+		<!--星魂盘-->
+		<ActiveItem BtnId="0" MapId="7658" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2020 23:59:59" szBtnTip="星魂盘" 
+		BtnImg="7658.png" BmpWidth="49" BmpHeight="49" OffSetX="-10" OffSetY="-7" Login="1" showType="1" TipW="1280" 
+		TipH="650" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6956">
+		</ActiveItem>
+		
+		<!-- 群雄 --> 
+		<ActiveItem BtnId="0" MapId="47" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="时间锦囊" 
+		BtnImg="546.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		
+		<ActiveItem BtnId="0" MapId="47" starttimeEx="12/12/2014 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="魂玉系统" 
+		BtnImg="hunyu.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="5" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+		
+		<ActiveItem BtnId="0" MapId="61" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="魂玉系统" 
+		BtnImg="hunyu.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="0" Login="1" showType="5" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5753" >
+		</ActiveItem>
+
+		<!-- 登录提示 --> 
+		<ActiveItem BtnId="1" MapId="47" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2011 23:59:59" szBtnTip="武勋虎符" 
+		BtnImg="47_dafuweng.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="1" TipW="840" 
+		TipH="620" toolbar="1"  ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6442">
+		</ActiveItem>
+		
+		<ActiveItem BtnId="0" MapId="81" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="三国争霸2" 
+		BtnImg="sg2.gif" BmpWidth="48" BmpHeight="48" OffSetX="-10" OffSetY="-7" Login="1" showType="6" TipW="968" 
+		TipH="656" ActivePv="https://static.7fgame.com/sgzb2notice.html" >
+		</ActiveItem>
+		
+		<PopTipItem QiPaoId="0" MapId="7655" TszFlag="juntuanqipao" PopFlag="0" 
+		starttimeEx="7/7/2016 18:00:00" endtimeEx="10/27/2015 23:59:59" 
+		OffSetX="49" OffSetY="22" ImTip="0" PopTime="0" 
+		beginR="255" beginG="242" beginB="184" 
+		endR="255" endG="255" endB="254" 
+		borderR="150" borderG="0" borderB="37" 
+		textR="100" textG="2" textB="26" TipW="115" TipH="20" 
+		closeimg="pptooltip_btn.bmp" LoginType="1" LinkShowType="1" LinkWidth="100" LinkHeight="100">
+&lt;font size=12px color=#960025&gt;点击立即加入大战役  &lt;/font&gt;
+		</PopTipItem>
+		<!-- 金戈铁马 --> 
+		<ActiveItem BtnId="1" MapId="15" starttimeEx="10/10/2012 23:59:59" endtimeEx="11/22/2025 23:59:59" szBtnTip="金币商城" 
+		BtnImg="47_activepv.gif" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=5754" >
+		</ActiveItem>
+		<ActiveItem BtnId="1" MapId="76" starttimeEx="1/24/2014 00:00:01" endtimeEx="12/31/2025 23:59:59" szBtnTip="金戈虎符达人" 
+		BtnImg="hufudaren.png" BmpWidth="20" BmpHeight="20" OffSetX="45" OffSetY="23" Login="1" showType="0" TipW="968" 
+		TipH="656" ActivePv="http://pv.7fgame.com/PVCount.aspx?id=6006" >
+		</ActiveItem>
+		<BubbleInfo nType="0" MapId="81" Width="300" height="300" Frame="4" OffSetx="60" offSety="100" InSetWidth="163" InSetHeight="135" InsetOffSetX="100" InsetOffSetY="30" CloseX="139"  CloseY="0" ImgName="flashTipWnd1.png"
+		FontSize="12" BgRedColor="255" BgGreenColor="255" BgBlueColor="255" FontRedColor="255" FontGreenColor="0" FontBlueColor="0" LinkRedColor="0" LinkGreenColor="0" LinkBlueColor="255"></BubbleInfo>
+		<BubbleInfo nType="1" MapId="81" Width="300" height="300" Frame="3" OffSetx="60" offSety="100" InSetWidth="190" InSetHeight="106" InsetOffSetX="60" InsetOffSetY="22" CloseX="166"  CloseY="0" ImgName="flashTipWnd2.png"
+		FontSize="12" BgRedColor="255" BgGreenColor="255" BgBlueColor="255" FontRedColor="255" FontGreenColor="0" FontBlueColor="0" LinkRedColor="0" LinkGreenColor="0" LinkBlueColor="255"></BubbleInfo>
+</content>
+
+
+

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gamelist ver="5">
+	<game id="9">
+		<filename value="SG2Launch.exe" timeout="60" />
+		<filepath value="" />
+		<register key ="" value="" />
+		<qfregister key = "SoftWare\\qifan\\sanguo2" value="path" />
+	  <command value="-port=[%PORT%] -wnd=[%PHWND%] -thr=[%THRID%] -pid=[%PID%] -ptype=qf -flg=[%UFLG%] -fcm=[%FCM%] -resv=[%RESV%] -usract=1" value2="-InternalMode=1 -lnchmode=2 -gumode=1" />
+		<lcldir value="sango2\" />
+		<inidir value="gamever.ini" appname="Game" keyname="Ver" />
+	</game>
+	<game id="10008">
+		<filename value="PVELauncher.exe" timeout="60" />
+		<filepath value="" />
+		<register key ="" value="" />
+		<qfregister key = "SoftWare\\qifan\\pve" value="path" />
+		<command value="-port=[%PORT%] -wnd=[%PHWND%] -thr=[%THRID%] -pid=[%PID%] -ptype=qf -flg=[%UFLG%] -fcm=[%FCM%] -resv=&quot;[%RESV%]&quot;"/>
+		<lcldir value="pve\launcher\" />
+		<inidir value="gamever.ini" appname="Game" keyname="Ver" />
+	</game>
+</gamelist>

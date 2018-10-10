@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<content ver="179">
+    <!-- loading界面推荐皮肤 heroId英雄编号 number皮肤编号 notes显示文字 order排序编号-->
+    <Recommendedhero heroId="141" number="2" notes="武勋兑换获得" order="1" />
+    <!-- 马岱第2套 -->
+    <Recommendedhero heroId="28" number="1" notes="军团兑换获得" order="2" />
+    <!-- 张辽第1套 -->
+    <Recommendedhero heroId="316" number="2" notes="武魂盒获得" order="3" />
+    <!-- 李严第2套 -->
+    <Recommendedhero heroId="179" number="1" notes="演出得兑换获得" order="4" />
+    <!-- 大乔第1套 -->
+    <Recommendedhero heroId="0" number="0" notes="武勋兑换获得" order="5" />
+    <!-- 无皮肤 -->
+    <ul ocme="Qm9ubmVudUnHs8qxueJp" obme="wLbJq9i8ycvQxMDhMg==" oame="sK7J+rvusK6/1b/V" />
+</content>

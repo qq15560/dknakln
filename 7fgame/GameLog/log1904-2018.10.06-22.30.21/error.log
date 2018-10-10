@@ -1,0 +1,61 @@
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/adazhao, size is not power of 2 w:32,h:180 
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/ayinfu, size is not power of 2 w:64,h:96 
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/face, size is not power of 2 w:152,h:152 
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/zishuai, size is not power of 2 w:216,h:244 
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/zizhu, size is not power of 2 w:232,h:248 
+VFS_FOpen(resource/sanguo/ui/sanguo_b.map.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/SG_A_Rocks01.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/SG_A_Tree02.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/SG_wings_03.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/SG_wings_02.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Silver_Diff1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Silver_Diff2.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Copper_Diff1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Copper_Diff2.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Gold_Diff1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/StatueB_Gold_Diff2.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/SG_A_Rocks03.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/000000368.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/000000024.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/000015.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/Wing_Horse.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_Horse002.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_WeaponR_003_1.dds) error! LastError=2
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/ui/node, size is not power of 2 w:12,h:12 
+VFS_FOpen(resource/sanguo/effect/HFemale_Body_101_1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/Qx_LampA_Diff.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/Denga_Diff1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/OWL.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_dilie001_L.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_dilie001.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/E_T_5456.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/E_T_1469.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/E_T_0534.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/E_T_5374.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/E_T_5124.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/Quan_001.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/SG_A_Tree01.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/tongqian.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/SG_wings_01.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/bingkuai1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_HuoQiu_01.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/p_d_0060a.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/9dfae.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_Hero_015a.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/6.dds) error! LastError=2
+MPTexSet::_CreateNewRawData, texture :resource/sanguo/effect/sparks_zy_0004, size is not power of 2 w:249,h:249 
+VFS_FOpen(resource/sanguo/effect/serial040.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/chilun.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/fdasf.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/LightningBlue.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/Rabbit_Diff.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/Qx_Hero069b_Diff1.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_SQ_WQ_A.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/p_d_0050.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/GreenParticle.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/nanguadeng.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/weiyan_Diff.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/p_m_0138.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/model/Fenghuang_FX.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/QX_shibing_009a.dds) error! LastError=2
+VFS_FOpen(resource/sanguo/effect/0000000001362.dds) error! LastError=2

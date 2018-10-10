@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Config>
+	<AllTopBtn>
+		<!-- type:打开页面(1) 断线重连(2) 客服(3) 直播(4)-->
+		<TopBtn type="1" text="起凡官网" autologin="1" sno="5001">
+			<ImgFile>main_topbtn_0.png</ImgFile>
+			<URL>http://www.527fgame.com/</URL>
+		</TopBtn>
+		<TopBtn type="5" text="会员中心" autologin="1" sno="5008" Width="682" Height="500">
+			<ImgFile>main_topbtn_8.png</ImgFile>
+		<URL>http://pvcount.7fgame.com/PVCount.aspx?id=6367</URL>
+		</TopBtn>
+		<TopBtn type="1" text="道具商城" autologin="1" sno="5002">
+			<ImgFile>main_topbtn_11.png</ImgFile>
+			<URL>http://pv.7fgame.com/PVCount.aspx?id=6318</URL>
+		</TopBtn>
+		<TopBtn type="1" text="充值中心" autologin="1" sno="5003">
+			<ImgFile>main_topbtn_10.png</ImgFile>
+			<URL>http://pv.7fgame.com/PVCount.aspx?id=2274</URL>
+		</TopBtn>
+
+		<!-- 
+		<TopBtn type="4" text="直播" autologin="0" sno="5004">
+			<ImgFile>main_topbtn_6.png</ImgFile>
+			<URL></URL>
+		</TopBtn>
+		-->
+		<!-- 
+		<TopBtn type="1" text="游戏论坛" autologin="1" sno="5005">
+			<ImgFile>main_topbtn_3.png</ImgFile>
+			<URL>http://pv.7fgame.com/PVCount.aspx?id=1720</URL>
+		</TopBtn>
+		-->
+		<TopBtn type="2" text="断线重连" autologin="0" sno="5006">
+			<ImgFile>main_topbtn_4.png</ImgFile>
+			<URL></URL>
+		</TopBtn>
+		<TopBtn type="3" text="在线客服" autologin="1" sno="5007">
+			<ImgFile>main_topbtn_5.png</ImgFile>
+			<URL>http://pvcount.7fgame.com/PVCount.aspx?id=5250</URL>
+		</TopBtn>
+		<TopBtn type="1" text="积分兑换" autologin="1" sno="5009">
+			<ImgFile>main_topbtn_1.png</ImgFile>
+			<URL>http://pv.7fgame.com/?id=6492</URL>
+		</TopBtn>
+		<!--
+		<TopBtn type="1" text="" autologin="1" sno="5008">
+			<ImgFile>main_topbtn_12.png</ImgFile>
+			<URL>http://pv.7fgame.com/PVCount.aspx?id=3507</URL>
+		</TopBtn>
+		<TopBtn type="1" text="未知" autologin="0">
+			<ImgFile>main_topbtn_8.png</ImgFile>
+			<URL></URL>
+		</TopBtn>
+		-->
+	</AllTopBtn>
+</Config>

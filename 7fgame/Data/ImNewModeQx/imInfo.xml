@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="9">
+	<ShellBkg imgname ="SysInfob_bkg.png"/>
+	<SubDlgBkg imgname ="SubWndBkg.png" contentx ="45" contenty="30" contentw="325" contenth="160" left="177" top="138" width="425" height="255"/>
+	<OkBkg imgname ="SysInfob_ok.png" left="145" top="216" width="258" height="55"/>
+	<CloseBkg imgname ="SysInfo_close.png" left="391" top="9" width="32" height="43"/>
+</content>

@@ -1,0 +1,10 @@
+28697, ================================================================
+28697,  p_control_id = 13
+28697,  gold_bonus = 6541 Gold_Give_Rate = 100
+28697,  reconnect_chest_bonus = 3271 Reconnect_Chest_Value_Factor = 50
+28697,  G_Tab.PLAYER[13].resource.gold = 8013
+33748, ================================================================
+33748,  p_control_id = 13
+33748,  gold_bonus = 3656 Gold_Give_Rate = 100
+33748,  reconnect_chest_bonus = 1828 Reconnect_Chest_Value_Factor = 50
+33748,  G_Tab.PLAYER[13].resource.gold = 11713

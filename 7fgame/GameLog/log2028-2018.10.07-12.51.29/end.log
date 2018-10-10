@@ -1,0 +1,106 @@
+5, 查询到的结果0
+5, 付费积分 = 414
+5, 查询到的结果0
+5, 付费积分 = 598
+5, 查询到的结果5
+5, 付费积分 = 623
+5, 查询到的结果0
+5, 付费积分 = 996
+5, 查询到的结果0
+5, 付费积分 = 461
+5, 查询到的结果0
+5, 付费积分 = 554
+5, 查询到的结果5
+5, 付费积分 = 1053
+5, 查询到的结果0
+5, 付费积分 = 541
+5, 查询到的结果0
+5, 付费积分 = 483
+5, 查询到的结果0
+5, 付费积分 = 547
+5, 查询到的结果0
+5, 付费积分 = 473
+5, 查询到的结果0
+5, 付费积分 = 880
+5, 查询到的结果1049609
+5, 付费积分 = 441
+5, 查询到的结果0
+5, 付费积分 = 567
+5, 查询到的结果5
+5, 付费积分 = 950
+5, 查询到的结果0
+5, 付费积分 = 836
+5, 查询到的结果0
+5, 付费积分 = 507
+5, 查询到的结果4
+5, 付费积分 = 659
+5, 查询到的结果0
+5, 付费积分 = 447
+5, 查询到的结果2
+5, 付费积分 = 1062
+609, Check_Herostyle control =5, unit_id=85 , style=0
+621, Check_Herostyle control =20, unit_id=385 , style=0
+633, Check_Herostyle control =6, unit_id=180 , style=0
+721, Check_Herostyle control =19, unit_id=188 , style=0
+789, Check_Herostyle control =4, unit_id=186 , style=0
+789, Check_Herostyle control =16, unit_id=141 , style=0
+789, Check_Herostyle control =1, unit_id=330 , style=0
+801, Check_Herostyle control =18, unit_id=277 , style=0
+809, Check_Herostyle control =13, unit_id=255 , style=0
+853, Check_Herostyle control =17, unit_id=50 , style=0
+857, Check_Herostyle control =7, unit_id=61 , style=0
+965, Check_Herostyle control =14, unit_id=268 , style=0
+1053, Check_Herostyle control =11, unit_id=149 , style=0
+1261, Check_Herostyle control =9, unit_id=260 , style=0
+2145, Check_Herostyle control =8, unit_id=328 , style=0
+2245, Check_Herostyle control =3, unit_id=29 , style=0
+2405, Check_Herostyle control =10, unit_id=146 , style=0
+2861, Check_Herostyle control =12, unit_id=26 , style=0
+3013, Check_Herostyle control =2, unit_id=88 , style=0
+3973, Check_Herostyle control =15, unit_id=13 , style=0
+138453, 查询到的结果0
+138453, 付费积分 = 414
+138453, 查询到的结果1049609
+138453, 付费积分 = 441
+138453, 查询到的结果0
+138453, 付费积分 = 554
+138453, 查询到的结果0
+138453, 付费积分 = 541
+138453, 查询到的结果0
+138453, 付费积分 = 507
+138453, 查询到的结果0
+138453, 付费积分 = 494
+138453, 查询到的结果0
+138453, 付费积分 = 996
+138453, 查询到的结果0
+138453, 付费积分 = 836
+138453, 查询到的结果5
+138453, 付费积分 = 950
+138453, 查询到的结果0
+138453, 付费积分 = 473
+138453, 查询到的结果5
+138453, 付费积分 = 623
+138453, 查询到的结果4
+138453, 付费积分 = 659
+138453, 查询到的结果0
+138453, 付费积分 = 461
+138457, 查询到的结果0
+138457, 付费积分 = 547
+138457, 查询到的结果0
+138457, 付费积分 = 567
+138461, 查询到的结果5
+138461, 付费积分 = 1053
+138461, 查询到的结果2
+138461, 付费积分 = 1062
+138461, 查询到的结果0
+138461, 付费积分 = 483
+138469, 查询到的结果0
+138469, 付费积分 = 880
+138469, 查询到的结果0
+138469, 付费积分 = 447
+138731, uploadScore       in
+138731, uploadScore      in score2
+138731, pcs;190;229;100;143;238;26;70;202;77;188;98;176;96;44;218;67
+138731, uploadScore       return
+138731, uploadScore       done
+Game::Disconnect!

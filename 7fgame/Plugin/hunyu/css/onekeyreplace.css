@@ -1,0 +1,272 @@
+QPushButton#OneKeyReplace_Save {
+    border-image: url(./Images/btn_save.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Save:hover {
+    border-image: url(./Images/btn_save.png) 27 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Save:pressed {
+    border-image: url(./Images/btn_save.png) 54 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Save:disabled {
+    border-image: url(./Images/btn_save.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Cancel {
+    border-image: url(./Images/btn_cancel.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Cancel:hover {
+    border-image: url(./Images/btn_cancel.png) 27 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Cancel:pressed {
+    border-image: url(./Images/btn_cancel.png) 54 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Cancel:disabled {
+    border-image: url(./Images/btn_cancel.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Confirm {
+    border-image: url(./Images/ConfirmBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Confirm:hover {
+    border-image: url(./Images/ConfirmBtn.png) 45 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Confirm:pressed {
+    border-image: url(./Images/ConfirmBtn.png) 90 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Confirm:disabled {
+    border-image: url(./Images/ConfirmBtn.png) 135 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Close {
+    border-image: url(./Images/CloseBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Close:hover {
+    border-image: url(./Images/CloseBtn.png) 31 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Close:pressed {
+    border-image: url(./Images/CloseBtn.png) 62 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Close {
+    border-image: url(./Images/CloseBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyReplace_Close:hover {
+    border-image: url(./Images/CloseBtn.png) 31 0 0 0 repeat repeat;
+}
+
+
+QPushButton#Pokedex_BaseAttr {
+    border-image: url(./Images/btn_baseattr.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_BaseAttr:hover {
+    border-image: url(./Images/btn_baseattr.png) 46 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_BaseAttr:pressed {
+    border-image: url(./Images/btn_baseattr.png) 92 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_BaseAttr:checked {
+    border-image: url(./Images/btn_baseattr.png) 138 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_BaseAttr:disabled {
+    border-image: url(./Images/btn_baseattr.png) 184 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_HeroSoul {
+    border-image: url(./Images/btn_herosoul.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_HeroSoul:hover {
+    border-image: url(./Images/btn_herosoul.png) 46 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_HeroSoul:pressed {
+    border-image: url(./Images/btn_herosoul.png) 92 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_HeroSoul:checked {
+    border-image: url(./Images/btn_herosoul.png) 138 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_HeroSoul:disabled {
+    border-image: url(./Images/btn_herosoul.png) 184 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Wei {
+    border-image: url(./Images/btn_wei.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Wei:hover {
+    border-image: url(./Images/btn_wei.png) 32 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Wei:pressed {
+    border-image: url(./Images/btn_wei.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Wei:checked {
+    border-image: url(./Images/btn_wei.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Wei:disabled {
+    border-image: url(./Images/btn_wei.png) 128 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Shu {
+    border-image: url(./Images/btn_shu.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Shu:hover {
+    border-image: url(./Images/btn_shu.png) 32 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Shu:pressed {
+    border-image: url(./Images/btn_shu.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Shu:checked {
+    border-image: url(./Images/btn_shu.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Shu:disabled {
+    border-image: url(./Images/btn_shu.png) 128 0 0 0 repeat repeat;
+}
+
+QPushButton#JXTJ_Classify {
+    border-image: url(./Images/jxtj_classify.png) 0 0 0 0 repeat repeat;
+    color:#BAB29B;
+    font-family:SimSun;
+    font-size:12px;
+}
+
+QPushButton#JXTJ_Classify:hover {
+    border-image: url(./Images/jxtj_classify.png) 30 0 0 0 repeat repeat;
+}
+
+QPushButton#JXTJ_Classify:pressed {
+    border-image: url(./Images/jxtj_classify.png) 60 0 0 0 repeat repeat;
+}
+
+QPushButton#JXTJ_Classify:checked {
+    border-image: url(./Images/jxtj_classify.png) 90 0 0 0 repeat repeat;
+    color:#FFD648;
+}
+
+QPushButton#JXTJ_Classify:disabled {
+    border-image: url(./Images/jxtj_classify.png) 120 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Neutral {
+    border-image: url(./Images/btn_neutral.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Neutral:hover {
+    border-image: url(./Images/btn_neutral.png) 32 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Neutral:pressed {
+    border-image: url(./Images/btn_neutral.png) 64 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Neutral:checked {
+    border-image: url(./Images/btn_neutral.png) 96 0 0 0 repeat repeat;
+}
+
+QPushButton#HeroSoulDlg_Neutral:disabled {
+    border-image: url(./Images/btn_neutral.png) 128 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_Exit {
+    border-image: url(./Images/CloseBtn.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_Exit:hover {
+    border-image: url(./Images/CloseBtn.png) 31 0 0 0 repeat repeat;
+}
+
+QPushButton#Pokedex_Exit:pressed {
+    border-image: url(./Images/CloseBtn.png) 62 0 0 0 repeat repeat;
+}
+
+QTableView#HeroSoulDlg_TableView{
+    background-color:rgba(255,255,255,0);
+}
+
+QCheckBox#OneKeyReplace_Red
+{
+    font-family: SimSun;
+    font-size: 12px;
+    color: #ff0202;
+}
+
+QCheckBox#OneKeyReplace_Bule
+{
+    font-family: SimSun;
+    font-size: 12px;
+    color: #0066ff;
+}
+
+QCheckBox#OneKeyReplace_Green
+{
+    font-family: SimSun;
+    font-size: 12px;
+    color: #66cc00;
+}
+
+QCheckBox::indicator {
+    width: 19px;
+    height: 19px;
+}
+
+QCheckBox::indicator:unchecked 
+{
+    border-image: url(./Images/checkbox.png) 0 0 0 0 repeat repeat;
+}
+
+QCheckBox::indicator:unchecked:hover
+{
+    border-image: url(./Images/checkbox.png) 0 0 0 19 repeat repeat;
+}
+	
+QCheckBox::indicator:checked
+{
+    border-image: url(./Images/checkbox.png) 0 0 0 57 repeat repeat;
+}
+
+QCheckBox::indicator:checked:hover
+{
+    border-image: url(./Images/checkbox.png) 0 0 0 76 repeat repeat;
+}
+
+QLineEdit#OneKeyReplace_ReplaceNum 
+{
+    background-color: #13100b;
+    border: solid 1px #35241a;
+    font-family: SimSun;
+    font-size: 12px;
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+QLabel
+{
+    font-family: SimSun;
+    font-size: 12px;
+    text-align: left;
+    color: #ffffff;
+}

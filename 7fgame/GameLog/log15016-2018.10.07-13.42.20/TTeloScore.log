@@ -1,0 +1,164 @@
+133581, ////////////////天梯ELO积分计算——逃跑///////////////////
+133581, TT_New_Point = 532
+133581, TT_Old_Point = 556
+133581, TT_Add_Point = -24
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 686
+144440, TT_Old_Point = 674
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 598
+144440, TT_Old_Point = 586
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 568
+144440, TT_Old_Point = 556
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 674
+144440, TT_Old_Point = 662
+144440, TT_Add_Point = 14
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 645
+144440, TT_Old_Point = 633
+144440, TT_Add_Point = 24
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 563
+144440, TT_Old_Point = 551
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 687
+144440, TT_Old_Point = 675
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 595
+144440, TT_Old_Point = 583
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 575
+144440, TT_Old_Point = 563
+144440, TT_Add_Point = 18
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 646
+144440, TT_Old_Point = 634
+144440, TT_Add_Point = 12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 590
+144440, TT_Old_Point = 601
+144440, TT_Add_Point = -8
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 539
+144440, TT_Old_Point = 551
+144440, TT_Add_Point = -12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 564
+144440, TT_Old_Point = 576
+144440, TT_Add_Point = -6
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 551
+144440, TT_Old_Point = 563
+144440, TT_Add_Point = -12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 605
+144440, TT_Old_Point = 616
+144440, TT_Add_Point = -11
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 582
+144440, TT_Old_Point = 594
+144440, TT_Add_Point = -12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 565
+144440, TT_Old_Point = 577
+144440, TT_Add_Point = -12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 627
+144440, TT_Old_Point = 638
+144440, TT_Add_Point = -11
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 633
+144440, TT_Old_Point = 644
+144440, TT_Add_Point = -7
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9
+144440, ////////////////天梯ELO积分计算///////////////////
+144440, TT_New_Point = 547
+144440, TT_Old_Point = 559
+144440, TT_Add_Point = -12
+144440, G_Var.TT_Point_Flee_Shu = 24
+144440, Shu_num = 9
+144440, G_Var.TT_Point_Flee_Wei = 0
+144440, Wei_num = 9

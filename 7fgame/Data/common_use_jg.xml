@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content ver="9">  
+<PrepareHuoDongItem starttimeEx="7/15/2012  17:00:00" maptype="10" endtimeEx="7/17/2012 18:00:00" waitTime="10" title="比赛" yyurl="http://pv.5211game.com/PVCount.aspx?id=1080"/>
+<PrepareTip starttimeEx="7/15/2012  17:00:00" automatch="0" maptype="10" endtimeEx="9/30/2012 18:00:00" content="最新活动:声望换虎符，声望卡/虎符卡兑换 $请猛击$" url="http://pvcount.7fgame.com/PVCount.aspx?id=5091" color="#660000"/>
+<PrepareTip starttimeEx="7/15/2012  17:00:00" automatch="1" maptype="10" endtimeEx="9/30/2012 18:00:00" content=" $声望换虎符 声望卡、虎符卡兑换$" url="http://pvcount.7fgame.com/PVCount.aspx?id=5091" color="#cccc00"/>
+<PrepareTip starttimeEx="7/15/2012  17:00:00" automatch="2" maptype="10" endtimeEx="9/30/2012 18:00:00" content="快来这里跟同局好友讨论下游戏心得吧！" 
+url="http://pvcount.7fgame.com/PVCount.aspx?id=5091" color="#ccff00"/>
+
+</content>

@@ -1,0 +1,32 @@
+10/07/18 20:42:58:944 [11140] UNKNOWN Internet - Log4cplusWrapper.h(6996) LOG4CPLUS_MAKE_VERSION_STR:1.1.3 
+10/07/18 20:42:58:944 [11140] UNKNOWN Internet - Log4cplusWrapper.h(6997) log4cplus PropertyConfigurator::doConfigure...., Log Config File:D:\起凡\7fgame\plugin\WebBrower\Log\7Fhomepage\20181007204258\QxInternet.log4cplus0 
+10/07/18 20:42:58:944 [11140] UNKNOWN Internet - dllmain.cpp(106) 初始化日志模块 
+10/07/18 20:42:58:944 [11140] UNKNOWN Internet - dllmain.cpp(111) 版本号:1.0.0.9, 版本创建时间:2018/9/11 20:22:2, 编译日期:Aug  3 2018, 编译时间:11:36:52 
+10/07/18 20:42:59:005 [11140] INFO  Internet - InternetManager.cpp(100) CInternetManager::idealThreadCount: 8 
+10/07/18 20:42:59:005 [11140] INFO  Internet - InternetManager.cpp(101) CInternetManager::maxThreadCount: 8 
+10/07/18 20:42:59:005 [11140] TRACE Internet - InternetManager.cpp(391) B-Entry	==> FUN<CInternetManager::CInternetManager>: 
+10/07/18 20:42:59:005 [11140] TRACE Internet - InternetManager.cpp(391) B-Exit 	<== FUN<CInternetManager::CInternetManager>: 
+10/07/18 21:02:07:762 [13244] TRACE Internet - InternetCommonRequest.cpp(140) B-Entry	==> FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:02:07:762 [13244] ERROR Internet - InternetCommonRequest.cpp(144) url: http://eventapi.7fgame.com:1080/eventlog?appid=1&sign=91b54f497b81fc9c44e489e7e2d08a85; error: Host unreachable 
+10/07/18 21:02:07:762 [13244] TRACE Internet - InternetCommonRequest.cpp(140) B-Exit 	<== FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:02:08:157 [12716] TRACE Internet - InternetCommonRequest.cpp(140) B-Entry	==> FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:02:08:157 [12716] ERROR Internet - InternetCommonRequest.cpp(144) url: http://eventapi.7fgame.com:1080/eventlog?appid=1&sign=db1065da2d319beac2ce78bb56b0c6e9; error: Host unreachable 
+10/07/18 21:02:08:157 [12716] TRACE Internet - InternetCommonRequest.cpp(140) B-Exit 	<== FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:46:12:789 [11140] TRACE Internet - InternetManager.cpp(437) B-Entry	==> FUN<CInternetManager::unIntialize>: 
+10/07/18 21:46:12:789 [11140] TRACE Internet - InternetManager.cpp(463) B-Entry	====> FUN<CInternetManager::stopAllTask>: 
+10/07/18 21:46:12:790 [13420] TRACE Internet - InternetCommonRequest.cpp(140) B-Entry	==> FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:46:12:790 [13244] TRACE Internet - InternetCommonRequest.cpp(140) B-Entry	==> FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:46:12:790 [13420] ERROR Internet - InternetCommonRequest.cpp(144) url: http://eventapi.7fgame.com:1080/eventlog?appid=1&sign=91b54f497b81fc9c44e489e7e2d08a85; error: Operation canceled 
+10/07/18 21:46:12:790 [13244] ERROR Internet - InternetCommonRequest.cpp(144) url: http://eventapi.7fgame.com:1080/eventlog?appid=1&sign=db1065da2d319beac2ce78bb56b0c6e9; error: Operation canceled 
+10/07/18 21:46:12:790 [13420] TRACE Internet - InternetCommonRequest.cpp(140) B-Exit 	<== FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:46:12:790 [13244] TRACE Internet - InternetCommonRequest.cpp(140) B-Exit 	<== FUN<CInternetCommonRequest::onError>: 
+10/07/18 21:46:12:794 [11140] TRACE Internet - InternetManager.cpp(463) B-Exit 	<==== FUN<CInternetManager::stopAllTask>: 
+10/07/18 21:46:12:794 [11140] TRACE Internet - InternetManager.cpp(400) B-Entry	====> FUN<CInternetManager::~CInternetManager>: 
+10/07/18 21:46:12:794 [11140] TRACE Internet - InternetManager.cpp(400) B-Exit 	<==== FUN<CInternetManager::~CInternetManager>: 
+10/07/18 21:46:12:794 [11140] TRACE Internet - InternetManager.cpp(106) B-Entry	====> FUN<CInternetManagerPrivate::~CInternetManagerPrivate>: 
+10/07/18 21:46:12:794 [11140] INFO  Internet - InternetManager.cpp(107) m_mapReply.size(): 0 
+10/07/18 21:46:12:794 [11140] INFO  Internet - InternetManager.cpp(108) m_mapBatchReply.size(): 0 
+10/07/18 21:46:12:794 [11140] INFO  Internet - InternetManager.cpp(109) m_lstRequestThread.size(): 0 
+10/07/18 21:46:12:795 [11140] TRACE Internet - InternetManager.cpp(106) B-Exit 	<==== FUN<CInternetManagerPrivate::~CInternetManagerPrivate>: 
+10/07/18 21:46:12:795 [11140] TRACE Internet - InternetManager.cpp(437) B-Exit 	<== FUN<CInternetManager::unIntialize>: 
+10/07/18 21:46:12:813 [11140] UNKNOWN Internet - dllmain.cpp(119) 关闭日志模块 

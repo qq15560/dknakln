@@ -1,0 +1,83 @@
+QPushButton#ProduceUI_btnReplace
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_replace.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnReplace:hover 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_replace.png) 43 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnReplace:disabled 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_replace.png) 85 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnReplace:checked 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_replace.png) 128 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnProduce
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_produce.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnProduce:hover 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_produce.png) 44 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnProduce:disabled 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_produce.png) 87 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnProduce:checked 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_produce.png) 131 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnCompose
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_compose.png) 0 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnCompose:hover 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_compose.png) 44 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnCompose:disabled 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_compose.png) 88 0 0 0 repeat repeat;
+}
+
+QPushButton#ProduceUI_btnCompose:checked 
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HqProduceUI/btn_compose.png) 132 0 0 0 repeat repeat;
+}

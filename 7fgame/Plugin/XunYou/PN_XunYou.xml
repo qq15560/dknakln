@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <PluginInfo>
+  	<Compatible ver="YYAPP-XUNYOU" />
+    <Auth ip="127.0.0.1" domain="svr-au.5211game.com" port="2400" active="1" />
+    <!--服务器地址支持ip方式和域名方式(推荐) active:0表示不启用，1表示启用-->
+    <sso id="2" active="0" />
+    <!--可以支持sso认证方式,id表示sso的gameid-->
+    <procmgr active="0" />
+    <!--可以支持使用进程间管理模块-->
+    <Log ip="127.0.0.1" domain="svr-log.5211game.com" port="8009" active="1" />
+    <!--内置日志发送机制，记录插件各种行为、异常等-->
+    <Check cmpfile="VerComp.Dat" />
+  </PluginInfo>
+  <ItemInfo>
+    <ID val="1011" />
+    <!--插件唯一标识符ID-->
+    <Symbol val="xunyou" />
+    <!--插件标识字符串-->
+    <Name val="迅游奕奕专版" />
+    <!--插件名称-->
+    <Desc/>
+    <!--插件描述,可用于下载更新界面显示-->
+    <Install><!--安装路径-->
+    	<Path val="bin\" />
+      <RegPath mainkey="" subkey="" valname="" />
+    </Install>
+    <Loader val="xunyouPF.dll" />
+    <!--插件接口-->
+    <Bin val="xunyou.exe" />
+    <!--插件运行可执行文件-->
+  </ItemInfo>
+</ROOT>

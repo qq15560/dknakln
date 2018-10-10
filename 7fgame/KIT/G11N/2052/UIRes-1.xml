@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UIRes>
+	<FontList>
+		<Font id="font_def_s" name="宋体" size="12" underline="0" bold="0" />
+		<Font id="font_def_s_u" name="宋体" size="12" underline="1" bold="0" />
+		<Font id="font_def_s_b" name="宋体" size="12" underline="0" bold="1" />
+		<Font id="font_def_s_u_b" name="宋体" size="12" underline="1" bold="1" />
+		<Font id="font_def_n" name="宋体" size="14" underline="0" bold="0" />
+		<Font id="font_def_n_u" name="宋体" size="14" underline="1" bold="0" />
+		<Font id="font_def_n_b" name="宋体" size="14" underline="0" bold="1" />
+		<Font id="font_def_n_u_b" name="宋体" size="14" underline="1" bold="1" />
+		<Font id="font_def_b" name="宋体" size="16" underline="0" bold="0" />
+		<Font id="font_def_b_u" name="宋体" size="16" underline="1" bold="0" />
+		<Font id="font_def_b_b" name="宋体" size="16" underline="0" bold="1" />
+		<Font id="font_def_b_u_b" name="宋体" size="16" underline="1" bold="1" />
+	</FontList>
+	<ColorList>
+		<!-- common clr -->
+		<Color id="color_default_bk" r="116" g="97" b="81" />
+		<Color id="color_default_txt" r="232" g="205" b="174" />
+		<Color id="color_default_link" r="255" g="255" b="255" />
+		<Color id="color_default_item_nor" r="255" g="255" b="255" />
+		<Color id="color_default_item_hi" r="251" g="215" b="89" />
+		<Color id="color_default_item_sel" r="69" g="161" b="204" />		
+		<!-- chat dlg -->
+		<Color id="color_chat_dlg_bk" r="83" g="69" b="58" />
+		<Color id="color_chat_default_font" r="0" g="0" b="0" />
+		<!-- chat edit ctl -->
+		<Color id="color_chat_ctl_edit_bk" r="238" g="236" b="234" />
+		<!-- chatrightpane showuserhead dlg -->
+		<Color id="color_chatrightpane_showuserhead_dlg_bk" r="221" g="218" b="216" />
+		<!-- search wnd -->
+		<Color id="color_search_wnd_bk" r="61" g="52" b="43" />
+		<Color id="color_search_wnd_edit_setfocus_txt" r="255" g="255" b="255" />
+		<Color id="color_search_wnd_edit_killfocus_txt" r="222" g="175" b="66" />
+		<!-- mainpaneltab wnd -->
+		<Color id="color_mainpaneltab_wnd_item_txt_n" r="0" g="0" b="0" />
+		<Color id="color_mainpaneltab_wnd_item_txt_s" r="0" g="0" b="0" />
+		<!-- charrecord toolbar dlg -->
+		<Color id="color_charrecord_toolbar_dlg_bk" r="239" g="238" b="238" />
+		<!-- findchatrecord resulthint dlg -->
+		<Color id="color_findchatrecord_resulthint_dlg" r="247" g="247" b="247" />
+		<!-- showuserstatus dlg -->
+		<Color id="color_showuserstatus_dlg" r="255" g="246" b="205" />
+		<!-- onekeyaddfriendprompt wnd -->
+		<Color id="color_onekeyaddfriendprompt_wnd" r="255" g="246" b="205" />
+		<!-- findchatrecord dlg -->
+		<Color id="color_findchatrecord_dlg" r="250" g="249" b="249" />
+		<!-- emotion wnd-->
+		<Color id="color_emotion_wnd_bk" r="250" g="247" b="245" />
+		<!-- chatmsg outputview -->
+		<Color id="color_chatmsg_outputview_bk" r="238" g="236" b="234" />
+		<!-- chatdlg rightpane showuserhead wnd-->
+		<Color id="color_chatdlg_rightpane_showuserhead_outedge" r="193" g="191" b="189" />
+		<Color id="color_chatdlg_rightpane_showuserhead_inneredge" r="235" g="233" b="232" />
+		<Color id="color_chatdlg_rightpane_showuserhead_bk" r="235" g="233" b="232" />
+		<!-- msgbox minidlg-->
+		<Color id="color_msgbox_minidlg_item_highlight" r="139" g="158" b="174" />
+		<Color id="color_msgbox_minidlg_btn_text" r="241" g="189" b="124" />
+		<!-- user tree ctrl-->
+		<Color id="color_userlist_treectl_bk" r="234" g="221" b="212" />
+		<Color id="color_userlist_treectl_groupname" r="0" g="0" b="0" />
+		<Color id="color_userlist_treectl_usercount" r="0" g="0" b="0" />
+		<Color id="color_userlist_treectl_arrows_edge" r="61" g="52" b="43" />
+		<Color id="color_userlist_treectl_arrows_inner" r="61" g="52" b="43" />
+		<Color id="color_userlist_treectl_username" r="0" g="0" b="0" />
+		<Color id="color_userlist_treectl_sinagure" r="0" g="0" b="0" />
+		<Color id="color_userlist_treectl_groupitem_nor" r="234" g="221" b="212" />
+		<Color id="color_userlist_treectl_groupitem_sel" r="198" g="168" b="143" />
+		<Color id="color_userlist_treectl_groupitem_hi" r="234" g="221" b="212" />
+		<Color id="color_userlist_treectl_useritem_nor" r="234" g="221" b="212" />
+		<Color id="color_userlist_treectl_useritem_sel" r="198" g="168" b="143" />
+		<Color id="color_userlist_treectl_useritem_hi" r="205" g="190" b="178" />
+		<!-- recentplayers treectrl -->
+		<Color id="color_recentplayers_treectrl_bk" r="234" g="221" b="212" />
+		<Color id="color_recentplayers_treectrl_groupname" r="0" g="0" b="0" />
+		<Color id="color_recentplayers_treectrl_username" r="0" g="0" b="0" />
+		<Color id="color_recentplayers_treectrl_selfname" r="0" g="0" b="0" />
+		<Color id="color_recentplayers_treectrl_arrows_edge" r="61" g="52" b="43" />
+		<Color id="color_recentplayers_treectrl_arrows_inner" r="61" g="52" b="43" />
+		<Color id="color_recentplayers_treectrl_groupitem_nor" r="234" g="221" b="212" />
+		<Color id="color_recentplayers_treectrl_groupitem_sel" r="255" g="255" b="255" />
+		<Color id="color_recentplayers_treectrl_groupitem_hi" r="234" g="221" b="212" />
+		<Color id="color_recentplayers_treectrl_useritem_nor" r="234" g="221" b="212" />
+		<Color id="color_recentplayers_treectrl_useritem_sel" r="255" g="255" b="255" />
+		<Color id="color_recentplayers_treectrl_useritem_hi" r="249" g="234" b="224" />
+		<Color id="color_recentplayers_treectrl_camp_shu" r="234" g="199" b="192" />
+		<Color id="color_recentplayers_treectrl_camp_wei" r="176" g="205" b="221" />
+		<!-- team treectrl -->
+		<Color id="color_team_treectrl_bk" r="234" g="221" b="212" />
+		<Color id="color_team_treectrl_groupname" r="0" g="0" b="0" />
+		<Color id="color_team_treectrl_teamname" r="0" g="0" b="0" />
+		<Color id="color_team_treectrl_arrows_edge" r="61" g="52" b="43" />
+		<Color id="color_team_treectrl_arrows_inner" r="61" g="52" b="43" />
+		<Color id="color_team_treectrl_groupitem_nor" r="234" g="221" b="212" />
+		<Color id="color_team_treectrl_groupitem_sel" r="198" g="168" b="143" />
+		<Color id="color_team_treectrl_groupitem_hi" r="234" g="221" b="212" />
+		<Color id="color_team_treectrl_teamitem_nor" r="234" g="221" b="212" />
+		<Color id="color_team_treectrl_teamitem_sel" r="198" g="168" b="143" />
+		<Color id="color_team_treectrl_teamitem_hi" r="205" g="190" b="178" />
+		<!-- FindDlg Tab Ctrl -->
+		<Color id="color_dlgfind_tabctrl_tabitem_txt_n" r="137" g="165" b="178" />
+		<Color id="color_dlgfind_tabctrl_tabitem_txt_s" r="236" g="228" b="217" />
+		<Color id="color_dlgfind_tabctrl_tabitem_bk" r="116" g="97" b="81" />
+		<!-- dlg create team -->
+		<Color id="color_dlg_create_team_bottom_bk" r="229" g="226" b="224" />
+		<Color id="color_dlg_create_team_text" r="232" g="205" b="174" />
+		<Color id="color_dlg_create_team_item_bound" r="205" g="205" b="205" />
+		<Color id="color_dlg_create_team_item_bk" r="255" g="255" b="255" />
+		<!-- personal profile wnd -->
+		<Color id="color_wnd_personal_profile_username" r="255" g="255" b="255" />
+		<Color id="color_wnd_personal_profile_guildname" r="210" g="165" b="128" />
+		<Color id="color_wnd_personal_profile_signature" r="210" g="165" b="128" />
+		<Color id="color_wnd_personal_profile_usertype" r="225" g="199" b="106" />
+		<Color id="color_wnd_personal_profile_credit" r="255" g="255" b="0" />
+		<Color id="color_wnd_personal_profile_avatorbound" r="211" g="176" b="135" />
+		<!-- personal profile popup wnd -->
+		<Color id="color_wnd_popup_personal_profile_bound" r="252" g="251" b="250" />
+		<Color id="color_wnd_popup_personal_profile_bk" r="238" g="236" b="234" />
+		<Color id="color_wnd_popup_personal_profile_username" r="0" g="0" b="0" />
+		<Color id="color_wnd_popup_personal_profile_guildname" r="0" g="0" b="0" />
+		<Color id="color_wnd_popup_personal_profile_gamestatus_text" r="0" g="0" b="0" />
+		<!-- dlg team setting tab team member -->
+		<Color id="color_dlg_team_setting_tab_teammember_listctrl_filter" r="191" g="206" b="212" />
+		<!--user listctrl-->
+		<Color id="color_user_listctrl_bk1" r="234" g="221" b="212" />
+		<Color id="color_user_listctrl_bk2" r="245" g="244" b="243" />
+		<!-- dlg team setting-->
+		<Color id="color_dlg_team_setting_top_bk" r="251" g="250" b="249" />
+		<Color id="color_dlg_team_setting_bottom_bk" r="221" g="218" b="216" />
+		<!-- dlg msgbox tabctrl-->
+		<Color id="color_msgbox_tabctrl_item_txt_n" r="137" g="165" b="178" />
+		<Color id="color_msgbox_tabctrl_item_txt_s" r="236" g="228" b="217" />
+		<Color id="color_msgbox_tabctrl_bk" r="117" g="97" b="81" />
+		<!-- wnd team-->
+		<Color id="color_wnd_team_btn_create_team_txt_n" r="232" g="205" b="174" />
+		<Color id="color_wnd_team_btn_create_team_txt_h" r="240" g="189" b="124" />
+		<Color id="color_wnd_team_btn_create_team_bk_n" r="133" g="117" b="101" />
+		<Color id="color_wnd_team_btn_create_team_bk_h" r="83" g="69" b="58" />
+		<Color id="color_wnd_team_btn_create_team_bound_n" r="82" g="72" b="63" />
+		<Color id="color_wnd_team_btn_create_team_bound_h" r="27" g="59" b="74" />
+		<!-- dlg chat tab ctrl -->
+		<Color id="color_dlg_chat_tabctrl_bk" r="239" g="238" b="238" />
+		<Color id="color_dlg_chat_tabctrl_tabitem_n" r="239" g="238" b="238" />
+		<Color id="color_dlg_chat_tabctrl_tabitem_h" r="255" g="246" b="205" />
+		<Color id="color_dlg_chat_tabctrl_tabitem_s" r="221" g="218" b="216" />
+		<!-- wnd audio status prompt-->
+		<Color id="color_wnd_audio_status_prompt_bk" r="238" g="236" b="234" />
+		<Color id="color_wnd_audio_status_prompt_txt" r="0" g="0" b="0" />
+		<!-- wnd contact tabctrl -->
+		<Color id="color_wnd_contact_tabctrl_bk" r="234" g="221" b="212" />
+		<Color id="color_wnd_contact_item_txt_n" r="0" g="0" b="0" />
+		<Color id="color_wnd_contact_item_txt_s" r="255" g="255" b="0" />
+		<!-- wnd guide -->
+		<Color id="color_wnd_guide_bk" r="234" g="221" b="212" />
+	</ColorList>
+</UIRes>

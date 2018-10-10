@@ -1,0 +1,143 @@
+[2018-10-07 14:25:33:404] Debug: File:(qfhunyusystemapp.cpp) Line:(266) "Release time: " Sep 29 2018 12:43:24
+[2018-10-07 14:25:33:404] Debug: File:(qfhunyusystemapp.cpp) Line:(270) date: Sep 29 2018 ,time: 12:43:24
+[2018-10-07 14:25:33:404] Debug: File:(qfhunyusystemapp.cpp) Line:(271) strCmdLine: "D:\????\7fgame\Plugin\Hunyu\QFHunYuSystem.exe" /msgwnd=263352 /msgid=1056 /pid=10348 /port=10119 /friendid=0 /clienttype=0 /srvip=1000432052 /playerid=109175625 /playername="??????????" /platver="2.3.3.5" /PlatPath="D:\????\7fgame\"
+[2018-10-07 14:25:33:414] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:419] Debug: File:(qfhunyusystemapp.cpp) Line:(307) initInstance
+[2018-10-07 14:25:33:452] Debug: File:(mainwindow.cpp) Line:(55) MainWindow: 1
+[2018-10-07 14:25:33:472] Debug: File:(mainwindow.cpp) Line:(192) onRecvYYProcCallBack: 3
+[2018-10-07 14:25:33:496] Debug: File:(mainwindow.cpp) Line:(192) onRecvYYProcCallBack: 1
+[2018-10-07 14:25:33:496] Debug: File:(mainwindow.cpp) Line:(218) data cmd:  10
+[2018-10-07 14:25:33:496] Debug: File:(mainwindow.cpp) Line:(270) HUNYUSYSTEM_PROC_PROP_STINFO nLen:  128
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(192) onRecvYYProcCallBack: 1
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(218) data cmd:  7
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(261) HUNYUSYSTEM_PROC_STINFO nLen:  128
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(192) onRecvYYProcCallBack: 1
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(218) data cmd:  1
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(227) serverip1: 1000432052
+[2018-10-07 14:25:33:497] Debug: File:(mainwindow.cpp) Line:(228) serverip2: 1000432052
+[2018-10-07 14:25:33:497] Debug: File:(serverdatacollection.cpp) Line:(45) ---[config]:statrt----
+[2018-10-07 14:25:33:497] Debug: File:(serverdatacollection.cpp) Line:(67) ip: 180.97.161.59
+[2018-10-07 14:25:33:507] Debug: File:(mainwindow.cpp) Line:(192) onRecvYYProcCallBack: 1
+[2018-10-07 14:25:33:507] Debug: File:(mainwindow.cpp) Line:(218) data cmd:  7
+[2018-10-07 14:25:33:507] Debug: File:(mainwindow.cpp) Line:(261) HUNYUSYSTEM_PROC_STINFO nLen:  128
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(111) setSrvVersionData- 3
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(120) [config]:data from svr ty:0, len:1270
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(120) [config]:data from svr ty:1, len:276
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(161) "<?xml version=\"1.0\" encoding=\"utf-8\" ?><PlatVerList platformList=\"~2.1.6.5;2.1.6.4;2.1.6.8~2.1.7.0;2.1.7.4~;\" LauncherList=\"1.0.0.4;1.0.0.5~1.0.1.2;\"><version value=\"2.2.1.0~\" LauncherList=\"1.0.1.2~;\" /><HunyuLauncherVer value=\"1.0.6.1\" platformver=\"2.2.4.0~\" /></PlatVerList>"
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(188) current version: "1.0.6.1"
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(189) new version: "1.0.6.1"
+[2018-10-07 14:25:33:594] Debug: File:(serverdatacollection.cpp) Line:(198) launcher not need update
+[2018-10-07 14:25:33:595] Debug: File:(mainwindow.cpp) Line:(364) onRecvCheckLauncherVerNotify: false
+[2018-10-07 14:25:33:655] Debug: File:(hunyuconfigdlg.cpp) Line:(960) CServerData::GetInstance()->GetUserInfo().dwUserId: 109175625
+[2018-10-07 14:25:33:664] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:668] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:672] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:675] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:679] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:682] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:686] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:690] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:693] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:696] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:701] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:754] Debug: File:(HunYuHexagon.cpp) Line:(544) "二级魂玉"
+[2018-10-07 14:25:33:754] Debug: File:(HunYuHexagon.cpp) Line:(612) "三级魂玉"
+[2018-10-07 14:25:33:754] Debug: File:(HunYuHexagon.cpp) Line:(696) "四级魂玉"
+[2018-10-07 14:25:33:754] Debug: File:(HunYuHexagon.cpp) Line:(765) "五级魂玉"
+[2018-10-07 14:25:33:754] Debug: File:(HunYuHexagon.cpp) Line:(775) nIndex: 0
+[2018-10-07 14:25:33:787] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:791] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:795] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:800] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:817] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:821] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:825] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:835] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:843] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:856] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:860] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:875] Debug: File:(prop\PropMsgSink.cpp) Line:(55) pms init
+[2018-10-07 14:25:33:958] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:963] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:977] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:984] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:989] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:33:995] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:34:005] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:34:213] Debug: File:(prop\PropMsgSink.cpp) Line:(906) nLocalEffectVersion: 536 ,nServerEffectVersion: 536
+[2018-10-07 14:25:34:383] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:35:564] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(318) onUpdateBag in
+[2018-10-07 14:25:35:564] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(320) onUpdateBag 1
+[2018-10-07 14:25:35:564] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(322) onUpdateBag 2
+[2018-10-07 14:25:35:566] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(372) onUpdateBag 2
+[2018-10-07 14:25:35:566] Debug: File:(hunyuconfigdlg.cpp) Line:(1053) updatETable
+[2018-10-07 14:25:35:566] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(376) onUpdateBag
+[2018-10-07 14:25:35:567] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(383) onUpdateBag out
+[2018-10-07 14:25:35:927] Debug: File:(prop\PropMsgSink.cpp) Line:(395) onQuerySlotRes
+[2018-10-07 14:25:36:210] Debug: File:(HunYuSchemeDlg.cpp) Line:(767) onUpdateSlot()
+[2018-10-07 14:25:36:248] Debug: File:(HunYuSchemeDlg.cpp) Line:(187) nQL= 0  nBH= 0  nZQ= 0  nXW= 0
+[2018-10-07 14:25:36:248] Debug: File:(HunYuSchemeDlg.cpp) Line:(188)  strJXName= ""  nJXNum= 0  strJXName1= ""  strJXName2= ""  strJXName3= ""
+[2018-10-07 14:25:36:248] Debug: File:(HunYuSchemeDlg.cpp) Line:(444) UpdateHyProperty:
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(604) HyNum: 3 "方案名称：" "方案1"
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74357016 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   9   10   11   12   17   19   20   21
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74500553 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   13   14   15   16   18   22   23   24
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74546649 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   1   2   3   4   5   6   7   8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(604) HyNum: 3 "方案名称：" "方案2"
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74500540 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   9   10   11   12   17   19   20   21
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74520764 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   1   2   3   4   5   6   7   8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(609) id:  74546659 usSlotNum: 8
+[2018-10-07 14:25:36:248] Debug: File:(prop\PropMsgSink.cpp) Line:(610) usPos:   13   14   15   16   18   22   23   24
+[2018-10-07 14:25:36:248] Debug: File:(HunYuSchemeDlg.cpp) Line:(767) onUpdateSlot()
+[2018-10-07 14:25:36:250] Debug: File:(HunYuHexagon.cpp) Line:(1615) arrHunyuIds.size(): 1
+[2018-10-07 14:25:36:250] Debug: File:(HunYuHexagon.cpp) Line:(1615) arrHunyuIds.size(): 2
+[2018-10-07 14:25:36:250] Debug: File:(HunYuHexagon.cpp) Line:(1615) arrHunyuIds.size(): 3
+[2018-10-07 14:25:36:250] Debug: File:(HunYuSchemeDlg.cpp) Line:(444) UpdateHyProperty:
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术伤害+29.6"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "击中生命恢复+25.9"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术暴击伤害+13%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "暴击概率+5.4%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "移动速度+13"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术穿透+1.81"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "暴击伤害+13%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术暴击概率+4.5%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "冷却缩减+6.3%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*1: 法术技能伤害+5%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*2: 法术暴击概率+6%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*3: 法术暴击伤害+10%"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "李典精忠*1: 攻守兼备(C/灵C)减伤持续时间+0.5"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "鲁肃精忠*1: 巨浪(C)冷却时间-1"
+[2018-10-07 14:25:36:250] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "孙策精忠*1: 霸气剑光(C)外圈附加减速"
+[2018-10-07 14:25:36:250] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(622) onInsertItems id:  74546649 isDisable:  true
+[2018-10-07 14:25:36:250] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(622) onInsertItems id:  74500553 isDisable:  true
+[2018-10-07 14:25:36:250] Debug: File:(Logic\HunyuConfigLogic.cpp) Line:(622) onInsertItems id:  74357016 isDisable:  true
+[2018-10-07 14:25:36:251] Debug: File:(HunYuSlotsWidget.cpp) Line:(453) arr[nIndex].id: 74546649 JXName: "李典"   SHName: "朱雀"
+[2018-10-07 14:25:36:251] Debug: File:(HunYuSlotsWidget.cpp) Line:(453) arr[nIndex].id: 74357016 JXName: "鲁肃"   SHName: "朱雀"
+[2018-10-07 14:25:36:251] Debug: File:(HunYuSlotsWidget.cpp) Line:(453) arr[nIndex].id: 74500553 JXName: "孙策"   SHName: "朱雀"
+[2018-10-07 14:25:36:251] Debug: File:(HunYuSchemeDlg.cpp) Line:(187) nQL= 0  nBH= 0  nZQ= 3  nXW= 0
+[2018-10-07 14:25:36:251] Debug: File:(HunYuSchemeDlg.cpp) Line:(188)  strJXName= "李典"  nJXNum= 1  strJXName1= "李典"  strJXName2= "鲁肃"  strJXName3= "孙策"
+[2018-10-07 14:25:36:252] Debug: File:(HunYuSchemeDlg.cpp) Line:(444) UpdateHyProperty:
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术伤害+29.6"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "击中生命恢复+25.9"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术暴击伤害+13%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "暴击概率+5.4%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "移动速度+13"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术穿透+1.81"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "暴击伤害+13%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "法术暴击概率+4.5%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "冷却缩减+6.3%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*1: 法术技能伤害+5%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*2: 法术暴击概率+6%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "朱雀*3: 法术暴击伤害+10%"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "李典精忠*1: 攻守兼备(C/灵C)减伤持续时间+0.5"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "鲁肃精忠*1: 巨浪(C)冷却时间-1"
+[2018-10-07 14:25:36:252] Debug: File:(d:\workspace\7fgame\svnsource\qfhunyusystem\qfhunyusystem.root\qfhunyusystem\code\src\qfhunyusystem\CommonFunc.hpp) Line:(295) Show: "孙策精忠*1: 霸气剑光(C)外圈附加减速"
+[2018-10-07 14:25:40:206] Debug: File:(ExchangeHunyu.cpp) Line:(246) int n  0
+[2018-10-07 14:25:40:220] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:40:226] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:40:232] Warning: File:() Line:(0) libpng warning: iCCP: known incorrect sRGB profile
+[2018-10-07 14:25:47:191] Debug: File:(qfhunyusystemapp.cpp) Line:(325) exitInstance false false

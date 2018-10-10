@@ -1,0 +1,869 @@
+QDialog, QLabel, QPushButton {
+    color: rgb(232, 204, 106, 255);
+    font-family: "ËÎÌו";
+    font-size: 20;
+}
+
+QLineEdit {
+    color:white;
+    background:rgba(0,0,0,0%); 
+    border:1px;
+}
+
+QLabel#schemenamebg {
+    border-image: url(./Images/lineEditBg.png) no-repeat;
+}
+
+QPushButton#HunYuTabConfig {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabConfig.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:hover {
+    border-image: url(./Images/HunYuTabConfig.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:pressed {
+    border-image: url(./Images/HunYuTabConfig.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:checked {
+    border-image: url(./Images/HunYuTabConfig.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTabConfig:disabled {
+    border-image: url(./Images/HunYuTabConfig.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#JXListBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/JXListBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#JXListBtn:hover {
+    border-image: url(./Images/JXListBtn.png) 23 0 0 0 repeat repeat;
+}
+QPushButton#JXListBtn:pressed {
+    border-image: url(./Images/JXListBtn.png) 46 0 0 0 repeat repeat;
+}
+QPushButton#JXListBtn:disabled {
+    border-image: url(./Images/JXListBtn.png) 69 0 0 0 repeat repeat;
+}
+
+QPushButton#JXTableBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/JXTableBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#JXTableBtn:hover {
+    border-image: url(./Images/JXTableBtn.png) 23 0 0 0 repeat repeat;
+}
+QPushButton#JXTableBtn:pressed {
+    border-image: url(./Images/JXTableBtn.png) 46 0 0 0 repeat repeat;
+}
+QPushButton#JXTableBtn:disabled {
+    border-image: url(./Images/JXTableBtn.png) 69 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTab_Combine {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabOperation_Combine.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Combine:hover {
+    border-image: url(./Images/HunYuTabOperation_Combine.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Combine:pressed {
+    border-image: url(./Images/HunYuTabOperation_Combine.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Combine:checked {
+    border-image: url(./Images/HunYuTabOperation_Combine.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Combine:disabled 
+{
+    border-image: url(./Images/HunYuTabOperation_Combine.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#JueXingBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/JueXingBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#JueXingBtn:hover {
+    border-image: url(./Images/JueXingBtn.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#JueXingBtn:pressed {
+    border-image: url(./Images/JueXingBtn.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#JueXingBtn:checked {
+    border-image: url(./Images/JueXingBtn.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#JueXingBtn:disabled 
+{
+    border-image: url(./Images/JueXingBtn.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#FriendBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/buddylist.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#FriendBtn:hover {
+    border-image: url(./Images/buddylist.png) 36 0 0 0 repeat repeat;
+}
+QPushButton#FriendBtn:pressed {
+    border-image: url(./Images/buddylist.png) 72 0 0 0 repeat repeat;
+}
+QPushButton#FriendBtn:disabled 
+{
+    border-image: url(./Images/buddylist.png) 108 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTab_Replace {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabOperation_Replace.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Replace:hover {
+    border-image: url(./Images/HunYuTabOperation_Replace.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Replace:pressed {
+    border-image: url(./Images/HunYuTabOperation_Replace.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Replace:checked {
+    border-image: url(./Images/HunYuTabOperation_Replace.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Replace:disabled {
+    border-image: url(./Images/HunYuTabOperation_Replace.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTab_Desc {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabOperation_Desc.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Desc:hover {
+    border-image: url(./Images/HunYuTabOperation_Desc.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Desc:pressed {
+    border-image: url(./Images/HunYuTabOperation_Desc.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Desc:checked {
+    border-image: url(./Images/HunYuTabOperation_Desc.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Desc:disabled {
+    border-image: url(./Images/HunYuTabOperation_Desc.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTab_CheckBuddy {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/checkBuddyList.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddy:hover {
+    border-image: url(./Images/checkBuddyList.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddy:pressed {
+    border-image: url(./Images/checkBuddyList.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddy:checked {
+    border-image: url(./Images/checkBuddyList.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddy:disabled {
+    border-image: url(./Images/checkBuddyList.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTab_CheckBuddyReturn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/returnConfig.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddyReturn:hover {
+    border-image: url(./Images/returnConfig.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddyReturn:pressed {
+    border-image: url(./Images/returnConfig.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddyReturn:checked {
+    border-image: url(./Images/returnConfig.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_CheckBuddyReturn:disabled {
+    border-image: url(./Images/returnConfig.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#Level5JHBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/level5_1.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#Level5JHBtn:hover {
+    border-image: url(./Images/level5_1.png) 0 0 0 32 repeat repeat;
+}
+QPushButton#Level5JHBtn:pressed {
+    border-image: url(./Images/level5_1.png) 0 0 0 64 repeat repeat;
+}
+QPushButton#Level5JHBtn:checked {
+    border-image: url(./Images/level5_1.png) 0 0 0 96 repeat repeat;
+}
+QPushButton#Level5JHBtn:disabled {
+    border-image: url(./Images/level5_1.png) 0 0 0 128 repeat repeat;
+}
+
+QPushButton#Level5SHBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/level5_2.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#Level5SHBtn:hover {
+    border-image: url(./Images/level5_2.png) 0 0 0 32 repeat repeat;
+}
+QPushButton#Level5SHBtn:pressed {
+    border-image: url(./Images/level5_2.png) 0 0 0 64 repeat repeat;
+}
+QPushButton#Level5SHBtn:checked {
+    border-image: url(./Images/level5_2.png) 0 0 0 96 repeat repeat;
+}
+QPushButton#Level5SHBtn:disabled {
+    border-image: url(./Images/level5_2.png) 0 0 0 128 repeat repeat;
+}
+
+QPushButton#HunYuSchemeReturn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/return.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeReturn:hover {
+    border-image: url(./Images/return.png) 42 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeReturn:pressed {
+    border-image: url(./Images/return.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeReturn:disabled {
+    border-image: url(./Images/return.png) 126 0 0 0 repeat repeat;
+}
+
+
+QPushButton#HunYuTab_Book {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuTabOperation_Book.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Book:hover {
+    border-image: url(./Images/HunYuTabOperation_Book.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Book:pressed {
+    border-image: url(./Images/HunYuTabOperation_Book.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTab_Book:checked {
+    border-image: url(./Images/HunYuTabOperation_Book.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyu {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/oneKeyInputHunyu.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyu:hover {
+    border-image: url(./Images/oneKeyInputHunyu.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyu:pressed {
+    border-image: url(./Images/oneKeyInputHunyu.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyu:disabled {
+    border-image: url(./Images/oneKeyInputHunyu.png) 126 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfig {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/oneKeyInputHunyuConfig.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfig:hover {
+    border-image: url(./Images/oneKeyInputHunyuConfig.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfig:pressed {
+    border-image: url(./Images/oneKeyInputHunyuConfig.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfig:disabled {
+    border-image: url(./Images/oneKeyInputHunyuConfig.png) 126 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfigSaveBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/oneKeyConfigSaveBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfigSaveBtn:hover {
+    border-image: url(./Images/oneKeyConfigSaveBtn.png) 37 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfigSaveBtn:pressed {
+    border-image: url(./Images/oneKeyConfigSaveBtn.png) 74 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfigSaveBtn:disabled {
+    border-image: url(./Images/oneKeyConfigSaveBtn.png) 111 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfigCancleBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/oneKeyConfigCancleBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfigCancleBtn:hover {
+    border-image: url(./Images/oneKeyConfigCancleBtn.png) 37 0 0 0 repeat repeat;
+}
+
+QPushButton#OneKeyInputHunyuConfigCancleBtn:pressed {
+    border-image: url(./Images/oneKeyConfigCancleBtn.png) 74 0 0 0 repeat repeat;
+}
+QPushButton#OneKeyInputHunyuConfigCancleBtn:disabled {
+    border-image: url(./Images/oneKeyConfigCancleBtn.png) 111 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Combine {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuOperation_Combine.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Combine:hover {
+    border-image: url(./Images/HunYuOperation_Combine.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Combine:pressed {
+    border-image: url(./Images/HunYuOperation_Combine.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Combine:disabled {
+    border-image: url(./Images/HunYuOperation_Combine.png) 126 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Replace {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuOperation_Replace.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Replace:hover {
+    border-image: url(./Images/HunYuOperation_Replace.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Replace:pressed {
+    border-image: url(./Images/HunYuOperation_Replace.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Replace:disabled {
+    border-image: url(./Images/HunYuOperation_Replace.png) 126 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Desc {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuOperation_Desc.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Desc:hover {
+    border-image: url(./Images/HunYuOperation_Desc.png) 42 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuOper_Desc:pressed {
+    border-image: url(./Images/HunYuOperation_Desc.png) 84 0 0 0 repeat repeat;
+}
+QPushButton#HunYuOper_Desc:disabled {
+    border-image: url(./Images/HunYuOperation_Desc.png) 126 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTimeCoin {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/hunyuduihuan.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTimeCoin:hover {
+    border-image: url(./Images/hunyuduihuan.png) 27 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuTimeCoin:pressed {
+    border-image: url(./Images/hunyuduihuan.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HunYuTimeCoin:disabled {
+    border-image: url(./Images/hunyuduihuan.png) 81 0 0 0 repeat repeat;
+}
+
+
+QPushButton#HunYuSchemeSave {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuSchemeSave.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeSave:hover {
+    border-image: url(./Images/HunYuSchemeSave.png) 41 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuSchemeSave:pressed {
+    border-image: url(./Images/HunYuSchemeSave.png) 82 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeSave:disabled {
+    border-image: url(./Images/HunYuSchemeSave.png) 123 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuSchemeClear {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuSchemeClear.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeClear:hover {
+    border-image: url(./Images/HunYuSchemeClear.png) 41 0 0 0 repeat repeat;
+}
+
+QPushButton#HunYuSchemeClear:pressed {
+    border-image: url(./Images/HunYuSchemeClear.png) 82 0 0 0 repeat repeat;
+}
+QPushButton#HunYuSchemeClear:disabled {
+    border-image: url(./Images/HunYuSchemeClear.png) 123 0 0 0 repeat repeat;
+}
+
+QPushButton#CloseBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/CloseBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#CloseBtn:hover {
+    border-image: url(./Images/CloseBtn.png) 31 0 0 0 repeat repeat;
+}
+
+QPushButton#CloseBtn:pressed {
+    border-image: url(./Images/CloseBtn.png) 62 0 0 0 repeat repeat;
+}
+
+QPushButton#CloseBtn:disabled {
+    border-image: url(./Images/CloseBtn.png) 93 0 0 0 repeat repeat;
+}
+
+QPushButton#MinBtn {
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/minbtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#MinBtn:hover {
+    border-image: url(./Images/minbtn.png) 31 0 0 0 repeat repeat;
+}
+
+QPushButton#MinBtn:pressed {
+    border-image: url(./Images/minbtn.png) 62 0 0 0 repeat repeat;
+}
+
+QPushButton#MinBtn:disabled {
+    border-image: url(./Images/minbtn.png) 93 0 0 0 repeat repeat;
+}
+
+QPushButton#Scheme
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/HunYuScheme_Btn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#Scheme:hover {
+    border-image: url(./Images/HunYuScheme_Btn.png) 25 0 0 0 repeat repeat;
+}
+QPushButton#Scheme:checked, QPushButton#Scheme:pressed {
+    border-image: url(./Images/HunYuScheme_Btn.png) 50 0 0 0 repeat repeat;
+}
+
+QPushButton#RapidReplaceBtn
+{
+    border-width: 0;
+    border-radius: 0;
+    border-image: url(./Images/rapidReplaceBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#RapidReplaceBtn:hover {
+    border-image: url(./Images/rapidReplaceBtn.png) 43 0 0 0 repeat repeat;
+}
+
+QPushButton#RapidReplaceBtn:pressed {
+    border-image: url(./Images/rapidReplaceBtn.png) 86 0 0 0 repeat repeat;
+}
+
+QPushButton#RapidReplaceBtn:disabled {
+    border-image: url(./Images/rapidReplaceBtn.png) 129 0 0 0 repeat repeat;
+}
+
+
+QPushButton#RefreshBtn {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/refreshbtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#RefreshBtn:hover {
+    border-image: url(./Images/refreshbtn.png) 31 0 0 0 repeat repeat;
+}
+QPushButton#RefreshBtn:pressed {
+    border-image: url(./Images/refreshbtn.png) 62 0 0 0 repeat repeat;
+}
+QPushButton#RefreshBtn:disabled {
+    border-image: url(./Images/refreshbtn.png) 93 0 0 0 repeat repeat;
+}
+
+QPushButton#HunyuGaiyaoBtn {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/HunyuGaiyao_btn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunyuGaiyaoBtn:hover {
+    border-image: url(./Images/HunyuGaiyao_btn.png) 37 0 0 0 repeat repeat;
+}
+QPushButton#HunyuGaiyaoBtn:pressed {
+    border-image: url(./Images/HunyuGaiyao_btn.png) 74 0 0 0 repeat repeat;
+}
+QPushButton#HunyuGaiyaoBtn:disabled {
+    border-image: url(./Images/HunyuGaiyao_btn.png) 111 0 0 0 repeat repeat;
+}
+
+QPushButton#HPLinkBtn {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/HPLinkBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HPLinkBtn:hover {
+    border-image: url(./Images/HPLinkBtn.png) 33 0 0 0 repeat repeat;
+}
+QPushButton#HPLinkBtn:pressed {
+    border-image: url(./Images/HPLinkBtn.png) 66 0 0 0 repeat repeat;
+}
+QPushButton#HPLinkBtn:disabled {
+    border-image: url(./Images/HPLinkBtn.png) 99 0 0 0 repeat repeat;
+}
+
+QPushButton#IllustrateBook {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/IllustrateBook.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#IllustrateBook:hover {
+    border-image: url(./Images/IllustrateBook.png) 37 0 0 0 repeat repeat;
+}
+QPushButton#IllustrateBook:pressed {
+    border-image: url(./Images/IllustrateBook.png) 74 0 0 0 repeat repeat;
+}
+QPushButton#IllustrateBook:disabled {
+    border-image: url(./Images/IllustrateBook.png) 111 0 0 0 repeat repeat;
+}
+
+QPushButton#HunyuShangCheng {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/jianghunshangcheng.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HunyuShangCheng:hover {
+    border-image: url(./Images/jianghunshangcheng.png) 37 0 0 0 repeat repeat;
+}
+QPushButton#HunyuShangCheng:pressed {
+    border-image: url(./Images/jianghunshangcheng.png) 74 0 0 0 repeat repeat;
+}
+QPushButton#HunyuShangCheng:disabled {
+    border-image: url(./Images/jianghunshangcheng.png) 111 0 0 0 repeat repeat;
+}
+
+QTableWidget {
+    background-color: rgb(28, 23, 18, 255);
+}
+
+QCheckBox  {
+    spacing: 4px;
+}
+
+QCheckBox:enabled
+{
+    color:#e8cc6a;
+}
+
+QCheckBox::indicator:disabled
+{
+    color:#050505;
+}
+
+QCheckBox::indicator {
+    width: 19px;
+    height: 19px;
+}
+
+QCheckBox::indicator:unchecked {
+    border-image: url(./Images/checkbox.png) 0 0 0 0 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox::indicator:unchecked:hover {
+    border-image: url(./Images/checkbox.png) 0 0 0 19  repeat repeat;
+}
+
+QCheckBox::indicator:unchecked:pressed {
+    border-image: url(./Images/checkbox.png) 0 0 0 38 repeat repeat;
+}
+
+QCheckBox::indicator:checked {
+    border-image: url(./Images/checkbox.png) 0 0 0 57 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QCheckBox::indicator:checked:hover {
+    border-image: url(./Images/checkbox.png) 0 0 0 76 repeat repeat;
+}
+
+QCheckBox::indicator:checked:pressed {
+    border-image: url(./Images/checkbox.png) 0 0 0 95 repeat repeat;
+}    
+
+QRadioButton::indicator {
+    width: 20px;
+    height: 15px;
+}
+
+QRadioButton::indicator:unchecked {
+    border-image: url(./Images/radiobutton.png) 0 0 0 0 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QRadioButton::indicator:unchecked:hover {
+    border-image: url(./Images/radiobutton.png) 0 0 0 20  repeat repeat;
+}
+
+QRadioButton::indicator:unchecked:pressed {
+    border-image: url(./Images/radiobutton.png) 0 0 0 40 repeat repeat;
+}
+
+QRadioButton::indicator:checked {
+    border-image: url(./Images/radiobutton.png) 0 0 0 60 repeat repeat;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+QRadioButton::indicator:checked:hover {
+    border-image: url(./Images/radiobutton.png) 0 0 0 80 repeat repeat;
+}
+
+QRadioButton::indicator:checked:pressed {
+    border-image: url(./Images/radiobutton.png) 0 0 0 100 repeat repeat;
+}
+
+
+
+/* ----------------------- scheme configuration dialog ---------------------- */
+
+CHunYuSchemeDlg {
+   background: rgba(255, 255, 0, 64) url(./Images/HunyuMidBorder.png) no-repeat;
+}
+
+CMsgBox {
+   background: url(./Images/MsgBoxBkgnd.png) no-repeat;
+}
+
+/* -------------------------- button scheme 1 ~ 10 -------------------------- */
+/*QPushButton#Scheme1, QPushButton#Scheme2, QPushButton#Scheme3, QPushButton#Scheme4, 
+QPushButton#Scheme5, QPushButton#Scheme6, QPushButton#Scheme7, QPushButton#Scheme8, 
+QPushButton#Scheme9, QPushButton#Scheme10 */
+
+
+/* ----------------------------- ListView ----------------------------------- */
+QListView {
+	background:rgba(0,0,0,0%);
+	color:rgb(232, 204, 106);
+}
+
+QListView::item 
+{
+    /*background: url("./Images/HunYuListItem_Bkgnd.png") repeat;*/
+    background:rgba(0,0,0,0%);
+}
+
+QListView::item:alternate {
+    /*background: url("./Images/HunYuListItem_AlternateBkgnd.png") repeat;*/
+    background:rgba(0,0,0,0%);
+}
+/*
+QListView::item:selected {
+    border: 1px solid #6a6ea9;
+}
+
+QListView::item:selected:!active {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #ABAFE5, stop: 1 #8588B2);
+}
+
+QListView::item:selected:active {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #6a6ea9, stop: 1 #888dd9);
+}
+
+QListView::item:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #FA00FE, stop: 1 #DCDEF1);
+}
+*/
+
+QListView::item 
+{
+    /*background: url("./Images/HunYuListItem_Bkgnd.png") repeat;*/
+    background:rgba(0,0,0,0%);
+}
+
+QListView::item:alternate {
+    /*background: url("./Images/HunYuListItem_AlternateBkgnd.png") repeat;*/
+    background:rgba(0,0,0,0%);
+}
+/*
+QListView::item:selected {
+    border: 1px solid #6a6ea9;
+}
+
+QListView::item:selected:!active {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #ABAFE5, stop: 1 #8588B2);
+}
+
+QListView::item:selected:active {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #6a6ea9, stop: 1 #888dd9);
+}
+
+QListView::item:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                stop: 0 #FA00FE, stop: 1 #DCDEF1);
+}
+*/
+QToolTip {
+     border: 2px solid darkkhaki;
+     padding: 1px;
+     border-radius: 3px;
+     opacity: 230;
+ }
+ 
+ QLabel#tooltiplabel {
+	border-image: url(./Images/HunyuTipBg.png) 0 0 0 0 no-repeat;
+ }
+
+ QLabel#movieText_1 {
+	border-image: url(./Images/HunyuBarLv1.png) 17 0 0 0 no-repeat;
+ }
+ 
+  QLabel#movieText_2 {
+	border-image: url(./Images/HunyuBarLv2.png) 17 0 0 0 no-repeat;
+ }
+ 
+  QLabel#movieText_3 {
+	border-image: url(./Images/HunyuBarLv3.png) 17 0 0 0 no-repeat;
+ }
+ 
+  QLabel#movieText_4 {
+	border-image: url(./Images/HunyuBarLv4.png) 17 0 0 0 no-repeat;
+ }
+ 
+QProgressBar {
+   background: url(./Images/LvProgress_1.png) no-repeat;
+}
+
+QProgressBar::chunk {
+    background: url(./Images/LvProgress_2.png) no-repeat;
+}
+
+/*
+QScrollBar:vertical 
+{
+    border: none;
+	border-image: url(./Images/Scrollbar/Scrollbar_Tunnel_Bkgnd.png) 4 4 4 4 stretch;	
+	width: 19px;
+	margin: 18px 5px 18px 5px;
+}
+
+QScrollBar::handle:vertical {
+	width:19px;
+	height: 27px;
+	border-image: url(./Images/Scrollbar/HunYuConfigBkgnd.png) ;
+	background-repeat: none;
+	min-height: 27px;
+	subcontrol-origin: margin;
+	margin: 18px 0px 18px 0px;
+}
+
+QScrollBar::add-line:vertical {
+    border-image: url(./Images/Scrollbar/Scrollbar_Arrow_Down.png);
+    background-color: rgb(28, 23, 18, 255);
+    height: 18px;
+	width: 19px;
+    subcontrol-position: bottom center;
+    subcontrol-origin: margin;
+    margin: 1px 3px 0px 3px;
+}
+
+QScrollBar::sub-line:vertical {
+    border-image: url(./Images/Scrollbar/Scrollbar_Arrow_Up.png);
+    background-color: rgb(28, 23, 18, 255);
+    height: 18px;
+	width: 19px;
+    subcontrol-position: top center;
+    subcontrol-origin: margin;
+    margin: 1px 3px 0px 3px;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+QScrollBar:up-arrow:vertical, QScrollBar:down-arrow:vertical {
+    background: none;
+}
+*/
+
+QTableView
+{
+    /*background-color:rgba(255,255,255,0); */
+    background-image:url(./Images/hunyu/hyTable.png);/**/
+}
+QListView
+{
+    border:0px solid rgba(0,0,0,0);
+    background-image:url(./Images/hunyu/hyTable.png);
+}
+
+QPushButton#HPBtn {
+    color:#a1a1a1;
+    width: 109;
+    height: 37;
+    border-image: url(./Images/HPBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#HPBtn:hover {
+    border-image: url(./Images/HPBtn.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#HPBtn:pressed {
+    border-image: url(./Images/HPBtn.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#HPBtn:disabled {
+    border-image: url(./Images/HPBtn.png) 81 0 0 0 repeat repeat;
+}
+
+
+QPushButton#CombineHyBtn {
+    border-image: url(./Images/CombineHyBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#CombineHyBtn:hover {
+    border-image: url(./Images/CombineHyBtn.png) 27 0 0 0 repeat repeat;
+}
+QPushButton#CombineHyBtn:pressed {
+    border-image: url(./Images/CombineHyBtn.png) 54 0 0 0 repeat repeat;
+}
+QPushButton#CombineHyBtn:disabled {
+    border-image: url(./Images/CombineHyBtn.png) 81 0 0 0 repeat repeat;
+}
+
+QPushButton#CombineTipCloseBtn {
+    border-image: url(./Images/CombineTipCloseBtn.png) 0 0 0 0 repeat repeat;
+}
+QPushButton#CombineTipCloseBtn:hover {
+    border-image: url(./Images/CombineTipCloseBtn.png) 20 0 0 0 repeat repeat;
+}
+QPushButton#CombineTipCloseBtn:pressed {
+    border-image: url(./Images/CombineTipCloseBtn.png) 40 0 0 0 repeat repeat;
+}
+QPushButton#CombineTipCloseBtn:disabled {
+    border-image: url(./Images/CombineTipCloseBtn.png) 60 0 0 0 repeat repeat;
+}

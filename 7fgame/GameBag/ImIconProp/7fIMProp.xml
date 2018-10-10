@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemInfo ver="33">
+<!-- 心为你动勋章、白色情人节勋章,stylevalue=0x40 -->
+<item no="1" styleval="16" index="1" name="v1.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip1专属勋章" tipn="Vip1专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="2" styleval="16" index="2" name="v2.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip2专属勋章" tipn="Vip2专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="3" styleval="16" index="3" name="v3.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip3专属勋章" tipn="Vip3专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="4" styleval="16" index="4" name="v4.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip4专属勋章" tipn="Vip4专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="5" styleval="16" index="5" name="v5.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip5专属勋章" tipn="Vip5专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="6" styleval="16" index="6" name="v6.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip6专属勋章" tipn="Vip6专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="7" styleval="16" index="7" name="v7.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip7专属勋章" tipn="Vip7专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+<item no="8" styleval="16" index="8" name="v8.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Vip8专属勋章" tipn="Vip8专属勋章" url="http://qxzl.7fgame.com/ActTasks/index.html?id=10"/>
+
+<item no="9" styleval="256" index="1" name="heroxz.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="英雄节勋章" tipn="英雄节勋章" url="http://pv.7fgame.com/PVCount.aspx?id=5886" />
+<item no="10" styleval="8192" index="1" name="chunjsgj.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016春季精英联赛冠军" tipn="2016春季精英联赛冠军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="11" styleval="8192" index="2" name="chunjsyj.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016春季精英联赛亚军" tipn="2016春季精英联赛亚军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="12" styleval="8192" index="3" name="chunjsyj.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016春季精英联赛季军" tipn="2016春季精英联赛季军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="13" styleval="8192" index="4" name="chunjsyj.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016春季精英联赛成就" tipn="2016春季精英联赛奖励" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="14" styleval="65536" index="1" name="AutumnGuan.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016秋季精英联赛冠军" tipn="2016秋季精英联赛冠军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="15" styleval="65536" index="2" name="AutumnYa.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016秋季精英联赛亚军" tipn="2016秋季精英联赛亚军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="16" styleval="65536" index="3" name="AutunmJi.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016秋季精英联赛季军" tipn="2016秋季精英联赛季军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="17" styleval="65536" index="4" name="AutumnCj.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="2016秋季精英联赛成就" tipn="2016秋季精英联赛奖励" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="18" styleval="32768" index="1" name="SaiJ1lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到百夫长段位" tipn="上赛季武勋达到百夫长段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="19" styleval="32768" index="2" name="SaiJ2lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到千夫长段位" tipn="上赛季武勋达到千夫长段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="20" styleval="32768" index="3" name="SaiJ3lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到万夫长段位" tipn="上赛季武勋达到万夫长段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="21" styleval="32768" index="4" name="SaiJ4lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到大将军段位" tipn="上赛季武勋达到大将军段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="22" styleval="32768" index="5" name="SaiJ5lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到绝世名将段位" tipn="上赛季武勋达到绝世名将段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="23" styleval="32768" index="6" name="SaiJ6lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到绝世神将段位" tipn="上赛季武勋达到绝世神将段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="24" styleval="32768" index="7" name="SaiJ7lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="上赛季武勋达到绝世战神段位" tipn="上赛季武勋达到绝世战神段位" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<!--   17-19预留段位扩展用   -->
+<item no="25" styleval="32768" index="8" name="SaiJ7lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="" tipn="" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="26" styleval="32768" index="9" name="SaiJ7lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="" tipn="" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="27" styleval="32768" index="10" name="SaiJ7lv.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="" tipn="" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+
+<item no="28" styleval="1024" index="1" name="wuxunfenxiang17.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋兵卒" tipn="本赛季武勋兵卒" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="29" styleval="1024" index="2" name="wuxunfenxiang18.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋伍长" tipn="本赛季武勋伍长" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="30" styleval="1024" index="3" name="wuxunfenxiang19.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋什长" tipn="本赛季武勋什长" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="31" styleval="1024" index="4" name="wuxunfenxiang20.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋百夫长" tipn="本赛季武勋百夫长" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="32" styleval="1024" index="5" name="wuxunfenxiang21.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋千夫长" tipn="本赛季武勋千夫长" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="33" styleval="1024" index="6" name="wuxunfenxiang22.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋万夫长" tipn="本赛季武勋万夫长" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="34" styleval="1024" index="7" name="wuxunfenxiang23.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋大将军" tipn="本赛季武勋大将军" url="http://pv.7fgame.com/PVCount.aspx?id=6693" />
+<item no="35" styleval="1024" index="8" name="wuxunfenxiang24.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋绝世名将" tipn="本赛季武勋绝世名将" url="http://pv.7fgame.com/PVCount.aspx?id=6693" /> 
+<item no="36" styleval="1024" index="9" name="wuxunfenxiang25.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋绝世神将" tipn="本赛季武勋绝世神将" url="http://pv.7fgame.com/PVCount.aspx?id=6693" /> 
+<item no="37" styleval="1024" index="10" name="wuxunfenxiang26.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="本赛季武勋绝世战神" tipn="本赛季武勋绝世战神" url="http://pv.7fgame.com/PVCount.aspx?id=6693" /> 
+
+<item no="38" styleval="32" index="1" name="gold.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="时间金币活动成就" tipn="参与时间锦囊，在活动页面可点亮成就" url="http://pv.7fgame.com/PVCount.aspx?id=5754" />
+<item no="39" styleval="134217728" index="1" name="jianghun.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="将魂成就" tipn="激活将魂游戏即可点亮将魂成就" url="http://pvcount.7fgame.com/PVCount.aspx?id=5383" />
+<item no="40" styleval="1" index="1" name="gexing.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="个性装扮达人" tipn="使用过个性装扮即可点亮成就" />
+<item no="41" styleval="2" index="1" name="shenmi.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="神秘商店进驻者" tipn="通过任务几率获取神秘商店钥匙，进入过神秘商店即可点亮成就" />
+<item no="42" styleval="4" index="1" name="chaoren.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Q版精品游戏造型成就" tipn="购买过精品Q版造型即可点亮成就" />
+<item no="43" styleval="8" index="1" name="jingpin.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="Q版潮人游戏造型成就"  tipn="潮人Q版已下架，暂时无法获得成就" />  
+<item no="44" styleval="16384" index="1" name="zhourenwu.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="将军令成就" tipn="完成一次群雄逐鹿将军令任务即可点亮成就" />
+<item no="45" styleval="64" index="1" name="year1.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="义士勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="46" styleval="64" index="2" name="year2.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="游侠勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="47" styleval="64" index="3" name="year3.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="英雄勋章 " tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="48" styleval="64" index="4" name="year4.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="圣贤勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="49" styleval="64" index="5" name="year5.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="勇士勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="50" styleval="64" index="6" name="year6.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="精英勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="51" styleval="64" index="7" name="year7.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="王者勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="52" styleval="64" index="8" name="year8.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="圣堂勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="53" styleval="64" index="9" name="year9.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="御林勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="54" styleval="64" index="10" name="year10.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="匠心勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="55" styleval="64" index="11" name="year11.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="荣耀勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="56" styleval="64" index="12" name="year12.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="龙魂勋章" tipn="起凡荣誉勋章，帐号价值的体现" url="http://pvcount.7fgame.com/PVCount.aspx?id=5879" />
+<item no="57" styleval="4096" index="1" name="phone.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="绑定手机" tipn="绑定手机即可点亮成就" url="http://pvcount.7fgame.com/PVCount.aspx?id=6751" />
+<item no="58" styleval="2147483648" index="1" name="clubVip.png" showType="3" LoginType="1" folder="GameBag\ImIconProp\" tipy="贵宾俱乐部会员" tipn="加入贵宾俱乐部即可点亮该成就" url="http://pvcount.7fgame.com/PVCount.aspx?id=6235"/>
+
+<Flag no="1" Flag="0" name="vip_smallflag0.bmp" folder="Skin\Default\" tip="起凡会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="1" Flag="1" name="vip_smallflag1.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP1会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="1" Flag="2" name="vip_smallflag2.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP2会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="1" Flag="3" name="vip_smallflag3.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP3会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="1" Flag="4" name="vip_smallflag4.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP4会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="1" Flag="5" name="vip_smallflag12.bmp" folder="Skin\Default\" tip="至尊年费会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="2" Flag="0" name="Qunxiong_daRen_s.bmp" folder="Skin\Default\" tip="群雄达人" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="3" Flag="0" name="SexVip_boy.png" folder="Skin\Default\" tip="会员(男)" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="3" Flag="1" name="SexVip_girl.png" folder="Skin\Default\" tip="会员(女)" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="4" Flag="0" name="SexFlag_boy.png" folder="Skin\Default\" tip="男" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="4" Flag="1" name="SexFlag_girl.png" folder="Skin\Default\" tip="女" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="5" Flag="0" name="match_star_smallflag.bmp" folder="GameBag\ImIconProp\" tip="明星选手" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="6" Flag="0" name="match_player_smallflag.bmp" folder="GameBag\ImIconProp\" tip="比赛选手" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="7" Flag="0" name="union_level.bmp" folder="GameBag\ImIconProp\" tip="显示公会名称" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="8" Flag="0" name="daren_smallflag.bmp" folder="GameBag\ImIconProp\" tip="喇叭达人" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="9" Flag="0" name="UnionTeamJobFlag.bmp" folder="GameBag\ImIconProp\" tip="公会会长" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="10" Flag="0" name="UnionTeamJobFlag.bmp" folder="GameBag\ImIconProp\" tip="公会官员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="0" name="vip_midflag0.bmp" folder="Skin\Default\" tip="起凡会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="1" name="vip_midflag1.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP1会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="2" name="vip_midflag2.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP2会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="3" name="vip_midflag3.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP3会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="4" name="vip_midflag4.bmp" folder="Skin\Default\" tip="尊贵的起凡VIP4会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="11" Flag="5" name="vip_midflag12.bmp" folder="Skin\Default\" tip="至尊年费会员" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="12" Flag="0" name="Qunxiong_daRen_b.bmp" folder="Skin\Default\" tip="群雄达人" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+<Flag no="13" Flag="0" name="labadaren_bigflag.bmp" folder="GameBag\ImIconProp\" tip="喇叭达人" url="http://pvcount.7fgame.com/PVCount.aspx?id=1267"/>
+</ItemInfo>

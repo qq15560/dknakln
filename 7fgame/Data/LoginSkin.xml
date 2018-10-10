@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content ver="28">  
+<SkinConfigEx index="256" starttimeEx="8/11/2017 10:00:00" endtimeEx="9/19/2017 23:59:59" content="英雄节" bkImage="Skin\Login\2\Login_bkg6.png" mainWndx="379" mainWndy="404" mainWndr="1200" mainWndb="1200" OffSet_X="170" OffSet_Y="230" showWebType="1" needCheckTime="1"/>
+
+<SkinConfigEx index="256" starttimeEx="6/11/2015 09:00:00" endtimeEx="6/12/2015 15:00:00" content="群雄武勋新赛季" bkImage="Skin\Login\2\Login_bkg.png" mainWndx="217" mainWndy="500" mainWndr="500" mainWndb="500" OffSet_X="222" OffSet_Y="-46" showWebType="0" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/19/2014 15:00:00" endtimeEx="3/2/2015 15:00:00" content="武勋第三赛季" bkImage="Skin\Login\2\Login_bkg2.png" mainWndx="264" mainWndy="290" mainWndr="1024" mainWndb="806" showWebType="0"  OffSet_X="55" OffSet_Y="0" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/19/2013 15:00:00" endtimeEx="9/20/2015 23:59:59" content="武勋新手房" bkImage="Skin\Login\2\Login_bkg3.png" mainWndx="327" mainWndy="405" mainWndr="1200" mainWndb="1200" showWebType="0"  OffSet_X="113" OffSet_Y="120" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/19/2013 15:00:00" endtimeEx="12/31/2015 23:59:59" content="年终狂欢" bkImage="Skin\Login\2\Login_bkg4.png" mainWndx="307" mainWndy="228" mainWndr="1200" mainWndb="1200" showWebType="0"  OffSet_X="113" OffSet_Y="120" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/19/2013 15:00:00" endtimeEx="12/31/2015 23:59:59" content="武魂盒黑崎一护" bkImage="Skin\Login\2\Login_bkg5.png" mainWndx="271" mainWndy="303" mainWndr="1200" mainWndb="1200" showWebType="0"  OffSet_X="75" OffSet_Y="120" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/16/2016 15:00:00" endtimeEx="12/31/2016 23:59:59" content="武勋第五赛季" bkImage="Skin\Login\2\Login_bkg6.png" mainWndx="327" mainWndy="344" mainWndr="1200" mainWndb="1200" showWebType="0"  OffSet_X="140" OffSet_Y="120" needCheckTime="0"/>
+
+<SkinConfigEx index="256" starttimeEx="11/19/2013 15:00:00" endtimeEx="9/20/2013 23:59:59" content="军团" bkImage="Skin\Login\2\Login_bkg2.png" mainWndx="263" mainWndy="273" mainWndr="1111" mainWndb="721" showWebType="1" needCheckTime="1"/>
+
+<SkinConfig index="3" content="五周年登陆界面" bkImage="Skin\3\Login_bkg.png" mainWndx="8" mainWndy="275" mainWndr="587" mainWndb="658" ckBtnImage="Skin\3\login_btn_ck.png" ckBtnPtx="20" ckBtnPty="292" closeBtn="Skin\3\Login_btn_close.png" 
+
+closeBtnPtx="520" closeBtnPty="1" progressBtn="Skin\3\Login_progress.png" progressx="1" progressy="312" progressr="559" progressb="644"  cmBkImage="Skin\3\Login_CmbBg.png" cmbkPtx="66" cmbkPty="206" cmbkPtr="210" cmbkPtb="230"  cmDownImage="Skin\3\Login_down.bmp" LoginBtn="Skin\3\loginBtn.png" 
+lgBtnPtx="213" lgBtnPty="208" rgBtn="Skin\3\Register.png" rgBtnPtx="213" rgBtnPty="262" lfwebx="4" lfweby="39" lfwebr="311" lfwebb="201" rtwebx="315" rtweby="39" rtwebr="574" rtwebb="310"
+rtdesx="" rtdesy="" rtdesr="" rtdesb="" areax="72" areay="209" showWebType="2"/>
+
+<SkinConfig index="255" content="特权网吧" bkImage="Skin\Login\1\Login_bkg.png" mainWndx="282" mainWndy="238" mainWndr="855" mainWndb="621" ckBtnImage="Skin\Login\1\login_btn_ck.png" ckBtnPtx="20" ckBtnPty="288" closeBtn="Skin\Login\1\Login_btn_close.png" 
+closeBtnPtx="535" closeBtnPty="0" progressBtn="Skin\Login\1\Login_progress.png" progressx="4" progressy="305" progressr="557" progressb="637"  cmBkImage="" cmbkPtx="66" cmbkPty="202" cmbkPtr="210" cmbkPtb="228"  cmDownImage="Skin\3\Login_down.bmp" LoginBtn="Skin\Login\1\loginBtn.png" 
+lgBtnPtx="213" lgBtnPty="208" rgBtn="Skin\Login\1\Register.png" rgBtnPtx="213" rgBtnPty="262" lfwebx="5" lfweby="35" lfwebr="567" lfwebb="200" rtwebx="315" rtweby="39" rtwebr="574" rtwebb="310"
+rtdesx="" rtdesy="" rtdesr="" rtdesb="" areax="72" areay="209" showWebType="1" gameInfoImage="Skin\Login\1\login_gameinfo_caption.bmp" pv="http://pv.7fgame.com/PVCount.aspx?id=5678" brcolor="7451873" bkcolor="15595256"/>
+
+<SkinConfigEx index="255" content="特权网吧" bkImage="Skin\Login\1\Login_bkg.png" mainWndx="281" mainWndy="237" mainWndr="855" mainWndb="621" ckBtnImage="" ckBtnPtx="20" ckBtnPty="288" closeBtn="" 
+closeBtnPtx="535" closeBtnPty="0" progressBtn="" progressx="4" progressy="305" progressr="557" progressb="637"  cmBkImage="" cmbkPtx="66" cmbkPty="202" cmbkPtr="210" cmbkPtb="228"  cmDownImage="" LoginBtn="" 
+lgBtnPtx="213" lgBtnPty="208" rgBtn="" rgBtnPtx="213" rgBtnPty="262" lfwebx="5" lfweby="35" lfwebr="567" lfwebb="200" rtwebx="315" rtweby="39" rtwebr="574" rtwebb="310"
+rtdesx="" rtdesy="" rtdesr="" rtdesb="" areax="72" areay="209" showWebType="1" gameInfoImage="" pv="http://pv.7fgame.com/PVCount.aspx?id=5678" brcolor="7451873" bkcolor="15595256"/>
+</content>

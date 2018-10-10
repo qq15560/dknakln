@@ -1,0 +1,30 @@
+51697, free_local = 1, free_local_s = 1, free_local_w = 0
+51697, full game rtn 2
+51697, 取消求助
+51697, control_id = 4, session_id = 3, zhenying = 1, roomID = 3521
+51697, =======================================
+52425, free_local = 0, free_local_s = 0, free_local_w = 0
+52425, full game rtn 1
+52425, 取消求助
+52425, control_id = 6, session_id = 3, zhenying = 1, roomID = 3521
+52425, =======================================
+101149, free_local = 0, free_local_s = 0, free_local_w = 0
+101149, full game rtn 1
+101149, 取消求助
+101149, control_id = 16, session_id = 3, zhenying = 2, roomID = 3521
+101149, =======================================
+119045, free_local = 0, free_local_s = 0, free_local_w = 0
+119045, full game rtn 1
+119045, 取消求助
+119045, control_id = 16, session_id = 3, zhenying = 2, roomID = 3521
+119045, =======================================
+132697, free_local = 0, free_local_s = 0, free_local_w = 0
+132697, full game rtn 1
+132697, 取消求助
+132697, control_id = 12, session_id = 3, zhenying = 2, roomID = 3521
+132697, =======================================
+139929, free_local = 0, free_local_s = 0, free_local_w = 0
+139929, full game rtn 1
+139929, 取消求助
+139929, control_id = 12, session_id = 3, zhenying = 2, roomID = 3521
+139929, =======================================

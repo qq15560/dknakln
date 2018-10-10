@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="5">
+	<!--  
+	近期热点配置说明:
+	showflag:0代表不显示，非0代表显示
+	AutoLg:0代表不自动登录, 非0代表自动登录
+	-->
+	<HotItem mapid="47" showtime="5000" name="qunxiong" showflag="1" AutoLg="0" ver="0">http://pvCount.7fgame.com/PVCount.aspx?id=3943&amp;subId=%s</HotItem>
+	<HotItem mapid="-2" name="sanguo" showflag="0" AutoLg="0" ver="0">http://pvCount.7fgame.com/PVCount.aspx?id=3944&amp;subId=%s</HotItem>
+	<HotItem mapid="-3" name="sanguoshijie" showflag="0" AutoLg="0" ver="1">http://pvCount.7fgame.com/PVCount.aspx?id=3945&amp;subId=%s</HotItem>
+</content>

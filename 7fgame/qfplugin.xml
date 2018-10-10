@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+<PLUGIN id="602" >
+   <INFO>
+     <name val="迅游" />
+	 <dll val="PN_XunYou.dll" />
+	 <path val="%modulepath%\plugin\xunyou\" /> 
+	 <desc val="让游戏更流畅" />
+	 <param val="avg:'30';ping:'100';timeout:'75';" />
+	 <chkfile val="pn_vercomp_xy.dat" />	
+     	 <autodown val="0" />	 
+   </INFO>
+   	<LIST>
+		<ITEM rate="100">
+			<version val="1.0.0.1" />
+			<platversion val="1.0.0.0" />
+			<chkmd5 val="CB2218202B975EC24455E6A80FD105D7" />
+			<ftpurl val="" />
+			<url val="" />
+			<url2 val="http://download.7fgame.com/7fgame/ptplugin/xunyou/1.0.0.2/20131025/VerComp.dat" />
+			<mode val="2" />
+		</ITEM>
+	</LIST>	
+</PLUGIN>	
+<PLUGIN id="601">
+	<INFO>
+		<name val="房间补丁" />
+		<dll val="" />
+		<path val="%modulepath%\" />
+		<desc val="让游戏更流畅稳健!" />
+		<param val="" />
+		<chkfile val="pn_vercomp_ani_patch.dat" />
+		 <autodown val="0" />
+	</INFO>
+	<LIST>
+		<ITEM rate="0">
+			<version val="3.1.5.1" />
+			<platversion val="1.1.0.0" />
+			<chkmd5 val="0E043D59675D8357CF8A37AA52F3BB3F" />
+			<ftpurl val="" /> 
+			<path val="%modulepath%\plugin\aniex\" />
+			<url val="http://download.7fgame.com/7fgame/ptplugin/aniex/102093/20131021/102093.zip" />
+			<url2 val="http://download.7fgame.com/7fgame/ptplugin/aniex/102093/20131021/VerComp.dat" />
+			<dlurl val="" />
+			<mode val="3" />
+		</ITEM>
+	</LIST>
+</PLUGIN> 
+</ROOT>

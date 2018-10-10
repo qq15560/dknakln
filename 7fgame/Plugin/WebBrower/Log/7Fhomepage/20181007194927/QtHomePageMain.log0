@@ -1,0 +1,2219 @@
+10/07/18 19:49:27:751 [7476] UNKNOWN QtHomePageMain - Log4cplusWrapper.h(6996) LOG4CPLUS_MAKE_VERSION_STR:1.1.3 
+10/07/18 19:49:27:751 [7476] UNKNOWN QtHomePageMain - Log4cplusWrapper.h(6997) log4cplus PropertyConfigurator::doConfigure...., Log Config File:D:\Æð·²\7fgame\plugin\WebBrower\Log\7Fhomepage\20181007194927\QtHomePageMain.log4cplus0 
+10/07/18 19:49:27:751 [7476] UNKNOWN QtHomePageMain - GlobalFunction.cpp(967) ³õÊ¼»¯ÈÕÖ¾Ä£¿é 
+10/07/18 19:49:27:751 [7476] UNKNOWN QtHomePageMain - GlobalFunction.cpp(972) °æ±¾ºÅ:1.0.0.9, °æ±¾´´½¨Ê±¼ä:2018/9/11 20:22:2, ±àÒëÈÕÆÚ:Aug 22 2018, ±àÒëÊ±¼ä:09:20:53 
+10/07/18 19:49:27:751 [7476] TRACE QtHomePageMain - WebProc.cpp(107) B-Entry	==> FUN<CWebProcApp::InitInstance>: 
+10/07/18 19:49:27:753 [7476] INFO  QtHomePageMain - WebProc.cpp(278) B-Entry	====> FUN<CWebProcApp::ProcssCmd>: 
+10/07/18 19:49:27:753 [7476] INFO  QtHomePageMain - WebProc.cpp(293) m_dwProcessId: 8620 
+10/07/18 19:49:27:754 [7476] INFO  QtHomePageMain - WebProc.cpp(278) B-Exit 	<==== FUN<CWebProcApp::ProcssCmd>: 
+10/07/18 19:49:27:754 [7476] INFO  QtHomePageMain - BrowserManager.cpp(73) B-Entry	====> FUN<CBrowserManager::Initialize>:uPort:49682 
+10/07/18 19:49:27:777 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	======> FUN<CBrowserManager::SendData>:uCmdID:100, bSuccess:1, dwObjID:0, pbtData:00000000, nSize:0 
+10/07/18 19:49:27:777 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<====== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:27:778 [7476] INFO  QtHomePageMain - BrowserManager.cpp(73) B-Exit 	<==== FUN<CBrowserManager::Initialize>:uPort:49682 
+10/07/18 19:49:27:785 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(65) B-Entry	====> FUN<NSQtHomePage::CGlobalFunction::CGlobalFunction>: 
+10/07/18 19:49:27:785 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(65) B-Exit 	<==== FUN<NSQtHomePage::CGlobalFunction::CGlobalFunction>: 
+10/07/18 19:49:27:785 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(159) B-Entry	====> FUN<QtHomePage::CQtHomePageBusiness::Init>: 
+10/07/18 19:49:27:785 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(425) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::InitBugReportModule>: 
+10/07/18 19:49:27:786 [7476] INFO  QtHomePageMain - mdump.cpp(49) Initialize minidump succeed! 
+10/07/18 19:49:27:786 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(446) Initialize bug report finish. 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(456) Upload error log file thread start... 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(481) Start upload QtHomePage dump thread. 
+10/07/18 19:49:27:787 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(425) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::InitBugReportModule>: 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(238) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::ProcessCmdLine>: 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(242) strCmdLine:"D:\Æð·²\7fgame\plugin\WebBrower\7Fhomepage" /proc=8620 /thr=10796 /port=49682 /flag=1740858559 
+10/07/18 19:49:27:787 [4788] INFO  QtHomePageMain - BugReportManager.cpp(276) B-Entry	==> FUN<BugReportManager::uploadDumpThread>: 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(251) B-Entry	========> FUN<QtHomePage::CQtHomePageBusiness::ProcessCmdLine>:"D:\Æð·²\7fgame\plugin\WebBrower\7Fhomepage" /proc=8620 /thr=10796 /port=49682 /flag=1740858559 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(261) __argc:5, __argv:00000000, __wargv:0411EA20 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(262) __argc:5, __argv:00000000, __wargv:0411EA20 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(293) STCmdLineParam
+{
+ bTest:0 strCmdLineParam:/proc=8620 hwndMsg:00000000 uiMsgId:0 dwPId:8620 uiPort:0 uiFriendUserId:0 eClientType:0 uiServerIp:0 uiUserId:0 strUserName: strPlatformVersion: strPlatformPath: bNoAuth:0 strGwspServerIp: uiGwspServerPort:0 strWebParam: bGuideMode:0 uiGuideStep:0 uiClientFlag:1740858559
+}
+ 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(251) B-Exit 	<======== FUN<QtHomePage::CQtHomePageBusiness::ProcessCmdLine>: 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(238) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::ProcessCmdLine>: 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(771) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStartStatisticData>:strStage:Init 
+10/07/18 19:49:27:787 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	========> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:27:789 [4788] INFO  QtHomePageMain - BugReportManager.cpp(276) B-Exit 	<== FUN<BugReportManager::uploadDumpThread>: 
+10/07/18 19:49:27:806 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<======== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.Start.Init uiUserId:0 strMac: strParam:{"Stage":"Init", "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:27:806 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(771) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStartStatisticData>: 
+10/07/18 19:49:27:806 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(904) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ClearQNetworkDiskCache>: 
+10/07/18 19:49:28:024 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:28:024 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:28:461 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(904) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ClearQNetworkDiskCache>: 
+10/07/18 19:49:28:461 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(159) B-Exit 	<==== FUN<QtHomePage::CQtHomePageBusiness::Init>: 
+10/07/18 19:49:28:461 [7476] TRACE QtHomePageMain - WebProc.cpp(107) B-Exit 	<== FUN<CWebProcApp::InitInstance>: 
+10/07/18 19:49:28:461 [7476] INFO  QtHomePageMain - WebProc.cpp(223) B-Entry	==> FUN<CWebProcApp::Run>: 
+10/07/18 19:49:31:079 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:16 
+10/07/18 19:49:31:081 [7476] INFO  QtHomePageMain - BrowserManager.cpp(273) B-Entry	======> FUN<CBrowserManager::ReceiveData>:CMD_CLIENT_SRV_LOGIN_RTN 
+10/07/18 19:49:31:081 [7476] INFO  QtHomePageMain - BrowserManager.cpp(273) B-Exit 	<====== FUN<CBrowserManager::ReceiveData>:CMD_CLIENT_SRV_LOGIN_RTN 
+10/07/18 19:49:31:082 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:082 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:24 
+10/07/18 19:49:31:082 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:082 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():5, sizeof(CProtocolType):5, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:082 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagBlockWebInfo,struct NSIPCProtocol::STIPCBlockWebInfoNotify,&public: static void __cdecl CDataTransfer::IPCBlockWebInfoNotify2STIPCBlockWebInfoNotify(struct tagBlockWebInfo const &,struct NSIPCProtocol::STIPCBlockWebInfoNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:082 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:5, sizeof(protocolObjSrc):5, strBuf.length():5 
+10/07/18 19:49:31:082 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(505) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCBlockWebInfoNotify
+{
+ uiSize:5 stIPCBlockWebInfo:STIPCBlockWebInfo
+{
+ bBolck:0
+}
+
+}
+ 
+10/07/18 19:49:31:083 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1386) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCBlockWebInfoNotify>:STIPCBlockWebInfoNotify
+{
+ uiSize:5 stIPCBlockWebInfo:STIPCBlockWebInfo
+{
+ bBolck:0
+}
+
+}
+ 
+10/07/18 19:49:31:083 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1386) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCBlockWebInfoNotify>: 
+10/07/18 19:49:31:083 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(505) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:31:083 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagBlockWebInfo,struct NSIPCProtocol::STIPCBlockWebInfoNotify,&public: static void __cdecl CDataTransfer::IPCBlockWebInfoNotify2STIPCBlockWebInfoNotify(struct tagBlockWebInfo const &,struct NSIPCProtocol::STIPCBlockWebInfoNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:083 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:083 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:083 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2176 
+10/07/18 19:49:31:083 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:083 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2160, sizeof(CProtocolType):2160, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:083 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagUserInfo,struct NSIPCProtocol::STIPCUserInfoNotify,&public: static void __cdecl CDataTransfer::IPCUserInfoNotify2STIPCUserInfoNotify(struct tagUserInfo const &,struct NSIPCProtocol::STIPCUserInfoNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:084 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2160, sizeof(protocolObjSrc):2160, strBuf.length():2160 
+10/07/18 19:49:31:084 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1224) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCUserInfoNotify>:STIPCUserInfoNotify
+{
+ msgHead:MSGHEAD
+{
+ nSize:2172 sCommand:230 sParam:0 dwObjID:0
+}
+ uiSize:0 stIPCUserInfo:STIPCUserInfo
+{
+ uiSize:0 strUserName:ÓÒ¶ú¶¤Ø¼²ÐÁµ strPassword: bIs7FUser:1 uiUserId:109175625 uiLoginSTSize:128 strWebService:http://passportservice.7fgame.com/platservice.asmx strXml:http://passportservice.7fgame.com/ strAction:GetEncryptLoginBase64ST strWebLogin:https://passport.7fgame.com/Authentication/Login.aspx
+}
+
+}
+ 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(771) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::ReportStartStatisticData>:strStage:GetUserInfo 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.Start.GetUserInfo uiUserId:0 strMac: strParam:{"Stage":"GetUserInfo", "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(771) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::ReportStartStatisticData>: 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(791) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::ReportErrorStatisticData>: 
+10/07/18 19:49:31:085 [7476] INFO  QtHomePageMain - BugReportManager.cpp(486) B-Entry	==============> FUN<BugReportManager::readConfigErrCode>: 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - BugReportManager.cpp(486) B-Exit 	<============== FUN<BugReportManager::readConfigErrCode>: 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.ExitErrCode uiUserId:0 strMac: strParam:{"ExitErrCode":50, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(791) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::ReportErrorStatisticData>: 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(844) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::ReportDumpStatisticData>: 
+10/07/18 19:49:31:092 [7476] INFO  QtHomePageMain - BugReportManager.cpp(486) B-Entry	==============> FUN<BugReportManager::readConfigErrCode>: 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - BugReportManager.cpp(486) B-Exit 	<============== FUN<BugReportManager::readConfigErrCode>: 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(854) strLastLogPath:D:\Æð·²\7fgame\plugin\WebBrower\Log\7Fhomepage\20181007120919, bIsDumpFileExist:0 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(844) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::ReportDumpStatisticData>: 
+10/07/18 19:49:31:098 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1224) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCUserInfoNotify>: 
+10/07/18 19:49:31:098 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagUserInfo,struct NSIPCProtocol::STIPCUserInfoNotify,&public: static void __cdecl CDataTransfer::IPCUserInfoNotify2STIPCUserInfoNotify(struct tagUserInfo const &,struct NSIPCProtocol::STIPCUserInfoNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:098 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:099 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:099 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:099 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:1
+}
+ uiSize:2080 hParent:000504D6 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:268435456 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:099 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:118 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107CC, winId():000107CC 
+10/07/18 19:49:31:126 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:126 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:1
+}
+ uiSize:0 hwnd:000107CC
+}
+ 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:1
+}
+
+}
+ 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:1, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:250 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:250 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:251 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:251 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:251 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:251 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:251 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:5
+}
+ uiSize:2080 hParent:00020510 rect:RECT
+{
+ left:0 top:0 right:234 bottom:112
+}
+ dwStyle:1375731712 uiType:0 szUrl:http://pv.7fgame.com/?id=6917&pvuid=109175625
+}
+ 
+10/07/18 19:49:31:251 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:253 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000207C8, winId():000207C8 
+10/07/18 19:49:31:259 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:259 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:259 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:31:259 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6917&pvuid=109175625, bResult:0 
+10/07/18 19:49:31:259 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6917&pvuid=109175625, bResult:0 
+10/07/18 19:49:31:259 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=6917&pvuid=109175625, strUrlReturn:http://pv.7fgame.com/?id=6917&pvuid=109175625 
+10/07/18 19:49:31:259 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/?id=6917&pvuid=109175625 
+10/07/18 19:49:31:259 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:31:265 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	==============> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:266 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<============== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:269 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============ FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:31:341 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:341 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:5
+}
+ uiSize:0 hwnd:000207C8
+}
+ 
+10/07/18 19:49:31:341 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:5
+}
+
+}
+ 
+10/07/18 19:49:31:341 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:5, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:341 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:341 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:342 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:342 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:342 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:342 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:342 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:345 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:345 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:345 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:345 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:345 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:345 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:6
+}
+ uiSize:2080 hParent:00010624 rect:RECT
+{
+ left:0 top:0 right:49 bottom:49
+}
+ dwStyle:1342177280 uiType:0 szUrl:http://pv.7fgame.com/?id=6918&pvuid=109175625
+}
+ 
+10/07/18 19:49:31:345 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:347 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000207CE, winId():000207CE 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:353 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:31:353 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6918&pvuid=109175625, bResult:0 
+10/07/18 19:49:31:353 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6918&pvuid=109175625, bResult:0 
+10/07/18 19:49:31:353 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=6918&pvuid=109175625, strUrlReturn:http://pv.7fgame.com/?id=6918&pvuid=109175625 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/?id=6918&pvuid=109175625 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	==============> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<============== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:353 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============ FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:31:357 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:6
+}
+ uiSize:0 hwnd:000207CE
+}
+ 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:6
+}
+
+}
+ 
+10/07/18 19:49:31:357 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:6, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:357 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:357 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:357 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:357 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:358 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:358 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:358 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:358 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:358 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:358 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:7
+}
+ uiSize:2080 hParent:00010634 rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:358 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:360 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000207D0, winId():000207D0 
+10/07/18 19:49:31:367 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:367 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:370 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:7
+}
+ uiSize:0 hwnd:000207D0
+}
+ 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:7
+}
+
+}
+ 
+10/07/18 19:49:31:370 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:7, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:370 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:370 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:370 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:370 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:371 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:371 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:371 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:371 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:371 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:371 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:8
+}
+ uiSize:2080 hParent:00010648 rect:RECT
+{
+ left:0 top:0 right:80 bottom:24
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:371 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:373 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107D8, winId():000107D8 
+10/07/18 19:49:31:379 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:379 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:381 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:381 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:8
+}
+ uiSize:0 hwnd:000107D8
+}
+ 
+10/07/18 19:49:31:381 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:8
+}
+
+}
+ 
+10/07/18 19:49:31:381 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:8, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:382 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:382 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:382 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:382 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:382 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:382 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:383 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:383 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:9
+}
+ uiSize:2080 hParent:0001064A rect:RECT
+{
+ left:0 top:0 right:80 bottom:24
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:383 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:384 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107DA, winId():000107DA 
+10/07/18 19:49:31:392 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:392 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:394 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:9
+}
+ uiSize:0 hwnd:000107DA
+}
+ 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:9
+}
+
+}
+ 
+10/07/18 19:49:31:394 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:9, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:394 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:394 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:395 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:395 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:10
+}
+ uiSize:2080 hParent:000106A2 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1342177280 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:395 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:398 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107DC, winId():000107DC 
+10/07/18 19:49:31:404 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:404 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:10
+}
+ uiSize:0 hwnd:000107DC
+}
+ 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:10
+}
+
+}
+ 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:10, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:406 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:406 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:407 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:407 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:407 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:407 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:407 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:11
+}
+ uiSize:2080 hParent:000106A8 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1442840576 uiType:1 szUrl:
+}
+ 
+10/07/18 19:49:31:407 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:409 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107DE, winId():000107DE 
+10/07/18 19:49:31:415 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:415 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:11
+}
+ uiSize:0 hwnd:000107DE
+}
+ 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:11
+}
+
+}
+ 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:11, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:417 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:417 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:418 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:418 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:418 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:418 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:418 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:12
+}
+ uiSize:2080 hParent:000106C2 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:418 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:421 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107E0, winId():000107E0 
+10/07/18 19:49:31:428 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:428 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:430 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:430 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:12
+}
+ uiSize:0 hwnd:000107E0
+}
+ 
+10/07/18 19:49:31:430 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:12
+}
+
+}
+ 
+10/07/18 19:49:31:430 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:12, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:431 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:431 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:431 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:431 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:431 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:432 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:432 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:432 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:13
+}
+ uiSize:2080 hParent:000106E0 rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:432 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:434 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107E2, winId():000107E2 
+10/07/18 19:49:31:442 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:442 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:444 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:444 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:13
+}
+ uiSize:0 hwnd:000107E2
+}
+ 
+10/07/18 19:49:31:444 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:13
+}
+
+}
+ 
+10/07/18 19:49:31:444 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:13, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:444 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:444 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:444 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:444 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:445 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:445 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:445 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:445 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:446 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:446 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:14
+}
+ uiSize:2080 hParent:000106EE rect:RECT
+{
+ left:0 top:0 right:701 bottom:633
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:446 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:448 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107E4, winId():000107E4 
+10/07/18 19:49:31:455 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:455 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:457 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:14
+}
+ uiSize:0 hwnd:000107E4
+}
+ 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:14
+}
+
+}
+ 
+10/07/18 19:49:31:457 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:14, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:457 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:457 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:457 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:457 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:458 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:458 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:458 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:458 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:458 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:458 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:15
+}
+ uiSize:2080 hParent:000106FC rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:458 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:460 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107E6, winId():000107E6 
+10/07/18 19:49:31:469 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:469 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:15
+}
+ uiSize:0 hwnd:000107E6
+}
+ 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:15
+}
+
+}
+ 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:15, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:471 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:471 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:472 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:472 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:472 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:472 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:472 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:16
+}
+ uiSize:2080 hParent:0001070A rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:472 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:477 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107EA, winId():000107EA 
+10/07/18 19:49:31:483 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:483 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:485 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:485 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:16
+}
+ uiSize:0 hwnd:000107EA
+}
+ 
+10/07/18 19:49:31:485 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:16
+}
+
+}
+ 
+10/07/18 19:49:31:486 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:16, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:486 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:486 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:486 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:486 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:486 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:487 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:487 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:17
+}
+ uiSize:2080 hParent:00010718 rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:487 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:490 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107EC, winId():000107EC 
+10/07/18 19:49:31:497 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:497 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:499 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:499 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:17
+}
+ uiSize:0 hwnd:000107EC
+}
+ 
+10/07/18 19:49:31:499 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:17
+}
+
+}
+ 
+10/07/18 19:49:31:499 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:17, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:500 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:500 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:500 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:500 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:500 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:500 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:501 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:501 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:18
+}
+ uiSize:2080 hParent:00010726 rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:501 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:502 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107EE, winId():000107EE 
+10/07/18 19:49:31:509 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:509 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:514 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:514 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:18
+}
+ uiSize:0 hwnd:000107EE
+}
+ 
+10/07/18 19:49:31:514 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:18
+}
+
+}
+ 
+10/07/18 19:49:31:514 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:18, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:515 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:515 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:515 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:515 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:515 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:516 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:516 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:31:516 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:20
+}
+ uiSize:2080 hParent:00010742 rect:RECT
+{
+ left:0 top:0 right:701 bottom:633
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:31:517 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:31:520 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000107F6, winId():000107F6 
+10/07/18 19:49:31:530 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:31:530 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:31:532 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:31:532 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:20
+}
+ uiSize:0 hwnd:000107F6
+}
+ 
+10/07/18 19:49:31:532 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:20
+}
+
+}
+ 
+10/07/18 19:49:31:533 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:20, pbtData:00753C38, nSize:8 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:534 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:534 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:31:534 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:31:534 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:31:534 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:31:534 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:31:535 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:7
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d
+}
+ 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:7
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d
+}
+ 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d, bResult:0 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d, bResult:0 
+10/07/18 19:49:31:535 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d, strUrlReturn:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d 
+10/07/18 19:49:31:535 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/PVCount.aspx?id=1681&pvuid=%d 
+10/07/18 19:49:31:535 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:31:536 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:537 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:537 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:31:537 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:31:537 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:31:537 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:31:537 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:31:537 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:31:723 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://pt.7fgame.com/InClient/Icons/icon1/index.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:31:723 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:044C5A80, dwObjId:6, winId():207ce, parentWindow():00010624, Url:http://pt.7fgame.com/InClient/Icons/icon1/index.html, QRect:QRect
+{
+ top:0 left:0 bottom:49 right:49
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:49 right:49
+}
+ 
+10/07/18 19:49:31:723 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:6
+}
+
+}
+ 
+10/07/18 19:49:31:723 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:6, pbtData:00000000, nSize:0 
+10/07/18 19:49:31:723 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:723 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:723 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:31:724 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:359 
+10/07/18 19:49:31:724 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:359 
+10/07/18 19:49:31:724 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:31:724 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://pt.7fgame.com/InClient/Icons/icon1/index.html", "ErrCode":1, "time":359, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:31:724 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:31:766 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:767 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://pt.7fgame.com/InClient/Icons/icon2/index.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:058D5410, dwObjId:5, winId():207c8, parentWindow():00020510, Url:http://pt.7fgame.com/InClient/Icons/icon2/index.html, QRect:QRect
+{
+ top:0 left:0 bottom:112 right:234
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:112 right:234
+}
+ 
+10/07/18 19:49:31:925 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:5
+}
+
+}
+ 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:5, pbtData:00000000, nSize:0 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:31:925 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:656 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:656 
+10/07/18 19:49:31:925 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:31:926 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://pt.7fgame.com/InClient/Icons/icon2/index.html", "ErrCode":1, "time":656, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:31:926 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:32:103 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/ActListByPt/page/index.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:05909928, dwObjId:7, winId():207d0, parentWindow():00010634, Url:http://qxzl.7fgame.com/ActListByPt/page/index.html, QRect:QRect
+{
+ top:0 left:0 bottom:766 right:1589
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:766 right:1589
+}
+ 
+10/07/18 19:49:32:104 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:7
+}
+
+}
+ 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:7, pbtData:00000000, nSize:0 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:32:104 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:578 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:578 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/ActListByPt/page/index.html", "ErrCode":1, "time":578, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:32:104 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:32:109 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:32:109 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:32:109 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:32:110 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:32:131 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:32:131 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:33:787 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(225) B-Entry	====> FUN<CWebViewDlg::OnHtmlLeftClicked>: 
+10/07/18 19:49:33:787 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(225) B-Exit 	<==== FUN<CWebViewDlg::OnHtmlLeftClicked>: 
+10/07/18 19:49:33:787 [7476] INFO  QtHomePageMain - WebViewExt.cpp(231) rect():QRect
+{
+ top:0 left:0 bottom:765 right:1588
+}
+, qPoint:QPoint
+{
+ x:1118 y:34
+}
+ 
+10/07/18 19:49:34:080 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:34:080 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:34:080 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:34:080 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:34:080 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:34:080 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:23
+}
+ uiSize:2080 hParent:000107BE rect:RECT
+{
+ left:0 top:0 right:295 bottom:60
+}
+ dwStyle:1342177280 uiType:0 szUrl:http://pv.7fgame.com/?id=6482
+}
+ 
+10/07/18 19:49:34:080 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:34:082 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000603BC, winId():000603BC 
+10/07/18 19:49:34:087 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:34:087 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:34:088 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:34:088 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6482, bResult:0 
+10/07/18 19:49:34:088 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6482, bResult:0 
+10/07/18 19:49:34:088 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=6482, strUrlReturn:http://pv.7fgame.com/?id=6482 
+10/07/18 19:49:34:088 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/?id=6482 
+10/07/18 19:49:34:088 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:34:088 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	==============> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:34:088 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<============== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:34:090 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============ FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:34:094 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:34:094 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:23
+}
+ uiSize:0 hwnd:000603BC
+}
+ 
+10/07/18 19:49:34:094 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:23
+}
+
+}
+ 
+10/07/18 19:49:34:094 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:23, pbtData:00753C38, nSize:8 
+10/07/18 19:49:34:094 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:094 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:094 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:34:094 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:34:095 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:34:095 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:34:095 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:22
+}
+ uiSize:2080 hParent:000107AC rect:RECT
+{
+ left:0 top:0 right:1581 bottom:38
+}
+ dwStyle:1442840576 uiType:1 szUrl:D:\Æð·²\7fgame\Data\LabaQTUI.html
+}
+ 
+10/07/18 19:49:34:095 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:34:097 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):00050840, winId():00050840 
+10/07/18 19:49:34:102 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:34:102 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:34:103 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:34:103 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:D:\Æð·²\7fgame\Data\LabaQTUI.html, bResult:0 
+10/07/18 19:49:34:103 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(445) 1, QFile::exists 
+10/07/18 19:49:34:103 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:D:\Æð·²\7fgame\Data\LabaQTUI.html, bResult:1 
+10/07/18 19:49:34:103 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============ FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:D:\Æð·²\7fgame\Data\LabaQTUI.html, strUrlReturn:file:///D:/Æð·²/7fgame/Data/LabaQTUI.html 
+10/07/18 19:49:34:103 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	============> FUN<CWebViewDlg::LoadUrl>:file:///D:/Æð·²/7fgame/Data/LabaQTUI.html 
+10/07/18 19:49:34:103 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:34:103 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	==============> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:34:103 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<============== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:34:104 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============ FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:34:107 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:22
+}
+ uiSize:0 hwnd:00050840
+}
+ 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:22
+}
+
+}
+ 
+10/07/18 19:49:34:107 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:22, pbtData:00753C38, nSize:8 
+10/07/18 19:49:34:107 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:34:107 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:34:107 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:34:107 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:34:108 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:24 
+10/07/18 19:49:34:108 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:34:108 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():8, sizeof(CProtocolType):8, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndLabaSetClearTime,struct NSIPCProtocol::STIPCLabaSetClearTimeNotify,&public: static void __cdecl CDataTransfer::IPCLabaSetClearTimeNotify2STIPCLabaSetClearTimeNotify(struct tagWndLabaSetClearTime const &,struct NSIPCProtocol::STIPCLabaSetClearTimeNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:34:109 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:8, sizeof(protocolObjSrc):8, strBuf.length():8 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(517) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCLabaSetClearTimeNotify
+{
+ uiSize:8 stIPCLabaSetClearTime:STIPCLabaSetClearTime
+{
+ uiClearTime:1800000
+}
+
+}
+ 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1417) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCLabaSetClearTimeNotify>:STIPCLabaSetClearTimeNotify
+{
+ uiSize:8 stIPCLabaSetClearTime:STIPCLabaSetClearTime
+{
+ uiClearTime:1800000
+}
+
+}
+ 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1417) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCLabaSetClearTimeNotify>: 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(517) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:34:109 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndLabaSetClearTime,struct NSIPCProtocol::STIPCLabaSetClearTimeNotify,&public: static void __cdecl CDataTransfer::IPCLabaSetClearTimeNotify2STIPCLabaSetClearTimeNotify(struct tagWndLabaSetClearTime const &,struct NSIPCProtocol::STIPCLabaSetClearTimeNotify &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:34:109 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:34:109 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:34:109 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:34:110 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:34:110 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:34:110 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:34:110 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:34:110 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:21
+}
+ uiSize:2080 hParent:00010750 rect:RECT
+{
+ left:0 top:0 right:1589 bottom:766
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:34:110 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:34:112 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):00010842, winId():00010842 
+10/07/18 19:49:34:118 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:34:118 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:21
+}
+ uiSize:0 hwnd:00010842
+}
+ 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:21
+}
+
+}
+ 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:21, pbtData:00753C38, nSize:8 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:34:121 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:34:121 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:34:122 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:34:122 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:34:122 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:34:122 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:19
+}
+ uiSize:2080 hParent:00010734 rect:RECT
+{
+ left:0 top:0 right:701 bottom:633
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:34:122 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:34:124 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):00010844, winId():00010844 
+10/07/18 19:49:34:131 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:34:131 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:34:134 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:19
+}
+ uiSize:0 hwnd:00010844
+}
+ 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:19
+}
+
+}
+ 
+10/07/18 19:49:34:134 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:19, pbtData:00753C38, nSize:8 
+10/07/18 19:49:34:134 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:34:134 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:34:134 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:34:134 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():file:///D:/Æð·²/7fgame/Data/LabaQTUI.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:07E8F768, dwObjId:22, winId():50840, parentWindow():000107AC, Url:file:///D:/Æð·²/7fgame/Data/LabaQTUI.html, QRect:QRect
+{
+ top:0 left:0 bottom:37 right:1580
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:37 right:1580
+}
+ 
+10/07/18 19:49:34:143 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:22
+}
+
+}
+ 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:22, pbtData:00000000, nSize:0 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:143 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:31 
+10/07/18 19:49:34:143 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:31 
+10/07/18 19:49:34:144 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:34:144 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"file:///D:/Æð·²/7fgame/Data/LabaQTUI.html", "ErrCode":1, "time":31, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:34:144 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:34:275 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://pt.7fgame.com/InClient/QiPao/Ad/index8.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:34:275 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:07D3CD90, dwObjId:23, winId():603bc, parentWindow():000107BE, Url:http://pt.7fgame.com/InClient/QiPao/Ad/index8.html, QRect:QRect
+{
+ top:0 left:0 bottom:60 right:295
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:60 right:295
+}
+ 
+10/07/18 19:49:34:276 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:23
+}
+
+}
+ 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:23, pbtData:00000000, nSize:0 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:34:276 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:188 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:188 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://pt.7fgame.com/InClient/QiPao/Ad/index8.html", "ErrCode":1, "time":188, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:34:276 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:34:386 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:34:386 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:36:000 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:36:000 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:36:001 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:36:001 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:36:001 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:36:001 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:11
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B
+}
+ 
+10/07/18 19:49:36:001 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:11
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B
+}
+ 
+10/07/18 19:49:36:001 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:36:002 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B, bResult:0 
+10/07/18 19:49:36:002 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B, bResult:0 
+10/07/18 19:49:36:002 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B, strUrlReturn:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B 
+10/07/18 19:49:36:002 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/PVCount.aspx?id=5535&userId=%E5%8F%B3%E8%80%B3%E9%92%89%E4%B8%B6%E6%AE%8B%E6%81%8B 
+10/07/18 19:49:36:002 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:36:003 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:36:003 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:36:004 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:36:004 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:36:004 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:36:004 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:36:004 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:36:004 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:36:553 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/event/20171116/index.html?userId=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:36:553 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:0592BC98, dwObjId:11, winId():107de, parentWindow():000106A8, Url:http://qxzl.7fgame.com/event/20171116/index.html?userId=ÓÒ¶ú¶¤Ø¼²ÐÁµ, QRect:QRect
+{
+ top:0 left:0 bottom:765 right:1426
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:765 right:1426
+}
+ 
+10/07/18 19:49:36:553 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:11
+}
+
+}
+ 
+10/07/18 19:49:36:553 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:11, pbtData:00000000, nSize:0 
+10/07/18 19:49:36:554 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:36:554 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:36:554 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:36:554 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:547 
+10/07/18 19:49:36:554 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:547 
+10/07/18 19:49:36:554 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:36:555 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/event/20171116/index.html?userId=ÓÒ¶ú¶¤Ø¼²ÐÁµ", "ErrCode":1, "time":547, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:36:555 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:48:460 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:48:460 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:48:460 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:48:460 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:48:460 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:48:460 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:24
+}
+ uiSize:2080 hParent:00020848 rect:RECT
+{
+ left:0 top:0 right:520 bottom:490
+}
+ dwStyle:1442840576 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:48:460 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:48:463 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):0001084E, winId():0001084E 
+10/07/18 19:49:48:471 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:48:471 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:48:620 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:48:620 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:24
+}
+ uiSize:0 hwnd:0001084E
+}
+ 
+10/07/18 19:49:48:620 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:24
+}
+
+}
+ 
+10/07/18 19:49:48:621 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:24, pbtData:00753C38, nSize:8 
+10/07/18 19:49:48:621 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:48:621 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:48:621 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:48:621 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:48:621 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:48:622 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:48:622 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:48:625 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:48:625 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:48:626 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:48:626 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:48:626 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:48:626 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:24
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid=
+}
+ 
+10/07/18 19:49:48:627 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:24
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid=
+}
+ 
+10/07/18 19:49:48:627 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:48:627 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid=, bResult:0 
+10/07/18 19:49:48:628 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid=, bResult:0 
+10/07/18 19:49:48:628 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid=, strUrlReturn:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid= 
+10/07/18 19:49:48:628 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/PVCount.aspx?id=6809&ver=0&roomId=2701&maptype=3&subid= 
+10/07/18 19:49:48:628 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:48:629 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:48:629 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:48:629 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:48:630 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:48:630 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:48:630 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:48:630 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:48:630 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:49:311 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:49:312 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:49:312 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:49:312 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:49:312 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:49:312 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:25
+}
+ uiSize:2080 hParent:0001089C rect:RECT
+{
+ left:0 top:0 right:650 bottom:11
+}
+ dwStyle:1342177280 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:49:313 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:49:331 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000108D2, winId():000108D2 
+10/07/18 19:49:49:362 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:49:362 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:49:364 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:49:364 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:25
+}
+ uiSize:0 hwnd:000108D2
+}
+ 
+10/07/18 19:49:49:364 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:25
+}
+
+}
+ 
+10/07/18 19:49:49:365 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:25, pbtData:00753C38, nSize:8 
+10/07/18 19:49:49:365 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:49:365 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:49:366 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:49:366 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:49:366 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:49:366 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:49:366 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:49:368 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:49:368 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:49:369 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:49:369 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:49:369 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:49:369 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:26
+}
+ uiSize:2080 hParent:0001089E rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1342177280 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:49:369 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:49:382 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000108E8, winId():000108E8 
+10/07/18 19:49:49:405 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:49:406 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:49:409 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:49:409 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:26
+}
+ uiSize:0 hwnd:000108E8
+}
+ 
+10/07/18 19:49:49:409 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:26
+}
+
+}
+ 
+10/07/18 19:49:49:410 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:26, pbtData:00753C38, nSize:8 
+10/07/18 19:49:49:410 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:49:410 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:49:410 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:49:411 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:49:411 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:49:411 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:49:411 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:49:412 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:49:413 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:49:413 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:49:413 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:49:413 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:49:413 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:27
+}
+ uiSize:2080 hParent:000108A0 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1342177280 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:49:414 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:49:419 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000108EA, winId():000108EA 
+10/07/18 19:49:49:440 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:49:441 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:49:442 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:49:442 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:27
+}
+ uiSize:0 hwnd:000108EA
+}
+ 
+10/07/18 19:49:49:442 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:27
+}
+
+}
+ 
+10/07/18 19:49:49:442 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:27, pbtData:00753C38, nSize:8 
+10/07/18 19:49:49:443 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:49:443 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:49:443 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:49:443 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:49:443 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:49:443 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:49:443 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:49:444 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2096 
+10/07/18 19:49:49:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:49:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2080, sizeof(CProtocolType):2080, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:49:445 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:49:445 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2080, sizeof(protocolObjSrc):2080, strBuf.length():2080 
+10/07/18 19:49:49:445 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Entry	==========> FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>:STIPCCreateWndReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2092 sCommand:200 sParam:0 dwObjID:28
+}
+ uiSize:2080 hParent:000108A2 rect:RECT
+{
+ left:0 top:0 right:0 bottom:0
+}
+ dwStyle:1342177280 uiType:0 szUrl:
+}
+ 
+10/07/18 19:49:49:446 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(905) 2 
+10/07/18 19:49:49:451 [7476] INFO  QtHomePageMain - qwinwidget.cpp(140) QWinWidget nativeResourceForWindow("handle", window):000108EC, winId():000108EC 
+10/07/18 19:49:49:466 [7476] INFO  QtHomePageMain - WebViewExt.cpp(110) CacheDirectory:QStandardPaths::writableLocation(QStandardPaths::CacheLocation):C:/Users/Ìï/AppData/Local/7Fhomepage/cache 
+10/07/18 19:49:49:467 [7476] INFO  QtHomePageMain - WebViewExt.cpp(114) conn:1 
+10/07/18 19:49:49:468 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1051) conn:1 
+10/07/18 19:49:49:468 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Entry	============> FUN<CIPCProcPlatform::ProcessSendIPCMsg>:STIPCCreateWndRsp
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:0 sParam:1 dwObjID:28
+}
+ uiSize:0 hwnd:000108EC
+}
+ 
+10/07/18 19:49:49:468 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	==============> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:20 sCommand:201 sParam:1 dwObjID:28
+}
+
+}
+ 
+10/07/18 19:49:49:469 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	================> FUN<CBrowserManager::SendData>:uCmdID:201, bSuccess:1, dwObjID:28, pbtData:00753C38, nSize:8 
+10/07/18 19:49:49:469 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<================ FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:49:469 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<============== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:49:469 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(700) B-Exit 	<============ FUN<CIPCProcPlatform::ProcessSendIPCMsg>: 
+10/07/18 19:49:49:469 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(872) B-Exit 	<========== FUN<QtHomePage::CQtHomePageBusiness::OnIPCCreateWndReq>: 
+10/07/18 19:49:49:469 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndCreateInfo,struct NSIPCProtocol::STIPCCreateWndReq,&public: static void __cdecl CDataTransfer::IPCCreateWndReq2STIPCCreateWndReq(struct tagWndCreateInfo const &,struct NSIPCProtocol::STIPCCreateWndReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:49:469 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:49:469 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:49:493 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://pt.7fgame.com/InClient/SMailPage/index.html?newsid=67213&ver=0&roomId=2701&maptype=3&subid=
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:49:494 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:0818BDD8, dwObjId:24, winId():1084e, parentWindow():00020848, Url:http://pt.7fgame.com/InClient/SMailPage/index.html?newsid=67213&ver=0&roomId=2701&maptype=3&subid=, QRect:QRect
+{
+ top:0 left:0 bottom:490 right:520
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:490 right:520
+}
+ 
+10/07/18 19:49:49:494 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:24
+}
+
+}
+ 
+10/07/18 19:49:49:494 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:24, pbtData:00000000, nSize:0 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:49:495 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:875 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:875 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:49:495 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://pt.7fgame.com/InClient/SMailPage/index.html?newsid=67213&ver=0&roomId=2701&maptype=3&subid=", "ErrCode":1, "time":875, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:49:496 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:50:554 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:50:555 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:50:555 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:50:555 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:50:555 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:50:555 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:27
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ 
+10/07/18 19:49:50:556 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:27
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ 
+10/07/18 19:49:50:556 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:50:556 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ, bResult:0 
+10/07/18 19:49:50:557 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ, bResult:0 
+10/07/18 19:49:50:557 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ, strUrlReturn:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ 
+10/07/18 19:49:50:557 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/?id=7102&userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ 
+10/07/18 19:49:50:557 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:50:558 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:50:558 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:50:559 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:50:559 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:50:559 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:50:560 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:50:560 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:50:560 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:50:561 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:50:562 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:50:562 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:50:562 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:50:562 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:50:563 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:28
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/?id=7103
+}
+ 
+10/07/18 19:49:50:563 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:28
+}
+ uiSize:2052 strUrl:http://pv.7fgame.com/?id=7103
+}
+ 
+10/07/18 19:49:50:563 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:50:563 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=7103, bResult:0 
+10/07/18 19:49:50:564 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=7103, bResult:0 
+10/07/18 19:49:50:564 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=7103, strUrlReturn:http://pv.7fgame.com/?id=7103 
+10/07/18 19:49:50:564 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:http://pv.7fgame.com/?id=7103 
+10/07/18 19:49:50:564 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:50:565 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:50:565 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:50:566 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:50:566 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:50:566 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:50:566 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:50:567 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:50:567 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:50:620 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:49:50:620 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:49:50:621 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:49:50:621 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:49:50:621 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:49:50:622 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:25
+}
+ uiSize:2052 strUrl:1
+http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ 
+10/07/18 19:49:50:622 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:25
+}
+ uiSize:2052 strUrl:1
+http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ 
+10/07/18 19:49:50:622 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:49:50:622 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(550) strRealUrl:http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ 
+10/07/18 19:49:50:622 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ, bResult:0 
+10/07/18 19:49:50:623 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ, bResult:0 
+10/07/18 19:49:50:623 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:1
+http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ, strUrlReturn:http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ 
+10/07/18 19:49:50:623 [7476] TRACE QtHomePageMain - parseurlthread.cpp(58) B-Entry	==============> FUN<ParseUrlManager::ParseUrlManager>: 
+10/07/18 19:49:50:624 [7476] TRACE QtHomePageMain - parseurlthread.cpp(58) B-Exit 	<============== FUN<ParseUrlManager::ParseUrlManager>: 
+10/07/18 19:49:50:624 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:49:50:624 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:49:50:624 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:49:50:626 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:49:50:626 [2064] INFO  QtHomePageMain - GlobalFunction.cpp(579) B-Entry	==> FUN<NSQtHomePage::CGlobalFunction::GetAutoLoginUrl>:GetAutoLoginUrl strUrl:http://pv.7fgame.com/?id=6946&userId=109175625&username=ÓÒ¶ú¶¤Ø¼²ÐÁµ 
+10/07/18 19:49:50:626 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:49:51:133 [2064] INFO  QtHomePageMain - GlobalFunction.cpp(579) B-Exit 	<== FUN<NSQtHomePage::CGlobalFunction::GetAutoLoginUrl>: 
+10/07/18 19:49:51:133 [2064] INFO  QtHomePageMain - parseurlthread.cpp(34) AutoLoginUrl: https://passport.7fgame.com/Authentication/Login.aspx?encryptStr=F3tC2HOyfKE%2B9H41KNwPOn5wd100kh%2FqmfYZJzrzYYoftE1X1Ko4rzpvT1Hj0zvbi%2FdveN7tc7fhAgCmCHIyf%2FgNGpXbgpmFL1TnevBImyXhGNDvNe0%2BNpRxU1OyGPyBumn1RRgVEcMuq4eBfjJDRqK%2B%2FZ%2BWKhDZ9k4tE1hTTjF0vmQutIMMFCEBAUuwIrknyQXxV%2BfqmFPmRBRsLKM2K9bJnvP%2BqAOw6GP8qPG0R%2B6f0QyFBYlZdhbX%2FgVDuBG%2B%2FlZLL0sr%2FeG9MsaTIky2NrTmBrab%2F%2BavNw69Sd%2BR4LATLtpIlwc1OA%3D%3D&systemUrl=http%3A%2F%2Fpv%2E7fgame%2Ecom%2F%3Fid%3D6946%26userId%3D109175625%26username%3D%D3%D2%B6%FA%B6%A4%D8%BC%B2%D0%C1%B5 
+10/07/18 19:49:51:135 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(1184) strLoginUrl:https://passport.7fgame.com/Authentication/Login.aspx?encryptStr=F3tC2HOyfKE%2B9H41KNwPOn5wd100kh%2FqmfYZJzrzYYoftE1X1Ko4rzpvT1Hj0zvbi%2FdveN7tc7fhAgCmCHIyf%2FgNGpXbgpmFL1TnevBImyXhGNDvNe0%2BNpRxU1OyGPyBumn1RRgVEcMuq4eBfjJDRqK%2B%2FZ%2BWKhDZ9k4tE1hTTjF0vmQutIMMFCEBAUuwIrknyQXxV%2BfqmFPmRBRsLKM2K9bJnvP%2BqAOw6GP8qPG0R%2B6f0QyFBYlZdhbX%2FgVDuBG%2B%2FlZLL0sr%2FeG9MsaTIky2NrTmBrab%2F%2BavNw69Sd%2BR4LATLtpIlwc1OA%3D%3D&systemUrl=http%3A%2F%2Fpv%2E7fgame%2Ecom%2F%3Fid%3D6946%26userId%3D109175625%26username%3D%D3%D2%B6%FA%B6%A4%D8%BC%B2%D0%C1%B5 
+10/07/18 19:49:51:135 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	====> FUN<CWebViewDlg::LoadUrl>:https://passport.7fgame.com/Authentication/Login.aspx?encryptStr=F3tC2HOyfKE%2B9H41KNwPOn5wd100kh%2FqmfYZJzrzYYoftE1X1Ko4rzpvT1Hj0zvbi%2FdveN7tc7fhAgCmCHIyf%2FgNGpXbgpmFL1TnevBImyXhGNDvNe0%2BNpRxU1OyGPyBumn1RRgVEcMuq4eBfjJDRqK%2B%2FZ%2BWKhDZ9k4tE1hTTjF0vmQutIMMFCEBAUuwIrknyQXxV%2BfqmFPmRBRsLKM2K9bJnvP%2BqAOw6GP8qPG0R%2B6f0QyFBYlZdhbX%2FgVDuBG%2B%2FlZLL0sr%2FeG9MsaTIky2NrTmBrab%2F%2BavNw69Sd%2BR4LATLtpIlwc1OA%3D%3D&systemUrl=http%3A%2F%2Fpv%2E7fgame%2Ecom%2F%3Fid%3D6946%26userId%3D109175625%26username%3D%D3%D2%B6%FA%B6%A4%D8%BC%B2%D0%C1%B5 
+10/07/18 19:49:51:135 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:49:51:136 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	======> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:51:136 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<====== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:51:137 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<==== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:49:51:187 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/event/2018091103/rank1.html
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:51:187 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:081ACB00, dwObjId:28, winId():108ec, parentWindow():000108A2, Url:http://qxzl.7fgame.com/event/2018091103/rank1.html, QRect:QRect
+{
+ top:0 left:0 bottom:0 right:0
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:0 right:0
+}
+ 
+10/07/18 19:49:51:188 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:28
+}
+
+}
+ 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:28, pbtData:00000000, nSize:0 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:51:188 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:625 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:625 
+10/07/18 19:49:51:188 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:51:189 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/event/2018091103/rank1.html", "ErrCode":1, "time":625, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:51:189 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/event/2018080601/rank1.html?userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:081AB3D0, dwObjId:27, winId():108ea, parentWindow():000108A0, Url:http://qxzl.7fgame.com/event/2018080601/rank1.html?userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ, QRect:QRect
+{
+ top:0 left:0 bottom:0 right:0
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:0 right:0
+}
+ 
+10/07/18 19:49:51:451 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:27
+}
+
+}
+ 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:27, pbtData:00000000, nSize:0 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:51:451 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:890 
+10/07/18 19:49:51:451 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:890 
+10/07/18 19:49:51:452 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:51:452 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/event/2018080601/rank1.html?userid=109175625&userName=ÓÒ¶ú¶¤Ø¼²ÐÁµ", "ErrCode":1, "time":890, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:51:452 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:51:966 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625&username=??????????
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:49:51:966 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:0, &webViewDlg:07E8D858, dwObjId:25, winId():108d2, parentWindow():0001089C, Url:http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625&username=??????????, QRect:QRect
+{
+ top:0 left:0 bottom:11 right:650
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:11 right:650
+}
+ 
+10/07/18 19:49:51:966 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:25
+}
+
+}
+ 
+10/07/18 19:49:51:966 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:25, pbtData:00000000, nSize:0 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:51:967 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:828 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:0, uiRelativeTickCount:828 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625&username=??????????", "ErrCode":0, "time":828, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	====> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:51:967 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<==== FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:49:53:166 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	====> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625
+}
+ m_bFromOwnerLoad[0], m_nLoadCount[1]. 
+10/07/18 19:49:53:166 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:07E8D858, dwObjId:25, winId():108d2, parentWindow():0001089C, Url:http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625, QRect:QRect
+{
+ top:0 left:0 bottom:556 right:1426
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:556 right:1426
+}
+ 
+10/07/18 19:49:53:166 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	========> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:25
+}
+
+}
+ 
+10/07/18 19:49:53:166 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	==========> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:25, pbtData:00000000, nSize:0 
+10/07/18 19:49:53:166 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<========== FUN<CBrowserManager::SendData>: 
+10/07/18 19:49:53:167 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<======== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:1203 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:1203 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	======> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<====== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"http://qxzl.7fgame.com/event/2018080604/index.html?userId=109175625", "ErrCode":1, "time":1203, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:49:53:167 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<==== FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:50:12:581 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(225) B-Entry	====> FUN<CWebViewDlg::OnHtmlLeftClicked>: 
+10/07/18 19:50:12:581 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(225) B-Exit 	<==== FUN<CWebViewDlg::OnHtmlLeftClicked>: 
+10/07/18 19:50:12:581 [7476] INFO  QtHomePageMain - WebViewExt.cpp(231) rect():QRect
+{
+ top:0 left:0 bottom:563 right:265
+}
+, qPoint:QPoint
+{
+ x:183 y:73
+}
+ 
+10/07/18 19:50:27:838 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:832 
+10/07/18 19:50:27:838 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:50:27:838 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():812, sizeof(CProtocolType):812, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagNewOpenIEInfo,struct NSIPCProtocol::STIPCOpenIEReq,&public: static void __cdecl CDataTransfer::IPCOpenIEReq2STIPCOpenIEReq(struct tagNewOpenIEInfo const &,struct NSIPCProtocol::STIPCOpenIEReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:50:27:839 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:812, sizeof(protocolObjSrc):812, strBuf.length():812 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(481) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCOpenIEReq
+{
+ uiSize:812 hwnd:00000000 strOperation:Open strFile:http://pv.7fgame.com/?id=6767&pvuid=109175625 strParameters: strDirectory: iShowCmd:5
+}
+ 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1276) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCOpenIEReq>:STIPCOpenIEReq
+{
+ uiSize:812 hwnd:00000000 strOperation:Open strFile:http://pv.7fgame.com/?id=6767&pvuid=109175625 strParameters: strDirectory: iShowCmd:5
+}
+ 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6767&pvuid=109175625, bResult:0 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:http://pv.7fgame.com/?id=6767&pvuid=109175625, bResult:0 
+10/07/18 19:50:27:839 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:http://pv.7fgame.com/?id=6767&pvuid=109175625, strUrlReturn:http://pv.7fgame.com/?id=6767&pvuid=109175625 
+10/07/18 19:50:28:278 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1276) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCOpenIEReq>: 
+10/07/18 19:50:28:278 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(481) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:50:28:278 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagNewOpenIEInfo,struct NSIPCProtocol::STIPCOpenIEReq,&public: static void __cdecl CDataTransfer::IPCOpenIEReq2STIPCOpenIEReq(struct tagNewOpenIEInfo const &,struct NSIPCProtocol::STIPCOpenIEReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:50:28:278 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:50:28:278 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:50:28:845 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:2072 
+10/07/18 19:50:28:845 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:50:28:845 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():2052, sizeof(CProtocolType):2052, std::is_empty<CProtocolType>::value:0 
+10/07/18 19:50:28:845 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:1, bResult:0 
+10/07/18 19:50:28:845 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(294) uiDataLen:2052, sizeof(protocolObjSrc):2052, strBuf.length():2052 
+10/07/18 19:50:28:845 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:25
+}
+ uiSize:2052 strUrl:about:blank
+}
+ 
+10/07/18 19:50:28:845 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>:STIPCNavigateReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:2064 sCommand:202 sParam:0 dwObjID:25
+}
+ uiSize:2052 strUrl:about:blank
+}
+ 
+10/07/18 19:50:28:845 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Entry	==============> FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>: 
+10/07/18 19:50:28:845 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Entry	================> FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:about:blank, bResult:0 
+10/07/18 19:50:28:845 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(458) 3, about:blank 
+10/07/18 19:50:28:846 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(441) B-Exit 	<================ FUN<NSQtHomePage::CGlobalFunction::IsLocalUrl>:strUrl:about:blank, bResult:1 
+10/07/18 19:50:28:846 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(540) B-Exit 	<============== FUN<NSQtHomePage::CGlobalFunction::GetParsedUrl>:strUrl:about:blank, strUrlReturn:about:blank 
+10/07/18 19:50:28:846 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Entry	==============> FUN<CWebViewDlg::LoadUrl>:about:blank 
+10/07/18 19:50:28:846 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(126) m_nLoadCount[<< 0], m_bFromOwnerLoad[1]. 
+10/07/18 19:50:28:846 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Entry	================> FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:50:28:846 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(177) B-Exit 	<================ FUN<CWebViewDlg::OnLoadStarted>: 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Entry	================> FUN<CWebViewDlg::OnLoadFinished>:GetWebView().url():QUrl
+{
+ qUrl.toString():about:blank
+}
+ m_bFromOwnerLoad[1], m_nLoadCount[0]. 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Entry	==================> FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>:bResult:1, &webViewDlg:07E8D858, dwObjId:25, winId():108d2, parentWindow():0001089C, Url:about:blank, QRect:QRect
+{
+ top:0 left:0 bottom:556 right:1426
+}
+, isVisible():1, visibleRegion().boundingRect():QRect
+{
+ top:0 left:0 bottom:556 right:1426
+}
+ 
+10/07/18 19:50:28:847 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Entry	====================> FUN<CIPCProcPlatform::SendIPCMsg>:stIPCMsg:STIPCMsg
+{
+ msgHead:MSGHEAD
+{
+ nSize:0 sCommand:102 sParam:1 dwObjID:25
+}
+
+}
+ 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Entry	======================> FUN<CBrowserManager::SendData>:uCmdID:102, bSuccess:1, dwObjID:25, pbtData:00000000, nSize:0 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - BrowserManager.cpp(685) B-Exit 	<====================== FUN<CBrowserManager::SendData>: 
+10/07/18 19:50:28:847 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(301) B-Exit 	<==================== FUN<CIPCProcPlatform::SendIPCMsg>: 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(547) B-Exit 	<================== FUN<QtHomePage::CQtHomePageBusiness::OnLoadFinished>: 
+10/07/18 19:50:28:847 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(201) uiRelativeTickCount:0 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(883) bLoadUrlResult:1, uiRelativeTickCount:0 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Entry	==================> FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>: 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - GlobalFunction.cpp(726) B-Exit 	<================== FUN<NSQtHomePage::CGlobalFunction::ReportStatisticData>:STStatisticData
+{
+ strName:QtHomePage.LoadUrl uiUserId:0 strMac: strParam:{"Url":"about:blank", "ErrCode":1, "time":0, "version":"1.0.0.9"}
+}
+, eResultCode:0 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(186) B-Exit 	<================ FUN<CWebViewDlg::OnLoadFinished>: 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - WebViewDlg.cpp(123) B-Exit 	<============== FUN<CWebViewDlg::LoadUrl>: 
+10/07/18 19:50:28:848 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1158) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCNavigateReq>: 
+10/07/18 19:50:28:848 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(469) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:50:28:848 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(268) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct tagWndNavigateInfo,struct NSIPCProtocol::STIPCNavigateReq,&public: static void __cdecl CDataTransfer::IPCNavigateReq2STIPCNavigateReq(struct tagWndNavigateInfo const &,struct NSIPCProtocol::STIPCNavigateReq &),1>::operator ()>:MACRO_HAS_STRUCT_SIZE:0, bResult:1 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:50:28:848 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:50:43:551 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Entry	====> FUN<CBrowserManager::ReceiveData>:pbtData:0075AE78, nSize:16 
+10/07/18 19:50:43:551 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Entry	======> FUN<CIPCProcPlatform::OnRecvData>: 
+10/07/18 19:50:43:552 [7476] INFO  QtHomePageMain - IPCProcPlatform.h(176) strBuf.size():0, sizeof(CProtocolType):1, std::is_empty<CProtocolType>::value:1 
+10/07/18 19:50:43:552 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(213) B-Entry	========> FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct NSIPCProtocol::STIPCEmpty,struct NSIPCProtocol::STIPCClientQuitReq,&public: static void __cdecl CDataTransfer::STStructure2STStructureDoNothing<struct NSIPCProtocol::STIPCEmpty,struct NSIPCProtocol::STIPCClientQuitReq>(struct NSIPCProtocol::STIPCEmpty const &,struct NSIPCProtocol::STIPCClientQuitReq &),0>::operator ()>:bHasStructSize:0, bResult:0 
+10/07/18 19:50:43:552 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(565) B-Entry	==========> FUN<CIPCProcPlatform::Process>:STIPCClientQuitReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:12 sCommand:199 sParam:0 dwObjID:0
+}
+ uiSize:0
+}
+ 
+10/07/18 19:50:43:552 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1530) B-Entry	============> FUN<QtHomePage::CQtHomePageBusiness::OnIPCClientQuitReq>:STIPCClientQuitReq
+{
+ msgHead:MSGHEAD
+{
+ nSize:12 sCommand:199 sParam:0 dwObjID:0
+}
+ uiSize:0
+}
+ 
+10/07/18 19:50:43:553 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(1530) B-Exit 	<============ FUN<QtHomePage::CQtHomePageBusiness::OnIPCClientQuitReq>: 
+10/07/18 19:50:43:553 [7476] TRACE QtHomePageMain - IPCProcPlatform.cpp(565) B-Exit 	<========== FUN<CIPCProcPlatform::Process>: 
+10/07/18 19:50:43:553 [7476] TRACE QtHomePageMain - IPCProcPlatform.h(213) B-Exit 	<======== FUN<CIPCProcPlatform::STInternalProcessRecvIPCMsgExt<struct NSIPCProtocol::STIPCEmpty,struct NSIPCProtocol::STIPCClientQuitReq,&public: static void __cdecl CDataTransfer::STStructure2STStructureDoNothing<struct NSIPCProtocol::STIPCEmpty,struct NSIPCProtocol::STIPCClientQuitReq>(struct NSIPCProtocol::STIPCEmpty const &,struct NSIPCProtocol::STIPCClientQuitReq &),0>::operator ()>:bHasStructSize:0, bResult:1 
+10/07/18 19:50:43:553 [7476] INFO  QtHomePageMain - IPCProcPlatform.cpp(280) B-Exit 	<====== FUN<CIPCProcPlatform::OnRecvData>:bResult:1 
+10/07/18 19:50:43:553 [7476] INFO  QtHomePageMain - BrowserManager.cpp(209) B-Exit 	<==== FUN<CBrowserManager::ReceiveData>: 
+10/07/18 19:50:43:553 [7476] INFO  QtHomePageMain - WebProc.cpp(341) B-Entry	====> FUN<CWebProcApp::ExitInstance>: 
+10/07/18 19:50:44:031 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(207) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::Fini>: 
+10/07/18 19:50:44:031 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(99) B-Entry	========> FUN<NSQtHomePage::CGlobalFunction::DestroyInstance>: 
+10/07/18 19:50:44:032 [7476] TRACE QtHomePageMain - GlobalFunction.cpp(99) B-Exit 	<======== FUN<NSQtHomePage::CGlobalFunction::DestroyInstance>: 
+10/07/18 19:50:44:037 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(490) B-Entry	========> FUN<QtHomePage::CQtHomePageBusiness::UninitBugReportModule>: 
+10/07/18 19:50:44:039 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(490) B-Exit 	<======== FUN<QtHomePage::CQtHomePageBusiness::UninitBugReportModule>: 
+10/07/18 19:50:44:039 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(207) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::Fini>: 
+10/07/18 19:50:44:039 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(72) B-Entry	======> FUN<QtHomePage::CQtHomePageBusiness::~CQtHomePageBusiness>: 
+10/07/18 19:50:44:039 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(76) m_mapObjId2QWinWidgetPtr size: 0; m_mapObjId2CWebViewDlgPtr size: 25; m_mapCWebViewDlgPtr2ObjId size: 25 
+10/07/18 19:50:44:039 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(86) step 1 
+10/07/18 19:50:44:040 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(97) step 2 
+10/07/18 19:50:44:040 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(108) step 3 
+10/07/18 19:50:44:040 [7476] INFO  QtHomePageMain - QtHomePageBusiness.cpp(119) step 4 
+10/07/18 19:50:44:040 [7476] TRACE QtHomePageMain - QtHomePageBusiness.cpp(72) B-Exit 	<====== FUN<QtHomePage::CQtHomePageBusiness::~CQtHomePageBusiness>: 
+10/07/18 19:50:44:040 [7476] UNKNOWN QtHomePageMain - GlobalFunction.cpp(980) ¹Ø±ÕÈÕÖ¾Ä£¿é 

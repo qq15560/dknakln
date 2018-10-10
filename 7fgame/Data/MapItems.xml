@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content ver="1">
+<TaskNoFinishTxtTip>已接受未完成</TaskNoFinishTxtTip>
+<TaskFinishTxtTip>已完成可领奖</TaskFinishTxtTip>
+</content>

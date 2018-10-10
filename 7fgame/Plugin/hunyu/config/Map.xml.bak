@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<MapRoot version="1.0">
+
+<!-- 魂玉系统将星/兽魂对应图片文件路径Map -->
+<Map name="JiangXing">
+	<!-- 将星对应图片 -->
+	<!-- Camp:0 蜀国 Camp:1 魏国  Camp:2 中立 -->
+	<Item Key="黄忠" PinYin="huangzhong" Value="./Images/JiangXing/huangzhong.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/huangzhong.png"/>
+	<Item Key="马岱" PinYin="madai" Value="./Images/JiangXing/madai.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/madai.png"/>
+	<Item Key="祝融夫人" PinYin="zhurongfuren" Value="./Images/JiangXing/zhurongfuren.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhurongfuren.png"/>
+	<Item Key="黄月英" PinYin="huangyueying" Value="./Images/JiangXing/huangyueying.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/huangyueying.png"/>
+	<Item Key="邓芝" PinYin="dengzhi" Value="./Images/JiangXing/dengzhi.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/dengzhi.png"/>
+	<Item Key="张飞" PinYin="zhangfei" Value="./Images/JiangXing/zhangfei.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhangfei.png"/>
+	<Item Key="关羽" PinYin="guanyu" Value="./Images/JiangXing/guanyu.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/guanyu.png"/>
+	<Item Key="孟获" PinYin="menghuo" Value="./Images/JiangXing/menghuo.png" Lock="1" Camp="0" Num="0" Illustrated="./Images/Illustrated/menghuo.png"/>
+	<Item Key="周仓" PinYin="zhoucang" Value="./Images/JiangXing/zhoucang.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhoucang.png"/>
+	<Item Key="李严" PinYin="liyan" Value="./Images/JiangXing/liyan.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/liyan.png"/>
+	<Item Key="刘备" PinYin="liubei" Value="./Images/JiangXing/liubei.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/liubei.png"/>
+	<Item Key="华佗" PinYin="huatuo" Value="./Images/JiangXing/huatuo.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/huatuo.png"/>
+	<Item Key="马谡" PinYin="masu" Value="./Images/JiangXing/masu.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/masu.png"/>
+	<Item Key="蒋琬" PinYin="jiangwan" Value="./Images/JiangXing/jiangwan.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/jiangwan.png"/>
+	<Item Key="赵云" PinYin="zhaoyun" Value="./Images/JiangXing/zhaoyun.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhaoyun.png"/>
+	<Item Key="姜维" PinYin="jiangwei" Value="./Images/JiangXing/jiangwei.png" Lock="0" Camp="0" Num="0" Illustrated="./Images/Illustrated/jiangwei.png"/>
+	<Item Key="马超" PinYin="machao" Value="./Images/JiangXing/machao.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/machao.png"/>
+	<Item Key="马云禄" PinYin="mayunlu" Value="./Images/JiangXing/mayunlu.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/mayunlu.png"/>
+	<Item Key="张鸳鸳" PinYin="zhangyuanyuan" Value="./Images/JiangXing/zhangyuanyuan.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhangyuanyuan.png"/>
+	<Item Key="诸葛亮" PinYin="zhugeliang" Value="./Images/JiangXing/zhugeliang.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/zhugeliang.png"/>
+	<Item Key="马良" PinYin="maliang" Value="./Images/JiangXing/maliang.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/maliang.png"/>
+	<Item Key="庞统" PinYin="pangtong" Value="./Images/JiangXing/pangtong.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/pangtong.png"/>
+	<Item Key="魏延" PinYin="weiyan" Value="./Images/JiangXing/weiyan.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/weiyan.png"/>
+	<Item Key="徐庶" PinYin="xushu" Value="./Images/JiangXing/xushu.png" Lock="1" Camp="0" Num="0" Illustrated="./Images/Illustrated/xushu.png"/>
+	<Item Key="法正" PinYin="fazheng" Value="./Images/JiangXing/fazheng.png" Lock="0" Camp="0" Num="2" Illustrated="./Images/Illustrated/fazheng.png"/>
+	<Item Key="关平" PinYin="guanping" Value="./Images/JiangXing/guanping.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/guanping.png"/>
+	<Item Key="糜竺" PinYin="mizhu" Value="./Images/JiangXing/mizhu.png" Lock="1" Camp="0" Num="2" Illustrated="./Images/Illustrated/mizhu.png"/>
+	<Item Key="张辽" PinYin="zhangliao" Value="./Images/JiangXing/zhangliao.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/zhangliao.png"/>
+	<Item Key="张郃" PinYin="zhanghe" Value="./Images/JiangXing/zhanghe.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/zhanghe.png"/>
+	<Item Key="程昱" PinYin="chengyu" Value="./Images/JiangXing/chengyu.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/chengyu.png"/>
+	<Item Key="甄姬" PinYin="zhenji" Value="./Images/JiangXing/zhenji.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/zhenji.png"/>
+	<Item Key="曹休" PinYin="caoxiu" Value="./Images/JiangXing/caoxiu.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/caoxiu.png"/>
+	<Item Key="曹丕" PinYin="caopi" Value="./Images/JiangXing/caopi.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/caopi.png"/>
+	<Item Key="于禁" PinYin="yujin" Value="./Images/JiangXing/yujin.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/yujin.png"/>
+	<Item Key="曹洪" PinYin="caohong" Value="./Images/JiangXing/caohong.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/caohong.png"/>
+	<Item Key="夏侯渊" PinYin="xiahouyuan" Value="./Images/JiangXing/xiahouyuan.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/xiahouyuan.png"/>
+	<Item Key="邓艾" PinYin="dengai" Value="./Images/JiangXing/dengai.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/dengai.png"/>
+	<Item Key="夏侯恩" PinYin="xiahouen" Value="./Images/JiangXing/xiahouen.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/xiahouen.png"/>
+	<Item Key="典韦" PinYin="dianwei" Value="./Images/JiangXing/dianwei.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/dianwei.png"/>
+	<Item Key="许褚" PinYin="xuchu" Value="./Images/JiangXing/xuchu.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/xuchu.png"/>
+	<Item Key="李典" PinYin="lidian" Value="./Images/JiangXing/lidian.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/lidian.png"/>
+	<Item Key="司马懿" PinYin="simayi" Value="./Images/JiangXing/simayi.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/simayi.png"/>
+	<Item Key="曹操" PinYin="caocao" Value="./Images/JiangXing/caocao.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/caocao.png"/>
+	<Item Key="郭嘉" PinYin="guojia" Value="./Images/JiangXing/guojia.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/guojia.png"/>
+	<Item Key="贾诩" PinYin="jiaxu" Value="./Images/JiangXing/jiaxu.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/jiaxu.png"/>
+	<Item Key="徐晃" PinYin="xuhuang" Value="./Images/JiangXing/xuhuang.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/xuhuang.png"/>
+	<Item Key="夏侯惇" PinYin="xiahoudun" Value="./Images/JiangXing/xiahoudun.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/xiahoudun.png"/>
+	<Item Key="蔡文姬" PinYin="caiwenji" Value="./Images/JiangXing/caiwenji.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/caiwenji.png"/>
+	<Item Key="曹植" PinYin="caozhi" Value="./Images/JiangXing/caozhi.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/caozhi.png"/>
+	<Item Key="荀攸" PinYin="xunyou" Value="./Images/JiangXing/xunyou.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/xunyou.png"/>
+	<Item Key="庞德" PinYin="pangde" Value="./Images/JiangXing/pangde.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/pangde.png"/>
+	<Item Key="曹仁" PinYin="caoren" Value="./Images/JiangXing/caoren.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/caoren.png"/>
+	<Item Key="乐进" PinYin="yuejin" Value="./Images/JiangXing/yuejin.png" Lock="1" Camp="1" Num="2" Illustrated="./Images/Illustrated/yuejin.png"/>
+	<Item Key="荀彧" PinYin="xunyu" Value="./Images/JiangXing/xunyu.png" Lock="0" Camp="1" Num="2" Illustrated="./Images/Illustrated/xunyu.png"/>
+	<Item Key="孙策" PinYin="sunce" Value="./Images/JiangXing/sunce.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/sunce.png"/>
+	<Item Key="孙尚香" PinYin="sunshangxiang" Value="./Images/JiangXing/sunshangxiang.png" Lock="1" Camp="2" Num="0" Illustrated="./Images/Illustrated/sunshangxiang.png"/>
+	<Item Key="太史慈" PinYin="taishici" Value="./Images/JiangXing/taishici.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/taishici.png"/>
+	<Item Key="凌统" PinYin="lingtong" Value="./Images/JiangXing/lingtong.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/lingtong.png"/>
+	<Item Key="小乔" PinYin="xiaoqiao" Value="./Images/JiangXing/xiaoqiao.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/xiaoqiao.png"/>
+	<Item Key="陈宫" PinYin="chengong" Value="./Images/JiangXing/chengong.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/chengong.png"/>
+	<Item Key="周瑜" PinYin="zhouyu" Value="./Images/JiangXing/zhouyu.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/zhouyu.png"/>
+	<Item Key="貂蝉" PinYin="diaochan" Value="./Images/JiangXing/diaochan.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/diaochan.png"/>
+	<Item Key="颜良" PinYin="yanliang" Value="./Images/JiangXing/yanliang.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/yanliang.png"/>
+	<Item Key="蒋钦" PinYin="jiangqin" Value="./Images/JiangXing/jiangqin.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/jiangqin.png"/>
+	<Item Key="高顺" PinYin="gaoshun" Value="./Images/JiangXing/gaoshun.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/gaoshun.png"/>
+	<Item Key="张梁" PinYin="zhangliang" Value="./Images/JiangXing/zhangliang.png" Lock="1" Camp="2" Num="0" Illustrated="./Images/Illustrated/zhangliang.png"/>
+	<Item Key="甘宁" PinYin="ganning" Value="./Images/JiangXing/ganning.png" Lock="0" Camp="2" Num="0" Illustrated="./Images/Illustrated/ganning.png"/>
+	<Item Key="黄盖" PinYin="huanggai" Value="./Images/JiangXing/huanggai.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/huanggai.png"/>
+	<Item Key="周泰" PinYin="zhoutai" Value="./Images/JiangXing/zhoutai.png" Lock="0" Camp="2" Num="0" Illustrated="./Images/Illustrated/zhoutai.png"/>
+	<Item Key="大乔" PinYin="daqiao" Value="./Images/JiangXing/daqiao.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/daqiao.png"/>
+	<Item Key="陆逊" PinYin="luxun" Value="./Images/JiangXing/luxun.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/luxun.png"/>
+	<Item Key="孙权" PinYin="sunquan" Value="./Images/JiangXing/sunquan.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/sunquan.png"/>
+	<Item Key="鲁肃" PinYin="lusu" Value="./Images/JiangXing/lusu.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/lusu.png"/>
+	<Item Key="袁术" PinYin="yuanshu" Value="./Images/JiangXing/yuanshu.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/yuanshu.png"/>
+	<Item Key="董卓" PinYin="dongzhuo" Value="./Images/JiangXing/dongzhuo.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/dongzhuo.png"/>
+	<Item Key="徐盛" PinYin="xusheng" Value="./Images/JiangXing/xusheng.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/xusheng.png"/>
+	<Item Key="左慈" PinYin="zuoci" Value="./Images/JiangXing/zuoci.png" Lock="0" Camp="2" Num="2" Illustrated="./Images/Illustrated/zuoci.png"/>
+	<Item Key="吕蒙" PinYin="lvmeng" Value="./Images/JiangXing/lvmeng.png" Lock="1" Camp="2" Num="2" Illustrated="./Images/Illustrated/lvmeng.png"/>
+	<Item Key="张角" PinYin="zhangjiao" Value="./Images/JiangXing/zhangjiao.png" Lock="0" Camp="2" Num="0" Illustrated="./Images/Illustrated/zhangjiao.png"/>
+	<Item Key="吕布" PinYin="lvbu" Value="./Images/JiangXing/lvbu.png" Lock="0" Camp="2" Num="0" Illustrated="./Images/Illustrated/lvbu.png"/>
+	<Item Key="张宝" PinYin="zhangbao" Value="./Images/JiangXing/zhangbao.png" Lock="1" Camp="2" Num="0" Illustrated="./Images/Illustrated/zhangbao.png"/>
+	<Item Key="诸葛瑾" PinYin="zhugejin" Value="./Images/JiangXing/zhugejin.png" Lock="0" Camp="2" Num="0" Illustrated="./Images/Illustrated/zhugejin.png"/>
+</Map>
+
+<Map name="ShouHun">
+	<!-- 兽魂对应图片 -->
+	<Item Key="朱雀" Value="./Images/ShouHun/ZhuQue.png" />
+	<Item Key="玄武" Value="./Images/ShouHun/XuanWu.png" />
+	<Item Key="青龙" Value="./Images/ShouHun/QingLong.png" />
+	<Item Key="白虎" Value="./Images/ShouHun/BaiHu.png" />
+</Map>
+
+</MapRoot>
